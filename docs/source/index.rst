@@ -1,7 +1,7 @@
 3LC User Documentation
 ===================================
 
-**3LC** (2 Lines of Code) is a 
+**3LC** (3 Lines of Code) is a 
 
 .. note::
 
@@ -12,5 +12,5 @@ Contents
 
 .. toctree::
 
-   usage
+   #usage
    api
