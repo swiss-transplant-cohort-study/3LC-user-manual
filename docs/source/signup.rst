@@ -1,5 +1,5 @@
 Sign Up
 =====
 
-.. image:: SignUp.png
-   :width: 600
+.. image:: signup.png
+
