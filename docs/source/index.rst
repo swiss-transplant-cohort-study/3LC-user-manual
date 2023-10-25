@@ -14,13 +14,24 @@
 
 How to Sign UP
 **************
-
 This section provides information about the different types of users and respective permissions.
 
 .. toctree::
    :maxdepth: 1
 
    signup
+
+User Roles
+**************
+
+Overview
+**************
+
+Minimal Data
+*****************
+
+Consent
+**************
 
 Infectious Diseases
 *******************
