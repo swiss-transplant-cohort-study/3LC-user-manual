@@ -30,8 +30,17 @@ Overview
 Minimal Data
 *****************
 
-Consent
-**************
+Patient 
+**********
+
+Donor
+*******
+
+Transplantation
+****************
+
+Organ
+***************
 
 Infectious Diseases
 *******************
@@ -41,5 +50,5 @@ Infectious Diseases
 
    infdis
 
-LDM Tools
+Features and Tools
 **************
