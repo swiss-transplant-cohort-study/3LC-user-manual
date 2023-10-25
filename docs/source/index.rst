@@ -11,6 +11,11 @@
    Only authorized users will be able to access the 3LC functionalities.
 
 
+Overview
+**************
+
+User Roles
+**************
 
 How to Sign UP
 **************
@@ -21,11 +26,6 @@ This section provides information about the different types of users and respect
 
    signup
 
-User Roles
-**************
-
-Overview
-**************
 
 Minimal Data
 *****************
