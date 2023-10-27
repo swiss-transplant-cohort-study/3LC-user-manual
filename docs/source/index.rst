@@ -32,6 +32,10 @@ Minimal Data
 
 Patient 
 **********
+.. toctree::
+   :maxdepth: 1
+
+   patient
 
 Donor
 *******
