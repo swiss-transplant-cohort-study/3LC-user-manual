@@ -15,9 +15,18 @@ The aim of this documentation is to provide: an introduction to the system struc
 
 Overview
 **************
+.. toctree::
+   :maxdepth: 1
+
+   overview
 
 User Roles
 **************
+
+.. toctree::
+   :maxdepth: 1
+
+   user_roles
 
 User Account
 **************
@@ -32,6 +41,11 @@ This section provides information about the different types of users and respect
 Minimal Data
 *****************
 
+.. toctree::
+   :maxdepth: 1
+
+   minimal
+
 Patient 
 **********
 .. toctree::
@@ -42,11 +56,24 @@ Patient
 Donor
 *******
 
+.. toctree::
+   :maxdepth: 1
+
+   donor
+
 Transplantation
 ****************
+.. toctree::
+   :maxdepth: 1
+
+   transplantation
 
 Organ
 ***************
+.. toctree::
+   :maxdepth: 1
+
+   organ
 
 Infectious Diseases
 *******************
@@ -58,15 +85,35 @@ Infectious Diseases
 
 Treatment
 *******************
+.. toctree::
+   :maxdepth: 1
+
+   treatment
 
 Lab
 *******************
+.. toctree::
+   :maxdepth: 1
+
+   lab
 
 Samples
 *******
+.. toctree::
+   :maxdepth: 1
+
+   biosamples
 
 Billing
 **************
+.. toctree::
+   :maxdepth: 1
+
+   invoicing
 
 Features and Tools
 **************
+.. toctree::
+   :maxdepth: 1
+
+   features_tools
