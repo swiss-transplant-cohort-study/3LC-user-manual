@@ -30,7 +30,7 @@ Scenarious
 Flow chart
 -------------
 
-.. image:: consent_fc.png
+.. image:: ConsentManagement.png
 
 Baseline
 =========
