@@ -35,6 +35,10 @@ The PSQ data collection schedule was simplified. Whereas previously PSQ was coll
 
 .. image:: consent_tx.png
 
+.. image:: consent_absent_tx1.png
+
+.. image:: consent_absent_tx2.png
+
 Baseline
 =========
 
