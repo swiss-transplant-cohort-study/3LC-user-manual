@@ -42,18 +42,10 @@ The PSQ data collection schedule was simplified. Whereas previously PSQ was coll
 Baseline
 =========
 
-New data to be collected compared to previous system
-----------------------------------------------------
 
-Disabled data, no longer collected 
-----------------------------------
 
 
 Follow-up
 ==========
 
-New data to be collected compared to previous system
-----------------------------------------------------
 
-Disabled data, no longer collected 
-----------------------------------
