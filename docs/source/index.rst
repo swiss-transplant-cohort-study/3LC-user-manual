@@ -46,6 +46,13 @@ Minimal Data
 
    minimal
 
+Consent
+**********
+.. toctree::
+   :maxdepth: 1
+
+   consent
+
 Patient 
 **********
 .. toctree::
