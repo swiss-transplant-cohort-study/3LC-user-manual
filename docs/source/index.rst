@@ -1,7 +1,5 @@
-3LC User Documentation
+LDM Manual
 ######################
-
-**3LC** (3 Lines of Code) is the STCS DB system since 9th January 2023.
 
 The aim of this documentation is to provide: an introduction to the system structure and main entities, highlight important updates on the data collection compared to the previous system, list of available features and tools, SOPs, important notes and warning, important links (to SOPs, documentation, literature, ecodebook). 
 
@@ -10,7 +8,7 @@ The aim of this documentation is to provide: an introduction to the system struc
    This project is under active development.
 
 .. warning::
-   Only authorized users will be able to access the 3LC functionalities.
+   Only authorized users will be able to access the system functionalities.
 
 
 Overview
