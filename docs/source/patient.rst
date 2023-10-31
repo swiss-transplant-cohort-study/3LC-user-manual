@@ -9,6 +9,14 @@ That means we only register the waitlist SOAS number of the transplant candidate
 This screening log registration does not involve collection of clinical data or research data. 
 The reason for this change is to improve the access to patients’ informed consent (IC) information and to better guide STCS procedures according to IC information (see section 3.2 of the study protocol). Please note that since cohort initiation, STCS patient enrolment only starts with transplantation.
 
+The Ethics Committee has approved the registration of waitlisted (not yet transplanted) patients in the database. Registered information includes current consent status. No collection of clinical/research data is allowed before transplantation and proper enrollment in the Cohort only starts at the time of transplantation.
+
+.. note::
+   If the patient dies while on the waiting list, this information should not be entered in the system as it is a clinical data. The patient should 
+   be left “open” in waiting list.
+
+
+
 
 Initials
 --------
