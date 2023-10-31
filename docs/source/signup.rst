@@ -4,7 +4,7 @@ User account
 Create user account
 ====================
 
-Access http://stcs-devel-secure.scicore.unibas.ch/  
+
 And click on “Sign Up”
 
  .. image:: signup.png
