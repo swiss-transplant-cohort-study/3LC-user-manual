@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = '3LC '
-copyright = '2023, 3LC'
-author = 'Simona Rossi'
+project = 'LDM Manual'
+copyright = '2023, DC'
+author = 'Data Center'
 
 release = '0.1'
 version = '0.1.0'
