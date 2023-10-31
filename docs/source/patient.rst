@@ -1,6 +1,9 @@
 Patient
 *******************
 
+.. warning::
+   When a patient is created, it cannot deleted by an LDM. Please open a ticket to the IT.
+
 Registration
 ========================
 
@@ -21,8 +24,11 @@ The Ethics Committee has approved the registration of waitlisted (not yet transp
 
 
 
-Initials
+Administrative data
 --------
+
+.. note::
+   The patient should be entered in the database within 7 days after transplantation (two working days). The minimal entry should containt: initials, date of birth and consent status with date.
 
 How to enter initials into the New system:
 
