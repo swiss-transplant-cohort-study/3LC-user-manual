@@ -43,7 +43,15 @@ The PSQ data collection schedule was simplified. Whereas previously PSQ was coll
 
 .. image:: consent_tx.png
 
+Consent “Absent (awaiting)” at the time of transplantation
+--------------------------------------------------------------
+In case of consent “Absent (awaiting)” at the time of transplantation, the Ethics Committee has approved the collection of full data from the time of transplantation. Therefore, all data can be collected. This includes patient history, Baseline data, transplantation data and any data in between transplantation and the time the consent gets signed. If the patient finally gives consent, all data collected will be kept and can be used for research. Samples and PSQ can be collected as soon as the consent is retrieved (see CASE n°1).
+Reminder: As per email from Nadine Beerli sent out to LDM on March 7th, 2023, new PSQ schedule (Pre-Tx, 6 months post-Tx, 1, 3, 5, 7, 10 years post-Tx and every 5 years thereafter) has been implemented as of April 1st, 2023.
+
+
 .. image:: consent_absent_tx1.png
+
+If no consent is retrieved after transplantation, data collected will be kept in the system but will not be used for research. No samples or PSQ will be collected (see CASE n°2).
 
 .. image:: consent_absent_tx2.png
 
