@@ -1,7 +1,7 @@
 Patient
 *******************
 
-.. warning::
+.. tip::
    When a patient is created, it cannot deleted by an LDM. Please open a ticket to the IT.
 
 Registration
