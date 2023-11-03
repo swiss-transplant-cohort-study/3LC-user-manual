@@ -58,6 +58,14 @@ Patient
 
    patient
 
+
+PSQ
+**************
+
+.. toctree::
+   :maxdepth: 1
+
+
 Donor
 *******
 
