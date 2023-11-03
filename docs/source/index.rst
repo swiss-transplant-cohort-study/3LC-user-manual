@@ -65,6 +65,7 @@ PSQ
 .. toctree::
    :maxdepth: 1
 
+   psq
 
 Donor
 *******
