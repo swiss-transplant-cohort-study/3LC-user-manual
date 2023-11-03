@@ -11,6 +11,14 @@ The Ethics Committee has approved the registration of waitlisted (not yet transp
 
 .. image:: patient_regi.png
 
+.. tip::
+   1. Register patient in STCS when you send Patient information to patient
+   2. Add SOAS number and Organ
+   3. Register consent as “absent (waiting)” with date when ICF sent out
+   4. When you get consent form back then update consent with date
+   5. Enroll* patient only once transplanted (* add transplantation and donor etc)
+
+
 .. note::
    If the patient dies while on the waiting list, this information should not be entered in the system as it is a clinical data. The patient should 
    be left “open” in waiting list.
