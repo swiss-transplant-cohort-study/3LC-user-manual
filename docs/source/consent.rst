@@ -34,3 +34,17 @@ If no consent is retrieved after transplantation, data collected will be kept in
 
 .. image:: consent_absent_tx2.png
 
+Important Notes and Tips
+------------------------
+
+.. note::
+   No need to re-consent in case of re-tpx, unless the patient never gave an answer, neither yes nor no. Consent does NOT depend on the organ. 
+   Consent is for STCS and STCS involves all organ TX.
+
+.. note::
+   Oral refusal is enough, document it please in the STCS system.
+
+.. note::
+   Consent withdrawal, please use the form with written confirmation (although legally not required).
+
+
