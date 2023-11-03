@@ -44,6 +44,12 @@ Baseline
 
 Data collected at baseline:
 
+PSQ
+
+.. note::
+   Reminder: As per email from Nadine Beerli sent out to LDM on March 7th, 2023, new PSQ schedule (Pre-Tx, 6 months post-Tx, 1, 3, 5, 7, 10 years 
+   post-Tx and every 5 years thereafter) has been implemented as of April 1st, 2023.
+
 Follow-up
 ==========
 
