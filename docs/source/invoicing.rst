@@ -1,2 +1,4 @@
 Invoicing
 =========
+
+.. image:: Invoicing.png
