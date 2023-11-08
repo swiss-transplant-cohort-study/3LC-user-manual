@@ -10,11 +10,10 @@ Definitions
 - **Present**: We have a signed IC from the patient or an oral consent from which the written will follow.
 - **Absent (awaiting)**: We do not have an IC. This often occurs, when the Patient did not return the signed IC before TX and it was not possible to get the consent before opening the new case. It may also occur, if a patient is listed as ‘super urgent’ and/or was unable to sign the IC due to medical reasons. In this instance, the IC must be clarified as soon as possible!
 - **Absent (documented refusal)**: The patient refused to participate to the STCS in an oral or written form, even following a personal discussion with one of our staff.
-- **Absent (other): This means, we could not clarify the participation of this patient in the STCS and the patient is still alive. Select specific option, e.g. "Reminder process closed", "Language/Communication barrier".
-- **Absent (death): the patient died while consent was "Absent (awaiting)*.
+- **Absent (other)**: This means, we could not clarify the participation of this patient in the STCS and the patient is still alive. Select specific option, e.g. "Reminder process closed", "Language/Communication barrier".
+- **Absent (death)**: the patient died while consent was "Absent (awaiting)*.
 - **Withdrawal**: At the point we enter the patient as ‘new patient’ in the database, we have an IC from the patient. At a later point, this patient informs us that he no longer wishes to participate in the STCS. We now change the consent status from ‘patient consent given’ to ‘initial consent withdrawn’. From this point on, only minimal data is collected from this patient.
-- **Absent (ReCap)**: This is only relevant for patients who have been transplanted between 01. january 2008 and 30. April 2008. The data of these patient is entered as ‘minimal dataset’.
-As date of IC enter 01.01.2008.
+- **Absent (ReCap)**: This is only relevant for patients who have been transplanted between 01. january 2008 and 30. April 2008. The data of these patient is entered as ‘minimal dataset’. As date of IC enter 01.01.2008.
 
 
 Flow chart
