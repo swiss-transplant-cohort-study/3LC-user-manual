@@ -1,8 +1,21 @@
 Consent
 ********
+.. note::
+   The LDM has to make sure that each newly listed patient is appropriately informed about the goals of the STCS and that each listed patient in Switzerland will receive an invitation letter to join the STCS, an informed 
+   consent form, and the pre-transplant PSQ. The LTC has to inform the LDM within 7 days if a new patient is added to the transplant waiting list.
 
 Definitions
 -------------
+
+- **Present**: We have a signed IC from the patient or an oral consent from which the written will follow.
+- **Absent (awaiting)**: We do not have an IC. This often occurs, when the Patient did not return the signed IC before TX and it was not possible to get the consent before opening the new case. It may also occur, if a patient is listed as ‘super urgent’ and/or was unable to sign the IC due to medical reasons. In this instance, the IC must be clarified as soon as possible!
+- **Absent (documented refusal)**: The patient refused to participate to the STCS in an oral or written form, even following a personal discussion with one of our staff.
+- **Absent (other): This means, we could not clarify the participation of this patient in the STCS and the patient is still alive. Select specific option, e.g. "Reminder process closed", "Language/Communication barrier".
+- **Absent (death): the patient died while consent was "Absent (awaiting)*.
+- **Withdrawal**: At the point we enter the patient as ‘new patient’ in the database, we have an IC from the patient. At a later point, this patient informs us that he no longer wishes to participate in the STCS. We now change the consent status from ‘patient consent given’ to ‘initial consent withdrawn’. From this point on, only minimal data is collected from this patient.
+- **Absent (ReCap)**: This is only relevant for patients who have been transplanted between 01. january 2008 and 30. April 2008. The data of these patient is entered as ‘minimal dataset’.
+As date of IC enter 01.01.2008.
+
 
 Flow chart
 -------------
@@ -34,6 +47,12 @@ If no consent is retrieved after transplantation, data collected will be kept in
 
 .. image:: consent_absent_tx2.png
 
+Attempts to obtain an Informed Consent
+--------------------------------------
+.. note::
+   Before Transplantation: Three attempts before transplantation (Attempts can be in writing or oral and must be documented in the IT system), if still unkown then one attempt to obtain written consent up to 6-months, if 
+   still unknown and for specific cases, one attempt between 6-months follow-up and 1-year follow-up.
+
 Important Notes and Tips
 ------------------------
 
@@ -46,5 +65,6 @@ Important Notes and Tips
 
 .. note::
    Consent withdrawal, please use the form with written confirmation (although legally not required).
+
 
 
