@@ -51,6 +51,7 @@ Consent
 
    consent
 
+
 Patient 
 **********
 .. toctree::
@@ -58,6 +59,13 @@ Patient
 
    patient
 
+
+HCP
+****
+.. toctree::
+   :maxdepth: 1
+
+   hcp
 
 PSQ
 **************
