@@ -13,7 +13,7 @@ Ticketing system
 
 Allows the user to submit issues to the Data Center directly from the 3LC system, see status, priority and exchange messages about it.
 
-..image: ticketing.png
+..image::ticketing.png
 
 
 Overdue Follow-Ups
@@ -26,5 +26,5 @@ Print PSQ
 
 From "Patient Overview", this tool allows to print a specific template in a specific language for the selected patient.
 
-..image: print_psq.png
+..image::print_psq.png
 
