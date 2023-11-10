@@ -1,10 +1,18 @@
 Biosamples
 ###########
 
+Documentation is available on the STCS website, sections:
+
+- STCS Harvest, Processing and Storage of Biobank Samples: Guideline
+- STCS Lab DNA Guideline
+- STCS Lab Plasma Cell Guideline
+- STCS Sample Ordering Procedure
+- STCS SOP for Biological Samples Destruction
+
 Samples IN
 ***********
 
-From container **Samples**.
+From container **Samples**. Enter data related to collected samples.
 
 Samples OUT (Usage)
 ********************
@@ -21,6 +29,6 @@ From container **Samples**, click on "View" on the sample that has been retrieve
 Import sample usage from .csv file
 ------------------------------------
 
-From left **Menu**, click on **Tools** then on **Blood Sample Out**. Select the .csv file, click on **Upload**. A Table will be displayed with on the right column the indication of whether the sample usage was correctly imported or some issue 
+From left **Menu**, click on **Tools** then on **Blood Sample Out**. Select the .csv file, click on **Upload**. A Table will be displayed with on the column "error" the indication of whether the sample usage was correctly imported or some issue occured.
 
 .. image:: sample_usage_bulk.png
