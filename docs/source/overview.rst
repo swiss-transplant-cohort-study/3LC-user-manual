@@ -1,4 +1,4 @@
 Overview
 ********
 
-.. :: overview.png
+.. image:: overview.png
