@@ -7,6 +7,12 @@ Patient Lab
 Chemistry
 ----------
 
+Serology
+--------
+
+Virology
+--------
+
 HLA
 ------
 
@@ -15,6 +21,9 @@ DSA
 
 Donor Lab
 ************
+
+Serology
+--------
 
 HLA
 ----
