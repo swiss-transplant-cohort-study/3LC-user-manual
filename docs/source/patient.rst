@@ -4,7 +4,7 @@ Patient
 .. tip::
    When a patient is created, it cannot deleted by an LDM. Please open a ticket to the IT.
 
-Registration
+Registration (SOAS Listing)
 ========================
 
 The Ethics Committee has approved the registration of waitlisted (not yet transplanted) patients in the database. Registered information includes current consent status. No collection of clinical/research data is allowed before transplantation and proper enrollment in the Cohort only starts at the time of transplantation.
@@ -14,9 +14,9 @@ The Ethics Committee has approved the registration of waitlisted (not yet transp
 .. tip::
    1. Register patient in STCS when you send Patient information to patient
    2. Add SOAS number and Organ
-   3. Register consent as “absent (waiting)” with date when ICF sent out
+   3. Register consent as “Absent (awaiting)” with date when ICF sent out
    4. When you get consent form back then update consent with date
-   5. Enroll* patient only once transplanted (* add transplantation and donor etc)
+   5. Enroll patient only once transplanted (add transplantation and donor etc)
 
 
 .. note::
