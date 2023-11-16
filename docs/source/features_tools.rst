@@ -42,9 +42,7 @@ From "Patient Overview", this tool allows to print a specific template in a spec
 Fallpauschale
 -------------
 
-Is the tool that operates the billing system based on the monthly number of transplantations per Center.
-
-.. image:: fallpau.png
+Work in progress.
 
 Import sample out
 -----------------
