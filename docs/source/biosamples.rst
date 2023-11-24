@@ -36,3 +36,5 @@ The .csv file must meet the following criteria:
 From left **Menu**, click on **Tools** then on **Blood Sample Out**. Select the .csv file, click on **Upload**. A Table will be displayed with on the column "error" the indication of whether the sample usage was correctly imported or some issue occured.
 
 .. image:: sample_usage_bulk.png
+
+.. image:: sample_usage_bulk_bis.png
