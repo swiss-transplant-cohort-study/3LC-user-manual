@@ -7,7 +7,7 @@ Click on the Topic "3LC variable mapping":
 
 .. image:: ecodebook1.png
 
-We are for example looking for the metadata collected for Kidney, so we can search (CTRL + F) for the word "Kidney". Now the kidney-specific collections (forms or containers) are highlighted. We click on "KidneyEnrolment" cause we are interested in exploring the variables collected in this form, therefore we click on the indicated number of variables.
+We are for example looking for the metadata collected for Kidney, so we can search (CTRL + F) for the word "Kidney". Now the kidney-specific collections (forms or containers) are highlighted. We click on "KidneyBiopsyAndRejection" cause we are interested in exploring the variables collected in this container, therefore we click on the indicated number of variables.
 
 .. image:: ecodebook2.png
 
