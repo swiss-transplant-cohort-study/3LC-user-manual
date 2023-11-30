@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'LDM Manual - work in progress'
+project = 'User Manual - work in progress'
 copyright = '2023, DC'
 author = 'Data Center'
 
