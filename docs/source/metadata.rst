@@ -15,7 +15,7 @@ The list of variables appears and we can explor the entire list by scrolling dow
 
 .. image:: ecodebook3.png
 
-For example we are interested in seeying which values are collected for Kidney rejection, therefore we click on the variable Label.
+For example we are interested in seeing which values are collected for Kidney rejection, therefore we click on the variable Label.
 
 .. image:: ecodebook4.png
 
