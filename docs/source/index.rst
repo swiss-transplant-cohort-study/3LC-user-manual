@@ -139,3 +139,10 @@ Features and Tools
    :maxdepth: 1
 
    features_tools
+
+Metadata
+**************
+.. toctree::
+   :maxdepth: 1
+
+   metadata
