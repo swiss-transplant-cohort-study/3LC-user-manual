@@ -1,6 +1,8 @@
 Patient
 *******************
 
+See `metadata`_ for list of collected data.
+
 .. tip::
    When a patient is created, it cannot deleted by an LDM. Please open a ticket to the IT.
 
@@ -28,8 +30,6 @@ The Ethics Committee has approved the registration of waitlisted (not yet transp
 Administrative data
 --------
 
-Collected data, direct link to ecodebook collection: https://codebook.stcs.ch/codebook/collections/0x219233/release/0xaaeaf
-
 .. note::
    The patient should be entered in the database within 7 days after transplantation (two working days). 
 
@@ -52,9 +52,9 @@ The transplantation is the event that triggers the patient enrolment.
 Baseline
 =========
 
-Collected data, see Metadata (ecodebook).
+- Clinical data
 
-PSQ, collected data, see Metadata (ecodebook).
+- PSQ
 
 .. note::
    Reminder: As per email from Nadine Beerli sent out to LDM on March 7th, 2023, new PSQ schedule (Pre-Tx, 6 months post-Tx, 1, 3, 5, 7, 10 years 
@@ -63,7 +63,9 @@ PSQ, collected data, see Metadata (ecodebook).
 Follow-up
 ==========
 
-Collected data, see Metadata (ecodebook).
+- Clinical data
+
+- PSQ
 
 Containers
 ============
