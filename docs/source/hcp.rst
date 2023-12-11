@@ -14,9 +14,17 @@ The system sets the responsibility start date as at the transplantation date for
 Associate HCP
 ---------------
 
+How to associate a HCP.
+
 .. image:: hcp_associate.png
 
 HCP Responsibility Period
 --------------------------
 
-.. image:: hcp_responsibility.png
+How to specify one or more responsibility periods.
+
+.. image:: hcp_responsibility1.png
+
+One or more transplantations and organs can be specified-
+
+.. image:: hcp_responsibility2.png
