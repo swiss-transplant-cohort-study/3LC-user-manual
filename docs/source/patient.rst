@@ -28,6 +28,8 @@ The Ethics Committee has approved the registration of waitlisted (not yet transp
 Administrative data
 --------
 
+Collected data, direct link to ecodebook collection: https://codebook.stcs.ch/codebook/collections/0x219233/release/0xaaeaf
+
 .. note::
    The patient should be entered in the database within 7 days after transplantation (two working days). 
 
@@ -50,7 +52,7 @@ The transplantation is the event that triggers the patient enrolment.
 Baseline
 =========
 
-Data collected at baseline:
+Collected data, direct link to ecodebook collection: https://codebook.stcs.ch/codebook/collections/0x30db1/release/0x10c936
 
 PSQ
 
@@ -61,9 +63,19 @@ PSQ
 Follow-up
 ==========
 
-Data collected at baseline:
+Collected data, direct link to ecodebook collection: https://codebook.stcs.ch/codebook/collections/0x30db1/release/0x10c936
 
 Containers
 ============
 
+- Transplantations before STCS enrolment
+- Infectious diseases
+- Cardio-pulmonary diseases
+- Metabolic, endocrine and kidney diseases
+- Skin cancers
+- Neoplasia
+- Other events and diseases
+- Medication treatments
+- Lab
+- Stop (drop-outs and death)
 
