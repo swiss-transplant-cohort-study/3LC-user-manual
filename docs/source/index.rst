@@ -25,13 +25,6 @@ Overview
 
    overview
 
-User Roles
-**************
-
-.. toctree::
-   :maxdepth: 1
-
-   user_roles
 
 User Account
 **************
