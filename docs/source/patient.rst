@@ -52,9 +52,9 @@ The transplantation is the event that triggers the patient enrolment.
 Baseline
 =========
 
-Collected data, direct link to ecodebook collection: https://codebook.stcs.ch/codebook/collections/0x30db1/release/0x10c936
+Collected data, see Metadata (ecodebook).
 
-PSQ
+PSQ, collected data, see Metadata (ecodebook).
 
 .. note::
    Reminder: As per email from Nadine Beerli sent out to LDM on March 7th, 2023, new PSQ schedule (Pre-Tx, 6 months post-Tx, 1, 3, 5, 7, 10 years 
@@ -63,7 +63,7 @@ PSQ
 Follow-up
 ==========
 
-Collected data, direct link to ecodebook collection: https://codebook.stcs.ch/codebook/collections/0x30db1/release/0x10c936
+Collected data, see Metadata (ecodebook).
 
 Containers
 ============
