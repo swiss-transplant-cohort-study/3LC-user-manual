@@ -1,7 +1,7 @@
 Patient
 *******************
 
-See `metadata`_ for list of collected data.
+See #metadata for list of collected data.
 
 .. tip::
    When a patient is created, it cannot deleted by an LDM. Please open a ticket to the IT.
