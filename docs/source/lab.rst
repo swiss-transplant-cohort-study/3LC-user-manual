@@ -13,6 +13,11 @@ Virology
 BKV
 ------
 
+.. image:: BKV_KidneyFUP.png
+
+
+.. image:: BKV_InfectionPost.png
+
 HLA
 ***********************
 
