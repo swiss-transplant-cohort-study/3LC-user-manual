@@ -11,6 +11,7 @@ The aim of this documentation is to provide: an introduction to the system struc
    Only authorized users will be able to access the system functionalities.
 
 Glossary and Abbreviations
+
 **************
 .. toctree::
    :maxdepth: 1
@@ -20,14 +21,16 @@ Glossary and Abbreviations
 
 Overview
 **************
+
 .. toctree::
    :maxdepth: 1
 
    overview
 
 
-User Account
-**************
+Create an account and user roles
+******************************************
+
 This section provides information about the different types of users and respective permissions.
 
 .. toctree::
