@@ -11,8 +11,8 @@ The aim of this documentation is to provide: an introduction to the system struc
    Only authorized users will be able to access the system functionalities.
 
 Glossary and Abbreviations
-
 **************
+
 .. toctree::
    :maxdepth: 1
 
