@@ -1,13 +1,14 @@
 Consent
-********
+########
+
 .. note::
    The LDM has to make sure that each newly listed patient is appropriately informed about the goals of the STCS and that each listed patient in Switzerland will receive an invitation letter to join the STCS, an informed 
    consent form, and the pre-transplant PSQ. The LTC has to inform the LDM within 7 days if a new patient is added to the transplant waiting list.
 
-Definitions
--------------
+Definitions and types of consents
+******************************************
 
-- **Present**: We have a signed IC from the patient.
+- **Present**: We have a signed Informal Consent (IC) from the patient.
 - **Absent (awaiting)**: We do not have an IC. This often occurs, when the Patient did not return the signed IC before TX and it was not possible to get the consent before opening the new case. It may also occur, if a patient is listed as ‘super urgent’ and/or was unable to sign the IC due to medical reasons. In this instance, the IC must be clarified as soon as possible!
 - **Absent (documented refusal)**: The patient refused to participate to the STCS in an oral or written form, even following a personal discussion with one of our staff.
 - **Absent (other)**: This means, we could not clarify the participation of this patient in the STCS and the patient is still alive. Select specific option, e.g. "Reminder process closed", "Language/Communication barrier".
