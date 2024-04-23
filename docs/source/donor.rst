@@ -3,7 +3,7 @@ Donor registration
 
 To register a new Donor go to: *Create and Search* > *Donor enrollment*
 
-.. image:: donor.png
+.. image:: Donor.png
 
 Here you can can enter the following information:
 
