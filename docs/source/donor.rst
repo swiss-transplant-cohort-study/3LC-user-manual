@@ -1,7 +1,7 @@
-Donor
-******
+Donor registration
+#####################
 
-To register a new Donor go to: Create and Search > Donor enrollment
+To register a new Donor go to: _Create and Search > Donor enrollment_
 
 Here you'll have to enter the following information:
 
