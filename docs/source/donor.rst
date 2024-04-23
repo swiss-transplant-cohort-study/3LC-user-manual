@@ -32,5 +32,6 @@ Here are the different types of donors which are possible:
 
 .. note:: "Unknown" identifical twins should be used when it is unknown whether they are identical twins or not.
 
+More details can be found in our `Youtube <https://www.youtube.com/watch?v=ZWZr9FcZ0js>`_ page.
 
 
