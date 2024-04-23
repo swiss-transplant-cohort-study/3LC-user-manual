@@ -30,7 +30,7 @@ Here are the different types of donors which are possible:
   * Sibling: this will open a new category, in which the user can specify whether the siblings are identical twins or not.
 * Living unrelated donor) - which requires informations such as *Kidney paired donation* and whether the donation is *Altruistic* or not.
 
-..note:: "Unknown" identifical twins should be used when it is unknown whether they are identical twins or not.
+.. note:: "Unknown" identifical twins should be used when it is unknown whether they are identical twins or not.
 
 
 
