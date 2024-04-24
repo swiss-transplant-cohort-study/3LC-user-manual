@@ -1,7 +1,7 @@
 Patient Enrollment
 ########################
 
-Similar to Donor registration :ref:`Donor registration`, to enroll a patient select *Create and Search* > *Patient enrollment*.
+Similar to :ref:`donor`, to enroll a patient select *Create and Search* > *Patient enrollment*.
 
 The first step is to add the administrative data for the patient, such as:
 
