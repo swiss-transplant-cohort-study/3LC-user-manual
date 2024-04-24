@@ -1,13 +1,38 @@
-Patient
-*******************
+Patient Enrollment
+########################
 
-See :doc:`metadata` for list of collected data.
+Similar to Donor registration :ref:`Donor registration`, to enroll a patient select *Create and Search* > *Patient enrollment*.
 
-.. tip::
-   When a patient is created, it cannot deleted by an LDM. Please open a ticket to the IT.
+The first step is to add the administrative data for the patient, such as:
+
+* Initials
+* Gender at birth
+* Date of birth
+* Blood group
+
+.. image:: AdminData.png
+
+
+
+Administrative data
+***********************
+
+Here several fields need to be filled in:
+
+
+.. note::
+   The patient should be entered in the database within 7 days after transplantation (two working days). 
+
+How to enter initials into the New system:
+
+.. note::
+   
+   One uppercase initial per name, with "-" as separator between First name initial/s and Last name initial/s e.g. Georgios Kyriakos Panayiotou -> 
+   GK-P e.g. Rosa Dolores Alverío Marcano -> RD-AM Family names that include particles are treated as a further Family name. E.g.Charles De Gaulle - 
+   > C-DG e.g. Miguel De Oliveira -> M-DO
 
 Registration (SOAS Listing)
-========================
+************************************
 
 The Ethics Committee has approved the registration of waitlisted (not yet transplanted) patients in the database. Registered information includes current consent status. No collection of clinical/research data is allowed before transplantation and proper enrollment in the Cohort only starts at the time of transplantation.
 
@@ -26,20 +51,6 @@ The Ethics Committee has approved the registration of waitlisted (not yet transp
    be left “open” in waiting list.
 
 
-
-Administrative data
---------
-
-.. note::
-   The patient should be entered in the database within 7 days after transplantation (two working days). 
-
-How to enter initials into the New system:
-
-.. note::
-   
-   One uppercase initial per name, with "-" as separator between First name initial/s and Last name initial/s e.g. Georgios Kyriakos Panayiotou -> 
-   GK-P e.g. Rosa Dolores Alverío Marcano -> RD-AM Family names that include particles are treated as a further Family name. E.g.Charles De Gaulle - 
-   > C-DG e.g. Miguel De Oliveira -> M-DO
 
 Enrollment
 =======================
@@ -81,3 +92,8 @@ Containers
 - Lab
 - Stop (drop-outs and death)
 
+.. note:: See :doc:`metadata` for list of collected data.
+
+.. warning:: When a patient is created, it cannot deleted by an LDM. Please open a ticket to the IT.
+
+More details can be found in our `Youtube page <https://www.youtube.com/watch?v=njswLTRGQII>`_.
