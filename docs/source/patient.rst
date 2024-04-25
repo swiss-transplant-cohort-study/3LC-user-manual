@@ -3,6 +3,9 @@ Patient Enrollment
 
 Similarly to :ref:`donor`, to enroll a patient select *Create and Search* > *Patient enrollment*.
 
+Administrative data
+***********************
+
 The first step is to add the administrative data for the patient, such as:
 
 * Initials
@@ -12,24 +15,14 @@ The first step is to add the administrative data for the patient, such as:
 
 .. image:: AdminData.png
 
-Administrative data
-***********************
+Once this is filled in, please proceed by clicking "Save and add Cons".
 
-Here several fields need to be filled in:
-
-
-.. note::
-   The patient should be entered in the database within 7 days after transplantation (two working days). 
-
+.. note:: Use the intial of each name in uppercase, with "-" as separator between the First name initial/s and Last name initial/s. Examples: Georgios Kyriakos Panayiotou -> GK-P, Rosa Dolores Alverío Marcano -> RD-AM. When family names include particles are treated as a further Family name: e.g.Charles De Gaulle -> C-DG, Miguel De Oliveira -> M-DO
 How to enter initials into the New system:
 
-.. note::
-   
-   One uppercase initial per name, with "-" as separator between First name initial/s and Last name initial/s e.g. Georgios Kyriakos Panayiotou -> 
-   GK-P e.g. Rosa Dolores Alverío Marcano -> RD-AM Family names that include particles are treated as a further Family name. E.g.Charles De Gaulle - 
-   > C-DG e.g. Miguel De Oliveira -> M-DO
-
 .. tip:: When selecting the date of birth, if you click on the "Month", a month view appears. If you further click on the year, a year view appears. This will help you navigating through time and selecting the right date of birth.
+
+.. warning:: The patient should be entered in the database within 7 days after transplantation (two working days). 
 
 Registration (SOAS Listing)
 ************************************
