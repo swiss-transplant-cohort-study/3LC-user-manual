@@ -1,7 +1,7 @@
 Patient Enrollment
 ########################
 
-Similar to :ref:`donor`, to enroll a patient select *Create and Search* > *Patient enrollment*.
+Similarly to :ref:`donor`, to enroll a patient select *Create and Search* > *Patient enrollment*.
 
 The first step is to add the administrative data for the patient, such as:
 
@@ -11,8 +11,6 @@ The first step is to add the administrative data for the patient, such as:
 * Blood group
 
 .. image:: AdminData.png
-
-
 
 Administrative data
 ***********************
@@ -30,6 +28,8 @@ How to enter initials into the New system:
    One uppercase initial per name, with "-" as separator between First name initial/s and Last name initial/s e.g. Georgios Kyriakos Panayiotou -> 
    GK-P e.g. Rosa Dolores Alverío Marcano -> RD-AM Family names that include particles are treated as a further Family name. E.g.Charles De Gaulle - 
    > C-DG e.g. Miguel De Oliveira -> M-DO
+
+.. tip:: When selecting the date of birth, if you click on the "Month", a month view appears. If you further click on the year, a year view appears. This will help you navigating through time and selecting the right date of birth.
 
 Registration (SOAS Listing)
 ************************************
