@@ -3,6 +3,8 @@ Consent
 
 .. note:: The LDM needs to make sure that each newly listed patient is appropriately informed about the goals of the STCS. Moreover, each listed patient in Switzerland needs to receive an invitation letter to join the STCS, an informed consent form, and the pre-transplant PSQ. The LTC has to inform the LDM within 7 days if a new patient is added to the transplant waiting list.
 
+TESTLSJDFIHDS
+
 Definitions and types of consents
 ******************************************
 
