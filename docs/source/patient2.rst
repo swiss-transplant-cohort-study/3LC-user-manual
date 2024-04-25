@@ -1,7 +1,18 @@
-Patient Enrollment
+Patient
 ########################
 
-Similarly to :ref:`donor`, to enroll a patient select *Create and Search* > *Patient enrollment*.
+There are two ways to register a patient. First navigate to *Create and Search* and select:
+
+* **Patient Enrollment**: register a patient who has enrolled in the STCS study already (i.e. the patient has already received a transplation)
+* **Patient Registration**: register a patient who might not have yet received a transplant. 
+
+..note:: The Ethics Committee has approved the registration of waitlisted (not yet transplanted) patients in the database. Registered information includes current consent status. No collection of clinical/research data is allowed before transplantation and proper enrollment in the Cohort only starts at the time of transplantation.
+
+.. tip:: Check  :ref:`consent` for more details.
+
+.. warning:: The patient should be entered in the database within 7 days after transplantation (two working days).
+
+The following fields are common between **Patient Enrollment** and **Patient Registration**:
 
 Administrative data
 ***********************
@@ -15,29 +26,41 @@ The first step is to add the administrative data for the patient, such as:
 
 .. image:: AdminData.png
 
-Once this is filled in, please proceed by clicking "Save and add Cons".
+Once this is filled in, please proceed by clicking "Save and add Cons". A STSC Patoent ID will be automatically generated once the Adminstrative data is saved.
 
 .. note:: Use the intial of each name in uppercase, with "-" as separator between the First name initial/s and Last name initial/s. Examples: Georgios Kyriakos Panayiotou -> GK-P, Rosa Dolores Alverío Marcano -> RD-AM. When family names include particles are treated as a further Family name: e.g.Charles De Gaulle -> C-DG, Miguel De Oliveira -> M-DO
-How to enter initials into the New system:
 
 .. tip:: When selecting the date of birth, if you click on the "Month", a month view appears. If you further click on the year, a year view appears. This will help you navigating through time and selecting the right date of birth.
 
-.. warning:: The patient should be entered in the database within 7 days after transplantation (two working days).
-
-Consent
+Consent description
 **********************
+
+.. image:: ConsentFields.png
 
 Consent management
 ====================
 
+Here an option will be give to note whether the patient might need to re-consent or not.
+
 Consent
 ===========
 
+Here are the different fields:
+
+* Consent:
+  * Present: when consent is present
+  * Absent (awaiting): there is no consent for the moment, but the consent has not been explicitly refused
+  * Absent (documented refusal): when the consent were explicitly refused by the patient.
+* Consent date
+* IC form: different forms are available
+
+.. tip:: Check  :ref:`consent` for more details.
+
+Click "Save and continue" to further proceed.
 
 Registration (SOAS Listing)
 ************************************
 
-The Ethics Committee has approved the registration of waitlisted (not yet transplanted) patients in the database. Registered information includes current consent status. No collection of clinical/research data is allowed before transplantation and proper enrollment in the Cohort only starts at the time of transplantation.
 
 .. image:: patient_regi.png
 
