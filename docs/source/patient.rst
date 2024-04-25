@@ -22,7 +22,10 @@ How to enter initials into the New system:
 
 .. tip:: When selecting the date of birth, if you click on the "Month", a month view appears. If you further click on the year, a year view appears. This will help you navigating through time and selecting the right date of birth.
 
-.. warning:: The patient should be entered in the database within 7 days after transplantation (two working days). 
+.. warning:: The patient should be entered in the database within 7 days after transplantation (two working days).
+
+Consent
+**********
 
 Registration (SOAS Listing)
 ************************************
