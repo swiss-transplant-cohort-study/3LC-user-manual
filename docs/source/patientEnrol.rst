@@ -25,7 +25,14 @@ How to enter initials into the New system:
 .. warning:: The patient should be entered in the database within 7 days after transplantation (two working days).
 
 Consent
-**********
+**********************
+
+Consent management
+====================
+
+Consent
+===========
+
 
 Registration (SOAS Listing)
 ************************************
