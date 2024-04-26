@@ -1,12 +1,14 @@
-Patient
-########################
+Patient enrollment and registration
+#######################################
 
-There are two ways to register a patient. First navigate to *Create and Search* and select:
+There are two ways to register a patient. First navigate to *Create and Search* and select either:
 
-* **Patient Enrollment**: register a patient who has enrolled in the STCS study already (i.e. the patient has already received a transplation)
-* **Patient Registration**: register a patient who might not have yet received a transplant. 
+* **Patient Enrollment**: register a patient who has enrolled in the STCS study already (i.e. the patient has already received a transplation) - red circle -, or
+* **Patient Registration**: register a patient who has not yet received a transplant - green circle.
 
-..note:: The Ethics Committee has approved the registration of waitlisted (not yet transplanted) patients in the database. Registered information includes current consent status. No collection of clinical/research data is allowed before transplantation and proper enrollment in the Cohort only starts at the time of transplantation.
+.. image:: PatPaths.png
+
+..note:: The Ethics Committee has approved the registration of waitlisted (not yet transplanted) patients in the database. The recorded information includes current consent status. However, no collection of clinical/research data is allowed before transplantation. Proper enrollment in the Cohort only starts at the time of transplantation.
 
 .. tip:: Check  :ref:`consent` for more details.
 
@@ -19,18 +21,16 @@ Administrative data
 
 The first step is to add the administrative data for the patient, such as:
 
-* Initials
+* Initials: use the intial of each name in uppercase, with "-" as separator between the First name initial/s and Last name initial/s. Examples: Georgios Kyriakos Panayiotou -> GK-P, Rosa Dolores Alverío Marcano -> RD-AM. When family names include particles are treated as a further Family name: e.g.Charles De Gaulle -> C-DG, Miguel De Oliveira -> M-DO.
 * Gender at birth
 * Date of birth
 * Blood group
 
 .. image:: AdminData.png
 
-Once this is filled in, please proceed by clicking "Save and add Cons". A STSC Patoent ID will be automatically generated once the Adminstrative data is saved.
+Once this is filled in, please proceed by clicking "Save and add Cons". A STSC Patient ID will be automatically generated once the Adminstrative data is saved.
 
-.. note:: Use the intial of each name in uppercase, with "-" as separator between the First name initial/s and Last name initial/s. Examples: Georgios Kyriakos Panayiotou -> GK-P, Rosa Dolores Alverío Marcano -> RD-AM. When family names include particles are treated as a further Family name: e.g.Charles De Gaulle -> C-DG, Miguel De Oliveira -> M-DO
-
-.. tip:: When selecting the date of birth, if you click on the "Month", a month view appears. If you further click on the year, a year view appears. This will help you navigating through time and selecting the right date of birth.
+.. tip:: When selecting the date of birth, if you click on the "Month", a month view appears. If you further click on the year, a year view appears. This will help you navigating through time and selecting the right date of birth more easily.
 
 Consent description
 **********************
