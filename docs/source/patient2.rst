@@ -43,6 +43,8 @@ Consent management
 
 Here an option will be give to note whether the patient might need to re-consent or not.
 
+Patient need for re-consent might happen in a variety of situations, such as: patient is under 18 at the time of the transplantation, patient was not able to give consent at the time of transplantion, etc.
+
 Consent
 ===========
 
@@ -59,8 +61,17 @@ Here are the different fields:
 
 Click "Save and continue" to further proceed.
 
-Registration (SOAS Listing)
+.. warning:: The consent status is required to further proceed for patient enrollment and registration.
+
+From this point, there is a difference in **Patient Enrollment** and **Patient Registration**. Those differences will be described separately below.
+
+Patient Registration (SOAS Listing)
 ************************************
+
+
+
+
+
 
 
 .. image:: patient_regi.png
