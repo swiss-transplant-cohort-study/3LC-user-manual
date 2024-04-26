@@ -13,7 +13,7 @@ There are two ways to register a patient. First navigate to *Create and Search* 
 
 .. tip:: Check  :ref:`consent` for more details.
 
-.. warning:: The patient should be entered in the database within 7 days after transplantation (two working days).
+.. warning:: The patient should be entered in the database within 7 days after transplantation (5 working days).
 
 The following fields are common between **Patient Enrollment** and **Patient Registration**:
 
@@ -68,13 +68,13 @@ From this point, there is a difference in **Patient Enrollment** and **Patient R
 Patient Registration and SOAS Listing
 *****************************************
 
-
-
-
-
-
+A patient waiting for a transplanted can be registered with a *SOAS listing ID* and type of organ listed (*Transplantation (listing)*). The user should also indicate whether this is a *Urgent listing* and the *Listing date* (when the patient is listed). Click on "Save".
 
 .. image:: soasListing.png
+
+.. note:: A SOAS listing for recipients who are on the **Swiss waiting list** should follow this format and range: RS -[1901-2024]-[0001-9999] (for example, RS-2000-0002). For recipients on the *Foreign waiting list*, the SOAS listing ID should follow this format: RF -[1901-2024]-[0001-9999].
+
+
 
 .. tip::
    1. Register patient in STCS when you send Patient information to patient
