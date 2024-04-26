@@ -65,29 +65,23 @@ Click "Save and continue" to further proceed.
 
 From this point, there is a difference in **Patient Enrollment** and **Patient Registration**. Those differences will be described separately below.
 
-Patient Registration and SOAS Listing
-*****************************************
+Patient Registration and SOAS Listing ID
+*******************************************
 
 A patient waiting for a transplanted can be registered with a *SOAS listing ID* and type of organ listed (*Transplantation (listing)*). The user should also indicate whether this is a *Urgent listing* and the *Listing date* (when the patient is listed). Click on "Save".
 
 .. image:: soasListing.png
 
+We recommend the following workflow for patient registration:
+   1. Register the patient in the STCS once you send the Patient information to the patient
+   2. Add the SOAS listing ID and the Organ
+   3. Register the consent as “Absent (awaiting)” with the date when the ICF was sent out
+   4. Once you receive the consent form back, you should update the consent with the appropriate date
+   5. Enroll the patient, but only once the transplantation happened (the information about the transplatation and the donor should also added to the system)
+
 .. note:: A SOAS listing for recipients who are on the **Swiss waiting list** should follow this format and range: RS -[1901-2024]-[0001-9999] (for example, RS-2000-0002). For recipients on the *Foreign waiting list*, the SOAS listing ID should follow this format: RF -[1901-2024]-[0001-9999].
 
-
-
-.. tip::
-   1. Register patient in STCS when you send Patient information to patient
-   2. Add SOAS number and Organ
-   3. Register consent as “Absent (awaiting)” with date when ICF sent out
-   4. When you get consent form back then update consent with date
-   5. Enroll patient only once transplanted (add transplantation and donor etc)
-
-
-.. note::
-   If the patient dies while on the waiting list, this information should not be entered in the system as it is a clinical data. The patient should 
-   be left “open” in waiting list.
-
+.. note:: If the patient dies while on the waiting list, this information should not be entered in the system as it is a clinical data. The patient should be left “open” in waiting list.
 
 
 Patient Enrollment
