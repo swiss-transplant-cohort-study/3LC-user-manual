@@ -65,8 +65,8 @@ Click "Save and continue" to further proceed.
 
 From this point, there is a difference in **Patient Enrollment** and **Patient Registration**. Those differences will be described separately below.
 
-Patient Registration (SOAS Listing)
-************************************
+Patient Registration and SOAS Listing
+*****************************************
 
 
 
@@ -74,7 +74,7 @@ Patient Registration (SOAS Listing)
 
 
 
-.. image:: patient_regi.png
+.. image:: soasListing.png
 
 .. tip::
    1. Register patient in STCS when you send Patient information to patient
@@ -90,8 +90,8 @@ Patient Registration (SOAS Listing)
 
 
 
-Enrollment
-=======================
+Patient Enrollment
+*********************
 
 The transplantation is the event that triggers the patient enrolment.
 
