@@ -60,7 +60,7 @@ Patient
 .. toctree::
    :maxdepth: 1
 
-   patient
+   patient2
 
 
 HCP
