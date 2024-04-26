@@ -7,6 +7,7 @@ There are two ways to register a patient. First navigate to *Create and Search* 
 * **Patient Registration**: register a patient who has not yet received a transplant - green circle.
 
 .. image:: PatPaths.png
+   :width: 600
 
 ..note:: The Ethics Committee has approved the registration of waitlisted (not yet transplanted) patients in the database. The recorded information includes current consent status. However, no collection of clinical/research data is allowed before transplantation. Proper enrollment in the Cohort only starts at the time of transplantation.
 
