@@ -11,7 +11,7 @@ The aim of this documentation is to provide: an introduction to the system struc
    Only authorized users will be able to access the system functionalities.
 
 Glossary and Abbreviations
-**************
+********************************
 
 .. toctree::
    :maxdepth: 1
@@ -55,8 +55,9 @@ Consent
    consent
 
 
-Patient 
-**********
+Patient enrollment and registration
+**************************************
+
 .. toctree::
    :maxdepth: 1
 
@@ -65,6 +66,7 @@ Patient
 
 HCP
 ****
+
 .. toctree::
    :maxdepth: 1
 
@@ -87,7 +89,7 @@ Donor
    donor
 
 Transplantation
-****************
+*********************
 .. toctree::
    :maxdepth: 1
 
@@ -101,7 +103,7 @@ Organ
    organ
 
 Infectious Diseases
-*******************
+**********************
 
 .. toctree::
    :maxdepth: 1
@@ -110,6 +112,7 @@ Infectious Diseases
 
 Treatment
 *******************
+
 .. toctree::
    :maxdepth: 1
 
@@ -117,13 +120,15 @@ Treatment
 
 Lab
 *******************
+
 .. toctree::
    :maxdepth: 1
 
    lab
 
 Samples
-*******
+***********
+
 .. toctree::
    :maxdepth: 1
 
@@ -137,7 +142,8 @@ Billing
    invoicing
 
 Features and Tools
-**************
+*********************
+
 .. toctree::
    :maxdepth: 1
 
@@ -145,6 +151,7 @@ Features and Tools
 
 Metadata
 **************
+
 .. toctree::
    :maxdepth: 1
 
