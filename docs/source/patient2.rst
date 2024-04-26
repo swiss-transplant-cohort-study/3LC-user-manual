@@ -89,7 +89,30 @@ Patient Enrollment
 
 The transplantation is the event that triggers the patient enrolment.
 
-.. image:: patient_enrol.png
+.. warning:: The information about the Consent needs to be introduced before adding the transplantation details.
+
+The information about the transplation should be added by clicking here (in the patient personal page)
+
+Add SOAS listing
+====================
+
+A patient always needs to be associated to a SOAS ID listing, as shown above during **Patient registration**.
+
+Even in the case of urgent transplants, in which the patient does not stay in the waiting list before transplant, the patient should bbe associated to a SOAS listing ID posteriorly.
+
+.. note:: Note that in this particular situation, the *listing date* and *removal date* for this patient would be the same as the *transplante date*.
+
+Add transplation
+==================
+
+.. image:: AddTrans
+
+
+
+
+
+
+
 
 
 Baseline
