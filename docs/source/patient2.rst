@@ -9,7 +9,7 @@ There are two ways to register a patient. First navigate to *Create and Search* 
 .. image:: PatPaths.png
    :width: 600
 
-..note:: The Ethics Committee has approved the registration of waitlisted (not yet transplanted) patients in the database. The recorded information includes current consent status. However, no collection of clinical/research data is allowed before transplantation. Proper enrollment in the Cohort only starts at the time of transplantation.
+.. note:: The Ethics Committee has approved the registration of waitlisted (not yet transplanted) patients in the database. The recorded information includes current consent status. However, no collection of clinical/research data is allowed before transplantation. Proper enrollment in the Cohort only starts at the time of transplantation.
 
 .. tip:: Check  :ref:`consent` for more details.
 
@@ -30,6 +30,8 @@ The first step is to add the administrative data for the patient, such as:
 .. image:: AdminData.png
 
 Once this is filled in, please proceed by clicking "Save and add Cons". A STSC Patient ID will be automatically generated once the Adminstrative data is saved.
+
+.. tip:: The date of birth can be also manually typed.
 
 .. tip:: When selecting the date of birth, if you click on the "Month", a month view appears. If you further click on the year, a year view appears. This will help you navigating through time and selecting the right date of birth more easily.
 
@@ -57,7 +59,7 @@ Here are the different fields:
 * Consent date
 * IC form: different forms are available
 
-.. tip:: Check  :ref:`consent` for more details.
+.. tip:: Check :ref:`consent` for more details.
 
 Click "Save and continue" to further proceed.
 
@@ -79,28 +81,25 @@ We recommend the following workflow for patient registration:
    4. Once you receive the consent form back, you should update the consent with the appropriate date
    5. Enroll the patient, but only once the transplantation happened (the information about the transplatation and the donor should also added to the system)
 
-.. note:: A SOAS listing for recipients who are on the **Swiss waiting list** should follow this format and range: RS -[1901-2024]-[0001-9999] (for example, RS-2000-0002). For recipients on the *Foreign waiting list*, the SOAS listing ID should follow this format: RF -[1901-2024]-[0001-9999].
+.. note:: A SOAS listing for recipients who are on the **Swiss waiting list** should follow this format and range: RS -[1901-2024]-[0001-9999] (for example, RS-2000-0002). For recipients on the *Foreign waiting list*, the SOAS listing ID should follow this format: RF -[1901-2024]-[0001-9999]. [1901-2024] corresponds to the listing year, [0001-9999] to the current case number.
 
 .. note:: If the patient dies while on the waiting list, this information should not be entered in the system as it is a clinical data. The patient should be left “open” in waiting list.
-
 
 Patient Enrollment
 *********************
 
-The transplantation is the event that triggers the patient enrolment.
+The transplantation is the event that triggers the patient enrollment.
 
-.. warning:: The information about the Consent needs to be introduced before adding the transplantation details.
+.. warning:: The information about the consent needs to be introduced before adding the transplantation details.
 
 The information about the transplation should be added by clicking here (in the patient personal page)
 
-Add SOAS listing
-====================
+Patient Enrollment and SOAS listing
+=====================================
 
-A patient always needs to be associated to a SOAS ID listing, as shown above during **Patient registration**.
+A patient always needs to be associated to a SOAS ID listing. In the case of an urgent transplantion, in which the patient does not stay in the waiting list before transplantation, the patient should be associated to a SOAS listing ID posteriorly.
 
-Even in the case of urgent transplants, in which the patient does not stay in the waiting list before transplant, the patient should bbe associated to a SOAS listing ID posteriorly.
-
-.. note:: Note that in this particular situation, the *listing date* and *removal date* for this patient would be the same as the *transplante date*.
+.. note:: Note that in the particular situation of an urgent transplantion, the *listing date* and *removal date* for this patient would be the same as the *transplant date*.
 
 Add transplation
 ==================
