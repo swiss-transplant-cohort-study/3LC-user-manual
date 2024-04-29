@@ -67,8 +67,11 @@ Click "Save and continue" to further proceed.
 
 From this point, there is a difference in **Patient Enrollment** and **Patient Registration**. Those differences will be described separately below.
 
+Patient Registration
+***********************
+
 Patient Registration and SOAS Listing ID
-*******************************************
+===========================================
 
 A patient waiting for a transplanted can be registered with a *SOAS listing ID* and type of organ listed (*Transplantation (listing)*). The user should also indicate whether this is a *Urgent listing* and the *Listing date* (when the patient is listed). Click on "Save".
 
@@ -105,7 +108,7 @@ A patient always needs to be associated to a SOAS ID listing. In the case of an 
 
 .. note:: Note that in the particular situation of an urgent transplantion, the *listing date* and *removal date* for this patient would be the same as the *transplant date*.
 
-Add transplation
+Patient Enrollment  Add transplation
 ==================
 
 When clicking in "add transplation", as seen below (arrow):
@@ -114,22 +117,47 @@ When clicking in "add transplation", as seen below (arrow):
 
 This opens the section "New Transplation" as seen before.
 
-.. image:: AddTransplant.png
+.. image:: NewTransplant.png
 
 Here you'll have a chance of adding details about the "Donor", re-entering the "SOAS listing ID" and "Listing date". These and "Hospitalization start-date for the transplantation procedure" are all mandatory fields.
 
 Equally, you should mention the "Healthcare provider", "Referral center", "Case number from the procedure provider", "Organ" and "Transplation date".
 
-Baseline
-=========
+Your patient is now fully enrolled!
+
+More details can be found in our `Youtube page <https://www.youtube.com/watch?v=njswLTRGQII>`_.
+
+.. warning:: When a patient is created, it cannot deleted by an LDM. Please open a ticket to the IT.
+
+Patient baseline
+*********************
+
+The baseline (BL) corresponds to the data collection at the time of transplant (time 0).
+
+There are 3 types of BL: *Patient*, *PSQ* and *Organ* (arrows in the picture below):
+
+.. image:: BL.png
+
+In this case, the patient 90000022.
+
+Clicking on these boxes will open further options in which BL details can be added.
+
+Patient BL 
+============
+
+PSQ BL
+========
+
+Organ BL
+============
+
+
 
 - Clinical data
 
 - PSQ
 
-.. note::
-   Reminder: As per email from Nadine Beerli sent out to LDM on March 7th, 2023, new PSQ schedule (Pre-Tx, 6 months post-Tx, 1, 3, 5, 7, 10 years 
-   post-Tx and every 5 years thereafter) has been implemented as of April 1st, 2023.
+.. note:: Reminder: As per email from Nadine Beerli sent out to LDM on March 7th, 2023, new PSQ schedule (Pre-Tx, 6 months post-Tx, 1, 3, 5, 7, 10 years post-Tx and every 5 years thereafter) has been implemented as of April 1st, 2023.
 
 Follow-up
 ==========
@@ -154,6 +182,4 @@ Containers
 
 .. note:: See :doc:`metadata` for list of collected data.
 
-.. warning:: When a patient is created, it cannot deleted by an LDM. Please open a ticket to the IT.
 
-More details can be found in our `Youtube page <https://www.youtube.com/watch?v=njswLTRGQII>`_.
