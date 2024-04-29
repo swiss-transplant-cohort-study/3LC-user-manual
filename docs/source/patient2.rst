@@ -108,8 +108,8 @@ A patient always needs to be associated to a SOAS ID listing. In the case of an 
 
 .. note:: Note that in the particular situation of an urgent transplantion, the *listing date* and *removal date* for this patient would be the same as the *transplant date*.
 
-Patient Enrollment  Add transplation
-==================
+Patient Enrollment and Add transplation
+=========================================
 
 When clicking in "add transplation", as seen below (arrow):
 
@@ -123,41 +123,57 @@ Here you'll have a chance of adding details about the "Donor", re-entering the "
 
 Equally, you should mention the "Healthcare provider", "Referral center", "Case number from the procedure provider", "Organ" and "Transplation date".
 
+The **principal care provider** takes the lead in the management of the care of the patient.
+
+.. note:: For patients who are treated for their organ transplant at an institution other than the TPX center – use “External provider” (e.g. practicing physician, non-transplant hospital).
+
 Your patient is now fully enrolled!
 
 More details can be found in our `Youtube page <https://www.youtube.com/watch?v=njswLTRGQII>`_.
 
 .. warning:: When a patient is created, it cannot deleted by an LDM. Please open a ticket to the IT.
 
+Special situations
+---------------------
+
+In case of double transplantations, theoretically, different centers may be responsible for the care of the different organs (e.g. Kidney = CHUV; Pancreas = HUG). In this case, two centers would be "in charge" and both would be responsible for data entry.
+
 Patient baseline
 *********************
 
-The baseline (BL) corresponds to the data collection at the time of transplant (time 0).
+All data which occured prior to and up to transplantation is considered baseline (BL) data.
+
+.. warning:: All patient and case baseline data entry (including the pre- transplant PSQ) should be completed by day 30 following the date of transplantation.
 
 There are 3 types of BL: *Patient*, *PSQ* and *Organ* (arrows in the picture below):
 
 .. image:: BL.png
 
-In this case, the patient 90000022.
+The picture above shows the dummy patient 90000022, who had a Kidney transplant.
 
 Clicking on these boxes will open further options in which BL details can be added.
 
 Patient BL 
 ============
 
+In the *Patient BL*, only the only the pre-transplant ID history is recorded.
+
+.. image:: PatientBL.png
+
+.. note:: If you have an “event” (temporary stop, drop out or death) make sure that a regular FUP is created before creating an event. Do not create more than one regular FUP in advance. However: do not open a FUP before death if in between the last FUP and the date of death no further information is available!
+
+.. warning:: All other ID events which occured following transplantation are follow-up events and are recorded within the ID CRF.
+
 PSQ BL
 ========
+
+.. note:: Reminder: As per email from Nadine Beerli sent out to LDM on March 7th, 2023, new PSQ schedule (Pre-Tx, 6 months post-Tx, 1, 3, 5, 7, 10 years post-Tx and every 5 years thereafter) has been implemented as of April 1st, 2023.
 
 Organ BL
 ============
 
 
 
-- Clinical data
-
-- PSQ
-
-.. note:: Reminder: As per email from Nadine Beerli sent out to LDM on March 7th, 2023, new PSQ schedule (Pre-Tx, 6 months post-Tx, 1, 3, 5, 7, 10 years post-Tx and every 5 years thereafter) has been implemented as of April 1st, 2023.
 
 Follow-up
 ==========
