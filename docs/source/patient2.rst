@@ -97,6 +97,10 @@ The information about the transplation should be added by clicking here (in the 
 Patient Enrollment and SOAS listing
 =====================================
 
+The patient also needs a SOAS listing ID, a Listing Date, whether the transplant is urgent or not, and what kind of organ is the patient listed for.
+
+.. image:: soasListing.png
+
 A patient always needs to be associated to a SOAS ID listing. In the case of an urgent transplantion, in which the patient does not stay in the waiting list before transplantation, the patient should be associated to a SOAS listing ID posteriorly.
 
 .. note:: Note that in the particular situation of an urgent transplantion, the *listing date* and *removal date* for this patient would be the same as the *transplant date*.
@@ -104,14 +108,17 @@ A patient always needs to be associated to a SOAS ID listing. In the case of an 
 Add transplation
 ==================
 
-.. image:: AddTrans
+When clicking in "add transplation", as seen below (arrow):
 
+.. image:: AddTransplant.png
 
+This opens the section "New Transplation" as seen before.
 
+.. image:: AddTransplant.png
 
+Here you'll have a chance of adding details about the "Donor", re-entering the "SOAS listing ID" and "Listing date". These and "Hospitalization start-date for the transplantation procedure" are all mandatory fields.
 
-
-
+Equally, you should mention the "Healthcare provider", "Referral center", "Case number from the procedure provider", "Organ" and "Transplation date".
 
 
 Baseline
