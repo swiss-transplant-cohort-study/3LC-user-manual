@@ -11,7 +11,7 @@ There are two ways to register a patient. First navigate to *Create and Search* 
 
 .. note:: The Ethics Committee has approved the registration of waitlisted (not yet transplanted) patients in the database. The recorded information includes current consent status. However, no collection of clinical/research data is allowed before transplantation. Proper enrollment in the Cohort only starts at the time of transplantation.
 
-.. tip:: Check  :ref:`consent` for more details.
+.. tip:: Check :ref:`consent` for more details.
 
 .. warning:: The patient should be entered in the database within 7 days after transplantation (5 working days).
 
@@ -127,9 +127,11 @@ The **principal care provider** takes the lead in the management of the care of 
 
 .. note:: For patients who are treated for their organ transplant at an institution other than the TPX center – use “External provider” (e.g. practicing physician, non-transplant hospital).
 
-Your patient is now fully enrolled!
+**Your patient is now fully enrolled!**
 
 More details can be found in our `Youtube page <https://www.youtube.com/watch?v=njswLTRGQII>`_.
+
+.. tip:: Check :ref:`overview` for more details - this will guide you throughout the sections which were created upon patient registration and/or enrollment.
 
 .. warning:: When a patient is created, it cannot deleted by an LDM. Please open a ticket to the IT.
 
