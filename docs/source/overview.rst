@@ -1,7 +1,12 @@
 Overview
 ###########
 
-From the left menu, you can search for a specific patient by using the **Create and Search**.
+Create and search
+*******************
+
+In the **Create and Search** menu, you'll see a list of all the STCS patients for your center with their *Unique patient identification*, *Initials*, *Date of Birth*, *Gender at birth*, *Latest assessment date*, as shown below.
+
+.. image:: CreateAndSearch.png
 
 When clicking on the STCS patient id we are looking for, in the example 90000001, you will be redirected to the **PatientOverview**. Here you can see a dashboard if all the information related to the patient, including the collected data.
 
@@ -26,3 +31,14 @@ By column the **transplantations** are displayed from left to right, from earlie
 First assessement at the bottom of the page is the Baseline.
 
 .. image:: overview3.png
+
+Using the system: tips
+************************
+
+In the **Create and search** menu, it is possible to sort when clicking in the different headers (see red arrows below):
+
+.. image:: Sort.png
+
+
+
+
