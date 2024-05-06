@@ -41,24 +41,14 @@ Consent description
 Consent management
 ====================
 
-Here you can see the STCS ID for the created patient and the age of the patient.
+Here you can see the STCS ID for the created patient and the age of the patient. Here an option will be give to note whether the patient might need to re-consent or not. Patient need for re-consent might happen in a variety of situations, such as: patient is under 18 at the time of the transplantation, patient was not able to give consent at the time of transplantion, etc. In the case of the patient 90000034, age 14, the default re-consent is set to "Yes". If the patient is an adult, the default re-consent is set to "No". 
 
 .. image:: ConsentFields.png
-
-Here an option will be give to note whether the patient might need to re-consent or not.
-
-Patient need for re-consent might happen in a variety of situations, such as: patient is under 18 at the time of the transplantation, patient was not able to give consent at the time of transplantion, etc.
-
-In the case of the patient shown above, the patient is an adult and therefore does not need to be considered for re-consent (default re-consent is set to "No"). Although their consent changed from "Absent (awaiting)" to "Present" who you can see as documented in the *Consent history* and also color coded (reminder: each color has a specific meaning, see :ref:`consent` for more details). 
-
-.. image:: ConsentChange.png
-
-.. image:: ConsentHist.png
 
 Consent
 ===========
 
-Here are the different fields:
+Here are the different consent fields:
 
 * Consent:
   * Present: when consent is present
@@ -69,7 +59,11 @@ Here are the different fields:
 
 .. tip:: Check :ref:`consent` for more details.
 
-Multiple types of consents are possible. For example for the patient 90000033
+Multiple types of consents are possible. For example for the patient 90000033, note how the consent of this patient changed from "Absent (awaiting)" to "Present" who you can see as documented in the *Consent history* and also color coded (reminder: each color has a specific meaning, see :ref:`consent` for more details). 
+
+.. image:: ConsentChange.png
+
+.. image:: ConsentHist.png
 
 Click "Save and continue" to further proceed.
 
