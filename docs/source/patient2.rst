@@ -43,9 +43,13 @@ Consent description
 Consent management
 ====================
 
+Here you can see the STCS ID for the created patient and the age of the patient.
+
 Here an option will be give to note whether the patient might need to re-consent or not.
 
-Patient need for re-consent might happen in a variety of situations, such as: patient is under 18 at the time of the transplantation, patient was not able to give consent at the time of transplantion, etc.
+Patient need for re-consent might happen in a variety of situations, such as: patient is under 18 at the time of the transplantation, patient was not able to give consent at the time of transplantion, etc. In the case of the patient shown above, the patient is an adult and therefore does not need to be considered for reconsent.
+
+.. image:: ConsentManag.png
 
 Consent
 ===========
@@ -106,7 +110,9 @@ The patient also needs a SOAS listing ID, a Listing Date, whether the transplant
 
 A patient always needs to be associated to a SOAS ID listing. In the case of an urgent transplantion, in which the patient does not stay in the waiting list before transplantation, the patient should be associated to a SOAS listing ID posteriorly.
 
-.. note:: Note that in the particular situation of an urgent transplantion, the *listing date* and *removal date* for this patient would be the same as the *transplant date*.
+.. note:: Note that in the particular situation of an urgent transplantion, the *listing date* and *removal date* for this patient would be the same as the *transplant date*
+
+.. note:: A list of possible donors can be selected from the list on the SOAS Listing ID.
 
 Patient Enrollment and Add transplation
 =========================================
@@ -119,7 +125,7 @@ This opens the section "New Transplation" as seen before.
 
 .. image:: NewTransplant.png
 
-Here you'll have a chance of adding details about the "Donor", re-entering the "SOAS listing ID" and "Listing date". These and "Hospitalization start-date for the transplantation procedure" are all mandatory fields.
+Here you'll have a chance of adding details about the "Donor", the "SOAS listing ID" and "Listing date". These and "Hospitalization start-date for the transplantation procedure" are all mandatory fields.
 
 Equally, you should mention the "Healthcare provider", "Referral center", "Case number from the procedure provider", "Organ" and "Transplation date".
 
