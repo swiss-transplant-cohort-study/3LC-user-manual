@@ -41,7 +41,7 @@ Consent description
 Consent management
 ====================
 
-Here you can see the STCS ID for the created patient and the age of the patient. Here an option will be give to note whether the patient might need to re-consent or not. Patient need for re-consent might happen in a variety of situations, such as: patient is under 18 at the time of the transplantation, patient was not able to give consent at the time of transplantion, etc. In the case of the patient 90000034, age 14, the default re-consent is set to "Yes". If the patient is an adult, the default re-consent is set to "No". 
+Here you can see the STCS ID for the created patient and the age of the patient. Here an option will be give to note whether the patient might need to re-consent or not. Patient need for re-consent might happen in a variety of situations, such as: patient is under 18 at the time of the transplantation, patient was not able to give consent at the time of transplantion, etc. In the case of the patient 90000034, age 14, the default re-consent is set to "Yes" (and it can not be edited). If the patient is an adult, the default re-consent is set to "No". 
 
 .. image:: ConsentFields.png
 
@@ -59,13 +59,17 @@ Here are the different consent fields:
 
 .. tip:: Check :ref:`consent` for more details.
 
-Multiple types of consents are possible. For example for the patient 90000033, note how the consent of this patient changed from "Absent (awaiting)" to "Present" who you can see as documented in the *Consent history* and also color coded (reminder: each color has a specific meaning, see :ref:`consent` for more details). 
+Multiple types of consents are possible. For example for the patient 90000033, note how the consent of this patient changed from "Absent (awaiting)" to "Present" who you can see as documented in the *Consent history* and also color coded (reminder: each color has a specific meaning, see :ref:`consent` for more details). The dates of the different consents are also indicated.
 
 .. image:: ConsentChange.png
 
 .. image:: ConsentHist.png
 
+Only the last added consent can be either edited or deleted. When only one consent is present, it can be edited, but not deleted.
+
 Click "Save and continue" to further proceed.
+
+.. tip:: Watch our video on this section `here <https://www.youtube.com/watch?v=2YoodSm4fxg>`_.
 
 .. warning:: The consent status is required to further proceed for patient enrollment and registration.
 
