@@ -18,16 +18,6 @@ Glossary and Abbreviations
 
    glossary
 
-
-Overview
-**************
-
-.. toctree::
-   :maxdepth: 1
-
-   overview
-
-
 Create an account and user roles
 ******************************************
 
@@ -37,6 +27,14 @@ This section provides information about the different types of users and respect
    :maxdepth: 1
 
    signup
+
+Overview
+**************
+
+.. toctree::
+   :maxdepth: 1
+
+   overview
 
 
 Minimal Data
