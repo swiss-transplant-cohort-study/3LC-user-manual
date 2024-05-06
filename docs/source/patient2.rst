@@ -38,12 +38,12 @@ Once this is filled in, please proceed by clicking "Save and add Cons". A STSC P
 Consent description
 **********************
 
-.. image:: ConsentFields.png
-
 Consent management
 ====================
 
 Here you can see the STCS ID for the created patient and the age of the patient.
+
+.. image:: ConsentFields.png
 
 Here an option will be give to note whether the patient might need to re-consent or not.
 
@@ -51,7 +51,7 @@ Patient need for re-consent might happen in a variety of situations, such as: pa
 
 In the case of the patient shown above, the patient is an adult and therefore does not need to be considered for re-consent (default re-consent is set to "No"). Although their consent changed from "Absent (awaiting)" to "Present" who you can see as documented in the *Consent history* and also color coded (reminder: each color has a specific meaning, see :ref:`consent` for more details). 
 
-.. image:: ConsentManag.png
+.. image:: ConsentChange.png
 
 .. image:: ConsentHist.png
 
