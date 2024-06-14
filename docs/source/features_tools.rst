@@ -31,7 +31,7 @@ The Audit allows to see what kind of changes have been made on a specific variab
 
 Let's suppose we arein Patient Baseline, Audit is available via the buttun as highlighted below in the red frame.
 
-.. image:: audit1.png
+.. image:: Audit1.png
 
 Let's suppose we entered the value "Yes" into Previous transplantations, Saved the form, then re-opened and changed the value to "No" and Saved the form.
 
@@ -39,11 +39,11 @@ The Audit reports are accessible by clicking **twice** on the Audit icon, see re
 
 After the double cliking on "Audit" an icon appear under each variable, see red frame in the screen-shot below for variable "Previous transplantation".
 
-.. image:: audit2.png
+.. image:: Audit2.png
 
 By clicking once on the variable-specific icon we then access the Audit details on that variable as we can see below.
 
-.. image:: audit3.png
+.. image:: Audit3.png
 
 
 Overdue Follow-Ups
