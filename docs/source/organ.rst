@@ -4,6 +4,19 @@ Organ
 Liver 
 =======
 
+Liver cancer staging
+______________________
+
+.. image:: LiverStaging1.png
+
+.. image:: LiverStaging2.png
+
+.. image:: LiverStaging3.png
+
+.. image:: LiverStaging4.png
+
+.. image:: LiverStaging5.png
+
 Clarification «Dindo‐Clavien grading»
 ________________________________________
 
