@@ -29,7 +29,7 @@ Audit
 
 The Audit allows to see what kind of changes have been made on a specific variable, when and by whom. Let's see the example below.
 
-Let's suppose we arein Patient Baseline, Audit is available via the buttun as highlighted below in the red frame.
+Let's suppose we are in Patient Baseline, Audit is available via the buttun as highlighted below in the red frame.
 
 .. image:: Audit1.png
 
@@ -42,6 +42,10 @@ After the double cliking on "Audit" an icon appear under each variable, see red 
 .. image:: Audit2.png
 
 By clicking once on the variable-specific icon we then access the Audit details on that variable as we can see below.
+
+- Action=C means the variable has been created, in other words a value has been associated into a specific variable on a specific entry for the first time.
+
+- Action=U means the variable has been updated.
 
 .. image:: Audit3.png
 
