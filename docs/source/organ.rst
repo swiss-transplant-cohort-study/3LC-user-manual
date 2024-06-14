@@ -18,13 +18,21 @@ When Liver tumor is confirmed as liver transplantation disease leading to transp
 .. note:: Existing data, as from old system, have been mapped into the new structure. So called historic variables, that used to be collected into the old system and are no longer collected are displayed with a grey backgroud, e.g. number of liver tumors based on imaging diagnosis, this to allow display of values entered in the old system. 
 
 .. image:: LiverStaging1.png
+
 Multiple therapy procedures can be entered by using the "+" button.
+
 .. image:: LiverStaging2.png
+
 Tumor staging related variables are collected at time of tumor diagnosis, if this information is not available then click on red button "missing" so the entire section will be set to "missing".
+
 .. image:: LiverStaging3.png
+
 Tumor staging related variables are collected at time of evaluation when patient is listed for transplantation, , if this information is not available then click on red button "missing" so the entire section will be set to "missing".
+
 .. image:: LiverStaging4.png
+
 Tumor staging related variables are collected before transplantation, , if this information is not available then click on red button "missing" so the entire section will be set to "missing".
+
 .. image:: LiverStaging5.png
 
 Clarification «Dindo‐Clavien grading»
