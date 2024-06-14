@@ -26,6 +26,7 @@ HLA
 ***********************
 
 May 2024, the following values have been added:
+
 *	null in all hla variables, used to be only in hladrb35
 *	DP135, rare but important to report
 *	DP80, rare but important to report
