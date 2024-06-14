@@ -27,18 +27,18 @@ HLA
 
 May 2024, the following values have been added:
 
-*	null in all hla variables, used to be only in hladrb35
-*	DP135, rare but important to report
-*	DP80, rare but important to report
-*	DP1448, rare but important to report
-*	DP40, rare but important to report
-*	DP257, rare but important to report
-*	DP350, rare but important to report
-*	DP849, rare but important to report
-*	DP702, rare but important to report
-*	DP1448, rare but important to report
-*	DP417, rare but important to report
-*	- , value with a specific meaning, it occurs in case of homozygous
+*	"null" in all hla variables, used to be only in hladrb35
+*	"DP135", rare but important to report
+*	"DP80", rare but important to report
+*	"DP1448", rare but important to report
+*	"DP40", rare but important to report
+*	"DP257, rare but important to report
+*	"DP350", rare but important to report
+*	"DP849", rare but important to report
+*	"DP702", rare but important to report
+*	"DP1448", rare but important to report
+*	"DP417", rare but important to report
+*	"-" , value with a specific meaning, it occurs in case of homozygous
 
 
 DSA
