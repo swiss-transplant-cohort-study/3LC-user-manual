@@ -58,7 +58,14 @@ Here are the different consent fields:
 
 * Consent date.
 
-* IC form: different forms are available.
+* IC form: different forms are available:
+
+  * Adolescents (For adolescents with actual age and developmental age more than or equal to 14 to less than 18 years)
+  * Adults (for  adult  patients  at  listing  or medical evaluation before transplant)
+  * Majority (for children (for whom the parents have signed the consent), after reaching age 18 years)
+  * Parents (Parents sign for all children with actual age or developmental age <14 years)
+  * Relatives (for adult patients with permanent incapability of judgement (to be confirmed by a physician))
+  * Retrospective (for adult patients incapable to give written informed consent for medical reasons before enrolment - they should be retrospectively consented as soon as possible after transplantation)
 
 .. tip:: Check :ref:`consent` for more details.
 
