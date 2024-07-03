@@ -36,15 +36,6 @@ Overview
 
    overview
 
-
-Minimal Data
-*****************
-
-.. toctree::
-   :maxdepth: 1
-
-   minimal
-
 Consent
 **********
 .. toctree::
@@ -61,6 +52,13 @@ Patient enrollment and registration
 
    patient2
 
+Minimal Data
+*****************
+
+.. toctree::
+   :maxdepth: 1
+
+   minimal
 
 HCP
 ****
