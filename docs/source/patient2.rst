@@ -51,11 +51,14 @@ Consent
 Here are the different consent fields:
 
 * Consent:
-  * Present: when consent is present
-  * Absent (awaiting): there is no consent for the moment, but the consent has not been explicitly refused
-  * Absent (documented refusal): when the consent were explicitly refused by the patient.
-* Consent date
-* IC form: different forms are available
+
+  * Present: when consent is present.
+  * Absent awaiting: there is no consent for the moment, but the consent has not been explicitly refused.
+  * Absent documented refusal: when the consent were explicitly refused by the patient.
+
+* Consent date.
+
+* IC form: different forms are available.
 
 .. tip:: Check :ref:`consent` for more details.
 
@@ -86,11 +89,11 @@ A patient waiting for a transplanted can be registered with a *SOAS listing ID* 
 .. image:: soasListing.png
 
 We recommend the following workflow for patient registration:
-   1. Register the patient in the STCS once you send the Patient information to the patient
-   2. Add the SOAS listing ID and the Organ
-   3. Register the consent as “Absent (awaiting)” with the date when the ICF was sent out
-   4. Once you receive the consent form back, you should update the consent with the appropriate date
-   5. Enroll the patient, but only once the transplantation happened (the information about the transplatation and the donor should also added to the system)
+   #. Register the patient in the STCS once you send the Patient information to the patient.
+   #. Add the SOAS listing ID and the Organ.
+   #. Register the consent as “Absent (awaiting)” with the date when the ICF was sent out.
+   #. Once you receive the consent form back, you should update the consent with the appropriate date.
+   #. Enroll the patient, but only once the transplantation happened (the information about the transplatation and the donor should also added to the system).
 
 .. note:: A SOAS listing for recipients who are on the **Swiss waiting list** should follow this format and range: RS -[1901-2024]-[0001-9999] (for example, RS-2000-0002). For recipients on the *Foreign waiting list*, the SOAS listing ID should follow this format: RF -[1901-2024]-[0001-9999]. [1901-2024] corresponds to the listing year, [0001-9999] to the current case number.
 
