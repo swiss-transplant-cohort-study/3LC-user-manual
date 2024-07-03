@@ -15,14 +15,15 @@ Definitions and types of consents
 - **Absent (ReCap)**: This is only relevant for patients who have received a transplant between 01. january 2008 and 30. April 2008. The data of these patients is entered as ‘minimal dataset’. The date of IC 01.01.2008 was entered for these patients.
 
 Flow chart
-*******************************************
+================================================================
 
 .. image:: ConsentManagement.png
 
-Consent “Absent (awaiting)” at the time of transplantation
-================================================================
+What if the consent is “Absent (awaiting)” at the time of transplantation?
+**************************************************************************************
 
 Certain patients leave the requests to consent unanswered during the waitlist period. This means that when the patient is called for transplantation, there is neither consent nor refusal to STCS. In the vast majority (i.e. ~95%), the patients subsequently consent once the transplantation has taken place. To preserve human resources and to avoid delays in the data entry, the best solution for the STCS is to start collecting routine clinical data from the transplant centers (i.e. only existing non-genetic personal data from patient charts) shortly after transplantation (with reference to the time point of transplantation), even if the consent has not yet been signed.
+
 .. warning:: It is important to note that **neither samples are drawn nor psychosocial questionnaire (PSQ) data are collected, as long as no consent is signed**. 
 
 .. image:: consent_tx.png
