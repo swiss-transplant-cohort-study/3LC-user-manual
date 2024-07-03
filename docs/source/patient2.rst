@@ -13,7 +13,7 @@ There are two ways to register a patient. First navigate to *Create and Search* 
 
 .. tip:: Check :ref:`consent` for more details.
 
-.. warning:: The patient should be entered in the database within 7 days after transplantation (5 working days).
+.. warning:: The patient should be entered in the database within 7 days after transplantation (5 working days). The minimal entry should containt: name, first name, date of birth and consent status with date.
 
 The following fields are common between **Patient Enrollment** and **Patient Registration**:
 
@@ -31,7 +31,7 @@ The first step is to add the administrative data for the patient, such as:
 
 Once this is filled in, please proceed by clicking "Save and add Cons". A STSC Patient ID will be automatically generated once the Adminstrative data is saved.
 
-.. tip:: The date of birth can be also manually typed.
+.. tip:: The date of birth can also be manually typed.
 
 .. tip:: When selecting the date of birth, if you click on the "Month", a month view appears. If you further click on the year, a year view appears. This will help you navigating through time and selecting the right date of birth more easily.
 
@@ -41,7 +41,7 @@ Consent description
 Consent management
 ====================
 
-Here you can see the STCS ID for the created patient and the age of the patient. Here an option will be give to note whether the patient might need to re-consent or not. Patient need for re-consent might happen in a variety of situations, such as: patient is under 18 at the time of the transplantation, patient was not able to give consent at the time of transplantion, etc. In the case of the patient 90000034, age 14, the default re-consent is set to "Yes" (and it can not be edited). If the patient is an adult, the default re-consent is set to "No". 
+Here, you can see the STCS ID for the just created patient. Equally, the age of the patient is displayed - this is important, as the patient might need to re-consent. The patient might need to re-consent due to a variety of situations, such as: patient is under 18 at the time of the transplantation, patient was not able to give consent at the time of transplantion, etc. For example, in the case of the patient 90000034, age 14, the default re-consent is set to "Yes" (and it can not be edited), as shown below. If the patient was an adult, the default re-consent would be set to "No". 
 
 .. image:: ConsentFields.png
 
@@ -98,6 +98,8 @@ We recommend the following workflow for patient registration:
 .. note:: A SOAS listing for recipients who are on the **Swiss waiting list** should follow this format and range: RS -[1901-2024]-[0001-9999] (for example, RS-2000-0002). For recipients on the *Foreign waiting list*, the SOAS listing ID should follow this format: RF -[1901-2024]-[0001-9999]. [1901-2024] corresponds to the listing year, [0001-9999] to the current case number.
 
 .. note:: If the patient dies while on the waiting list, this information should not be entered in the system as it is a clinical data. The patient should be left “open” in waiting list.
+
+.. warning:: Once the patient is registered within STCS, the LDM should write the SOAS_ID, the STCS_ID and the transplantation date on the pre-transplant PSQ.
 
 Patient Enrollment
 *********************
