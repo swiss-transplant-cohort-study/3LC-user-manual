@@ -131,8 +131,17 @@ Samples
 
    biosamples
 
+Data Quality check
+************************
+
+.. toctree::
+   :maxdepth: 1
+
+   DQC
+
 Billing
 **************
+
 .. toctree::
    :maxdepth: 1
 
