@@ -54,6 +54,8 @@ Kidney-specific Lab
 Liver-specific Lab
 **********************
 
+.. note:: For INR you can enter 0.99 instead of <1.
+
 Lung-specific Lab
 ******************
 
