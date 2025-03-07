@@ -53,3 +53,11 @@ dataset rather than having to do so retrospectively.
 The grading can be calculated by using the https://www.assessurgery.com/clavien-dindo-classification/ , or see screen-shot below.
 
 .. image:: dindo_clavien.png
+
+Kidney 
+=======
+
+Death after Graft loss in Kidney, Pancreas and Islets Transplantation
+__________________________________________________________________________________________
+
+In case of kidney, pancreas and/or islets transplantation, after a graft loss (glo no active organ) if you get the information that the patient died (e.g. from the dialysis register or a doctor), enter death with date and cause unknown in 3LC if there is no info available regarding the death.
