@@ -33,12 +33,23 @@ First assessement at the bottom of the page is the Baseline.
 .. image:: overview3.png
 
 Using the system: tips
-************************
+==========================
 
 In the **Create and search** menu, it is possible to sort when clicking in the different headers (see red arrows below):
 
 .. image:: Sort.png
 
+User roles
+*******************
 
+The project has the following user roles:
+
+* **Ldm user (local study nurse user)**: This is the main user of the STCS system. This user is an employee of a given local transplant (TX) center (BE, CHUV, HUG, SG, USB, USZ). The ldm user has edit rights for all patients of the TX center and of all patients that are shared with his/her center.
+
+* **HLA_Lab**: This user has writing rights for all patients of the TX center and of all patients that are shared with his/her center only on specific forms: HLA patient, HLA donor, Transplantation CDC (this to allow entering anti HLA and Cross-match).
+
+* **Local investigator**: This user has reading rights only for all patients of the TX center and of all patients that are shared with his/her center.
+
+* **Global_Viewer**: This user has reading rights only for all patients.
 
 
