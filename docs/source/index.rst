@@ -10,14 +10,6 @@ The aim of this documentation is to provide: an introduction to the system struc
 .. warning::
    Only authorized users will be able to access the system functionalities.
 
-Glossary and Abbreviations
-********************************
-
-.. toctree::
-   :maxdepth: 1
-
-   glossary
-
 Create an account and user roles
 ******************************************
 
@@ -162,3 +154,12 @@ Metadata
    :maxdepth: 1
 
    metadata
+
+Glossary and Abbreviations
+********************************
+
+.. toctree::
+   :maxdepth: 1
+
+   glossary
+
