@@ -10,7 +10,7 @@ The aim of this documentation is to provide: an introduction to the system struc
 .. warning::
    Only authorized users will be able to access the system functionalities.
 
-Create an account and user roles
+Create an account
 ******************************************
 
 This section provides information about the different types of users and respective permissions.
@@ -20,7 +20,7 @@ This section provides information about the different types of users and respect
 
    signup
 
-Overview
+Presentation of the workspace / Overview
 **************
 
 .. toctree::
@@ -34,7 +34,6 @@ Consent
    :maxdepth: 1
 
    consent
-
 
 Patient enrollment and registration
 **************************************
