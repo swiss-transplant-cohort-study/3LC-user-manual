@@ -21,12 +21,20 @@ This section provides information about the different types of users and respect
    signup
 
 2. Presentation of the workspace / Overview
-**************
+************************************************
 
 .. toctree::
    :maxdepth: 1
 
    overview
+
+3. Create
+**********************************
+
+.. toctree::
+   :maxdepth: 1
+
+   :CreatePatDon.rst
 
 Consent
 **********
