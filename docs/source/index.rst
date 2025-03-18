@@ -10,7 +10,7 @@ The aim of this documentation is to provide: an introduction to the system struc
 .. warning::
    Only authorized users will be able to access the system functionalities.
 
-Create an account
+1. Create an account
 ******************************************
 
 This section provides information about the different types of users and respective permissions.
@@ -20,7 +20,7 @@ This section provides information about the different types of users and respect
 
    signup
 
-Presentation of the workspace / Overview
+2. Presentation of the workspace / Overview
 **************
 
 .. toctree::
