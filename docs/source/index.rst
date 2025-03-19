@@ -34,7 +34,7 @@ This section provides information about the different types of users and respect
 .. toctree::
    :maxdepth: 1
 
-   :CreatePatDon.rst
+   :CreatePatDon
 
 Consent
 **********
