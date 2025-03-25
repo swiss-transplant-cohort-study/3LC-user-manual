@@ -1,7 +1,7 @@
 User Manual
 ######################
 
-The aim of this documentation is to provide: an introduction to the system structure and main entities, highlight important updates on the data collection compared to the previous system, list of available features and tools, SOPs, important notes and warning, important links (to SOPs, documentation, literature, ecodebook). 
+The aim of this documentation is to provide: an introduction to the system structure and main entities, highlight important updates on the data collection compared to the previous system, list of available features and tools, SOPs, important notes and warning, and important links (to SOPs, documentation, literature, ecodebook). 
 
 .. note::
 
@@ -34,7 +34,7 @@ This section provides information about the different types of users and respect
 .. toctree::
    :maxdepth: 1
 
-   :CreatePatDon
+   : CreatePatDon
 
 Patient enrollment and registration
 **************************************
