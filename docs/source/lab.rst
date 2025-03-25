@@ -25,6 +25,22 @@ If infection site is "Urinary tract" and infection is Proven or Probable then a 
 HLA
 ***********************
 
+May 2024, the following values have been added:
+
+*	"null" in all hla variables, used to be only in hladrb35
+*	"DP135", rare but important to report
+*	"DP80", rare but important to report
+*	"DP1448", rare but important to report
+*	"DP40", rare but important to report
+*	"DP257, rare but important to report
+*	"DP350", rare but important to report
+*	"DP849", rare but important to report
+*	"DP702", rare but important to report
+*	"DP1448", rare but important to report
+*	"DP417", rare but important to report
+*	"-" , value with a specific meaning, it occurs in case of homozygous
+
+
 DSA
 ***********************
 
@@ -37,6 +53,8 @@ Kidney-specific Lab
 
 Liver-specific Lab
 **********************
+
+.. note:: For INR you can enter 0.99 instead of <1.
 
 Lung-specific Lab
 ******************

@@ -10,25 +10,7 @@ The aim of this documentation is to provide: an introduction to the system struc
 .. warning::
    Only authorized users will be able to access the system functionalities.
 
-Glossary and Abbreviations
-**************
-
-.. toctree::
-   :maxdepth: 1
-
-   glossary
-
-
-Overview
-**************
-
-.. toctree::
-   :maxdepth: 1
-
-   overview
-
-
-Create an account and user roles
+1. Create an account
 ******************************************
 
 This section provides information about the different types of users and respective permissions.
@@ -38,6 +20,29 @@ This section provides information about the different types of users and respect
 
    signup
 
+2. Presentation of the workspace / Overview
+************************************************
+
+.. toctree::
+   :maxdepth: 1
+
+   overview
+
+3. Create
+**********************************
+
+.. toctree::
+   :maxdepth: 1
+
+   :CreatePatDon
+
+Patient enrollment and registration
+**************************************
+
+.. toctree::
+   :maxdepth: 1
+
+   patient2
 
 Minimal Data
 *****************
@@ -47,24 +52,9 @@ Minimal Data
 
    minimal
 
-Consent
-**********
-.. toctree::
-   :maxdepth: 1
-
-   consent
-
-
-Patient 
-**********
-.. toctree::
-   :maxdepth: 1
-
-   patient
-
-
 HCP
 ****
+
 .. toctree::
    :maxdepth: 1
 
@@ -87,7 +77,8 @@ Donor
    donor
 
 Transplantation
-****************
+*********************
+
 .. toctree::
    :maxdepth: 1
 
@@ -101,7 +92,7 @@ Organ
    organ
 
 Infectious Diseases
-*******************
+**********************
 
 .. toctree::
    :maxdepth: 1
@@ -110,6 +101,7 @@ Infectious Diseases
 
 Treatment
 *******************
+
 .. toctree::
    :maxdepth: 1
 
@@ -117,27 +109,39 @@ Treatment
 
 Lab
 *******************
+
 .. toctree::
    :maxdepth: 1
 
    lab
 
 Samples
-*******
+***********
+
 .. toctree::
    :maxdepth: 1
 
    biosamples
 
+Data Quality check
+************************
+
+.. toctree::
+   :maxdepth: 1
+
+   DQC
+
 Billing
 **************
+
 .. toctree::
    :maxdepth: 1
 
    invoicing
 
 Features and Tools
-**************
+*********************
+
 .. toctree::
    :maxdepth: 1
 
@@ -145,7 +149,17 @@ Features and Tools
 
 Metadata
 **************
+
 .. toctree::
    :maxdepth: 1
 
    metadata
+
+Glossary and Abbreviations
+********************************
+
+.. toctree::
+   :maxdepth: 1
+
+   glossary
+

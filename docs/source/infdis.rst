@@ -11,3 +11,10 @@ Documentation available via the STCS website (login needed)
 ________________________________________________
 - ID Guidelines (contain guidelines and SOP)
 - ID paper CRF
+
+Active at or post-enrolment infectious disease validation
+____________________________________________________
+
+The "Validated" check box is available to support LDM in keeping track of the ID validation process. Whether an infection is already validated at time of entry into the system or validated in a second moment this is up to each Center to decide the best procedure.
+
+.. image:: ID_validation.png
