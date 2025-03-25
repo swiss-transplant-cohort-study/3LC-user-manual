@@ -1,8 +1,4 @@
 Create an account
-#####################################
-
-Create user account
-*************************
 
 To create an user account go to your local STCS link and click on “Sign Up”:
 
@@ -10,7 +6,7 @@ To create an user account go to your local STCS link and click on “Sign Up”:
 
 Please complete the “Sign Up form” and select again “Sign Up”.
  
-..note:: The system admistrator will evaluate the registration request and provide access accordingly.
+.. note:: The system admistrator will evaluate the registration request and provide access accordingly.
 
 
 

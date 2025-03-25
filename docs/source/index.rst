@@ -10,15 +10,7 @@ The aim of this documentation is to provide: an introduction to the system struc
 .. warning::
    Only authorized users will be able to access the system functionalities.
 
-Glossary and Abbreviations
-********************************
-
-.. toctree::
-   :maxdepth: 1
-
-   glossary
-
-Create an account and user roles
+1. Create an account
 ******************************************
 
 This section provides information about the different types of users and respective permissions.
@@ -28,21 +20,21 @@ This section provides information about the different types of users and respect
 
    signup
 
-Overview
-**************
+2. Presentation of the workspace / Overview
+************************************************
 
 .. toctree::
    :maxdepth: 1
 
    overview
 
-Consent
-**********
+3. Create
+**********************************
+
 .. toctree::
    :maxdepth: 1
 
-   consent
-
+   :CreatePatDon
 
 Patient enrollment and registration
 **************************************
@@ -162,3 +154,12 @@ Metadata
    :maxdepth: 1
 
    metadata
+
+Glossary and Abbreviations
+********************************
+
+.. toctree::
+   :maxdepth: 1
+
+   glossary
+
