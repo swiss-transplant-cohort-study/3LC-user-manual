@@ -9,6 +9,8 @@
 3.2 Patient enrollment
 **************************
 
+(in construction)
+
 3.3 Patient registration
 ****************************
 
