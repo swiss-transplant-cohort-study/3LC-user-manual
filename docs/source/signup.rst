@@ -1,5 +1,4 @@
-1. Create an user account 
-#####################################
+Create an account
 
 To create an user account go to your local STCS link and click on “Sign Up”:
 
