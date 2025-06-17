@@ -12,7 +12,7 @@ Definitions and types of consents
 - **Absent (other)**: The participation of this patient in the STCS could not be clarified, and the patient is still alive. Please select the specific option, e.g. "Reminder process closed", "Language/Communication barrier".
 - **Absent (death)**: the patient died while consent was "Absent (awaiting)".
 - **Withdrawal**: when patient was registered as "new patient", a IC for this patient was available. However, at a later point, this patient withdrew his consent by informing us that they no longer wish to participate in the STCS. The consent status should then be changed "Present" to "Withdrawal". From this point on, only minimal data is collected from this patient.
-- **Absent (ReCap)**: This is only relevant for patients who have received a transplant between 01. january 2008 and 30. April 2008. The data of these patients is entered as ‘minimal dataset’. The date of IC 01.01.2008 was entered for these patients.
+- **Absent (ReCap)**: This is only relevant for patients who have received a transplant between 01. january 2008 and 30. April 2008. The data of these patients is entered as ‘minimal dataset’. The date of IC 01.01.2008 was entered for these patients. Check more info :ref:`below <ReCap>`.
 
 Flow chart
 ================================================================
@@ -36,8 +36,16 @@ If no consent is retrieved after transplantation, data collected will be kept in
 
 .. image:: consent_absent_tx2.png
 
+.. _Recap:
+
+Data collection in case of "Consent present" after "Consent Absent (ReCap)"
+************************************************************************************
+
+In case of a consent given following a retrospective capture (ReCap) please collect full data in the new forms created and the history in all the appropriate containers
+
 Attempts to obtain an Informed Consent
-================================================================
+******************************************
+
 Before transplantation: Three attempts before transplantation (these attempts can be done in writing or oral and must be documented in the IT system).
 
 After transplantation, if the informed consent is still unkown, one other attempt should be done up to 6-months. If still unknown and for specific cases, one attempt between 6-months follow-up and 1-year follow-up should be tried.
