@@ -39,15 +39,16 @@ If no consent is retrieved after transplantation, data collected will be kept in
 
 .. image:: consent_absent_tx2.png
 
-Attempts to obtain an Informed Consent
+How to manage attempts to obtain an Informed Consent?
 ================================================================
+
 Before transplantation: Three attempts before transplantation (these attempts can be done in writing or oral and must be documented in the IT system).
 
 After transplantation, if the informed consent is still unkown, one other attempt should be done up to 6-months. If still unknown and for specific cases, one attempt between 6-months follow-up and 1-year follow-up should be tried.
 
 .. _ReCap:
 
-Data collection in case of "Consent present" after "Consent Absent (ReCap)"
+How to collect data in case of "Consent present" after "Consent Absent (ReCap)"?
 ================================================================================================================================
 
 In case of a consent given following a retrospective capture (ReCap) please collect full data in the new forms created and the history in all the appropriate containers
