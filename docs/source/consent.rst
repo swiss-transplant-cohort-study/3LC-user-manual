@@ -12,12 +12,14 @@ Definitions and types of consents
 - **Absent (other)**: The participation of this patient in the STCS could not be clarified, and the patient is still alive. Please select the specific option, e.g. "Reminder process closed", "Language/Communication barrier".
 - **Absent (death)**: the patient died while consent was "Absent (awaiting)".
 - **Withdrawal**: when patient was registered as "new patient", a IC for this patient was available. However, at a later point, this patient withdrew his consent by informing us that they no longer wish to participate in the STCS. The consent status should then be changed "Present" to "Withdrawal". From this point on, only minimal data is collected from this patient.
-- **Absent (ReCap)**: This is only relevant for patients who have received a transplant between 01. january 2008 and 30. April 2008. The data of these patients is entered as ‘minimal dataset’. The date of IC 01.01.2008 was entered for these patients.
+- **Absent (ReCap)**: This is only relevant for patients who have received a transplant between 01. january 2008 and 30. April 2008. The data of these patients is entered as ‘minimal dataset’. The date of IC 01.01.2008 was entered for these patients. Check :ref:`below <ReCap>`).
 
 Flow chart
 ================================================================
 
 .. image:: ConsentManagement.png
+
+.. _ReCap:
 
 What if the consent is “Absent (awaiting)” at the time of transplantation?
 **************************************************************************************
