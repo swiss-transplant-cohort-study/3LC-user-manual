@@ -44,6 +44,14 @@ Patient enrollment and registration
 
    patient2
 
+Consent
+************
+
+.. toctree::
+   :maxdepth: 1
+
+   consent
+
 Minimal Data
 *****************
 
