@@ -19,10 +19,11 @@ Flow chart
 
 .. image:: ConsentManagement.png
 
-.. _ReCap:
+Q&As about consent
+***************************
 
 What if the consent is “Absent (awaiting)” at the time of transplantation?
-**************************************************************************************
+==================================================================================
 
 Certain patients leave the requests to consent unanswered during the waitlist period. This means that when the patient is called for transplantation, there is neither consent nor refusal to STCS. In the vast majority (i.e. ~95%), the patients subsequently consent once the transplantation has taken place. To preserve human resources and to avoid delays in the data entry, the best solution for the STCS is to start collecting routine clinical data from the transplant centers (i.e. only existing non-genetic personal data from patient charts) shortly after transplantation (with reference to the time point of transplantation), even if the consent has not yet been signed.
 
@@ -38,11 +39,18 @@ If no consent is retrieved after transplantation, data collected will be kept in
 
 .. image:: consent_absent_tx2.png
 
-Attempts to obtain an Informed Consent
+How many attempts to obtain an Informed Consent?
 ================================================================
 Before transplantation: Three attempts before transplantation (these attempts can be done in writing or oral and must be documented in the IT system).
 
 After transplantation, if the informed consent is still unkown, one other attempt should be done up to 6-months. If still unknown and for specific cases, one attempt between 6-months follow-up and 1-year follow-up should be tried.
+
+.. _ReCap:
+
+?How to collect data in case of "Consent present" after "Consent Absent (ReCap)"
+================================================================================================
+
+In case of a consent given following a retrospective capture (ReCap) please collect full data in the new forms created and the history in all the appropriate containers.
 
 Important Notes and Tips
 *******************************************
