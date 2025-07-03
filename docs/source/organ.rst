@@ -4,7 +4,7 @@ Organ
 Primary non-function
 ***************************************************************
 
-**Primary non-function (PNF) definition: The transplanted organ never started working (properly)
+**Primary non-function (PNF) definition**: The transplanted organ never started working (properly)
 
 **Date for PNF in 3LC**: Date of diagnosis of PNF by a physician. This might be days or weeks after transplantation. 
 
