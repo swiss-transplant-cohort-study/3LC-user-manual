@@ -60,14 +60,9 @@ Tumor staging related variables are collected before transplantation, , if this 
 Clarification «Dindo‐Clavien grading»
 =========================================
 
-• The Dindo Clavien classification provides the grade severity of a complication, for
-example a postoperative bleed that does not require intervention is not the same
-as a postoperative bleeding requiring a blood transfusion that isn’t equal to one
-requiring re‐laparotomy and another ICU stay.
+• The Dindo Clavien classification provides the grade severity of a complication, for example a postoperative bleed that does not require intervention is not the same as a postoperative bleeding requiring a blood transfusion that isn’t equal to one requiring re‐laparotomy and another ICU stay.
 
-• Publishing data in which postoperative complications are included will always
-require for Dindo Clavien classification that are way easier to collect as part of the
-dataset rather than having to do so retrospectively.
+• Publishing data in which postoperative complications are included will always require for Dindo Clavien classification that are way easier to collect as part of the dataset rather than having to do so retrospectively.
 
 .. Note:: 
    the classification is required to be collected for each reported complication related to liver transplantation.
@@ -79,9 +74,9 @@ The grading can be calculated by using the https://www.assessurgery.com/clavien-
 Pharmacological Treatment of Complications After Liver Transplantation
 -------------------------------------------------------------------------
 
-In cases where a patient develops a complication such as an anastomotic biliary stricture (AS), resulting in severe symptoms like intense pruritus, pharmacological treatment may be initiated.
-Medications (e.g. cholestyramine or bezafibrate) can be prescribed to alleviate the symptoms.
-This treatment should be documented in the organ section as ‘pharmacological treatment’ related to the complication ‘Anastomotic biliary stricture (AS)’.
+In cases where a patient develops a complication such as an anastomotic biliary stricture (AS), resulting in severe symptoms like intense pruritus, pharmacological treatment may be initiated. Medications (e.g. cholestyramine or bezafibrate) can be prescribed to alleviate the symptoms.
+
+This treatment should be documented in the **organ section** as ‘*pharmacological treatment*’ related to the complication ‘*Anastomotic biliary stricture (AS)*’.
 (Discussed with N. Müller on 20.05.2025)
 
 Kidney 
