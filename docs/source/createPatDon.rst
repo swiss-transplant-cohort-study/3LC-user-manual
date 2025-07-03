@@ -1,20 +1,20 @@
-3. Create
+3. Create...
 ##############
 
-3.1 Donor enrollment
+3.1 Create donor enrollment
 ************************
 
 (in construction)
 
-3.2 Patient enrollment
+3.2 Create patient enrollment
 **************************
 
 (in construction)
 
-3.3 Patient registration
+3.3 Create patient registration
 ****************************
 
-3.3.1. Patient consent
+3.3.1. Create consent
 ==========================
 
 Please check :doc:`consent` for more information about the different types of consents and other information.
