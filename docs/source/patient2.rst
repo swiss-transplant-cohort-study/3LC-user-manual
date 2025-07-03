@@ -41,9 +41,16 @@ Consent description
 Consent management
 ====================
 
-Here, you can see the STCS ID for the just created patient. Equally, the age of the patient is displayed - this is important, as the patient might need to re-consent. The patient might need to re-consent due to a variety of situations, such as: patient is under 18 at the time of the transplantation, patient was not able to give consent at the time of transplantion, etc. For example, in the case of the patient 90000034, age 14, the default re-consent is set to "Yes" (and it can not be edited), as shown below. If the patient was an adult, the default re-consent would be set to "No". 
+Here, you can see the STCS ID for the just created patient. Equally, the age of the patient is displayed - this is important, as the patient might need to re-consent. The patient might need to re-consent due to a variety of situations, such as: patient is under 18 at the time of the transplantation, patient was not able to give consent at the time of transplantion, etc. 
+
+See the example of the dummy patient 90000034, age 14, the default re-consent is set to "Yes" **by default** (and it can not be edited), as shown below. If the patient was an adult, the default re-consent would be set to "No".
 
 .. image:: ConsentFields.png
+
+Is a patient a candidate be re-consented?
+-------------------------------------------
+
+Yes, if it is a minor (<14 years) and the parents signed/refused the first consent.
 
 Consent
 ===========
@@ -52,9 +59,19 @@ Here are the different consent fields:
 
 * Consent:
 
-  * Present: when consent is present.
-  * Absent awaiting: there is no consent for the moment, but the consent has not been explicitly refused.
-  * Absent documented refusal: when the consent were explicitly refused by the patient.
+  * **Present**: when consent is present. In case of a signed consent form, please choose this option and fill in the consent date (date indicated on the informed consent and the IC form the patient or his parents or relatives signed.)
+
+.. note:: If you entered an "*absent (awaiting)*" consent prior to an IC "*present*" and you entered "minimal" in data collection, be sure to change this to "full" prior to enter the "*present*" IC.
+
+  * **Absent awaiting**: there is no consent for the moment, but the consent has not been explicitly refused. In case you sent out the IC Form but did not get an answer yet, chose this option until you can update it to a ‘present’ or ‘absent (documented refusal)’. 
+
+.. tip:: In data collection choose full or minimal (according to your intern procedure management) and as consent date enter the date you sent out the IC. In the comment field enter the attempts to obtain the informed consent (e.g. phone call on 1.3.2025, reminder sent on 1.3.2025, etc.)
+
+  * **Absent documented refusal**: when the consent were explicitly refused by the patient. For example, in case you get a written or oral (e.g. phone call) refusal of the participation in the STCS, enter this option.
+
+.. tip:: As date enter the date on the letter or of the oral refusal. In the comment field enter the attempts to obtain informed consent and/or how was the refusal communicated.
+
+.. note:: If you entered an ‘absent (awaiting)’ consent prior to an ‘absent (documented refusal)’ consent and you entered ‘full’ in data collection, be sure to change this to ‘minimal’ prior to enter the ‘absent (documented refusal)’ IC 
 
 * Consent date.
 
