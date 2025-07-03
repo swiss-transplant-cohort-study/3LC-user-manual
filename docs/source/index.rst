@@ -92,8 +92,17 @@ Transplantation
 
    transplantation
 
+Skin cancer
+*************
+
+.. toctree::
+   :maxdepth: 1
+
+skinCancer
+
 Organ
 ***************
+
 .. toctree::
    :maxdepth: 1
 
