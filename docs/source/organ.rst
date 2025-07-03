@@ -1,11 +1,17 @@
 Organ
-******
+########
+
+Biopsies after a primary non function (PNF) or a graft loss
+***************************************************************
+
+Biopsies taken from the transplanted graft up to 6 weeks after a global event such as a primary non function or a graft loss should be entered in the system. 
+Please add in the comment field that the date of the biopsy is after the organ loss.
 
 Liver 
-=======
+*************
 
 Liver tumor staging
-______________________
+=======================
 
 When Liver tumor is confirmed as liver transplantation disease leading to transplantation the following sections are requested to be filled in:
 
@@ -36,7 +42,7 @@ Tumor staging related variables are collected before transplantation, , if this 
 .. image:: LiverStaging5.png
 
 Clarification «Dindo‐Clavien grading»
-________________________________________
+=========================================
 
 • The Dindo Clavien classification provides the grade severity of a complication, for
 example a postoperative bleed that does not require intervention is not the same
@@ -55,7 +61,7 @@ The grading can be calculated by using the https://www.assessurgery.com/clavien-
 .. image:: dindo_clavien.png
 
 Kidney 
-=======
+*********
 
 Death after Graft loss in Kidney, Pancreas and Islets Transplantation
 __________________________________________________________________________________________
