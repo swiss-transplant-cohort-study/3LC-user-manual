@@ -98,7 +98,7 @@ Skin cancer
 .. toctree::
    :maxdepth: 1
 
-skinCancer
+   skinCancer
 
 Organ
 ***************
