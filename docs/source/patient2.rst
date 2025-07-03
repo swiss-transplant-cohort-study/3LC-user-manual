@@ -1,4 +1,4 @@
-Patient enrollment and registration
+Create Patient enrollment and registration
 #######################################
 
 There are two ways to register a patient. First navigate to *Create and Search* and select either:
@@ -153,8 +153,8 @@ A patient always needs to be associated to a SOAS ID listing. In the case of an 
 
 .. note:: A list of possible donors can be selected from the list on the SOAS Listing ID.
 
-Patient Enrollment and Add transplantation
-=========================================
+Create transplantation
+**************************
 
 When clicking in "add transplation", as seen below (arrow):
 
