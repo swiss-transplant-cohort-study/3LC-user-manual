@@ -1,12 +1,14 @@
 Organ
 ########
 
-Primary non-function (PNF)
+Primary non-function
 ***************************************************************
 
-**Definition of PNF**: The transplanted organ never started working (properly)
+**Primary non-function (PNF) definition: The transplanted organ never started working (properly)
 
-**Date for PNF in 3LC**: Date of diagnosis of PNF by a physician. This might be days or weeks after transplantation. In case that the date of PNF is the same as the transplantation, please set the date of the FUP and the PNF on the day after the transplantation and open a ticket and ask the Admin to change it to the transplantation date.
+**Date for PNF in 3LC**: Date of diagnosis of PNF by a physician. This might be days or weeks after transplantation. 
+
+.. warning:: If the date of PNF is the same as the transplantation date, please set the date of the FUP and the PNF on the day after the transplantation and open a ticket and ask the Admin to change it to the transplantation date.
 
 How to enter a PNF in 3LC
 ================================
