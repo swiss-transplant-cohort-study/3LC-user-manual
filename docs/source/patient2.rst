@@ -45,6 +45,11 @@ Here, you can see the STCS ID for the just created patient. Equally, the age of 
 
 .. image:: ConsentFields.png
 
+Is the patient a candidate to be re-consented?
+-----------------------------------------------
+
+Yes if it is a minor (<14 years) and the parents signed7refused the first consent.
+
 Consent
 ===========
 
@@ -52,9 +57,19 @@ Here are the different consent fields:
 
 * Consent:
 
-  * Present: when consent is present.
-  * Absent awaiting: there is no consent for the moment, but the consent has not been explicitly refused.
-  * Absent documented refusal: when the consent were explicitly refused by the patient.
+  * **Present**: when consent is present. In case of a signed consent form choose this option and fill in the consent date (date indicated on the informed consent and the IC form the patient or his parents or relatives signed.
+
+.. note:: If you entered an ‘absent (awaiting)’ consent prior to an IC ‘present’ and you entered ‘minimal’ in data collection, be sure to change this to ‘full’ prior to enter the ‘present’ IC.
+
+  * **Absent awaiting**: there is no consent for the moment, but the consent has not been explicitly refused. In case you sent out the IC Form but did not get an answer yet, chose this option until you can update it to a ‘present’ or ‘absent (documented refusal)’.
+
+.. tip:: In data collection choose full or minimal (according to your intern procedure management) and as consent date enter the date you sent out the IC. In the comment field enter the attempts to obtain the informed consent (e.g. phone call on 1.3.2025, reminder sent on 1.3.2025, etc.).
+
+  * **Absent documented refusal**: when the consent were explicitly refused by the patient. In case you get a written or oral (e.g. phone call) refusal of the participation in the STCS, enter this option.
+
+.. tip:: As date enter the date on the letter or of the oral refusal. In the comment field enter the attempts to obtain informed consent and/or how was the refusal communicated.
+
+.. note:: If you entered an ‘absent (awaiting)’ consent prior to an ‘absent (documented refusal)’ consent and you entered ‘full’ in data collection, be sure to change this to ‘minimal’ prior to enter the ‘absent (documented refusal)’ IC 
 
 * Consent date.
 
@@ -91,9 +106,18 @@ Patient Registration
 Patient Registration and SOAS Listing ID
 ===========================================
 
-A patient waiting for a transplanted can be registered with a *SOAS listing ID* and type of organ listed (*Transplantation (listing)*). The user should also indicate whether this is a *Urgent listing* and the *Listing date* (when the patient is listed). Click on "Save".
+Enter the SOAS listing ID (RS-Number assigned to the patient when set on the waitlist), if the listing status was urgent (super urgent counts as urgent) and the date the patient was set on the waitlist (regardless of active or inactive listing). Click on "Save".
 
 .. image:: soasListing.png
+
+The date of removal corresponds to the TX-date or to the date of death if a patient dies before a transplantation or to the date the patient was removed from the waitlist for any other cause (e.g. pat. Doesn’t want to be transplanted and signs the forms for being officially removed from the waitlist).
+
+Finally, select the organ(s) the patient has been listed for from the list.
+
+You can add SOAS listings for other organs, even ongoing organs, if the patient is (re-) listed.
+
+Workflow recommendation:
+---------------------------
 
 We recommend the following workflow for patient registration:
    #. Register the patient in the STCS once you send the Patient information to the patient.
