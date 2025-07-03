@@ -68,7 +68,6 @@ Here are the different consent fields:
 
 .. note:: If you entered an ‘absent (awaiting)’ consent prior to an IC ‘present’ and you entered ‘minimal’ in data collection, be sure to change this to ‘full’ prior to enter the ‘present’ IC.
 
-
 * Consent "Absent awaiting": there is no consent for the moment, but the consent has not been explicitly refused. In case you sent out the IC Form but did not get an answer yet, chose this option until you can update it to a ‘present’ or ‘absent (documented refusal)’.
 
 .. tip:: In data collection choose full or minimal (according to your intern procedure management) and as consent date enter the date you sent out the IC. In the comment field enter the attempts to obtain the informed consent (e.g. phone call on 1.3.2025, reminder sent on 1.3.2025, etc.).
@@ -77,12 +76,66 @@ Here are the different consent fields:
 
 .. tip:: As date enter the date on the letter or of the oral refusal. In the comment field enter the attempts to obtain informed consent and/or how was the refusal communicated.
 
-.. note:: If you entered an ‘absent (awaiting)’ consent prior to an ‘absent (documented refusal)’ consent and you entered ‘full’ in data collection, be sure to change this to ‘minimal’ prior to enter the ‘absent (documented refusal)’ IC 
+.. note:: If you entered an ‘absent (awaiting)’ consent prior to an ‘absent (documented refusal)’ consent and you entered ‘full’ in data collection, be sure to change this to ‘minimal’ prior to enter the ‘absent (documented refusal)’ IC.
+
+IC form: different forms are available:
+---------------------------------------------
+
+  * Adolescents (For adolescents with actual age and developmental age more than or equal to 14 to less than 18 years)
+  * Adults (for  adult  patients  at  listing  or medical evaluation before transplant)
+  * Majority (for children (for whom the parents have signed the consent), after reaching age 18 years)
+  * Parents (Parents sign for all children with actual age or developmental age <14 years)
+  * Relatives (for adult patients with permanent incapability of judgement (to be confirmed by a physician))
+  * Retrospective (for adult patients incapable to give written informed consent for medical reasons before enrolment - they should be retrospectively consented as soon as possible after transplantation)
+
+.. tip:: Check :ref:`consent` for more details.
+
+Multiple types of consents are possible. For example for the patient 90000033, note how the consent of this patient changed from "Absent (awaiting)" to "Present" who you can see as documented in the *Consent history* and also color coded (reminder: each color has a specific meaning, see :ref:`consent` for more details). The dates of the different consents are also indicated.
+
+.. image:: ConsentChange.png
+
+.. image:: ConsentHist.png
+
+Only the last added consent can be either edited or deleted. When only one consent is present, it can be edited, but not deleted.
+
+Click "Save and continue" to further proceed.
+
+.. tip:: Watch our video on this section `here <https://www.youtube.com/watch?v=2YoodSm4fxg>`_.
+
+.. warning:: The consent status is required to further proceed for patient enrollment and registration.
+
+From this point, there is a difference in **Patient Enrollment** and **Patient Registration**. Those differences will be described separately below.
 
 Please check :doc:`consent` for more information about the different types of consents and other information.
 
 3.3.2. Create SOAS Listing
 =============================
+
+Enter the SOAS listing ID (RS-Number assigned to the patient when set on the waitlist), if the listing status was urgent (super urgent counts as urgent) and the date the patient was set on the waitlist (regardless of active or inactive listing). Click on "Save".
+
+.. image:: soasListing.png
+
+The date of removal corresponds to the TX-date or to the date of death if a patient dies before a transplantation or to the date the patient was removed from the waitlist for any other cause (e.g. pat. Doesn’t want to be transplanted and signs the forms for being officially removed from the waitlist).
+
+Finally, select the organ(s) the patient has been listed for from the list.
+
+You can add SOAS listings for other organs, even ongoing organs, if the patient is (re-) listed.
+
+Workflow recommendation:
+---------------------------
+
+We recommend the following workflow for patient registration:
+   #. Register the patient in the STCS once you send the Patient information to the patient.
+   #. Add the SOAS listing ID and the Organ.
+   #. Register the consent as “Absent (awaiting)” with the date when the ICF was sent out.
+   #. Once you receive the consent form back, you should update the consent with the appropriate date.
+   #. Enroll the patient, but only once the transplantation happened (the information about the transplatation and the donor should also added to the system).
+
+.. note:: A SOAS listing for recipients who are on the **Swiss waiting list** should follow this format and range: RS -[1901-2024]-[0001-9999] (for example, RS-2000-0002). For recipients on the *Foreign waiting list*, the SOAS listing ID should follow this format: RF -[1901-2024]-[0001-9999]. [1901-2024] corresponds to the listing year, [0001-9999] to the current case number.
+
+.. note:: If the patient dies while on the waiting list, this information should not be entered in the system as it is a clinical data. The patient should be left “open” in waiting list.
+
+.. warning:: Once the patient is registered within STCS, the LDM should write the SOAS_ID, the STCS_ID and the transplantation date on the pre-transplant PSQ.
 
 3.3.3. Create Transplantation
 ================================
