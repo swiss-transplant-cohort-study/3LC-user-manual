@@ -90,7 +90,7 @@ For example, in the case of the patient 90000034, age 14, the default re-consent
 
 .. image:: ConsentFields.png
 
-.. warning:: Is the patient a candidate to be re-consented? Yes, if it is a minor (<14 years) and the parents signed7refused the first consent.
+.. warning:: Is the patient a candidate to be re-consented? Yes, if it is a minor (<14 years) and the parents signed/refused the first consent.
 
 Consent status
 ====================
