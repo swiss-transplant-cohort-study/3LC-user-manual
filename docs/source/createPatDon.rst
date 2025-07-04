@@ -115,7 +115,7 @@ See below an example on how a patient with Consent "Absent (awaiting)" is displa
 
 .. image:: ConsentEx.png
 
-Different tyoes of IC forms available:
+Different types of IC forms available:
 ========================================
 
   * Adolescents (For adolescents with actual age and developmental age more than or equal to 14 to less than 18 years)
