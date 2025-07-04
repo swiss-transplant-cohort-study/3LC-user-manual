@@ -88,8 +88,6 @@ IC form: different forms are available:
   * Relatives (for adult patients with permanent incapability of judgement (to be confirmed by a physician))
   * Retrospective (for adult patients incapable to give written informed consent for medical reasons before enrolment - they should be retrospectively consented as soon as possible after transplantation)
 
-.. tip:: Check :ref:`consent` for more details.
-
 Multiple types of consents are possible. For example for the patient 90000033, note how the consent of this patient changed from "Absent (awaiting)" to "Present" who you can see as documented in the *Consent history* and also color coded (reminder: each color has a specific meaning, see :ref:`consent` for more details). The dates of the different consents are also indicated.
 
 .. image:: ConsentChange.png
@@ -98,15 +96,11 @@ Multiple types of consents are possible. For example for the patient 90000033, n
 
 Only the last added consent can be either edited or deleted. When only one consent is present, it can be edited, but not deleted.
 
-Click "Save and continue" to further proceed.
+.. warning:: The consent status is required to further proceed for patient enrollment and registration.
 
 .. tip:: Watch our video on this section `here <https://www.youtube.com/watch?v=2YoodSm4fxg>`_.
 
-.. warning:: The consent status is required to further proceed for patient enrollment and registration.
-
-From this point, there is a difference in **Patient Enrollment** and **Patient Registration**. Those differences will be described separately below.
-
-Please check :doc:`consent` for more information about the different types of consents and other information.
+.. tip:: Please check :doc:`consent` for more information about the different types of consents and other information, such as Q&As.
 
 3.3.2. Create SOAS Listing
 =============================
