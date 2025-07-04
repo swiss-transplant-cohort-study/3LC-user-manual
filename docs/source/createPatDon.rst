@@ -89,7 +89,7 @@ Organ: Enter multiple transplanted organs from the same donor by using ‘add or
 ***********************
 
 Consent management
----------------------
+====================
 
 Here, you can see the STCS ID for the just created patient. Equally, the age of the patient is displayed - this is important, as the patient might need to re-consent. The patient might need to re-consent due to a variety of situations, such as: patient is under 18 at the time of the transplantation, patient was not able to give consent at the time of transplantion, etc.
 
@@ -100,7 +100,8 @@ For example, in the case of the patient 90000034, age 14, the default re-consent
 .. warning:: Is the patient a candidate to be re-consented? Yes, if it is a minor (<14 years) and the parents signed7refused the first consent.
 
 Consent status
-----------------
+====================
+
 Here are the different consent fields:
 
 * **Consent "Present": when consent is present. In case of a signed consent form choose this option and fill in the consent date (date indicated on the informed consent and the IC form the patient or his parents or relatives signed.
@@ -118,7 +119,7 @@ Here are the different consent fields:
 .. note:: If you entered an ‘absent (awaiting)’ consent prior to an ‘absent (documented refusal)’ consent and you entered ‘full’ in data collection, be sure to change this to ‘minimal’ prior to enter the ‘absent (documented refusal)’ IC.
 
 Different tyoes of IC forms available:
----------------------------------------------
+========================================
 
   * Adolescents (For adolescents with actual age and developmental age more than or equal to 14 to less than 18 years)
   * Adults (for  adult  patients  at  listing  or medical evaluation before transplant)
@@ -142,7 +143,7 @@ Please check :doc:`consent` for more information about the different types of co
 .. tip:: Watch our video on this section `here <https://www.youtube.com/watch?v=2YoodSm4fxg>`_.
 
 3.6. Create SOAS Listing
-=============================
+************************************
 
 Enter the SOAS listing ID (RS-Number assigned to the patient when set on the waitlist), if the listing status was urgent (super urgent counts as urgent) and the date the patient was set on the waitlist (regardless of active or inactive listing). Click on "Save".
 
@@ -155,7 +156,7 @@ Finally, select the organ(s) the patient has been listed for from the list.
 You can add SOAS listings for other organs, even ongoing organs, if the patient is (re-) listed.
 
 Workflow recommendation:
----------------------------
+========================================
 
 We recommend the following workflow for patient registration:
    #. Register the patient in the STCS once you send the Patient information to the patient.
@@ -171,7 +172,7 @@ We recommend the following workflow for patient registration:
 .. warning:: Once the patient is registered within STCS, the LDM should write the SOAS_ID, the STCS_ID and the transplantation date on the pre-transplant PSQ.
 
 3.7. Create Transplantation
-================================
+*************************************
 
 .. need to link the section above
 
@@ -192,4 +193,4 @@ To add transplantations (second or re-transplantations, go on Patient Admin (lef
 .. note:: When adding a re-transplantation do not forget to enter a FUP and to stop the organ prior to adding the new one.
 
 3.8. Non STCS Study Linkage
-=================================
+*********************************
