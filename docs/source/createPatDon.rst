@@ -17,8 +17,8 @@ There are two ways to register a patient. First navigate to *Create and Search* 
 
 The following fields are common between **Patient Enrollment** and **Patient Registration**:
 
-Administrative data
-***********************
+3.1. Administrative data
+*****************************
 
 The first step is to add the administrative data for the patient, such as:
 
@@ -35,30 +35,69 @@ Once this is filled in, please proceed by clicking "Save and add Cons". A STSC P
 
 .. tip:: When selecting the date of birth, if you click on the "Month", a month view appears. If you further click on the year, a year view appears. This will help you navigating through time and selecting the right date of birth more easily.
 
-3.1 Create donor enrollment
-************************
+3.2. Create donor enrollment
+********************************
+.. _donor:
+
+To register a new Donor go to: *Create and Search* > *Donor enrollment*
+
+.. image:: Donor.png
+
+Here you can can enter the following information:
+
+* SOAS Donor ID
+* Date of Birth
+* Gender at Birth
+* Blood group
+* Type of donor
+
+After this, you just need to click *Save*.
+
+More details are provided for the the type of donor below.
+
+Type of donor
+================
+
+Here are the different types of donors which are possible:
+
+* DBD: donation after brain death (no extra options to fill in)
+* DCD: donation after circulatory death (no extra options to fill in)
+* Living related donor (genetically), in which the following categories aare possible under *Living donor related subtype*:
+  * Parent to child
+  * Child to parent
+  * Sibling: this will open a new category, in which the user can specify whether the siblings are identical twins or not.
+* Living unrelated donor) - which requires informations such as *Kidney paired donation* and whether the donation is *Altruistic* or not.
+
+.. note:: "Unknown" identifical twins should be used when it is unknown whether they are identical twins or not.
+
+More details can be found in our `Youtube <https://www.youtube.com/watch?v=ZWZr9FcZ0js>`_ page.
+
+Donor: If you can’t find the donor in the dropdown list, proceed by entering it as ‘NEW’. Enter the required data and click on Save. This will bring you back to the ‘create transplantation’ site.
+ 
+For Healthcare provider, Referral center, center responsible for patient care and Case number see description in 3LC.
+Organ: Enter multiple transplanted organs from the same donor by using ‘add organ’.
+
+3.3. Create patient enrollment
+**********************************
 
 (in construction)
 
-3.2 Create patient enrollment
-**************************
+3.4. Create patient registration
+*************************************
 
-(in construction)
-
-3.3 Create patient registration
-****************************
-
-3.3.1. Create consent
-==========================
+3.5. Create consent
+***********************
 
 Consent management
 ---------------------
 
-Here, you can see the STCS ID for the just created patient. Equally, the age of the patient is displayed - this is important, as the patient might need to re-consent. The patient might need to re-consent due to a variety of situations, such as: patient is under 18 at the time of the transplantation, patient was not able to give consent at the time of transplantion, etc. For example, in the case of the patient 90000034, age 14, the default re-consent is set to "Yes" (and it can not be edited), as shown below. If the patient was an adult, the default re-consent would be set to "No". 
+Here, you can see the STCS ID for the just created patient. Equally, the age of the patient is displayed - this is important, as the patient might need to re-consent. The patient might need to re-consent due to a variety of situations, such as: patient is under 18 at the time of the transplantation, patient was not able to give consent at the time of transplantion, etc.
+
+For example, in the case of the patient 90000034, age 14, the default re-consent is set to "Yes" (and it can not be edited), as shown below. If the patient was an adult, the default re-consent would be set to "No". 
 
 .. image:: ConsentFields.png
 
-.. warning:: Is the patient a candidate to be re-consented? Yes if it is a minor (<14 years) and the parents signed7refused the first consent.
+.. warning:: Is the patient a candidate to be re-consented? Yes, if it is a minor (<14 years) and the parents signed7refused the first consent.
 
 Consent status
 ----------------
@@ -78,7 +117,7 @@ Here are the different consent fields:
 
 .. note:: If you entered an ‘absent (awaiting)’ consent prior to an ‘absent (documented refusal)’ consent and you entered ‘full’ in data collection, be sure to change this to ‘minimal’ prior to enter the ‘absent (documented refusal)’ IC.
 
-IC form: different forms are available:
+Different tyoes of IC forms available:
 ---------------------------------------------
 
   * Adolescents (For adolescents with actual age and developmental age more than or equal to 14 to less than 18 years)
@@ -102,7 +141,7 @@ Please check :doc:`consent` for more information about the different types of co
 
 .. tip:: Watch our video on this section `here <https://www.youtube.com/watch?v=2YoodSm4fxg>`_.
 
-3.3.2. Create SOAS Listing
+3.6. Create SOAS Listing
 =============================
 
 Enter the SOAS listing ID (RS-Number assigned to the patient when set on the waitlist), if the listing status was urgent (super urgent counts as urgent) and the date the patient was set on the waitlist (regardless of active or inactive listing). Click on "Save".
@@ -131,49 +170,26 @@ We recommend the following workflow for patient registration:
 
 .. warning:: Once the patient is registered within STCS, the LDM should write the SOAS_ID, the STCS_ID and the transplantation date on the pre-transplant PSQ.
 
-3.3.3. Create Transplantation
+3.7. Create Transplantation
 ================================
 
-3.3.3.1. Donor registration
-------------------------------
+.. need to link the section above
 
-To register a new Donor go to: *Create and Search* > *Donor enrollment*
-
-.. image:: Donor.png
-
-Here you can can enter the following information:
-
-* SOAS Donor ID
-* Date of Birth
-* Gender at Birth
-* Blood group
-* Type of donor
-
-After this, you just need to click *Save*.
-
-More details are provided for the the type of donor below.
-
-Type of donor
-****************
-
-Here are the different types of donors which are possible:
-
-* DBD: donation after brain death (no extra options to fill in)
-* DCD: donation after circulatory death (no extra options to fill in)
-* Living related donor (genetically), in which the following categories aare possible under *Living donor related subtype*:
-  * Parent to child
-  * Child to parent
-  * Sibling: this will open a new category, in which the user can specify whether the siblings are identical twins or not.
-* Living unrelated donor) - which requires informations such as *Kidney paired donation* and whether the donation is *Altruistic* or not.
-
-.. note:: "Unknown" identifical twins should be used when it is unknown whether they are identical twins or not.
-
-More details can be found in our `Youtube <https://www.youtube.com/watch?v=ZWZr9FcZ0js>`_ page.
+Please check the `donor`_ section above.
 
 Donor: If you can’t find the donor in the dropdown list, proceed by entering it as ‘NEW’. Enter the required data and click on Save. This will bring you back to the ‘create transplantation’ site.
- 
+
+.. image:: Transpl1.png
+
 For Healthcare provider, Referral center, center responsible for patient care and Case number see description in 3LC.
+
 Organ: Enter multiple transplanted organs from the same donor by using ‘add organ’.
 
-3.3.5. Non STCS Study Linkage
+.. image:: Transpl2.png
+
+To add transplantations (second or re-transplantations, go on Patient Admin (left sidebar) and select ‘+ADD Transplantation’. 
+
+.. note:: When adding a re-transplantation do not forget to enter a FUP and to stop the organ prior to adding the new one.
+
+3.8. Non STCS Study Linkage
 =================================
