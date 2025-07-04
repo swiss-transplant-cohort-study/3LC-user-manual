@@ -153,7 +153,11 @@ The date of removal corresponds to the TX-date or to the date of death if a pati
 
 Finally, select the organ(s) the patient has been listed for from the list.
 
+.. image:: Soas1.png
+
 You can add SOAS listings for other organs, even ongoing organs, if the patient is (re-) listed.
+
+.. image:: Soas2.png
 
 Workflow recommendation:
 ========================================
