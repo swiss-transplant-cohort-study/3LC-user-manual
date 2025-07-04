@@ -11,16 +11,14 @@ There are two ways to register a patient. First navigate to *Create and Search* 
 
 .. note:: The Ethics Committee has approved the registration of waitlisted (not yet transplanted) patients in the database. The recorded information includes current consent status. However, no collection of clinical/research data is allowed before transplantation. Proper enrollment in the Cohort only starts at the time of transplantation.
 
-.. tip:: Check :ref:`consent` for more details.
-
 .. warning:: The patient should be entered in the database within 7 days after transplantation (5 working days). The minimal entry should containt: name, first name, date of birth and consent status with date.
-
-The following fields are common between **Patient Enrollment** and **Patient Registration**:
 
 3.1. Administrative data
 *****************************
 
-The first step is to add the administrative data for the patient, such as:
+The administrative data for a patient needs to be introduced, either when a patient is enrolled or registered.
+
+This is the information which must be introduced:
 
 * Initials: use the intial of each name in uppercase, with "-" as separator between the First name initial/s and Last name initial/s. Examples: Georgios Kyriakos Panayiotou -> GK-P, Rosa Dolores Alverío Marcano -> RD-AM. When family names include particles are treated as a further Family name: e.g.Charles De Gaulle -> C-DG, Miguel De Oliveira -> M-DO.
 * Gender at birth
@@ -60,22 +58,17 @@ Type of donor
 
 Here are the different types of donors which are possible:
 
-* DBD: donation after brain death (no extra options to fill in)
-* DCD: donation after circulatory death (no extra options to fill in)
-* Living related donor (genetically), in which the following categories aare possible under *Living donor related subtype*:
+* **DBD**: donation after brain death (no extra options to fill in)
+* **DCD**: donation after circulatory death (no extra options to fill in)
+* **Living related donor (genetically)**, in which the following categories aare possible under *Living donor related subtype*:
   * Parent to child
   * Child to parent
   * Sibling: this will open a new category, in which the user can specify whether the siblings are identical twins or not.
-* Living unrelated donor) - which requires informations such as *Kidney paired donation* and whether the donation is *Altruistic* or not.
+* **Living unrelated donor** - which requires informations such as *Kidney paired donation* and whether the donation is *Altruistic* or not.
 
 .. note:: "Unknown" identifical twins should be used when it is unknown whether they are identical twins or not.
 
-More details can be found in our `Youtube <https://www.youtube.com/watch?v=ZWZr9FcZ0js>`_ page.
-
-Donor: If you can’t find the donor in the dropdown list, proceed by entering it as ‘NEW’. Enter the required data and click on Save. This will bring you back to the ‘create transplantation’ site.
- 
-For Healthcare provider, Referral center, center responsible for patient care and Case number see description in 3LC.
-Organ: Enter multiple transplanted organs from the same donor by using ‘add organ’.
+.. tip:: More details can be found in our `Youtube <https://www.youtube.com/watch?v=ZWZr9FcZ0js>`_ page.
 
 3.3. Create patient enrollment
 **********************************
@@ -104,7 +97,7 @@ Consent status
 
 Here are the different consent fields:
 
-* **Consent "Present": when consent is present. In case of a signed consent form choose this option and fill in the consent date (date indicated on the informed consent and the IC form the patient or his parents or relatives signed.
+* **Consent "Present"**: when consent is present. In case of a signed consent form choose this option and fill in the consent date (date indicated on the informed consent and the IC form the patient or his parents or relatives signed.
 
 .. note:: If you entered an ‘absent (awaiting)’ consent prior to an IC ‘present’ and you entered ‘minimal’ in data collection, be sure to change this to ‘full’ prior to enter the ‘present’ IC.
 
@@ -140,7 +133,7 @@ Multiple types of consents are possible. For example for the patient 90000033, n
 
 Only the last added consent can be either edited or deleted. When only one consent is present, it can be edited, but not deleted.
 
-Please check :doc:`consent` for more information about the different types of consents and other information, such as Q&As.
+.. tip:: Please check :doc:`consent` for more information about the different types of consents and other information, such as Q&As.
 
 .. warning:: The consent status is required to further proceed for patient enrollment and registration.
 
