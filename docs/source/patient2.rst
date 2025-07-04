@@ -35,69 +35,9 @@ Once this is filled in, please proceed by clicking "Save and add Cons". A STSC P
 
 .. tip:: When selecting the date of birth, if you click on the "Month", a month view appears. If you further click on the year, a year view appears. This will help you navigating through time and selecting the right date of birth more easily.
 
-Consent description
-**********************
+.. Consent description
 
-Consent management
-====================
-
-Here, you can see the STCS ID for the just created patient. Equally, the age of the patient is displayed - this is important, as the patient might need to re-consent. The patient might need to re-consent due to a variety of situations, such as: patient is under 18 at the time of the transplantation, patient was not able to give consent at the time of transplantion, etc. For example, in the case of the patient 90000034, age 14, the default re-consent is set to "Yes" (and it can not be edited), as shown below. If the patient was an adult, the default re-consent would be set to "No". 
-
-.. image:: ConsentFields.png
-
-Is the patient a candidate to be re-consented?
------------------------------------------------
-
-Yes if it is a minor (<14 years) and the parents signed7refused the first consent.
-
-Consent
-===========
-
-Here are the different consent fields:
-
-* Consent "Present": when consent is present. In case of a signed consent form choose this option and fill in the consent date (date indicated on the informed consent and the IC form the patient or his parents or relatives signed.
-
-.. note:: If you entered an ‘absent (awaiting)’ consent prior to an IC ‘present’ and you entered ‘minimal’ in data collection, be sure to change this to ‘full’ prior to enter the ‘present’ IC.
-
-
-* Consent "Absent awaiting": there is no consent for the moment, but the consent has not been explicitly refused. In case you sent out the IC Form but did not get an answer yet, chose this option until you can update it to a ‘present’ or ‘absent (documented refusal)’.
-
-.. tip:: In data collection choose full or minimal (according to your intern procedure management) and as consent date enter the date you sent out the IC. In the comment field enter the attempts to obtain the informed consent (e.g. phone call on 1.3.2025, reminder sent on 1.3.2025, etc.).
-
-* Consent "Absent documented refusal": when the consent were explicitly refused by the patient. In case you get a written or oral (e.g. phone call) refusal of the participation in the STCS, enter this option.
-
-.. tip:: As date enter the date on the letter or of the oral refusal. In the comment field enter the attempts to obtain informed consent and/or how was the refusal communicated.
-
-.. note:: If you entered an ‘absent (awaiting)’ consent prior to an ‘absent (documented refusal)’ consent and you entered ‘full’ in data collection, be sure to change this to ‘minimal’ prior to enter the ‘absent (documented refusal)’ IC 
-
-* Consent date.
-
-* IC form: different forms are available:
-
-  * Adolescents (For adolescents with actual age and developmental age more than or equal to 14 to less than 18 years)
-  * Adults (for  adult  patients  at  listing  or medical evaluation before transplant)
-  * Majority (for children (for whom the parents have signed the consent), after reaching age 18 years)
-  * Parents (Parents sign for all children with actual age or developmental age <14 years)
-  * Relatives (for adult patients with permanent incapability of judgement (to be confirmed by a physician))
-  * Retrospective (for adult patients incapable to give written informed consent for medical reasons before enrolment - they should be retrospectively consented as soon as possible after transplantation)
-
-.. tip:: Check :ref:`consent` for more details.
-
-Multiple types of consents are possible. For example for the patient 90000033, note how the consent of this patient changed from "Absent (awaiting)" to "Present" who you can see as documented in the *Consent history* and also color coded (reminder: each color has a specific meaning, see :ref:`consent` for more details). The dates of the different consents are also indicated.
-
-.. image:: ConsentChange.png
-
-.. image:: ConsentHist.png
-
-Only the last added consent can be either edited or deleted. When only one consent is present, it can be edited, but not deleted.
-
-Click "Save and continue" to further proceed.
-
-.. tip:: Watch our video on this section `here <https://www.youtube.com/watch?v=2YoodSm4fxg>`_.
-
-.. warning:: The consent status is required to further proceed for patient enrollment and registration.
-
-From this point, there is a difference in **Patient Enrollment** and **Patient Registration**. Those differences will be described separately below.
+.. this section about "Consent description" was removed and added to the https://3lc-doc.readthedocs.io/en/latest/createPatDon.html#create-consent
 
 Patient Registration
 ***********************
