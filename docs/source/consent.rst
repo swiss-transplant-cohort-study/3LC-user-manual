@@ -22,6 +22,11 @@ Flow chart
 Q&A about consent 
 **************************************************************************************
 
+Is the patient a candidate to be re-consented?
+===================================================
+
+Yes, if it is a minor (<14 years) and the parents signed/refused the first consent.
+
 What if the consent is “Absent (awaiting)” at the time of transplantation?
 ===============================================================================
 
