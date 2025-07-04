@@ -37,6 +37,9 @@ Once this is filled in, please proceed by clicking "Save and add Cons". A STSC P
 ********************************
 .. _donor:
 
+Register a new donor
+========================
+
 To register a new Donor go to: *Create and Search* > *Donor enrollment*
 
 .. image:: Donor.png
