@@ -118,6 +118,10 @@ Here are the different consent fields:
 
 .. note:: If you entered an ‘absent (awaiting)’ consent prior to an ‘absent (documented refusal)’ consent and you entered ‘full’ in data collection, be sure to change this to ‘minimal’ prior to enter the ‘absent (documented refusal)’ IC.
 
+See below an example on how a patient with Consent "Absent (awaiting)" is displayed on 3LC:
+
+.. image:: ConsentEx.png
+
 Different tyoes of IC forms available:
 ========================================
 
