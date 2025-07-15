@@ -6,13 +6,26 @@
 
 Navigate to *Create and Search*, in which you can either select:
 
-* **Patient Enrollment**: register a patient who has enrolled in the STCS study already (i.e. the patient has already received a transplation) - red circle -, or
-* **Patient Registration**: register a patient who has not yet received a transplant - green circle.
+* **Patient Enrollment** - red circle
+* **Patient Registration** - green circle
 
 .. image:: PatPaths.png
    :width: 600
 
-**Patient Registration**: register a patient who has not yet received a transplant.
+3.1.1. Patient Enrollment
+===============================
+
+* **Patient Enrollment**: register a patient who has enrolled in the STCS study already (i.e. the patient has already received a transplation)
+
+The transplantation is the event that triggers the patient enrollment. 
+
+
+3.1.2. Patient registration
+===============================
+
+* **Patient Registration**: register a patient who has not yet received a transplant.
+
+
 
 .. note:: The Ethics Committee has approved the registration of waitlisted (not yet transplanted) patients in the database. The recorded information includes current consent status. However, no collection of clinical/research data is allowed before transplantation. Proper enrollment in the Cohort only starts at the time of transplantation.
 
@@ -157,6 +170,10 @@ Finally, select the organ(s) the patient has been listed for from the list.
 You can add SOAS listings for other organs, even ongoing organs, if the patient is (re-) listed.
 
 .. image:: Soas2.png
+
+.. warning:: A patient always needs to be associated to a SOAS ID listing. In the case of an urgent transplantion, in which the patient does not stay in the waiting list before transplantation, the patient should be associated to a SOAS listing ID posteriorly.
+
+.. note:: Note that in the particular situation of an urgent transplantion, the *listing date* and *removal date* for this patient would be the same as the *transplant date*.
 
 Workflow recommendation:
 ========================================
