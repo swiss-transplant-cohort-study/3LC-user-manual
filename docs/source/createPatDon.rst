@@ -195,7 +195,11 @@ Here you'll have a chance of adding details about the "Donor", the "SOAS listing
 
 .. tip:: "Donor": If you can’t find the donor in the dropdown list, proceed by entering it as ‘NEW’. Enter the required data and click on Save. This will bring you back to the ‘create transplantation’ site.
 
-You should also add the information for the "Healthcare provider", "Referral center", "Case number from the procedure provider", "Organ" and "Transplation date". The **principal care provider** takes the lead in the management of the care of the patient. For patients who are treated for their organ transplant at an institution other than the TPX center – use “External provider” (e.g. practicing physician, non-transplant hospital).
+You should also add the information for the "Healthcare provider", "Referral center", "Case number from the procedure provider", "Organ" and "Transplation date".
+
+The **principal care provider** takes the lead in the management of the care of the patient.
+
+For patients who are treated for their organ transplant at an institution other than the TPX center – use “External provider” (e.g. practicing physician, non-transplant hospital).
 
 .. tip:: For "Healthcare provider", "Referral center", center responsible for patient care and Case number see description in 3LC.
 
