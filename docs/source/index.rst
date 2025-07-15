@@ -92,6 +92,14 @@ Transplantation
 
    transplantation
 
+Patient baseline
+*******************
+
+.. toctree::
+   :maxdepth: 1
+
+   patientBL
+
 Skin cancer
 *************
 
