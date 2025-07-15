@@ -183,23 +183,51 @@ You can add SOAS listings for other organs, even ongoing organs, if the patient 
 3.6. Create Transplantation
 *************************************
 
-.. need to link the section above
+Click on "add transplation", as seen below (arrow):
 
-Please check the `donor`_ section above.
+.. image:: AddTransplant.png
 
-Donor: If you can’t find the donor in the dropdown list, proceed by entering it as ‘NEW’. Enter the required data and click on Save. This will bring you back to the ‘create transplantation’ site.
+This opens the section "New Transplation":
 
-.. image:: Transpl1.png
+.. image:: NewTransplant.png
 
-For Healthcare provider, Referral center, center responsible for patient care and Case number see description in 3LC.
+Here you'll have a chance of adding details about the "Donor", the "SOAS listing ID" and "Listing date". These and "Hospitalization start-date for the transplantation procedure" are all mandatory fields.
 
-Organ: Enter multiple transplanted organs from the same donor by using ‘add organ’.
+.. tip:: "Donor": If you can’t find the donor in the dropdown list, proceed by entering it as ‘NEW’. Enter the required data and click on Save. This will bring you back to the ‘create transplantation’ site.
 
-.. image:: Transpl2.png
+Equally, you should mention the "Healthcare provider", "Referral center", "Case number from the procedure provider", "Organ" and "Transplation date".
+
+.. tip:: For "Healthcare provider", "Referral center", center responsible for patient care and Case number see description in 3LC.
+
+.. tip:: "Organ": Enter multiple transplanted organs from the same donor by using ‘add organ’.
+
+The **principal care provider** takes the lead in the management of the care of the patient.
+
+.. warning:: For patients who are treated for their organ transplant at an institution other than the TPX center – use “External provider” (e.g. practicing physician, non-transplant hospital).
+
+.. tip:: Check :ref:`overview` for more details - this will guide you throughout the sections which were created upon patient registration and/or enrollment.
+
+.. warning:: When a patient is created, it cannot deleted by an LDM. Please open a ticket to the IT.
+
+.. tip:: Please check the `donor`_ section above.
+
+.. warning:: When a patient is created, it cannot deleted by an LDM. Please open a ticket to the IT.
+
+3.6.1. Add more transplantions
+================================
 
 To add transplantations (second or re-transplantations, go on Patient Admin (left sidebar) and select ‘+ADD Transplantation’. 
 
+.. image:: Transpl2.png
+
 .. note:: When adding a re-transplantation do not forget to enter a FUP and to stop the organ prior to adding the new one.
+
+3.6.2. Special situations: double transplantations and data entry
+=====================================================================================
+
+In case of double transplantations, theoretically, different centers may be responsible for the care of the different organs (e.g. Kidney = CHUV; Pancreas = HUG). In this case, two centers would be "in charge" and both would be responsible for data entry.
+
+More details can be found in our `Youtube page <https://www.youtube.com/watch?v=njswLTRGQII>`_.
 
 3.7. Non STCS Study Linkage
 *********************************
