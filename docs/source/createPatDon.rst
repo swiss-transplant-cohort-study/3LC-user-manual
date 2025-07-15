@@ -12,24 +12,25 @@ Navigate to *Create and Search*, in which you can either select:
 .. image:: PatPaths.png
    :width: 600
 
+More details are provided in the sections below.
+
 3.1.1. Patient Enrollment
 ===============================
 
-* **Patient Enrollment**: register a patient who has enrolled in the STCS study already (i.e. the patient has already received a transplation)
+Please select **Patient Enrollment** to register a patient who has enrolled in the STCS study already (i.e. the patient has already received a transplation)
 
-The transplantation is the event that triggers the patient enrollment. 
-
+.. note:: The transplantation is the event that triggers the patient enrollment. 
 
 3.1.2. Patient registration
 ===============================
 
-* **Patient Registration**: register a patient who has not yet received a transplant.
-
-
+Please select **Patient Registration** to register a patient who has not yet received a transplant.
 
 .. note:: The Ethics Committee has approved the registration of waitlisted (not yet transplanted) patients in the database. The recorded information includes current consent status. However, no collection of clinical/research data is allowed before transplantation. Proper enrollment in the Cohort only starts at the time of transplantation.
 
 .. warning:: The patient should be entered in the database within 7 days after transplantation (5 working days). The minimal entry should containt: name, first name, date of birth and consent status with date.
+
+.. warning:: Once the patient is registered within STCS, the LDM should write the SOAS_ID, the STCS_ID and the transplantation date on the pre-transplant PSQ.
 
 3.2. Administrative data
 *****************************
@@ -175,21 +176,9 @@ You can add SOAS listings for other organs, even ongoing organs, if the patient 
 
 .. note:: Note that in the particular situation of an urgent transplantion, the *listing date* and *removal date* for this patient would be the same as the *transplant date*.
 
-Workflow recommendation:
-========================================
-
-We recommend the following workflow for patient registration:
-   #. Register the patient in the STCS once you send the Patient information to the patient.
-   #. Add the SOAS listing ID and the Organ.
-   #. Register the consent as “Absent (awaiting)” with the date when the ICF was sent out.
-   #. Once you receive the consent form back, you should update the consent with the appropriate date.
-   #. Enroll the patient, but only once the transplantation happened (the information about the transplatation and the donor should also added to the system).
-
-.. note:: A SOAS listing for recipients who are on the **Swiss waiting list** should follow this format and range: RS -[1901-2024]-[0001-9999] (for example, RS-2000-0002). For recipients on the *Foreign waiting list*, the SOAS listing ID should follow this format: RF -[1901-2024]-[0001-9999]. [1901-2024] corresponds to the listing year, [0001-9999] to the current case number.
-
 .. note:: If the patient dies while on the waiting list, this information should not be entered in the system as it is a clinical data. The patient should be left “open” in waiting list.
 
-.. warning:: Once the patient is registered within STCS, the LDM should write the SOAS_ID, the STCS_ID and the transplantation date on the pre-transplant PSQ.
+.. note A SOAS listing for recipients who are on the **Swiss waiting list** should follow this format and range: RS -[1901-2024]-[0001-9999] (for example, RS-2000-0002). For recipients on the *Foreign waiting list*, the SOAS listing ID should follow this format: RF -[1901-2024]-[0001-9999]. [1901-2024] corresponds to the listing year, [0001-9999] to the current case number.
 
 3.6. Create Transplantation
 *************************************
@@ -214,3 +203,14 @@ To add transplantations (second or re-transplantations, go on Patient Admin (lef
 
 3.7. Non STCS Study Linkage
 *********************************
+
+3.8. Workflow recommendation:
+*********************************
+
+We recommend the following workflow for patient registration:
+   #. Register the patient in the STCS once you send the Patient information to the patient.
+   #. Add the SOAS listing ID and the Organ.
+   #. Register the consent as “Absent (awaiting)” with the date when the ICF was sent out.
+   #. Once you receive the consent form back, you should update the consent with the appropriate date.
+   #. Enroll the patient, but only once the transplantation happened (the information about the transplatation and the donor should also added to the system).
+
