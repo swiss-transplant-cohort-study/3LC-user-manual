@@ -195,23 +195,15 @@ Here you'll have a chance of adding details about the "Donor", the "SOAS listing
 
 .. tip:: "Donor": If you can’t find the donor in the dropdown list, proceed by entering it as ‘NEW’. Enter the required data and click on Save. This will bring you back to the ‘create transplantation’ site.
 
-Equally, you should mention the "Healthcare provider", "Referral center", "Case number from the procedure provider", "Organ" and "Transplation date".
+Equally, you should mention the "Healthcare provider", "Referral center", "Case number from the procedure provider", "Organ" and "Transplation date". The **principal care provider** takes the lead in the management of the care of the patient.
 
 .. tip:: For "Healthcare provider", "Referral center", center responsible for patient care and Case number see description in 3LC.
 
-.. tip:: "Organ": Enter multiple transplanted organs from the same donor by using ‘add organ’.
-
-The **principal care provider** takes the lead in the management of the care of the patient.
-
 .. warning:: For patients who are treated for their organ transplant at an institution other than the TPX center – use “External provider” (e.g. practicing physician, non-transplant hospital).
-
-.. tip:: Check :ref:`overview` for more details - this will guide you throughout the sections which were created upon patient registration and/or enrollment.
 
 .. warning:: When a patient is created, it cannot deleted by an LDM. Please open a ticket to the IT.
 
 .. tip:: Please check the `donor`_ section above.
-
-.. warning:: When a patient is created, it cannot deleted by an LDM. Please open a ticket to the IT.
 
 3.6.1. Add more transplantions
 ================================
@@ -221,6 +213,12 @@ To add transplantations (second or re-transplantations, go on Patient Admin (lef
 .. image:: Transpl2.png
 
 .. note:: When adding a re-transplantation do not forget to enter a FUP and to stop the organ prior to adding the new one.
+
+3.6.2. Add more transplantations from the same donor:
+
+Enter multiple transplanted organs from the same donor by using ‘add organ’, as shown below:
+
+.. image:: AddOrgan.png
 
 3.6.2. Special situations: double transplantations and data entry
 =====================================================================================
