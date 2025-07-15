@@ -204,7 +204,7 @@ You should also add the information for the "Healthcare provider", "Referral cen
 .. tip:: Please check the `donor`_ section above.
 
 3.6.1. Add more transplantions
--------------------------------------
+===================================
 
 To add transplantations (second or re-transplantations, go on Patient Admin (left sidebar) and select ‘+ADD Transplantation’. 
 
@@ -213,14 +213,14 @@ To add transplantations (second or re-transplantations, go on Patient Admin (lef
 .. note:: When adding a re-transplantation do not forget to enter a FUP and to stop the organ prior to adding the new one.
 
 3.6.1.1. Add more transplantations from the same donor:
-================================================================
+--------------------------------------------------------------------------
 
 Enter multiple transplanted organs from the same donor by using ‘add organ’, as shown below:
 
 .. image:: AddOrgan.png
 
 3.6.2. Special situations: double transplantations and data entry
---------------------------------------------------------------------------
+=======================================================================
 
 In case of double transplantations, theoretically, different centers may be responsible for the care of the different organs (e.g. Kidney = CHUV; Pancreas = HUG). In this case, two centers would be "in charge" and both would be responsible for data entry.
 
