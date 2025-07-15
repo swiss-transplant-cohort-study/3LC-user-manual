@@ -1,7 +1,10 @@
 3. Create...
 ##############
 
-There are two ways to register a patient. First navigate to *Create and Search* and select either:
+3.1 Create patient
+****************************
+
+Navigate to *Create and Search*, in which you can either select:
 
 * **Patient Enrollment**: register a patient who has enrolled in the STCS study already (i.e. the patient has already received a transplation) - red circle -, or
 * **Patient Registration**: register a patient who has not yet received a transplant - green circle.
@@ -9,11 +12,13 @@ There are two ways to register a patient. First navigate to *Create and Search* 
 .. image:: PatPaths.png
    :width: 600
 
+**Patient Registration**: register a patient who has not yet received a transplant.
+
 .. note:: The Ethics Committee has approved the registration of waitlisted (not yet transplanted) patients in the database. The recorded information includes current consent status. However, no collection of clinical/research data is allowed before transplantation. Proper enrollment in the Cohort only starts at the time of transplantation.
 
 .. warning:: The patient should be entered in the database within 7 days after transplantation (5 working days). The minimal entry should containt: name, first name, date of birth and consent status with date.
 
-3.1. Administrative data
+3.2. Administrative data
 *****************************
 
 The administrative data for a patient needs to be introduced, either when a patient is enrolled or registered.
@@ -33,7 +38,7 @@ Once this is filled in, please proceed by clicking "Save and add Cons". A STSC P
 
 .. tip:: When selecting the date of birth, if you click on the "Month", a month view appears. If you further click on the year, a year view appears. This will help you navigating through time and selecting the right date of birth more easily.
 
-3.2. Create donor enrollment
+3.3. Create donor enrollment
 ********************************
 .. _donor:
 
@@ -73,15 +78,7 @@ Here are the different types of donors which are possible:
 
 .. tip:: More details can be found in our `Youtube <https://www.youtube.com/watch?v=ZWZr9FcZ0js>`_ page.
 
-3.3. Create patient enrollment
-**********************************
-
-(in construction)
-
-3.4. Create patient registration
-*************************************
-
-3.5. Create consent
+3.4. Create consent
 ***********************
 
 Consent management
@@ -144,7 +141,7 @@ Only the last added consent can be either edited or deleted. When only one conse
 
 .. tip:: Watch our video on this section `here <https://www.youtube.com/watch?v=2YoodSm4fxg>`_.
 
-3.6. Create SOAS Listing
+3.5. Create SOAS Listing
 ************************************
 
 Enter the SOAS listing ID (RS-Number assigned to the patient when set on the waitlist), if the listing status was urgent (super urgent counts as urgent) and the date the patient was set on the waitlist (regardless of active or inactive listing). Click on "Save".
@@ -177,7 +174,7 @@ We recommend the following workflow for patient registration:
 
 .. warning:: Once the patient is registered within STCS, the LDM should write the SOAS_ID, the STCS_ID and the transplantation date on the pre-transplant PSQ.
 
-3.7. Create Transplantation
+3.6. Create Transplantation
 *************************************
 
 .. need to link the section above
@@ -198,5 +195,5 @@ To add transplantations (second or re-transplantations, go on Patient Admin (lef
 
 .. note:: When adding a re-transplantation do not forget to enter a FUP and to stop the organ prior to adding the new one.
 
-3.8. Non STCS Study Linkage
+3.7. Non STCS Study Linkage
 *********************************
