@@ -97,8 +97,10 @@ Here are the different types of donors which are possible:
 3.4. Create consent
 ***********************
 
-Consent management
-====================
+The LDM needs to make sure that each newly listed patient is appropriately informed about the goals of the STCS and that each listed patient in Switzerland receives an invitation letter to join the STCS, an informed consent form, and the pre-transplant PSQ. The Local Transplant Coordinator (LTC) has to inform the LDM within 7 days if a new patient is added to the transplant waiting list.
+
+3.4.1. Consent management
+==================================
 
 The consent status for a STCS patient needs to be provided. Depending on the age of the patient, the patient might need to re-consent.
 
@@ -110,22 +112,28 @@ For example, in the case of the patient 90000034, age 14, the default re-consent
 
 .. warning:: Is the patient a candidate to be re-consented? Yes, if it is a minor (<14 years) and the parents signed/refused the first consent.
 
-Consent status
-====================
+3.4.2. Consent status
+===========================
 
-Here are the different consent fields:
+3.4.2.1. Definitions and types of consents
+-----------------------------------------------
 
-* **Consent "Present"**: when consent is present. In case of a signed consent form choose this option and fill in the consent date (date indicated on the informed consent and the IC form the patient or his parents or relatives signed.
+- **Present**: when consent is present. We have a signed Informal Consent (IC) from the patient. Fill in the consent date (date indicated on the informed consent and the IC form the patient or his parents or relatives signed.
+- **Absent (awaiting)**: there is no consent for the moment, but the consent has not been explicitly refused. In case you sent out the IC Form but did not get an answer yet, chose this option until you can update it to a ‘present’ or ‘absent (documented refusal)’. This often occurs, when the patient did not return the signed IC before transplant and it was not possible to get the consent before opening the new case. This might also occur, if a patient is listed as ‘super urgent’ and/or was unable to sign the IC due to medical reasons. In this instance, the IC must be clarified as soon as possible!
+- **Absent (documented refusal)**: when the consent were explicitly refused by the patient. The patient refused to participate in the STCS in an oral or written form, even following a personal discussion with one of our staff. In case you get a written or oral (e.g. phone call) refusal of the participation in the STCS, enter this option.
+- **Absent (other)**: The participation of this patient in the STCS could not be clarified, and the patient is still alive. Please select the specific option, e.g. "Reminder process closed", "Language/Communication barrier".
+- **Absent (death)**: the patient died while consent was "Absent (awaiting)".
+- **Withdrawal**: when patient was registered as "new patient", a IC for this patient was available. However, at a later point, this patient withdrew his consent by informing us that they no longer wish to participate in the STCS. The consent status should then be changed "Present" to "Withdrawal". From this point on, only minimal data is collected from this patient.
+- **Absent (ReCap)**: This is only relevant for patients who have received a transplant between 01. january 2008 and 30. April 2008. The data of these patients is entered as ‘minimal dataset’. The date of IC 01.01.2008 was entered for these patients. Check :ref:`below <ReCap>`.
 
-.. note:: If you entered an ‘absent (awaiting)’ consent prior to an IC ‘present’ and you entered ‘minimal’ in data collection, be sure to change this to ‘full’ prior to enter the ‘present’ IC.
+3.4.2.1.1 Some tips in case of Absent Consent:
+-------------------------------------------------
 
-* **Consent "Absent awaiting"**: there is no consent for the moment, but the consent has not been explicitly refused. In case you sent out the IC Form but did not get an answer yet, chose this option until you can update it to a ‘present’ or ‘absent (documented refusal)’.
+.. tip::  **Consent "Absent awaiting"**: In data collection choose full or minimal (according to your intern procedure management) and as consent date enter the date you sent out the IC. In the comment field enter the attempts to obtain the informed consent (e.g. phone call on 1.3.2025, reminder sent on 1.3.2025, etc.).
+.. note:: If you entered an ‘**absent (awaiting)**’ consent prior to an IC ‘present’ and you entered ‘minimal’ in data collection, be sure to change this to ‘full’ prior to enter the ‘present’ IC.
 
-.. tip:: In data collection choose full or minimal (according to your intern procedure management) and as consent date enter the date you sent out the IC. In the comment field enter the attempts to obtain the informed consent (e.g. phone call on 1.3.2025, reminder sent on 1.3.2025, etc.).
 
-* **Consent "Absent documented refusal"**: when the consent were explicitly refused by the patient. In case you get a written or oral (e.g. phone call) refusal of the participation in the STCS, enter this option.
-
-.. tip:: As date enter the date on the letter or of the oral refusal. In the comment field enter the attempts to obtain informed consent and/or how was the refusal communicated.
+.. tip:: **Consent "Absent documented refusal"** As date enter the date on the letter or of the oral refusal. In the comment field enter the attempts to obtain informed consent and/or how was the refusal communicated.
 
 .. note:: If you entered an ‘absent (awaiting)’ consent prior to an ‘absent (documented refusal)’ consent and you entered ‘full’ in data collection, be sure to change this to ‘minimal’ prior to enter the ‘absent (documented refusal)’ IC.
 
