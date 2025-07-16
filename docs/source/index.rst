@@ -36,14 +36,6 @@ This section provides information about the different types of users and respect
 
    createPatDon
 
-Patient enrollment and registration
-**************************************
-
-.. toctree::
-   :maxdepth: 1
-
-   patient2
-
 Consent
 ************
 
