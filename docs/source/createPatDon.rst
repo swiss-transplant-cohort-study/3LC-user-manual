@@ -126,20 +126,23 @@ For example, in the case of the patient 90000034, age 14, the default re-consent
 - **Withdrawal**: when patient was registered as "new patient", a IC for this patient was available. However, at a later point, this patient withdrew his consent by informing us that they no longer wish to participate in the STCS. The consent status should then be changed "Present" to "Withdrawal". From this point on, only minimal data is collected from this patient.
 - **Absent (ReCap)**: This is only relevant for patients who have received a transplant between 01. january 2008 and 30. April 2008. The data of these patients is entered as ‘minimal dataset’. The date of IC 01.01.2008 was entered for these patients. Check :ref:`below <ReCap>`.
 
-3.4.2.1.1 Some tips in case of Absent Consent:
--------------------------------------------------
-
-.. tip::  **Consent "Absent awaiting"**: In data collection choose full or minimal (according to your intern procedure management) and as consent date enter the date you sent out the IC. In the comment field enter the attempts to obtain the informed consent (e.g. phone call on 1.3.2025, reminder sent on 1.3.2025, etc.).
-.. note:: If you entered an ‘**absent (awaiting)**’ consent prior to an IC ‘present’ and you entered ‘minimal’ in data collection, be sure to change this to ‘full’ prior to enter the ‘present’ IC.
-
-
-.. tip:: **Consent "Absent documented refusal"** As date enter the date on the letter or of the oral refusal. In the comment field enter the attempts to obtain informed consent and/or how was the refusal communicated.
-
-.. note:: If you entered an ‘absent (awaiting)’ consent prior to an ‘absent (documented refusal)’ consent and you entered ‘full’ in data collection, be sure to change this to ‘minimal’ prior to enter the ‘absent (documented refusal)’ IC.
-
 See below an example on how a patient with Consent "Absent (awaiting)" is displayed on 3LC:
 
 .. image:: ConsentEx.png
+
+3.4.2.1.1 Some tips in case of Absent Consent:
+-------------------------------------------------
+
+Tips on **Consent "Absent (awaiting)"**:
+
+* In data collection choose full or minimal (according to your intern procedure management) and as consent date enter the date you sent out the IC. In the comment field enter the attempts to obtain the informed consent (e.g. phone call on 1.3.2025, reminder sent on 1.3.2025, etc.).
+* If you entered an ‘**absent (awaiting)**’ consent prior to an IC ‘present’ and you entered ‘minimal’ in data collection, be sure to change this to ‘full’ prior to enter the ‘present’ IC.
+
+Tips on **Consent "Absent ( documented refusal)"**:
+
+* As date enter the date on the letter or of the oral refusal. In the comment field enter the attempts to obtain informed consent and/or how was the refusal communicated.
+
+.. note:: If you entered an ‘absent (awaiting)’ consent prior to an ‘absent (documented refusal)’ consent and you entered ‘full’ in data collection, be sure to change this to ‘minimal’ prior to enter the ‘absent (documented refusal)’ IC.
 
 Different types of IC forms available:
 ========================================
