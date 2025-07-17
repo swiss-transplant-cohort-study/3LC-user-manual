@@ -193,7 +193,32 @@ If a consent is withdrawn, the patient furthermore needs to tell us if we can us
 
 .. image:: ConsentWithdrawal.png
 
-.. note:: Please remove all available entered samples in both Baseline and FUP.
+Please remove all available entered samples in both Baseline and FUP:
+
+.. image:: SampleOut1.png
+
+.. image:: SampleOut2.png
+
+.. image:: SampleOut3.png
+
+3.4.6. Registering the consent when a patient is shared
+===========================================================
+
+The center in charge of the patient (center of reference) has the responsibility for data collection. The center of reference is therefore responsible for registering the consent.
+If during the listing period the consent status is not available, then the transplant center contacts the listing center.
+
+3.4.6.1. Share a patient with another center
+-----------------------------------------------
+
+If a patient is followed by more than one center or transferred to another center, the Patient has to be ‘shared’ in the Patient Admin (see circle and arrow below):
+
+.. image:: SharePat.png
+
+If you need to give another center access to the patient, chose the center that needs access and then save the File:
+
+.. image: SharePat2.png
+
+After that share the STCS Number of the patient and a copy of the informed consent with the added center.
 
 More info about consent
 ===============================
