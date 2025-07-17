@@ -130,15 +130,7 @@ See below an example on how a patient with Consent "Absent (awaiting)" is displa
 
 .. image:: ConsentEx.png
 
-Multiple types of consents are possible. For example for the patient 90000033, note how the consent of this patient changed from "Absent (awaiting)" to "Present" who you can see as documented in the *Consent history* and also color coded (reminder: each color has a specific meaning, see :doc:`consent` for more details). The dates of the different consents are also indicated.
-
-.. image:: ConsentChange.png
-
-.. image:: ConsentHist.png
-
 .. warning:: The consent status is required to further proceed for patient enrollment and registration.
-
-.. note:: Only the last added consent can be either edited or deleted. When only one consent is present, it can be edited, but not deleted.
 
 .. warning:: The oral form of consent is no longer accepted for consent given and consent withdrawal. Oral procedure can be accepted for consent refused. How the decision was communicated is requested to be briefly documented on the IT system (a dedicated field was requested and it is now available, communicated to the LDMs on the 25/10/2019).
 
@@ -154,6 +146,8 @@ Notes on Consent "Absent (awaiting)":
 Notes on Consent "Absent ( documented refusal)":
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+.. NEEED TO CHECK WHERE TO PUT THE THINGS BELOW
+
 * As date enter the date on the letter or of the oral refusal. In the comment field enter the attempts to obtain informed consent and/or how was the refusal communicated.
 
 .. note:: If you entered an ‘absent (awaiting)’ consent prior to an ‘absent (documented refusal)’ consent and you entered ‘full’ in data collection, be sure to change this to ‘minimal’ prior to enter the ‘absent (documented refusal)’ IC.
@@ -163,7 +157,7 @@ Notes on Consent "Absent ( documented refusal)":
 
 * If a patient withdrawls his consent, we need to clarify if the already drawn samples can further be used or need to be destroyed. The patients selection needs to be entered in ‘withdrawl option’ in 3LC.
 
-3.4.2.1.2. Consent flowchart
+3.4.2.1.3. Consent flowchart
 -------------------------------------------------
 
 .. image:: ConsentManagement.png
@@ -177,6 +171,23 @@ Notes on Consent "Absent ( documented refusal)":
   * Parents (Parents sign for all children with actual age or developmental age <14 years)
   * Relatives (for adult patients with permanent incapability of judgement (to be confirmed by a physician))
   * Retrospective (for adult patients incapable to give written informed consent for medical reasons before enrolment - they should be retrospectively consented as soon as possible after transplantation)
+
+Multiple types of consents are possible. For example for the patient 90000033, note how the consent of this patient changed from "Absent (awaiting)" to "Present" who you can see as documented in the *Consent history* and also color coded (reminder: each color has a specific meaning, see :doc:`consent` for more details). The dates of the different consents are also indicated.
+
+.. image:: ConsentChange.png
+
+.. image:: ConsentHist.png
+
+.. note:: Only the last added consent can be either edited or deleted. When only one consent is present, it can be edited, but not deleted.
+
+3.4.4. STCS Patient information and informed consent versions:
+==================================================================
+
+The following patient information and informed consent versions exist. Please see table below for guidance to their use.
+
+.. note:: Please note that each recipient (also parents/ relatives), who signs the consent, shall get a copy of the patient information and the fully signed informed consent form.
+
+.. image:: TableConsent.png
 
 .. tip:: Please check :doc:`consent` for more information about the different types of consents and other information, such as Q&As.
 
