@@ -126,6 +126,8 @@ For example, in the case of the patient 90000034, age 14, the default re-consent
 - **Withdrawal**: when patient was registered as "new patient", a IC for this patient was available. However, at a later point, this patient withdrew his consent by informing us that they no longer wish to participate in the STCS. The consent status should then be changed "Present" to "Withdrawal". From this point on, only minimal data is collected from this patient.
 - **Absent (ReCap)**: This is only relevant for patients who have received a transplant between 01. january 2008 and 30. April 2008. The data of these patients is entered as ‘minimal dataset’. The date of IC 01.01.2008 was entered for these patients. Check :ref:`below <ReCap>`.
 
+.. image:: ConsentManagement.png
+
 See below an example on how a patient with Consent "Absent (awaiting)" is displayed on 3LC:
 
 .. image:: ConsentEx.png
@@ -140,27 +142,20 @@ See below an example on how a patient with Consent "Absent (awaiting)" is displa
 Notes on Consent "Absent (awaiting)":
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-* In data collection choose full or minimal (according to your intern procedure management) and as consent date enter the date you sent out the IC. In the comment field enter the attempts to obtain the informed consent (e.g. phone call on 1.3.2025, reminder sent on 1.3.2025, etc.).
-* If you entered an ‘**absent (awaiting)**’ consent prior to an IC ‘present’ and you entered ‘minimal’ in data collection, be sure to change this to ‘full’ prior to enter the ‘present’ IC.
+* In data collection choose full or minimal (according to your intern procedure management) and as consent date enter the date you sent out the IC.
+* In the comment field enter the attempts to obtain the informed consent (e.g. phone call on 1.3.2025, reminder sent on 1.3.2025, etc.).
+
+.. note:: If you entered an ‘**absent (awaiting)**’ consent prior to an IC ‘present’ and you entered ‘minimal’ in data collection, be sure to change this to ‘full’ prior to enter the ‘present’ IC.
 
 Notes on Consent "Absent ( documented refusal)":
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. NEEED TO CHECK WHERE TO PUT THE THINGS BELOW
 
-* As date enter the date on the letter or of the oral refusal. In the comment field enter the attempts to obtain informed consent and/or how was the refusal communicated.
+* As date enter the date on the letter or of the oral refusal.
+* In the comment field enter the attempts to obtain informed consent and/or how was the refusal communicated.
 
 .. note:: If you entered an ‘absent (awaiting)’ consent prior to an ‘absent (documented refusal)’ consent and you entered ‘full’ in data collection, be sure to change this to ‘minimal’ prior to enter the ‘absent (documented refusal)’ IC.
-
-3.4.2.1.2. Some notes on Consent Withdrawal
--------------------------------------------------
-
-* If a patient withdrawls his consent, we need to clarify if the already drawn samples can further be used or need to be destroyed. The patients selection needs to be entered in ‘withdrawl option’ in 3LC.
-
-3.4.2.1.3. Consent flowchart
--------------------------------------------------
-
-.. image:: ConsentManagement.png
 
 3.4.3. Different types of IC forms available:
 ===============================================
@@ -180,7 +175,7 @@ Multiple types of consents are possible. For example for the patient 90000033, n
 
 .. note:: Only the last added consent can be either edited or deleted. When only one consent is present, it can be edited, but not deleted.
 
-3.4.4. STCS Patient information and informed consent versions:
+3.4.4. STCS Patient information and informed consent versions
 ==================================================================
 
 The following patient information and informed consent versions exist. Please see table below for guidance to their use.
@@ -188,6 +183,20 @@ The following patient information and informed consent versions exist. Please se
 .. note:: Please note that each recipient (also parents/ relatives), who signs the consent, shall get a copy of the patient information and the fully signed informed consent form.
 
 .. image:: TableConsent.png
+
+3.4.5. Consent Withdrawal information
+=============================================
+
+An STCS withdrawal form exists. Patients wishing to withdraw their initial consent given have to fill in this form and let it sign.The form is stored together with the inititial signed informed consent.
+
+If a consent is withdrawn, the patient furthermore needs to tell us if we can use his already drawn samples or if we can not further use and need to destroy them. If the patient chooses the option to destroy them, the lab has to be informed about the need to destroy the patients samples and the destruction date needs to be entered in 3LC in the Consent withdrawl form. 
+
+.. image:: ConsentWithdrawal.png
+
+.. note:: Please remove all available entered samples in both Baseline and FUP.
+
+More info about consent
+===============================
 
 .. tip:: Please check :doc:`consent` for more information about the different types of consents and other information, such as Q&As.
 
