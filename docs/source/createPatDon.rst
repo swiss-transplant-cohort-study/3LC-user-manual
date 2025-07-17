@@ -297,6 +297,44 @@ Only the most recent IC form can be edited. If a previous consent form needs to 
 
 .. image:: ConsentDel2.png
 
+3.4.11. Add new consent
+====================================
+
+If the consent status of a patient changes, the new IC status has to be added in 3LC.
+
+To change the IC status, open the case of the patient in 3LC and there the ‘Patient Admin’ page. Select '+ Add a consent'.
+
+.. image:: ConsentDel2.png
+
+.. warning:: When changing a consent form to one that also changes the amount of collected data (full vs. minimal data), please be aware that only added forms after the changement date of the IC will be added as full or minimal data according to the choosen consent form. The forms that have an assessment date until the date of changement of consent are added as full or minimal data according to the given consent at that timepoint.
+
+3.4.12. Consent of children turning 18 with no response as adults to IC-requests
+============================================================================================
+
+If a child (with previously consent given by parents) turns 18 ad they do not send back the Informed Consent as adults according to the rules of sending out the IC for adults, the consent has to be changed from ‘Present’ to to ‘absent (other)/ reminder process closed’ with date of their 18th birthday
+
+So the procedure to change a consent from 'present' to 'absent (other)/reminder' process closed is:
+
+#. Add consent and as consent status choose absent (awaiting) and as date the 18th birthday
+#.	As person responsible to provide consent choose ‘patient’
+#.	Fill in the attempts made to clarify the IC in the comments
+
+.. image:: Consent18.png
+
+If there is no reply from the patient until the reminder process is closed:
+#.	add a new consent where you indicate absent (other)/reminder process closed as consent status. If it does not appear in the drop down section, i.e. because you enter the IC form absent (awaiting) and absent (other) in one go, chose ‘create and search’ and open the patient again or refresh the page.
+
+.. image:: Consent18_2.png
+
+The IC Bar is shown as follows:
+
+.. image:: Consent18_3.png
+
+.. warning: Data collection is minimal after consent absent.
+
+.. warning:: As there was no chance to ask the patient about the collected samples, keep all the taken samples.
+
+
 More info about consent
 ===============================
 
