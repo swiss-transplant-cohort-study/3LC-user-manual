@@ -112,6 +112,8 @@ For example, in the case of the patient 90000034, age 14, the default re-consent
 
 .. warning:: Is the patient a candidate to be re-consented? Yes, if it is a minor (<14 years) and the parents signed/refused the first consent.
 
+.. note:: No need to re-consent in case of re-transplant, unless the patient never gave an answer, neither yes nor no. Consent does NOT depend on the organ. Consent is for STCS and STCS involves all organ TX.
+
 3.4.2. Consent status
 ===========================
 
@@ -150,8 +152,6 @@ Notes on Consent "Absent (awaiting)":
 Notes on Consent "Absent ( documented refusal)":
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. NEEED TO CHECK WHERE TO PUT THE THINGS BELOW
-
 * As date enter the date on the letter or of the oral refusal.
 * In the comment field enter the attempts to obtain informed consent and/or how was the refusal communicated.
 
@@ -186,7 +186,16 @@ The following patient information and informed consent versions exist. Please se
 
 .. _ConsWith:
 
-3.4.5. Consent Withdrawal information
+3.4.5. How to manage attempts to obtain an Informed Consent?
+================================================================
+
+Before transplantation: Three attempts before transplantation (these attempts can be done in writing or oral and must be documented in the IT system).
+
+After transplantation, if the informed consent is still unkown, one other attempt should be done up to 6-months. If still unknown and for specific cases, one attempt between 6-months follow-up and 1-year follow-up should be tried.
+
+.. _ReCap:
+
+3.4.6. Consent Withdrawal information
 =============================================
 
 An STCS withdrawal form exists. Patients wishing to withdraw their initial consent given have to fill in this form and let it sign.The form is stored together with the inititial signed informed consent.
@@ -203,26 +212,24 @@ Please remove all available entered samples in both Baseline and FUP:
 
 .. image:: SampleOut3.png
 
-3.4.6. Registering the consent when a patient is shared
-===========================================================
+3.4.7. Patients with Consent "Absent(waiting)" at the time of transplantion
+=================================================================================
 
-The center in charge of the patient (center of reference) has the responsibility for data collection. The center of reference is therefore responsible for registering the consent.
-If during the listing period the consent status is not available, then the transplant center contacts the listing center.
+Certain patients leave the requests to consent unanswered during the waitlist period. This means that when the patient is called for transplantation, there is neither consent nor refusal to STCS. In the vast majority (i.e. ~95%), the patients subsequently consent once the transplantation has taken place. To preserve human resources and to avoid delays in the data entry, the best solution for the STCS is to start collecting routine clinical data from the transplant centers (i.e. only existing non-genetic personal data from patient charts) shortly after transplantation (with reference to the time point of transplantation), even if the consent has not yet been signed.
 
-3.4.6.1. Share a patient with another center
------------------------------------------------
+.. warning:: It is important to note that **neither samples are drawn nor psychosocial questionnaire (PSQ) data are collected, as long as no consent is signed**. 
 
-If a patient is followed by more than one center or transferred to another center, the Patient has to be ‘shared’ in the Patient Admin (see circle and arrow below):
+.. image:: consent_tx.png
 
-.. image:: SharePat.png
+In case of consent “Absent (awaiting)” at the time of transplantation, the Ethics Committee has approved the collection of full data from the time of transplantation. Therefore, all data can be collected. This includes patient history, Baseline data, transplantation data and any data in between transplantation and the time the consent gets signed. If the patient finally gives consent, all data collected will be kept and can be used for research. Samples and PSQ can be collected as soon as the consent is retrieved (see CASE n°1).
 
-If you need to give another center access to the patient, chose the center that needs access and then save the File:
+.. image:: consent_absent_tx1.png
 
-.. image: SharePat2.png
+If no consent is retrieved after transplantation, data collected will be kept in the system but will not be used for research. No samples or PSQ will be collected (see CASE n°2).
 
-After that share the STCS Number of the patient and a copy of the informed consent with the added center.
+.. image:: consent_absent_tx2.png
 
-3.4.7. Patients incapable to give written consent before enrolment
+3.4.8. Patients incapable to give written consent before enrolment
 =======================================================================
 
 Patients incapable to give written informed consent for medical reasons before enrolment are retrospectively consented as soon as possible after transplantation (please use the adult retrospective consent version). In these situations no independent physician is consulted because the STCS is a purely observational study.
@@ -231,7 +238,7 @@ If the patient remains incapable of judgement, the legal representative or next 
 
 If the patient refuses to consent retrospectively or if the consent remains permanently unknown without any confirmation of the patient’s death, only the legally required minimal data set is collected.
 
-3.4.8. Death with consent unknown
+3.4.9. Death with consent unknown
 =========================================
 
 If the patient dies without a given consent (absent, awaiting) then full data collection possible (although defacto consent is permanently unknown), therefore:
@@ -244,71 +251,7 @@ If the patient dies without a given consent (absent, awaiting) then full data co
 
 .. image:: ConsentDeath2.png
 
-3.4.9. Sample(s) destruction date
-=====================================
-
-Sample/s destruction date is communicated from the labs and must be entered in the following scenario:
-* Initial consent withdrawal
-* When the consent changes from present to withdrawl
-
-.. note:: Sample(s) destruction date is communicated from the labs.
-
-.. note:: In case the samples have to be destroyed, please refer to chapter `ConsWith`_ on how to proceed.
-
-3.4.10. How to correct a consent
-====================================
-
-A registered consent can be:  
-* Updated (edit)
-* Deleted
-
-.. image:: ConsentEdit.png
-
-3.4.10.1. How to correct a consent: Edit
-------------------------------------------------
-
-Example: I registered a patient with "consent present", but later I realize that the correct consent status is "Absent (documented refusal)":
-
-#. Access Patient Admin
-#. Choose Edit
-#. Enter the correct consent status and other requested information and register
-#. Save the corrected form
-
-.. image:: ConsentEdit2.png
-
-You can see below (red arrow) how the consent status was updated to *refused*:
-
-.. image:: ConsentEdit3.png
-
-.. warning:: When changing a consent form to one that also changes the amount of collected data (full vs. minimal data), please be aware that only added forms after the changement date of the IC will be added as full or minimal data according to the choosen consent form. The forms that have an assessment date until the date of changement of consent are added as full or minimal data according to the given consent at that timepoint.  
-
-3.4.10.2. How to correct a consent: Delete
-------------------------------------------------
-
-Only the most recent IC form can be edited. If a previous consent form needs to be updated, for example for the correction of the date entered in the form, the actual IC form needs to be deleted in order to be able to edit the former one.
-
-#. Access Patient Admin
-#. Choose "delete" (red arrow)
-
-.. image:: ConsentDel1.png
-
-#. Edit the form as needed
-#. Re-add the deleted consent, if necessary
-
-.. image:: ConsentDel2.png
-
-3.4.11. Add new consent
-====================================
-
-If the consent status of a patient changes, the new IC status has to be added in 3LC.
-
-To change the IC status, open the case of the patient in 3LC and there the ‘Patient Admin’ page. Select '+ Add a consent'.
-
-.. image:: ConsentDel2.png
-
-.. warning:: When changing a consent form to one that also changes the amount of collected data (full vs. minimal data), please be aware that only added forms after the changement date of the IC will be added as full or minimal data according to the choosen consent form. The forms that have an assessment date until the date of changement of consent are added as full or minimal data according to the given consent at that timepoint.
-
-3.4.12. Consent of children turning 18 with no response as adults to IC-requests
+3.4.10. Consent of children turning 18 with no response as adults to IC-requests
 ============================================================================================
 
 If a child (with previously consent given by parents) turns 18 ad they do not send back the Informed Consent as adults according to the rules of sending out the IC for adults, the consent has to be changed from ‘Present’ to to ‘absent (other)/ reminder process closed’ with date of their 18th birthday
@@ -334,7 +277,95 @@ The IC Bar is shown as follows:
 
 .. warning:: As there was no chance to ask the patient about the collected samples, keep all the taken samples.
 
-3.4.13. More info about consent
+3.4.11. Registering the consent when a patient is shared
+===========================================================
+
+The center in charge of the patient (center of reference) has the responsibility for data collection. The center of reference is therefore responsible for registering the consent.
+If during the listing period the consent status is not available, then the transplant center contacts the listing center.
+
+3.4.11.1. Share a patient with another center
+-----------------------------------------------
+
+If a patient is followed by more than one center or transferred to another center, the Patient has to be ‘shared’ in the Patient Admin (see circle and arrow below):
+
+.. image:: SharePat.png
+
+If you need to give another center access to the patient, chose the center that needs access and then save the File:
+
+.. image: SharePat2.png
+
+After that share the STCS Number of the patient and a copy of the informed consent with the added center.
+
+3.4.12. How to correct a consent?
+====================================
+
+A registered consent can be:  
+* Updated (edit)
+* Deleted
+
+.. image:: ConsentEdit.png
+
+3.4.12.1. How to correct a consent: Edit
+------------------------------------------------
+
+Example: I registered a patient with "consent present", but later I realize that the correct consent status is "Absent (documented refusal)":
+
+#. Access Patient Admin
+#. Choose Edit
+#. Enter the correct consent status and other requested information and register
+#. Save the corrected form
+
+.. image:: ConsentEdit2.png
+
+You can see below (red arrow) how the consent status was updated to *refused*:
+
+.. image:: ConsentEdit3.png
+
+.. warning:: When changing a consent form to one that also changes the amount of collected data (full vs. minimal data), please be aware that only added forms after the changement date of the IC will be added as full or minimal data according to the choosen consent form. The forms that have an assessment date until the date of changement of consent are added as full or minimal data according to the given consent at that timepoint.  
+
+3.4.12.2. How to correct a consent: Delete
+------------------------------------------------
+
+Only the most recent IC form can be edited. If a previous consent form needs to be updated, for example for the correction of the date entered in the form, the actual IC form needs to be deleted in order to be able to edit the former one.
+
+#. Access Patient Admin
+#. Choose "delete" (red arrow)
+
+.. image:: ConsentDel1.png
+
+#. Edit the form as needed
+#. Re-add the deleted consent, if necessary
+
+.. image:: ConsentDel2.png
+
+3.4.13. How to add new consent
+====================================
+
+If the consent status of a patient changes, the new IC status has to be added in 3LC.
+
+To change the IC status, open the case of the patient in 3LC and there the ‘Patient Admin’ page. Select '+ Add a consent'.
+
+.. image:: ConsentDel2.png
+
+.. warning:: When changing a consent form to one that also changes the amount of collected data (full vs. minimal data), please be aware that only added forms after the changement date of the IC will be added as full or minimal data according to the choosen consent form. The forms that have an assessment date until the date of changement of consent are added as full or minimal data according to the given consent at that timepoint.
+
+3.4.14. Sample(s) destruction date
+=====================================
+
+Sample/s destruction date is communicated from the labs and must be entered in the following scenario:
+* Initial consent withdrawal
+* When the consent changes from present to withdrawl
+
+.. note:: Sample(s) destruction date is communicated from the labs.
+
+.. note:: In case the samples have to be destroyed, please refer to chapter `ConsWith`_ on how to proceed.
+
+3.4.15. How to collect data in case of "Consent present" after "Consent Absent (ReCap)"?
+================================================================================================================================
+
+In case of a consent given following a retrospective capture (ReCap) please collect full data in the new forms created and the history in all the appropriate containers
+
+3.4.16. More info about consent
 ====================================
 
 .. tip:: Please check :doc:`consent` for more information about the different types of consents and other information, such as Q&As.
