@@ -184,6 +184,8 @@ The following patient information and informed consent versions exist. Please se
 
 .. image:: TableConsent.png
 
+.. _ConsWith:
+
 3.4.5. Consent Withdrawal information
 =============================================
 
@@ -219,6 +221,40 @@ If you need to give another center access to the patient, chose the center that 
 .. image: SharePat2.png
 
 After that share the STCS Number of the patient and a copy of the informed consent with the added center.
+
+3.4.7. Patients incapable to give written consent before enrolment
+=======================================================================
+
+Patients incapable to give written informed consent for medical reasons before enrolment are retrospectively consented as soon as possible after transplantation (please use the adult retrospective consent version). In these situations no independent physician is consulted because the STCS is a purely observational study.
+If there is no informed consent at timepoint of transplantation, no samples are collected!
+If the patient remains incapable of judgement, the legal representative or next of kin will be contacted, as long as there is no documented refusal, no statement or corresponding negative behavior towards the proposed research action (please use the consent version for relatives).
+
+If the patient refuses to consent retrospectively or if the consent remains permanently unknown without any confirmation of the patient’s death, only the legally required minimal data set is collected.
+
+3.4.8. Death with consent unknown
+=========================================
+
+If the patient dies without a given consent (absent, awaiting) then full data collection possible (although defacto consent is permanently unknown), therefore:
+
+#. Edit the consent Absent (awaiting) and chose ‘Full’ in data collection
+
+.. image:: ConsentDeath1.png
+
+#.	After the Absent (awaiting) a new IC form needs to be added. Please choose Absent (death) from the drop down list. As consent date enter the date of death.
+
+.. image:: ConsentDeath2.png
+
+3.4.9. Sample/s destruction date
+=====================================
+
+Sample/s destruction date is communicated from the labs and must be entered in the following scenario:
+* Initial consent withdrawal
+* When the consent changes from present to withdrawl
+
+.. note:: Sample(s) destruction date is communicated from the labs.
+
+.. note:: In case the samples have to be destroyed, please refer to chapter `ConsWith`_ on how to proceed.
+
 
 More info about consent
 ===============================
