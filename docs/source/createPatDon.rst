@@ -130,27 +130,46 @@ See below an example on how a patient with Consent "Absent (awaiting)" is displa
 
 .. image:: ConsentEx.png
 
-3.4.2.1.1 Some tips in case of Absent Consent:
+Multiple types of consents are possible. For example for the patient 90000033, note how the consent of this patient changed from "Absent (awaiting)" to "Present" who you can see as documented in the *Consent history* and also color coded (reminder: each color has a specific meaning, see :doc:`consent` for more details). The dates of the different consents are also indicated.
+
+.. image:: ConsentChange.png
+
+.. image:: ConsentHist.png
+
+.. warning:: The consent status is required to further proceed for patient enrollment and registration.
+
+.. note:: Only the last added consent can be either edited or deleted. When only one consent is present, it can be edited, but not deleted.
+
+.. warning:: The oral form of consent is no longer accepted for consent given and consent withdrawal. Oral procedure can be accepted for consent refused. How the decision was communicated is requested to be briefly documented on the IT system (a dedicated field was requested and it is now available, communicated to the LDMs on the 25/10/2019).
+
+3.4.2.1.1 Some notes on Consent (Absent):
 -------------------------------------------------
 
-Tips on **Consent "Absent (awaiting)"**:
+Notes on Consent "Absent (awaiting)":
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 * In data collection choose full or minimal (according to your intern procedure management) and as consent date enter the date you sent out the IC. In the comment field enter the attempts to obtain the informed consent (e.g. phone call on 1.3.2025, reminder sent on 1.3.2025, etc.).
 * If you entered an ‘**absent (awaiting)**’ consent prior to an IC ‘present’ and you entered ‘minimal’ in data collection, be sure to change this to ‘full’ prior to enter the ‘present’ IC.
 
-Tips on **Consent "Absent ( documented refusal)"**:
+Notes on Consent "Absent ( documented refusal)":
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 * As date enter the date on the letter or of the oral refusal. In the comment field enter the attempts to obtain informed consent and/or how was the refusal communicated.
 
 .. note:: If you entered an ‘absent (awaiting)’ consent prior to an ‘absent (documented refusal)’ consent and you entered ‘full’ in data collection, be sure to change this to ‘minimal’ prior to enter the ‘absent (documented refusal)’ IC.
+
+3.4.2.1.2. Some notes on Consent Withdrawal
+-------------------------------------------------
+
+* If a patient withdrawls his consent, we need to clarify if the already drawn samples can further be used or need to be destroyed. The patients selection needs to be entered in ‘withdrawl option’ in 3LC.
 
 3.4.2.1.2. Consent flowchart
 -------------------------------------------------
 
 .. image:: ConsentManagement.png
 
-Different types of IC forms available:
-========================================
+3.4.3. Different types of IC forms available:
+===============================================
 
   * Adolescents (For adolescents with actual age and developmental age more than or equal to 14 to less than 18 years)
   * Adults (for  adult  patients  at  listing  or medical evaluation before transplant)
@@ -159,17 +178,7 @@ Different types of IC forms available:
   * Relatives (for adult patients with permanent incapability of judgement (to be confirmed by a physician))
   * Retrospective (for adult patients incapable to give written informed consent for medical reasons before enrolment - they should be retrospectively consented as soon as possible after transplantation)
 
-Multiple types of consents are possible. For example for the patient 90000033, note how the consent of this patient changed from "Absent (awaiting)" to "Present" who you can see as documented in the *Consent history* and also color coded (reminder: each color has a specific meaning, see :doc:`consent` for more details). The dates of the different consents are also indicated.
-
-.. image:: ConsentChange.png
-
-.. image:: ConsentHist.png
-
-Only the last added consent can be either edited or deleted. When only one consent is present, it can be edited, but not deleted.
-
 .. tip:: Please check :doc:`consent` for more information about the different types of consents and other information, such as Q&As.
-
-.. warning:: The consent status is required to further proceed for patient enrollment and registration.
 
 .. tip:: Watch our video on this section `here <https://www.youtube.com/watch?v=2YoodSm4fxg>`_.
 
