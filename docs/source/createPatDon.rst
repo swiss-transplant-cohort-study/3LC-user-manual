@@ -144,6 +144,11 @@ Tips on **Consent "Absent ( documented refusal)"**:
 
 .. note:: If you entered an ‘absent (awaiting)’ consent prior to an ‘absent (documented refusal)’ consent and you entered ‘full’ in data collection, be sure to change this to ‘minimal’ prior to enter the ‘absent (documented refusal)’ IC.
 
+3.4.2.1.2. Consent flowchart
+-------------------------------------------------
+
+.. image:: ConsentManagement.png
+
 Different types of IC forms available:
 ========================================
 
