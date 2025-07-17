@@ -244,7 +244,7 @@ If the patient dies without a given consent (absent, awaiting) then full data co
 
 .. image:: ConsentDeath2.png
 
-3.4.9. Sample/s destruction date
+3.4.9. Sample(s) destruction date
 =====================================
 
 Sample/s destruction date is communicated from the labs and must be entered in the following scenario:
@@ -254,6 +254,28 @@ Sample/s destruction date is communicated from the labs and must be entered in t
 .. note:: Sample(s) destruction date is communicated from the labs.
 
 .. note:: In case the samples have to be destroyed, please refer to chapter `ConsWith`_ on how to proceed.
+
+3.4.10. How to correct a consent
+====================================
+
+A registered consent can be:  
+* Updated (edit)
+* Deleted
+
+.. image:: ConsentEdit.png
+
+3.4.10.1. How to correct a consent: Edit
+------------------------------------------------
+
+Example: I registered a patient with "consent present", but later I realize that the correct consent status is "Absent (documented refusal)":
+
+#. Access Patient Admin
+#. Choose Edit
+#. Enter the correct consent status and other requested information and register
+#. Save the corrected form
+
+
+
 
 
 More info about consent
