@@ -334,9 +334,8 @@ The IC Bar is shown as follows:
 
 .. warning:: As there was no chance to ask the patient about the collected samples, keep all the taken samples.
 
-
-More info about consent
-===============================
+3.4.13. More info about consent
+====================================
 
 .. tip:: Please check :doc:`consent` for more information about the different types of consents and other information, such as Q&As.
 
