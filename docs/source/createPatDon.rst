@@ -274,9 +274,28 @@ Example: I registered a patient with "consent present", but later I realize that
 #. Enter the correct consent status and other requested information and register
 #. Save the corrected form
 
+.. image:: ConsentEdit2.png
 
+You can see below (red arrow) how the consent status was updated to *refused*:
 
+.. image:: ConsentEdit3.png
 
+.. warning:: When changing a consent form to one that also changes the amount of collected data (full vs. minimal data), please be aware that only added forms after the changement date of the IC will be added as full or minimal data according to the choosen consent form. The forms that have an assessment date until the date of changement of consent are added as full or minimal data according to the given consent at that timepoint.  
+
+3.4.10.2. How to correct a consent: Delete
+------------------------------------------------
+
+Only the most recent IC form can be edited. If a previous consent form needs to be updated, for example for the correction of the date entered in the form, the actual IC form needs to be deleted in order to be able to edit the former one.
+
+#. Access Patient Admin
+#. Choose "delete" (red arrow)
+
+.. image:: ConsentDel1.png
+
+#. Edit the form as needed
+#. Re-add the deleted consent, if necessary
+
+.. image:: ConsentDel2.png
 
 More info about consent
 ===============================
