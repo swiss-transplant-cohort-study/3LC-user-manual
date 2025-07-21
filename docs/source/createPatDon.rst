@@ -353,8 +353,9 @@ To change the IC status, open the case of the patient in 3LC and there the ‘Pa
 =====================================
 
 Sample/s destruction date is communicated from the labs and must be entered in the following scenario:
-* Initial consent withdrawal
-* When the consent changes from present to withdrawl
+
+* Initial consent withdrawal.
+* When the consent changes from present to withdrawl.
 
 .. note:: Sample(s) destruction date is communicated from the labs.
 
