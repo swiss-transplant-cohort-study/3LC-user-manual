@@ -254,11 +254,10 @@ If the patient dies without a given consent (absent, awaiting) then full data co
 3.4.10. Consent of children turning 18 with no response as adults to IC-requests
 ============================================================================================
 
-If a child (with previously consent given by parents) turns 18 ad they do not send back the Informed Consent as adults according to the rules of sending out the IC for adults, the consent has to be changed from ‘Present’ to to ‘absent (other)/ reminder process closed’ with date of their 18th birthday
+If a child with previously consent given by parents turns 18 and they (the now adult child) do not send back the Informed Consent as adults according to the rules of sending out the IC for adults, the consent must be changed from ‘Present’ to ‘absent (other)/ reminder process closed’ with date of their 18th birthday.
 
-So the procedure to change a consent from 'present' to 'absent (other)/reminder' process closed is:
-
-#. Add consent and as consent status choose absent (awaiting) and as date the 18th birthday
+The procedure to change a consent from ‘present’ to ‘absent (other)/reminder process closed’ is:
+#.	Add consent and as consent status choose absent (awaiting) and as date the 18th birthday
 #.	As person responsible to provide consent choose ‘patient’
 #.	Fill in the attempts made to clarify the IC in the comments
 
