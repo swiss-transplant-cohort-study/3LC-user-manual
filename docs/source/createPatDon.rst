@@ -299,9 +299,10 @@ After that share the STCS Number of the patient and a copy of the informed conse
 3.4.12. How to correct a consent?
 ====================================
 
-A registered consent can be:  
-* Updated (edit)
-* Deleted
+A registered consent can be:
+
+* Updated (edit).
+* Deleted.
 
 .. image:: ConsentEdit.png
 
@@ -337,6 +338,8 @@ Only the most recent IC form can be edited. If a previous consent form needs to 
 #. Re-add the deleted consent, if necessary
 
 .. image:: ConsentDel2.png
+
+.. warning:: When changing a consent form to one that also changes the amount of collected data (full vs. minimal data), please be aware that only added forms after the changement date of the IC will be added as full or minimal data according to the choosen consent form. The forms that have an assessment date until the date of changement of consent are added as full or minimal data according to the given consent at that timepoint.  
 
 3.4.13. How to add new consent
 ====================================
