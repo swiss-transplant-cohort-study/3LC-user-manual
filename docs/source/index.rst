@@ -36,13 +36,8 @@ This section provides information about the different types of users and respect
 
    createPatDon
 
-Consent
+.. Consent
 ************
-
-.. toctree::
-   :maxdepth: 1
-
-   consent
 
 Minimal Data
 *****************
