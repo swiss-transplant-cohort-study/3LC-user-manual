@@ -21,6 +21,7 @@ CRF status
 *************
 
 .. image:: CRF1.png
+  :width: 500
 
 The CRF status that appears on the Patient Overview can be chosen in the Baseline or FUP container at the top left. In order to save a form (bottom right side), a CRF status must be choosen.
 
@@ -31,16 +32,16 @@ Correction of a Follow-up date
 
 If you entered an incorrect follow-up date and you wish to correct this, then please proceed as follows:
 
-*.	Go to Follow-up.
-*.	Chose ‘in the FUP you need to do the corrections.
-*.	Correct the date(s).
+#.	Go to Follow-up (see circle in the figure above).
+#.	Choose ‘Edit’ the FUP you need to correct (see arrow in the figure above).
+#.	Correct the date(s).
 
 Deletion of a Follow-up date
 ================================
 
 .. warning:: To delete a complete patient case, please contact the IT-departement (open a ticket with all relevant information).
 
-If you’ve added a FUP erroneously (e.g. in the false patient), you can delete the last added FUP by chosing ‘Delete’ in the Follow-up overview.
+If you added a FUP erroneously (e.g. in the false patient), you can delete the last added FUP by chosing ‘Delete’ (see red arrow) in the Follow-up overview.
 
 .. image:: CRF3.png
 
@@ -48,7 +49,7 @@ Please note that already entered data in the ‘Patient Diagnosis List’, the �
 
 .. image:: CRF4.png
 
-To delete the accidentally entered data, you have to delete them all manually. Access the corresponding container, press the ‘Delete’ in the row corresponding to the false entry and confirm your selection.
+To delete the accidentally entered data, you have to delete them all manually. Access the corresponding container, press the ‘Delete’ (see arrow) in the row corresponding to the false entry and confirm your selection.
 
 Assessment date
 ========================
