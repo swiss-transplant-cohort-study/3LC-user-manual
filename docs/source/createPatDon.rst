@@ -382,7 +382,7 @@ Enter the SOAS listing ID (RS-Number assigned to the patient when set on the wai
 
 .. image:: soasListing.png
 
-The date of removal corresponds to the TX-date or to the date of death if a patient dies before a transplantation or to the date the patient was removed from the waitlist for any other cause (e.g. pat. Doesn’t want to be transplanted and signs the forms for being officially removed from the waitlist).
+The date of removal corresponds to the TX-date or to the date of death if a patient dies before a transplantation or to the date the patient was removed from the waitlist for any other cause (e.g. patient doesn’t want to be transplanted and signs the forms for being officially removed from the waiting list).
 
 Finally, select the organ(s) the patient has been listed for from the list.
 
@@ -417,6 +417,8 @@ Here you'll have a chance of adding details about the "Donor", the "SOAS listing
 
 You should also add the information for the "Healthcare provider", "Referral center", "Case number from the procedure provider", "Organ" and "Transplation date".
 
+.. note:: Transplantation date: usually the transplantation date is clear and refers to the date of surgery. However, if a patient is transplanted over night, the date of transplantation has to be cross checked with the date of transplantation that the coordination gives to swisstransplant. It might be that the date of transplantation is not the date of incision or the surgery report but the date the organ was connected to the circulation of the patient.
+
 The **principal care provider** takes the lead in the management of the care of the patient.
 
 For patients who are treated for their organ transplant at an institution other than the TPX center – use “External provider” (e.g. practicing physician, non-transplant hospital).
@@ -447,6 +449,14 @@ Enter multiple transplanted organs from the same donor by using ‘add organ’,
 =======================================================================
 
 In case of double transplantations, theoretically, different centers may be responsible for the care of the different organs (e.g. Kidney = CHUV; Pancreas = HUG). In this case, two centers would be "in charge" and both would be responsible for data entry.
+
+3.6.2. ST-Number, LR-Number, FO-Number
+===============================================
+
+A few important facts about the ST-Number:
+
+* In the case of a double transplant, the ST-/FO-Number is the same for both organs. Both organs come from the same donor.
+* In the case of two different transplants within the same patient, both organs have different ST-/FO-Numbers. The same holds for re-transplantations
 
 More details can be found in our `Youtube page <https://www.youtube.com/watch?v=njswLTRGQII>`_.
 
