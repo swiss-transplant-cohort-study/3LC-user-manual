@@ -417,7 +417,7 @@ Here you'll have a chance of adding details about the "Donor", the "SOAS listing
 
 You should also add the information for the "Healthcare provider", "Referral center", "Case number from the procedure provider", "Organ" and "Transplation date".
 
-.. note:: Transplantation date: usually the transplantation date is clear and refers to the date of surgery. However, if a patient is transplanted over night, the date of transplantation has to be cross checked with the date of transplantation that the coordination gives to swisstransplant. It might be that the date of transplantation is not the date of incision or the surgery report but the date the organ was connected to the circulation of the patient.
+.. note:: **Transplantation date**: usually the transplantation date is clear and refers to the date of surgery. However, if a patient is transplanted over night, the date of transplantation has to be cross checked with the date of transplantation that the coordination gives to swisstransplant. It might be that the date of transplantation is not the date of incision or the surgery report but the date the organ was connected to the circulation of the patient.
 
 The **principal care provider** takes the lead in the management of the care of the patient.
 
