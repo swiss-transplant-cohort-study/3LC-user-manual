@@ -19,3 +19,46 @@ The assessment containers are color-coded, see picture below:
 
 .. image:: FUP3.png
 
+CRF status
+*************
+
+.. image:: CRF1.png
+
+The CRF status that appears on the Patient Overview can be chosen in the Baseline or FUP container at the top left. In order to save a form (bottom right side), a CRF status must be choosen.
+
+Correction of a Follow-up date
+================================
+
+.. image:: CRF2.png
+
+If you entered an incorrect follow-up date and you wish to correct this, then please proceed as follows:
+
+*.	Go to Follow-up.
+*.	Chose ‘in the FUP you need to do the corrections.
+*.	Correct the date(s).
+
+Deletion of a Follow-up date
+================================
+
+.. warning:: To delete a complete patient case, please contact the IT-departement (open a ticket with all relevant information).
+
+If you’ve added a FUP erroneously (e.g. in the false patient), you can delete the last added FUP by chosing ‘Delete’ in the Follow-up overview.
+
+.. image:: CRF3.png
+
+Please note that already entered data in the ‘Patient Diagnosis List’, the ‘organ’ container’ and/or the ‘Lab’ container are not automatically deleted when deleting an added follow-up.
+
+.. image:: CRF4.png
+
+To delete the accidentally entered data, you have to delete them all manually. Access the corresponding container, press the ‘Delete’ in the row corresponding to the false entry and confirm your selection.
+
+Assessment date
+========================
+
+The Date of assessment corresponds to the date when the visit was done to collect the patient data.
+Baseline assessement date usually corresponds to the date of transplantation, and for FUP the date of the patient's cohort visit. 
+
+
+
+
+
