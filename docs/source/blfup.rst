@@ -3,8 +3,6 @@
 
 .. image:: FUP1.png
 
-*Page in construction*
-
 The ‘Patient FUP’ and ‘Organ FUP’ are short overviews with toggles that allow to enter a “yes”, “no” or “missing” for all collected information groups in the ‘Patient Diagnosis List’ and the ‘Organ’.
 
 .. image:: FUP2.png
@@ -59,6 +57,9 @@ The Date of assessment corresponds to the date when the visit was done to collec
 Baseline assessement date usually corresponds to the date of transplantation, and for FUP the date of the patient's cohort visit. 
 
 
+
+
+*Page in construction*
 
 
 
