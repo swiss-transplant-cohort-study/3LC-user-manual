@@ -36,8 +36,13 @@ This section provides information about the different types of users and respect
 
    createPatDon
 
-.. Consent
-************
+4. Baseline and Follow-up forms, including Samples and PSQ
+***************************************************************
+
+.. toctree::
+   :maxdepth: 1
+
+   blfup
 
 Minimal Data
 *****************
