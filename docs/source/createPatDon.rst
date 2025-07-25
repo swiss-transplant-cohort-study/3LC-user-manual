@@ -438,8 +438,17 @@ To add transplantations (second or re-transplantations, go on Patient Admin (lef
 
 .. note:: When adding a re-transplantation do not forget to enter a FUP and to stop the organ prior to adding the new one.
 
-3.6.1.1. Add more transplantations from the same donor:
+3.6.1.1. Add more transplantations from the same donor: Double-Tx
 --------------------------------------------------------------------------
+
+Enter multiple transplanted organs from the same donor by using ‘add organ’, as shown below:
+
+.. image:: AddOrgan.png
+
+If there is a double-TX, the SOAS-Nr. must only be entered once.
+
+3.6.1.2. Add more transplantations from the same donor: Re-Transplantation or second transplantation
+--------------------------------------------------------------------------------------------------------
 
 Enter multiple transplanted organs from the same donor by using ‘add organ’, as shown below:
 
@@ -463,7 +472,9 @@ More details can be found in our `Youtube page <https://www.youtube.com/watch?v=
 3.7. Non STCS Study Linkage
 *********************************
 
-3.8. Workflow recommendation:
+To be added (*page in construction*).
+
+3.8. Workflow recommendations
 *********************************
 
 We recommend the following workflow for patient registration:
