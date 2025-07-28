@@ -194,4 +194,125 @@ Questions
 The questions are just formal and no additional information to a ‘Yes’, ‘No’ or ‘missing’ is added anywhere.
 Did the patient smoke tobacco since last cohort visit?
 
+4.3. Samples
+********************
 
+*	There are two time points at which samples are taken for the STCS: T0 and T12. The amount of blood drawn is specified below.
+*	Plasma and DNA (T0) or only plasma (T12) are obtained from the samples and then stored.
+*	The samples taken are entered in the STCS database and, if necessary, also removed from it if they are withdrawn for further use or destroyed at the patient's request.
+*	No samples are taken without the patient's IC.
+*	Blood sampling which is taken from a patient who is not transplanted will still be tested and stored for a period of two weeks in the Lab. This will not be billed if not entered in the STCS.
+
+4.3.1. General rules and procedures
+=====================================
+
+*	For details regarding the laboratory procedure see specific SOPs
+*	The use of a “sample tracking sheet” for each patient is mandatory. The Lausanne version is the official version of the sample tracking sheet. 
+*	If a sample has been processed in a different manner then described in the SOP, the change has to be recorded in the sample tracking sheet.
+*	Blood samples are not transferred between centers in the case of patient transfer.
+*	Analyzed samplings must be entered in 3LC as soon as possible in the Sample section, as longest after 7 days.
+
+4.3.2. Timepoint for Sampling blood draws
+============================================
+
+T0: A Sampling before TX can be taken -15 to 0 days before TX.
+T0 in ABOi living donation: The T0 blood draw has to be performed before the start of any induction of immunosuppression or conditioning regimen. The rule of -15 days is applied by analogy.
+
+T12: Window for blood draw : +/- 15 days at 12 months (total one month period)
+
+4.3.3. Sample registration (sample in)
+=========================================
+
+.. image:: Sample1.png
+
+* Choose the analyzed material. In the Baseline the order is:
+
+  #. Plasma
+  #. Extracted DNA
+
+*	The sample identification Number will then be generated automatically by choosing:
+
+  *	the transplantation
+  * the sampling schedule and
+  * the sample type from the dropdown list in 3LC
+
+*	Further entries:
+
+  * the local center sample ID
+  * the center where the sample is stored
+  * the sample collection date and
+  * the number of aliquots stored (Plasma always 3 unless there is no notice in the lab tracking sheet, DNA always 2)
+
+4.3.4. Sample utilization and tracking (sample out)
+=====================================================
+
+If samples are used for a study or research, the removal of (or part of) the sample has to be entered in 3LC in the “Samples”-part in “BioSample out”.
+
+.. image:: Sample2.png
+
+When removing samples please enter:
+
+*	the date of sample retrieval
+*	the number of aliquots (if entire tubes are removed or a tube is empty) used and
+*	the reason for the retrieval/removal (study, consent withdrawl or other reason).
+* If retrieved for a study, always indicate the project for which the samples are used and the exact number of aliquots taken.
+* If tubes habe been removen for any other reason, indicate the reason and the number of removed tubes (e.g. the tube has been defrosted from the wrong patient and needs to be destroyed)
+
+.. warning:: **DNA** is removed in drops, meaning, after a sampling removal the tube remains in the freezer. This means, that in the STCS in “Number of aliquots used” no entry is made unless the tube is completely empty. This also means, that if DNA is removed, we have to ask the ‘Typisierungslabor’ if there are tubes that have been used completely.
+
+.. warning:: If **plasma** is removed, it’s always (!) a complete tube that has to be entered in ‘Number of aliquots used’.
+
+.. image:: Sample3.png
+
+4.3.4.1. Sample destruction in case of change of consent
+--------------------------------------------------------------
+
+In case of consent withdrawal or other cases in which samples were entered and have now to be destroyed, please do not simply delete the sampling but enter the sample utilisation and traking field to remove them.
+
+.. warning:: If samples are deleted completely and not just removed, there will be no money in the sample cost calculation for these samplings!
+
+4.3.5. Quantity of drawn blood for the STCS Samples
+=========================================================
+
+.. list-table::
+   :widths: 45 30 
+   :header-rows: 1
+
+   * - Blood volume
+     - T0/T12
+   * - Children and adults > 40kg body weight
+     - 7.5-20ml
+   * - Children 30-40 kg body weight
+     - 0.8 x 7.5-20ml
+   * - Children 20-30 kg body weight
+     - 0.6 x 7.5-20ml
+   * - Children 15-20 kg body weight
+     - 0.4 x 7.5-20ml
+   * - Children 10-15 kg body weight
+     - 0.2 x 7.5-20ml
+   * - Children 5-10 kg body weight
+     - 0.1 x7.5-20ml
+   * - Children <5 kg body weight
+     - 0.1 x7.5-20ml
+
+
+The exact quantity depends on the center:
+
+*	HUG (GE): 5ml/5ml
+*	CHUV (VD): 7.5ml/7.5ml
+*	Inselspital (BE):7.5ml/7.5ml
+*	HOCH (SG): 20ml/20ml
+*	USB (BS): *missing*
+*	USZ (ZH): 10ml/10ml
+
+Example:
+
+* Pat. with 17kg: 0.4 x 10ml (*USZ*) = 4ml
+* Pat. with 17kg: 0.4 x 7.5ml (*CHUV* and *Insel*) = 3ml
+
+4.3.6. Specific rules and procedures
+===============================================
+
+Children of Jehovah’s Witness, patients with anemia: to reduce the blood use of these patients, volume and sampling will be decided on an individual basis by the transplant physician.
+
+    
