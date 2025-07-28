@@ -14,12 +14,40 @@ The project has the following user roles:
 
 * **Global_Viewer**: This user has reading rights only for all patients.
 
-2.2. Create and search
-*************************
+2.2. Create and search: How to find a patient in the database
+*********************************************************************
 
 In the **Create and Search** menu, you'll see a list of all the STCS patients for your center with their *Unique patient identification*, *Initials*, *Date of Birth*, *Gender at birth*, *Latest assessment date*, as shown below.
 
 .. image:: CreateAndSearch.png
+
+A patient can best be found by searching under the created cohort-number, alternatively the SOAS-number or patient initials or d.o.b. can also be used (see figure below, red arrow).
+
+To start the searching-process, click ‘enter’ on your keyboard or use the ‘search’ button on the database!
+
+.. image:: ovview1.png
+
+Using the filter on the right side, the searching parameters in the database can be changed as preferred.
+
+.. image:: ovview2.png
+
+**Organs**:
+
+*	Any of: search if any of the organ has been transplanted 
+*	All of: select only those patients and transplantations where all of the selected organs has been selected. 
+
+**Transplantation date**:
+
+*	Enter a start date(From) and an end date(To) withing the transplantation should have been performed. 
+*	To select a date in the future is not possible 
+*	A stop date before start date will be highlighted in red
+
+**Consent**:
+
+*	Displays any selected consent at any time of STCS patients Life – and any of selection
+
+2.3 Patient Overview
+****************************
 
 When clicking on the STCS patient id we are looking for, in the example 90000001, you will be redirected to the **PatientOverview**. Here you can see a dashboard if all the information related to the patient, including the collected data.
 
@@ -45,8 +73,8 @@ First assessement at the bottom of the page is the Baseline.
 
 .. image:: overview3.png
 
-Using the system: tips
-==========================
+2.4. Using the system: tips
+********************************
 
 In the **Create and search** menu, it is possible to sort when clicking in the different headers (see red arrows below):
 
