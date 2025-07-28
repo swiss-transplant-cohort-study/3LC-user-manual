@@ -57,6 +57,49 @@ Assessment date
 The Date of assessment corresponds to the date when the visit was done to collect the patient data.
 Baseline assessement date usually corresponds to the date of transplantation, and for FUP the date of the patient's cohort visit. 
 
+4.1 Baseline forms
+***********************
+.. image:: BL1.png
+
+.. warning:: All data, which occured prior to and up to transplantation, is considered baseline data. Hence this data will be entered in the patient and case baseline CRFs.
+
+The patient baseline container consists of three sub-sections.
+The first one, the ‘**Pre-enrolmennt history**’, corresponds to that what in the follow-ups is called ‘Post transplant diagnosis’ but will not collect ‘previous transplantations’ in follow-ups.
+The ‘patient characteristics’ included in this section are referred as ‘Assessments’ in the follow-ups.
+
+.. image:: BL2.png
+
+The information in the second and third section (Patient HLA) is only collected once at the data collection of the first ever entered baseline, because it is data that does not change in time.
+
+.. image:: BL3.png
+
+.. image:: BL4.png
+
+4.1.1. Pre-enrolment history
+==================================
+
+The toggles are only here to indicate wheter there was an event in the respective cathegory or not before the transplantation.
+
+.. image:: BL5.png
+
+To enter a specific event, click on the title of the event category (see red arrows). This will open the container in a new tab where you will be able to enter the corresponding event(s).
+
+4.1.1.1 Infectious diseases
+------------------------------
+
+We do not collect the whole ID-History of the patient but only major pre-enrollment infectious diseases and infections active at the timepoint of transplantation.
+
+More information regarding the collection of infectious diseases can be found in Patient containers/Patient Diagnosis List/Infectious Disease.
+
+4.1.2. Patient characteristics
+==================================
+
+Please use to most recent measurements prior to transplantation. For the blood pressure, you can use the value in the anesthesia protocol or the last measurement prior to transplantation.
+The BMI will be calculated automatically.
+
+.. Questions
+----------------
+
 
 
 
