@@ -17,16 +17,16 @@ The assessment containers are color-coded, see picture below:
 
 .. image:: FUP3.png
 
-CRF status
-*************
+4.1. CRF status
+*******************
 
 .. image:: CRF1.png
   :width: 500
 
 The CRF status that appears on the Patient Overview can be chosen in the Baseline or FUP container at the top left. In order to save a form (bottom right side), a CRF status must be choosen.
 
-Correction of a Follow-up date
-================================
+4.1.1. Correction of a Follow-up date
+================================================
 
 .. image:: CRF2.png
 
@@ -36,8 +36,8 @@ If you entered an incorrect follow-up date and you wish to correct this, then pl
 #.	Choose ‘Edit’ the FUP you need to correct (see arrow in the figure above).
 #.	Correct the date(s).
 
-Deletion of a Follow-up date
-================================
+4.1.2. Deletion of a Follow-up date
+==========================================
 
 .. warning:: To delete a complete patient case, please contact the IT-departement (open a ticket with all relevant information).
 
@@ -51,13 +51,13 @@ Please note that already entered data in the ‘Patient Diagnosis List’, the �
 
 To delete the accidentally entered data, you have to delete them all manually. Access the corresponding container, press the ‘Delete’ (see arrow) in the row corresponding to the false entry and confirm your selection.
 
-Assessment date
-========================
+4.1.3. Assessment date
+=============================
 
 The Date of assessment corresponds to the date when the visit was done to collect the patient data.
 Baseline assessement date usually corresponds to the date of transplantation, and for FUP the date of the patient's cohort visit. 
 
-4.1 Baseline forms
+4.2. Baseline forms
 ***********************
 
 .. image:: BL1.png
@@ -76,7 +76,7 @@ The information in the second and third section (Patient HLA) is only collected 
 
 .. image:: BL4.png
 
-4.1.1. Pre-enrolment history
+4.2.1. Pre-enrolment history
 ==================================
 
 The toggles are only here to indicate wheter there was an event in the respective cathegory or not before the transplantation.
@@ -85,14 +85,14 @@ The toggles are only here to indicate wheter there was an event in the respectiv
 
 To enter a specific event, click on the title of the event category (see red arrows). This will open the container in a new tab where you will be able to enter the corresponding event(s).
 
-4.1.1.1 Infectious diseases
+4.2.1.1 Infectious diseases
 ------------------------------
 
 We do not collect the whole ID-History of the patient but only major pre-enrollment infectious diseases and infections active at the timepoint of transplantation.
 
 More information regarding the collection of infectious diseases can be found in Patient containers/Patient Diagnosis List/Infectious Disease.
 
-4.1.2. Patient characteristics
+4.2.2. Patient characteristics
 ==================================
 
 Please use to most recent measurements prior to transplantation. For the blood pressure, you can use the value in the anesthesia protocol or the last measurement prior to transplantation.
@@ -113,12 +113,12 @@ Baseline: Marihuana smoking habits:
 
 .. note:: Other illicit substance use: Indicate all illicit substances use until transplantation as a free-text.
 
-4.1.3. Ethnicity
+4.2.3. Ethnicity
 ==================
 
 In the drop-down list you can choose between ‘Caucasian’ (whiteness), ‘Asian’, ‘African or African American’ and ‘Other’. If you choose ‘Other’, please indicate the ethnicity in the comment field.
 
-4.1.4. Past immunosuppressive treatment (including systemic corticosteroids)
+4.2.4. Past immunosuppressive treatment (including systemic corticosteroids)
 ==========================================================================================
 
 A patient could have had an immunosuppressive treatment prior to transplantation for different reasons such as a previous transplantation, COPD or rheumatoid arthritis.
@@ -129,7 +129,7 @@ If a patient has received immunosuppressive treatments and/or systemic steroids 
 *	IS treatment without systemic steroids.
 *	Systemic steorids alone.
 
-4.1.5. Patient HLA
+4.2.5. Patient HLA
 ========================
 
 Patient HLA is registered here and only needs to be registered once, even if a patient recieves multiple transplantations (either combined or second or re-TX).
@@ -141,7 +141,7 @@ If a HLA is homozygous, you can select the button next to the according HLA inst
 Please indicate single missing HLA with the ‘x’, if all HLA is missing (analysis not done) select ‘All HLA missing’ to auto-complete all fields.
 If you erroneously selected ‘All HLA missing’ you can undo that by clicking ‘HLA available’. Previously entered HLA will re-appear as long as you did not save the form..
 
-4.2 Follow-up forms
+4.3. Follow-up forms
 *************************
 
 .. iamge:: BL7.png
@@ -154,7 +154,7 @@ The toggles are only here to indicate wheter there was an event in the respectiv
 
 To enter a specific event, click on the title of the event cathegory. This will open the container in a new tab where you will be able to enter the corresponding event(s).
 
-4.2.1. Post transplant Diagnosis
+4.3.1. Post transplant Diagnosis
 ===================================
 
 The toggles are only here to indicate wheter there was an event in the respective cathegory or not since the last assessment (baseline or follow-up).
@@ -163,7 +163,7 @@ The toggles are only here to indicate wheter there was an event in the respectiv
 
 To enter a specific event, click on the title of the event cathegory. This will open the container in a new tab where you will be able to enter the corresponding event(s).
 
-4.2.1.1. Infectious diseases 
+4.3.1.1. Infectious diseases 
 ----------------------------------
 
 If you do not have (yet) information regarding the occourrence of an infection in the actual follow-up period, there might be different reasons for it. Please indicate the reason for the missing information in the drop down list and select from:
@@ -182,7 +182,7 @@ When you receive confirmation (or negation) of the suspected infection, do not f
 
 More information regarding the collection of infectious diseases can be found in Patient containers/Patient Diagnosis List/Infectious Disease.
 
-4.2.2. Assessments
+4.3.2. Assessments
 =======================
 
 Please use to most recent measurements prior to or on the day of follow-up.
@@ -194,7 +194,7 @@ Questions
 The questions are just formal and no additional information to a ‘Yes’, ‘No’ or ‘missing’ is added anywhere.
 Did the patient smoke tobacco since last cohort visit?
 
-4.3. Samples
+4.4. Samples
 ********************
 
 *	There are two time points at which samples are taken for the STCS: T0 and T12. The amount of blood drawn is specified below.
@@ -203,7 +203,7 @@ Did the patient smoke tobacco since last cohort visit?
 *	No samples are taken without the patient's IC.
 *	Blood sampling which is taken from a patient who is not transplanted will still be tested and stored for a period of two weeks in the Lab. This will not be billed if not entered in the STCS.
 
-4.3.1. General rules and procedures
+4.4.1. General rules and procedures
 =====================================
 
 *	For details regarding the laboratory procedure see specific SOPs
@@ -212,7 +212,7 @@ Did the patient smoke tobacco since last cohort visit?
 *	Blood samples are not transferred between centers in the case of patient transfer.
 *	Analyzed samplings must be entered in 3LC as soon as possible in the Sample section, as longest after 7 days.
 
-4.3.2. Timepoint for Sampling blood draws
+4.4.2. Timepoint for Sampling blood draws
 ============================================
 
 T0: A Sampling before TX can be taken -15 to 0 days before TX.
@@ -220,7 +220,7 @@ T0 in ABOi living donation: The T0 blood draw has to be performed before the sta
 
 T12: Window for blood draw : +/- 15 days at 12 months (total one month period)
 
-4.3.3. Sample registration (sample in)
+4.4.3. Sample registration (sample in)
 =========================================
 
 .. image:: Sample1.png
@@ -243,7 +243,7 @@ T12: Window for blood draw : +/- 15 days at 12 months (total one month period)
   * the sample collection date and
   * the number of aliquots stored (Plasma always 3 unless there is no notice in the lab tracking sheet, DNA always 2)
 
-4.3.4. Sample utilization and tracking (sample out)
+4.4.4. Sample utilization and tracking (sample out)
 =====================================================
 
 If samples are used for a study or research, the removal of (or part of) the sample has to be entered in 3LC in the “Samples”-part in “BioSample out”.
@@ -264,14 +264,14 @@ When removing samples please enter:
 
 .. image:: Sample3.png
 
-4.3.4.1. Sample destruction in case of change of consent
+4.4.4.1. Sample destruction in case of change of consent
 --------------------------------------------------------------
 
 In case of consent withdrawal or other cases in which samples were entered and have now to be destroyed, please do not simply delete the sampling but enter the sample utilisation and traking field to remove them.
 
 .. warning:: If samples are deleted completely and not just removed, there will be no money in the sample cost calculation for these samplings!
 
-4.3.5. Quantity of drawn blood for the STCS Samples
+4.4.5. Quantity of drawn blood for the STCS Samples
 =========================================================
 
 .. list-table::
@@ -281,22 +281,21 @@ In case of consent withdrawal or other cases in which samples were entered and h
    * - Blood volume
      - T0/T12
    * - Children and adults > 40kg body weight
-     - 7.5-20ml
+     - 7.5-20ml*
    * - Children 30-40 kg body weight
-     - 0.8 x 7.5-20ml
+     - 0.8 x 7.5-20ml*
    * - Children 20-30 kg body weight
-     - 0.6 x 7.5-20ml
+     - 0.6 x 7.5-20ml*
    * - Children 15-20 kg body weight
-     - 0.4 x 7.5-20ml
+     - 0.4 x 7.5-20ml*
    * - Children 10-15 kg body weight
-     - 0.2 x 7.5-20ml
+     - 0.2 x 7.5-20ml*
    * - Children 5-10 kg body weight
-     - 0.1 x7.5-20ml
+     - 0.1 x7.5-20ml*
    * - Children <5 kg body weight
-     - 0.1 x7.5-20ml
+     - 0.1 x7.5-20ml*
 
-
-The exact quantity depends on the center:
+*The exact quantity depends on the center:
 
 *	HUG (GE): 5ml/5ml
 *	CHUV (VD): 7.5ml/7.5ml
@@ -310,7 +309,7 @@ Example:
 * Pat. with 17kg: 0.4 x 10ml (*USZ*) = 4ml
 * Pat. with 17kg: 0.4 x 7.5ml (*CHUV* and *Insel*) = 3ml
 
-4.3.6. Specific rules and procedures
+4.4.6. Specific rules and procedures
 ===============================================
 
 Children of Jehovah’s Witness, patients with anemia: to reduce the blood use of these patients, volume and sampling will be decided on an individual basis by the transplant physician.
