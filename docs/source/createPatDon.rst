@@ -92,8 +92,6 @@ Here are the different types of donors which are possible:
 
 .. note:: "Unknown" identifical twins should be used when it is unknown whether they are identical twins or not.
 
-.. tip:: More details can be found in our `Youtube <https://www.youtube.com/watch?v=ZWZr9FcZ0js>`_ page.
-
 3.4. Create consent
 ***********************
 
@@ -373,8 +371,6 @@ In case of a consent given following a retrospective capture (ReCap) please coll
 
 .. tip:: Please check :doc:`consent` for more information about the different types of consents and other information, such as Q&As.
 
-.. tip:: Watch our video on this section `here <https://www.youtube.com/watch?v=2YoodSm4fxg>`_.
-
 3.5. Create SOAS Listing
 ************************************
 
@@ -397,8 +393,6 @@ You can add SOAS listings for other organs, even ongoing organs, if the patient 
 .. note:: Note that in the particular situation of an urgent transplantion, the *listing date* and *removal date* for this patient would be the same as the *transplant date*.
 
 .. note:: If the patient dies while on the waiting list, this information should not be entered in the system as it is a clinical data. The patient should be left “open” in waiting list.
-
-.. note A SOAS listing for recipients who are on the **Swiss waiting list** should follow this format and range: RS -[1901-2024]-[0001-9999] (for example, RS-2000-0002). For recipients on the *Foreign waiting list*, the SOAS listing ID should follow this format: RF -[1901-2024]-[0001-9999]. [1901-2024] corresponds to the listing year, [0001-9999] to the current case number.
 
 3.6. Create Transplantation
 *************************************
@@ -467,12 +461,10 @@ A few important facts about the ST-Number:
 * In the case of a double transplant, the ST-/FO-Number is the same for both organs. Both organs come from the same donor.
 * In the case of two different transplants within the same patient, both organs have different ST-/FO-Numbers. The same holds for re-transplantations
 
-More details can be found in our `Youtube page <https://www.youtube.com/watch?v=njswLTRGQII>`_.
-
 3.7. Non STCS Study Linkage
 *********************************
 
-To be added (*page in construction*).
+This is not active currently.
 
 3.8. Workflow recommendations
 *********************************
