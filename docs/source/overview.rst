@@ -2,10 +2,12 @@
 ############################################
 
 2.0. Test 3LC vs Prod 3LC
+*******************************
 
 Please note that the left side menu bar on the test server (with no real patient data) are purple, while this is black on 3LC PROD (with real patient data).
 
 .. image:: Sidebyside.png
+  :width: 350
 
 Note that all the print screens below refer to the 3LC test server. 
 
