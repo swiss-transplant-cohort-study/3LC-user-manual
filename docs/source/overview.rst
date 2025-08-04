@@ -1,6 +1,14 @@
 2. Presentation of the Workspace/Overview
 ############################################
 
+2.0. Test 3LC vs Prod 3LC
+
+Please note that the left side menu bar on the test server (with no real patient data) are purple, while this is black on 3LC PROD (with real patient data).
+
+.. image:: Sidebyside.png
+
+Note that all the print screens below refer to the 3LC test server. 
+
 2.1. User roles
 *******************
 
@@ -48,12 +56,12 @@ When selecting the filter "icon" (see circle on the image above), the following 
 
 *	Displays any selected consent at any time of STCS patients Life – and any of selection
 
-2.3 Patient Overview
+2.3. Patient Overview
 ****************************
 
-When clicking on the STCS patient id we are looking for, in the example 90000001, you will be redirected to the **PatientOverview**. Here you can see a dashboard if all the information related to the patient, including the collected data.
+When clicking on the STCS patient ID we are looking for, in the example 90000001, you will be redirected to the **Patient overview**. Here you can see a dashboard if all the information related to the patient, including the collected data.
 
-.. image:: overview0.png
+.. image:: Overview0.png
 
 The top section corresponds to the *patient administrative data*.
 
