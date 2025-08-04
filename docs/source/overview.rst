@@ -31,6 +31,8 @@ Using the filter on the right side, the searching parameters in the database can
 
 .. image:: ovview2.png
 
+When selecting the filter "icon" (see circle on the image above), the following menus appear and can be further selected:
+
 **Organs**:
 
 *	Any of: search if any of the organ has been transplanted 
