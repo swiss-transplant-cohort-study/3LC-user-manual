@@ -15,6 +15,11 @@ Data entry
 
 **Dates**: dates can be inserted either by navigating the calendar widget or being manually typed.
 
+3LC user documentation
+************************
+
+**Increase size of images**: right click on image and select "open in new tab"
+
 ----------------------------
 
 *In construction*
