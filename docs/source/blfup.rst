@@ -85,7 +85,7 @@ The toggles are only here to indicate wheter there was an event in the respectiv
 
 To enter a specific event, click on the title of the event category (see red arrows). This will open the container in a new tab where you will be able to enter the corresponding event(s).
 
-4.2.1.1 Infectious diseases
+Infectious diseases
 ------------------------------
 
 We do not collect the whole ID-History of the patient but only major pre-enrollment infectious diseases and infections active at the timepoint of transplantation.
@@ -101,12 +101,14 @@ The BMI will be calculated automatically.
 Questions
 ----------------
 
-Baseline: Tobacco smoking habits:
+Baseline, Tobacco smoking habits:
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 *	Current: activates the question of ‘Number of pack years’.
 *	Former: Activates the question of the date when the patient stopped smoking tobaco.
 
-Baseline: Marihuana smoking habits:
+Baseline, Marihuana smoking habits:
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 * Current.
 * Former: Activates the question of the date when the patient stopped marihuana
@@ -163,7 +165,7 @@ The toggles are only here to indicate wheter there was an event in the respectiv
 
 To enter a specific event, click on the title of the event cathegory. This will open the container in a new tab where you will be able to enter the corresponding event(s).
 
-4.3.1.1. Infectious diseases 
+Infectious diseases 
 ----------------------------------
 
 If you do not have (yet) information regarding the occourrence of an infection in the actual follow-up period, there might be different reasons for it. Please indicate the reason for the missing information in the drop down list and select from:
@@ -264,7 +266,7 @@ When removing samples please enter:
 
 .. image:: Sample3.png
 
-4.4.4.1. Sample destruction in case of change of consent
+Sample destruction in case of change of consent
 --------------------------------------------------------------
 
 In case of consent withdrawal or other cases in which samples were entered and have now to be destroyed, please do not simply delete the sampling but enter the sample utilisation and traking field to remove them.
