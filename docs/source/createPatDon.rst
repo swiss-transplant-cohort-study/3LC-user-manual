@@ -117,7 +117,7 @@ For example, in the case of the patient 90000034, age 14, the default re-consent
 3.4.2. Consent status
 ===========================
 
-3.4.2.1. Definitions and types of consents
+Definitions and types of consents
 -----------------------------------------------
 
 - **Present**: when consent is present. We have a signed Informal Consent (IC) from the patient. Fill in the consent date (date indicated on the informed consent and the IC form the patient or his parents or relatives signed.
@@ -138,7 +138,7 @@ See below an example on how a patient with Consent "Absent (awaiting)" is displa
 
 .. warning:: The oral form of consent is no longer accepted for consent given and consent withdrawal. Oral procedure can be accepted for consent refused. How the decision was communicated is requested to be briefly documented on the IT system (a dedicated field was requested and it is now available, communicated to the LDMs on the 25/10/2019).
 
-3.4.2.1.1 Some notes on Consent (Absent):
+Some notes on Consent (Absent):
 -------------------------------------------------
 
 Notes on Consent "Absent (awaiting)":
@@ -243,11 +243,11 @@ If the patient refuses to consent retrospectively or if the consent remains perm
 
 If the patient dies without a given consent (absent, awaiting) then full data collection possible (although defacto consent is permanently unknown), therefore:
 
-#. Edit the consent Absent (awaiting) and chose ‘Full’ in data collection
+1. Edit the consent Absent (awaiting) and chose ‘Full’ in data collection
 
 .. image:: ConsentDeath1.png
 
-#.	After the Absent (awaiting) a new IC form needs to be added. Please choose Absent (death) from the drop down list. As consent date enter the date of death.
+2.	After the Absent (awaiting) a new IC form needs to be added. Please choose Absent (death) from the drop down list. As consent date enter the date of death.
 
 .. image:: ConsentDeath2.png
 
@@ -257,14 +257,16 @@ If the patient dies without a given consent (absent, awaiting) then full data co
 If a child with previously consent given by parents turns 18 and they (the now adult child) do not send back the Informed Consent as adults according to the rules of sending out the IC for adults, the consent must be changed from ‘Present’ to ‘absent (other)/ reminder process closed’ with date of their 18th birthday.
 
 The procedure to change a consent from ‘present’ to ‘absent (other)/reminder process closed’ is:
+
 #.	Add consent and as consent status choose absent (awaiting) and as date the 18th birthday
 #.	As person responsible to provide consent choose ‘patient’
 #.	Fill in the attempts made to clarify the IC in the comments
 
 .. image:: Consent18.png
 
-If there is no reply from the patient until the reminder process is closed:
-#.	add a new consent where you indicate absent (other)/reminder process closed as consent status. If it does not appear in the drop down section, i.e. because you enter the IC form absent (awaiting) and absent (other) in one go, chose ‘create and search’ and open the patient again or refresh the page.
+If there is no reply from the patient until the reminder process is closed: add a new consent where you indicate absent (other)/reminder process closed as consent status. 
+
+.. note:: If it does not appear in the drop down section, i.e. because you enter the IC form absent (awaiting) and absent (other) in one go, chose ‘create and search’ and open the patient again or refresh the page.
 
 .. image:: Consent18_2.png
 
@@ -282,7 +284,7 @@ The IC Bar is shown as follows:
 The center in charge of the patient (center of reference) has the responsibility for data collection. The center of reference is therefore responsible for registering the consent.
 If during the listing period the consent status is not available, then the transplant center contacts the listing center.
 
-3.4.11.1. Share a patient with another center
+Share a patient with another center
 -----------------------------------------------
 
 If a patient is followed by more than one center or transferred to another center, the Patient has to be ‘shared’ in the Patient Admin (see circle and arrow below):
@@ -305,7 +307,7 @@ A registered consent can be:
 
 .. image:: ConsentEdit.png
 
-3.4.12.1. How to correct a consent: Edit
+How to correct a consent: Edit
 ------------------------------------------------
 
 Example: I registered a patient with "consent present", but later I realize that the correct consent status is "Absent (documented refusal)":
@@ -323,7 +325,7 @@ You can see below (red arrow) how the consent status was updated to *refused*:
 
 .. warning:: When changing a consent form to one that also changes the amount of collected data (full vs. minimal data), please be aware that only added forms after the changement date of the IC will be added as full or minimal data according to the choosen consent form. The forms that have an assessment date until the date of changement of consent are added as full or minimal data according to the given consent at that timepoint.  
 
-3.4.12.2. How to correct a consent: Delete
+How to correct a consent: Delete
 ------------------------------------------------
 
 Only the most recent IC form can be edited. If a previous consent form needs to be updated, for example for the correction of the date entered in the form, the actual IC form needs to be deleted in order to be able to edit the former one.
@@ -434,7 +436,7 @@ To add transplantations (second or re-transplantations, go on Patient Admin (lef
 
 .. note:: When adding a re-transplantation do not forget to enter a FUP and to stop the organ prior to adding the new one.
 
-3.6.1.1. Add more transplantations from the same donor: Double-Tx
+Add more transplantations from the same donor: Double-Tx
 --------------------------------------------------------------------------
 
 Enter multiple transplanted organs from the same donor by using ‘add organ’, as shown below:
@@ -443,7 +445,7 @@ Enter multiple transplanted organs from the same donor by using ‘add organ’,
 
 If there is a double-TX, the SOAS-Nr. must only be entered once.
 
-3.6.1.2. Add more transplantations from the same donor: Re-Transplantation or second transplantation
+Add more transplantations from the same donor: Re-Transplantation or second transplantation
 --------------------------------------------------------------------------------------------------------
 
 Enter multiple transplanted organs from the same donor by using ‘add organ’, as shown below:
