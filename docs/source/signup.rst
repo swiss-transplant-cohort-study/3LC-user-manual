@@ -1,7 +1,7 @@
 1. Create an account
 ######################
 
-Sign up
+1.1. Sign up
 ************
 
 To create an user account go to your local STCS link and click on “Sign Up”:
@@ -13,8 +13,8 @@ Please complete the “Sign Up form” and select again “Sign Up”.
  
 .. note:: The system admistrator will evaluate the registration request and provide access accordingly.
 
-Confirm your email
-*********************
+1.2. Confirm your email
+**************************
 
 After you sign up, the message below will appear:
 
@@ -23,8 +23,8 @@ After you sign up, the message below will appear:
 
 You will have to confirm your email address by clicking on the link in the email you received.
 
-Reset your password
-***********************
+1.3. Reset your password
+****************************
 
 If you need to reset your password, click on "Reset Password" (red circle):
 
