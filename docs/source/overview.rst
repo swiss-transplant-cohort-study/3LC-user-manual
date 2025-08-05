@@ -85,12 +85,5 @@ First assessement at the bottom of the page is the Baseline.
 
 .. image:: overview3.png
 
-2.4. Using the system: tips
-********************************
-
-In the **Create and search** menu, it is possible to sort when clicking in the different headers (see red arrows below):
-
-.. image:: Sort.png
-
 
 
