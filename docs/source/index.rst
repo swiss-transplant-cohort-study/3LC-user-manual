@@ -42,6 +42,14 @@ This section provides information about the different types of users and respect
 
    blfup
 
+5. Patient containers
+**************************
+
+.. toctree::
+   :maxdepth: 1
+
+   patContainer
+
 Minimal Data
 *****************
 
