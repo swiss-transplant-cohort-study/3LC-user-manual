@@ -78,6 +78,7 @@ There are different possible procedures:
 * Open `3LC <https://3lc.scicoreplus.unibas.ch/accounts/login/?next=/clinical_data/search2>`_ the known way. 
 * Enter Username and password to access the database
 
+.. image:: signin.png
 
 4.2. Submit, process and maintain a 3LC ticket
 ======================================================
@@ -86,3 +87,29 @@ There are different possible procedures:
 
 4.2.1. Submit a 3LC ticket
 ----------------------------------
+
+1. Click on the upper right corner page, where your username is indicated. For example, "ldm_basel". as shown in the picture below:
+
+.. image:: ldm.png
+
+2. Select "Tickets" from the drop-down list:
+
+.. image:: ldm1.png
+
+This page will appear (this is the main page of the "Ticketing":
+
+.. image:: ticket.png
+
+3. To create a new issue, select the button "Add new" (see red arrow above).
+
+4. The "Open the ticket" page will appear as shown below. Your username will be automatically filled in, in the example shown below, "ldm_basel".
+
+.. image:: ticket2.png
+
+5. Enter requested fields if available/possible.
+
+6. Click on the button "Submit", as shown in the picture above, to submit the isue.
+
+7. The issue appears on the top of the section “TODO”.
+
+
