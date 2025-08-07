@@ -18,10 +18,10 @@ Example for question to HLDM: Where to enter something or if there is the need t
 create a 3lc ticket (example: the system needs improvement that are not urgent, things that need to be discussed with other LDM)
 
 #. For Error 500 and urgent 3LC issues:
-   #. If you can access 3LC: open a 3lc ticket
+   #. If you can access 3LC: open a 3LC ticket
    #. If you cannot access the system: send a mail to stcs-3lc@usb.ch this mail goes directly to the IT
 
-#. For regular 3LC issues regarding DQC: create a 3lc ticket 
+#. For regular 3LC issues regarding DQC: create a 3LC ticket 
 
 #. If 3lc is down send a mail stcs-3lc@usb.ch
 
@@ -63,12 +63,26 @@ There are different possible procedures:
 
 *	The HLDM can directly answer to your question
 *	The HLDM puts you question on the agenda for the next HLDM – DC senior meetings (every other week). As soon as it is discussed you will be informed how the procedure will go on. 
-*	The HLDM asks you to open a ticket (see:Submit a 3lc ticket )
+*	The HLDM asks you to open a ticket (see:Submit a 3LC ticket )
 
 4.	3lc ticket
 ***********************
 
-* If you have issues with the system and you can access 3LC: submit a 3lc ticket (example: the system needs improvement that are not urgent, things that need to be discussed with other LDM).
-* For Error 500 and urgent 3LC issues: if you can access 3LC, Submit a 3lc ticket
-* For regular 3LC issues regarding DQC: Submit a 3lc ticket
+* If you have issues with the system and you can access 3LC: submit a :ref:`3LC ticket <ticket>` (for example: the system needs improvement that are not urgent, things that need to be discussed with other LDM).
+* For Error 500 and urgent 3LC issues: if you can access 3LC, Submit a :ref:`3LC ticket <ticket>`.
+* For regular 3LC issues regarding DQC: Submit a :ref:`3LC ticket <ticket>`.
 
+4.1. Access DB
+==================
+
+* Open `3LC <https://3lc.scicoreplus.unibas.ch/accounts/login/?next=/clinical_data/search2>`_ the known way. 
+* Enter Username and password to access the database
+
+
+4.2. Submit, process and maintain a 3LC ticket
+======================================================
+
+.. _ticket:
+
+4.2.1. Submit a 3LC ticket
+----------------------------------
