@@ -50,6 +50,14 @@ This section provides information about the different types of users and respect
 
    patContainer
 
+6. How to report an issue
+******************************
+
+.. toctree::
+   :maxdepth: 1
+
+   issue
+
 Minimal Data
 *****************
 
