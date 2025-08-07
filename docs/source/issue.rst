@@ -38,7 +38,7 @@ If you need a Data export for quality reason or research submit any kind of STCS
 
 3. Submit your request.
 
-2.2.	STCS Data Request procedure
+2.2. STCS Data Request procedure
 ====================================
 
 Please note the following:
@@ -52,7 +52,7 @@ Please note the following:
 
 If you have data entry questions: ask HLDM.
 
-3.1.	Submit a data entry question
+3.1. Submit a data entry question
 ========================================
 
 Send a question to the current HLDM - Joëlle Dreifuss (joellelynn.dreifuss@usz.ch).
@@ -73,7 +73,7 @@ There are different possible procedures:
 * For Error 500 and urgent 3LC issues: if you can access 3LC, Submit a :ref:`3LC ticket <ticket>`.
 * For regular 3LC issues regarding DQC: Submit a :ref:`3LC ticket <ticket>`.
 
-4.1. Access DB
+4.1. Access 3LC
 ==================
 
 * Open `3LC <https://3lc.scicoreplus.unibas.ch/accounts/login/?next=/clinical_data/search2>`_ the known way. 
@@ -92,6 +92,7 @@ There are different possible procedures:
 1. Click on the upper right corner page, where your username is indicated. For example, "ldm_basel". as shown in the picture below:
 
 .. image:: ldm.png
+  :width: 300
 
 2. Select "Tickets" from the drop-down list:
 
@@ -113,7 +114,7 @@ This page will appear (this is the main page of the "Ticketing":
 
 7. The issue appears on the top of the section “TODO”.
 
-4.2.2.	Maintain a 3lc ticket
+4.2.2. Maintain a 3lc ticket
 ---------------------------------------------
 
 The Main page shows a list of spitted into 4 sections: 
@@ -131,7 +132,9 @@ The Main page shows a list of spitted into 4 sections:
 
 Description of the different components of an issue
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
 .. image:: issue1.png
+  :width: 500
 
 Labels:
 """""""""""""
@@ -174,6 +177,7 @@ The data center can create internal technical comments. These internal comments 
 In this example “26” comments were attached to this issue, but when you open the issue, only 4 comments are shown. This means that 22 comments were set as "internal" by the data center.
 
 .. image:: issue5.png
+  :width: 500
 
 4.2.3. Process a 3lc ticket
 ---------------------------------------
