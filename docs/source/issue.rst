@@ -4,13 +4,16 @@ How to report an issue
 1. Introduction
 *******************
 
-This Document describes the procedure how issues should be reported to the Data Center (DC). Therefore it is important to distinguish different kinds of requests. Following a List of requests and to whom and How to report it. In general:
+This Document describes the procedure how issues should be reported to the Data Center (DC). Therefore it is important to distinguish different kinds of requests. In the following chapters different kind of requests and to whom and how to report it are described. In general:
 
 .. tip:: If in doubt, open a ticket and do not send a mail!
 
 #. Submit any kind of STCS Data requests via: https://www.stcs.ch/submit-request (as until now).
 
-#. If you have data entry questions: ask the HLDM, Joëlle Dreifuss (joellelynn.dreifuss@usz.ch). Joëlle will answer directly or, if the topic needs further clarification, bring it up in the HLDM-CDM meeting on Wednesday and then send out the answer. Example of a question for the HLDM: Where to enter something or if there is the need to enter something, inputs on 3LC like the order in the kidney “biopsy & rejection” section.
+#. If you have data entry questions: ask the HLDM, Joëlle Dreifuss (joellelynn.dreifuss@usz.ch). Joëlle will answer directly or, if the topic needs further clarification, bring it up in the HLDM-CDM meeting on Wednesday. The HLMD send out the answers to LDM group given by the DC senior team. Example of questions for the HLDM:
+
+   * Where to enter information into 3LC?
+   * Does this information need to be entered on 3LC?
 
 #. If you have issues with the system and you can access 3LC: create a 3lc ticket (example: the system needs improvement that are not urgent, things that need to be discussed with other LDM).
 
@@ -172,7 +175,7 @@ You can see the progress of your issue, and who is/was involved. It is possible 
 Internal comments:
 """""""""""""""""""""""""
 
-The data center can create internal technical comments. These internal comments are displayed in the ticketing, but you can see the number of comments in the overview of the issue.
+The data center can create internal technical comments. These internal comments are not displayed in the ticketing, but you can see the number of comments in the overview of the issue.
 
 In this example “26” comments were attached to this issue, but when you open the issue, only 4 comments are shown. This means that 22 comments were set as "internal" by the data center.
 
