@@ -20,11 +20,11 @@ This Document describes the procedure how issues should be reported to the Data 
 #. For Error 500 and urgent 3LC issues:
 
    #. If you can access 3LC: open a 3LC ticket
-   #. If you cannot access the system: send a mail to stcs-3lc@usb.ch this mail goes directly to the IT
+   #. If you cannot access the system: send a email to our `IT <stcs-3lc@usb.ch>`_.
 
 #. For regular 3LC issues regarding DQC: create a 3LC ticket.
 
-#. If 3lc is down send a mail stcs-3lc@usb.ch.
+#. If 3lc is down send a email to `IT <stcs-3lc@usb.ch>`_.
 
 2.	STCS Data Request
 *******************************
@@ -58,7 +58,7 @@ If you have data entry questions: ask HLDM.
 3.1. Submit a data entry question
 ========================================
 
-Send a question to the current HLDM - Joëlle Dreifuss (joellelynn.dreifuss@usz.ch).
+Send a question to the current HLDM - `Joëlle Dreifuss <joellelynn.dreifuss@usz.ch>`_.
 
 3.2. Data entry questions procedure
 ===============================================
