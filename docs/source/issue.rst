@@ -10,7 +10,7 @@ This Document describes the procedure how issues should be reported to the Data 
 
 #. Submit any kind of STCS Data requests via: https://www.stcs.ch/submit-request (as until now).
 
-#. If you have data entry questions: ask the HLDM, Joëlle Dreifuss (joellelynn.dreifuss@usz.ch). Joëlle will answer directly or, if the topic needs further clarification, bring it up in the HLDM-CDM meeting on Wednesday. The HLMD send out the answers to LDM group given by the DC senior team. Example of questions for the HLDM:
+#. If you have data entry questions: ask the HLDM, `Joëlle Dreifuss <joellelynn.dreifuss@usz.ch>`_. Joëlle will answer directly or, if the topic needs further clarification, bring it up in the HLDM-CDM meeting on Wednesday. The HLMD send out the answers to LDM group given by the DC senior team. Example of questions for the HLDM:
 
    * Where to enter information into 3LC?
    * Does this information need to be entered on 3LC?
