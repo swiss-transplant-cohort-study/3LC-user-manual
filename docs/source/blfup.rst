@@ -165,9 +165,119 @@ There will be created two organ containers in a **double-transplantation** but o
 
 If a **re-transplantation occours**, a new organ baseline container as well as a new Donor and a new RS-container will be created.
 
-.. image:: liverBL2.png
+.. image:: LiverBL2.png
 
-Follow-up Forms
+4.3.1. Kidney BL
+====================
+
+The underlying disease for a kidney transplantation is entered in the ‘Patient Diagnosis List’ in the ‘Condition Leading to Tpx’ and confirmed in the organ container right above the RS-container of the according transplantation.
+
+Please follow the instructions in chapter 5 on how to enter the required information.
+
+Kidney baseline and peritransplant period/Pre-transplant history and assessments
+----------------------------------------------------------------------------------
+
+.. image:: KidneyBL1.png
+
+a) Type of renal replacement therapy closest before transplantation: 
+Choose between ‘None’, ‘Peritoneal dialysis’ and ‘Hemodyalisis’.
+  * Type of renal replacement theapy: Enter the **type of treatment closest before transplantation**.
+  * Date of initiation of renal replacement therapy: If you choose a form of dialysis, please enter the start date of the renal replacement therapy in the according field.
+
+.. warning:: Enter the date **when a replacement therapy was first started** - not when the latest treatment was started.
+
+.. image:: KidneyBL2.png
+
+In Re-transplantion
+^^^^^^^^^^^^^^^^^^^^^^^
+
+**The start-date of the dialysis is always the dialysis concerning the current transplanted organ**. If the patient had dialysis and a kidney-TX before (regardless of whether entered and followed in the STCS or not) do not enter this date. This information must be entered in the patient baseline or has already been entered in the concerning organ that is registered in the STCS.
+
+b) Did the patient ever received blood-transfusions?
+
+Choose between ‘Yes’, ‘No’ or ‘Missing’ (in case you have no information regarding blood-transfusions prior to transplantation)
+
+.. note:: What is considered as blood transfusion?
+* Platelets transfusion is relevant and should be collected in Kidney BL.
+* Plasma (usually FFP) is not relevant as it does not cause HLA sensitization.
+
+c) Was the patient ever pregnant? -> It can only be filled in in female patients.
+
+Choose between ‘Yes’, ‘No’ or ‘Missing’ (in case you have no information regarding childbirths prior to transplantation)
+
+d) Has nephrectomy been carried out?
+
+Choose between ‘No’, ‘Nephrectomy of allograft and nephrectomy of native kidney’, ‘Nephrectomy of a previous kidney allograft ‘, ‘Nephrectomy of the native kidney(s)’
+
+Kidney transplatation
+--------------------------
+
+.. image:: KidneyBL3.png
+
+a) **Type of kidney transplantation**:
+Choose between ‘Left fossa’, ‘Right fossa’, ‘Double kidney’ or missing (if you have no indication of where the kidney has been implanted).
+
+b) **Preservation time (hh:mm) (previously called cold ischemia time)**:
+Apperars double if there was a double kidney transplantation. Indicate the preservation time of the left kidney in the left field and the preservation time of the right kidney in the right field.
+
+c) **Asystolic ischemia time (min)** *(previoously called warm ischemia time)*:
+Only appears if the donor is a DCD donor. (The information of DBD/DCD donor was already selected when the donor was enrolled).
+
+.. image:: KidneyBL4.png
+
+d) **Biopsy at reperfusion**:
+Choose between ‘Yes’, ‘No’ or ‘Missing’ (in case you have no information regarding a biopsy at timepoint of transplantation)
+When selecting yes, please enter the corresponding biopsy in the kidney organ container/Biopsy&Rejection under the cathegory “Time-zero and reperfusion biopsy”.
+
+In ‘Type of biopsy’ you can select wether the biopsy has been taken pre-implantation or when already implanted and reperfused, but within the transplantation surgery.
+
+.. image:: KidneyBL5.png
+
+Kidney Transplant Function
+-----------------------------
+
+.. image:: KidneyBL6.png
+
+a) **Early allograft dysfunction (DGF)**:
+Choose between ‘Yes’, ‘No’ or ‘Missing’ (in case you have no information regarding DGF) and see Primary-non function (below) for further information.
+
+b) **Post-transplant dialysis**:
+Choose between ‘Yes’, ‘No’ or ‘Missing’ (in case you have no information regarding dialysis after transplantation).
+When selecting ‘Yes’ please fill in the start and the stop date of the post-transplant dialysis accordingly.
+
+.. image:: KidneyBL7.png
+
+c) Less than 500 ml urine output within the first 24 hours after transplantation?
+Choose between ‘Yes’, ‘No’ or ‘Missing’ (in case you have no information regarding the urin output quantity in the first 24 hours after transplantation)
+
+Please enter Primary non-function, How to enter a PNF in 3LC and Biopsies after a PNF or graft loss as in :ref:`organ`.
+https://3lc-doc.readthedocs.io/en/latest/organ.html#primary-non-function
+
+4.3.2. Heart BL
+===================
+
+4.3.3. Islets BL
+=========================
+
+4.3.4. Liver BL
+===================
+
+4.3.5. Lung BL
+======================
+
+4.3.6. Pancreas BL
+=========================
+
+4.3.7. Small Bowel BL
+==========================
+
+
+
+------
+
+
+
+4.6.1. Follow-up Forms
 *************************
 
 .. iamge:: BL7.png
@@ -180,7 +290,7 @@ The toggles are only here to indicate wheter there was an event in the respectiv
 
 To enter a specific event, click on the title of the event cathegory. This will open the container in a new tab where you will be able to enter the corresponding event(s).
 
-4.3.1. Post transplant Diagnosis
+Post transplant Diagnosis
 ===================================
 
 The toggles are only here to indicate wheter there was an event in the respective cathegory or not since the last assessment (baseline or follow-up).
