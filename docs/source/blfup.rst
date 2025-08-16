@@ -179,7 +179,7 @@ Kidney baseline and peritransplant period/Pre-transplant history and assessments
 
 .. image:: KidneyBL1.png
 
-a) Type of renal replacement therapy closest before transplantation: 
+a) **Type of renal replacement therapy closest before transplantation:** 
 Choose between ‘None’, ‘Peritoneal dialysis’ and ‘Hemodyalisis’.
   * Type of renal replacement theapy: Enter the **type of treatment closest before transplantation**.
   * Date of initiation of renal replacement therapy: If you choose a form of dialysis, please enter the start date of the renal replacement therapy in the according field.
@@ -193,20 +193,18 @@ In Re-transplantion
 
 **The start-date of the dialysis is always the dialysis concerning the current transplanted organ**. If the patient had dialysis and a kidney-TX before (regardless of whether entered and followed in the STCS or not) do not enter this date. This information must be entered in the patient baseline or has already been entered in the concerning organ that is registered in the STCS.
 
-b) Did the patient ever received blood-transfusions?
-
+b) **Did the patient ever received blood-transfusions?**
 Choose between ‘Yes’, ‘No’ or ‘Missing’ (in case you have no information regarding blood-transfusions prior to transplantation)
 
-.. note:: What is considered as blood transfusion?
+**What is considered as blood transfusion?**
+
 * Platelets transfusion is relevant and should be collected in Kidney BL.
 * Plasma (usually FFP) is not relevant as it does not cause HLA sensitization.
 
-c) Was the patient ever pregnant? -> It can only be filled in in female patients.
-
+c) **Was the patient ever pregnant?** -> It can only be filled in in female patients.
 Choose between ‘Yes’, ‘No’ or ‘Missing’ (in case you have no information regarding childbirths prior to transplantation)
 
-d) Has nephrectomy been carried out?
-
+d) **Has nephrectomy been carried out?**
 Choose between ‘No’, ‘Nephrectomy of allograft and nephrectomy of native kidney’, ‘Nephrectomy of a previous kidney allograft ‘, ‘Nephrectomy of the native kidney(s)’
 
 Kidney transplatation
@@ -251,7 +249,6 @@ c) Less than 500 ml urine output within the first 24 hours after transplantation
 Choose between ‘Yes’, ‘No’ or ‘Missing’ (in case you have no information regarding the urin output quantity in the first 24 hours after transplantation)
 
 .. note:: Please enter Primary non-function, How to enter a PNF in 3LC and Biopsies after a PNF or graft loss as in :ref:`organ`.
-https://3lc-doc.readthedocs.io/en/latest/organ.html#primary-non-function
 
 Minimal Data in Kidney Baseline
 -------------------------------------
@@ -266,29 +263,47 @@ Please fill in the biopsy information in the corresponding organ container.
 4.3.2. Heart BL
 ===================
 
+*In construction*
+
 4.3.3. Islets BL
 =========================
+
+*In construction*
 
 4.3.4. Liver BL
 ===================
 
+*In construction*
+
 4.3.5. Lung BL
 ======================
+
+*In construction*
 
 4.3.6. Pancreas BL
 =========================
 
+*In construction*
+
 4.3.7. Small Bowel BL
 ==========================
 
+*In construction*
 
+4.4. Donor Form
+******************
 
-------
+*In construction*
 
+4.5. RS-Form
+*****************
 
+*In construction*
 
-4.6.1. Follow-up Forms
-*************************
+4.6. Patient Follow-up Forms
+***********************************
+
+.. NEED TO CHECK THIS CHAPTER AGAIN, THE NUMBERING OF THE SECTIONS
 
 .. iamge:: BL7.png
 
@@ -328,7 +343,7 @@ When you receive confirmation (or negation) of the suspected infection, do not f
 
 More information regarding the collection of infectious diseases can be found in Patient containers/Patient Diagnosis List/Infectious Disease.
 
-4.3.2. Assessments
+Assessments
 =======================
 
 Please use to most recent measurements prior to or on the day of follow-up.
@@ -340,7 +355,34 @@ Questions
 The questions are just formal and no additional information to a ‘Yes’, ‘No’ or ‘missing’ is added anywhere.
 Did the patient smoke tobacco since last cohort visit?
 
-4.4. Samples
+4.7. Organ Follow-Up forms
+*****************************
+
+4.7.1 Kidney
+===============
+
+4.7.2. Heart
+===============
+
+4.7.3. Islets
+===============
+
+4.7.4. Liver
+===============
+
+4.7.5. Lung
+===============
+
+4.7.6. Pancreas
+===================
+
+4.7.7. Small Bowel
+=======================
+
+4.7.8. Graft loss
+=======================
+
+4.8. Samples
 ********************
 
 *	There are two time points at which samples are taken for the STCS: T0 and T12. The amount of blood drawn is specified below.
@@ -349,7 +391,7 @@ Did the patient smoke tobacco since last cohort visit?
 *	No samples are taken without the patient's IC.
 *	Blood sampling which is taken from a patient who is not transplanted will still be tested and stored for a period of two weeks in the Lab. This will not be billed if not entered in the STCS.
 
-4.4.1. General rules and procedures
+4.8.1. General rules and procedures
 =====================================
 
 *	For details regarding the laboratory procedure see specific SOPs
@@ -358,7 +400,7 @@ Did the patient smoke tobacco since last cohort visit?
 *	Blood samples are not transferred between centers in the case of patient transfer.
 *	Analyzed samplings must be entered in 3LC as soon as possible in the Sample section, as longest after 7 days.
 
-4.4.2. Timepoint for Sampling blood draws
+4.8.2. Timepoint for Sampling blood draws
 ============================================
 
 T0: A Sampling before TX can be taken -15 to 0 days before TX.
@@ -366,7 +408,7 @@ T0 in ABOi living donation: The T0 blood draw has to be performed before the sta
 
 T12: Window for blood draw : +/- 15 days at 12 months (total one month period)
 
-4.4.3. Sample registration (sample in)
+4.8.3. Sample registration (sample in)
 =========================================
 
 .. image:: Sample1.png
@@ -389,7 +431,7 @@ T12: Window for blood draw : +/- 15 days at 12 months (total one month period)
   * the sample collection date and
   * the number of aliquots stored (Plasma always 3 unless there is no notice in the lab tracking sheet, DNA always 2)
 
-4.4.4. Sample utilization and tracking (sample out)
+4.8.4. Sample utilization and tracking (sample out)
 =====================================================
 
 If samples are used for a study or research, the removal of (or part of) the sample has to be entered in 3LC in the “Samples”-part in “BioSample out”.
@@ -417,7 +459,7 @@ In case of consent withdrawal or other cases in which samples were entered and h
 
 .. warning:: If samples are deleted completely and not just removed, there will be no money in the sample cost calculation for these samplings!
 
-4.4.5. Quantity of drawn blood for the STCS Samples
+4.8.5. Quantity of drawn blood for the STCS Samples
 =========================================================
 
 .. list-table::
@@ -455,9 +497,14 @@ Example:
 * Pat. with 17kg: 0.4 x 10ml (*USZ*) = 4ml
 * Pat. with 17kg: 0.4 x 7.5ml (*CHUV* and *Insel*) = 3ml
 
-4.4.6. Specific rules and procedures
+4.8.6. Specific rules and procedures
 ===============================================
 
 Children of Jehovah’s Witness, patients with anemia: to reduce the blood use of these patients, volume and sampling will be decided on an individual basis by the transplant physician.
+
+4.9. PSQ
+**************
+
+*In construction*
 
     
