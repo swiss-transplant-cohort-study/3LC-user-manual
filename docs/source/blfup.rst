@@ -17,7 +17,7 @@ The assessment containers are color-coded, see picture below:
 
 .. image:: FUP3.png
 
-4.1. CRF status
+4.1. CRF Status
 *******************
 
 .. image:: CRF1.png
@@ -25,7 +25,7 @@ The assessment containers are color-coded, see picture below:
 
 The CRF status that appears on the Patient Overview can be chosen in the Baseline or FUP container at the top left. In order to save a form (bottom right side), a CRF status must be choosen.
 
-4.1.1. Correction of a Follow-up date
+4.1.1. Correction of a Follow-up Date
 ================================================
 
 .. image:: CRF2.png
@@ -36,7 +36,7 @@ If you entered an incorrect follow-up date and you wish to correct this, then pl
 #.	Choose ‘Edit’ the FUP you need to correct (see arrow in the figure above).
 #.	Correct the date(s).
 
-4.1.2. Deletion of a Follow-up date
+4.1.2. Deletion of a Follow-up Date
 ==========================================
 
 .. warning:: To delete a complete patient case, please contact the IT-departement (open a ticket with all relevant information).
@@ -51,14 +51,14 @@ Please note that already entered data in the ‘Patient Diagnosis List’, the �
 
 To delete the accidentally entered data, you have to delete them all manually. Access the corresponding container, press the ‘Delete’ (see arrow) in the row corresponding to the false entry and confirm your selection.
 
-4.1.3. Assessment date
+4.1.3. Assessment Date
 =============================
 
 The Date of assessment corresponds to the date when the visit was done to collect the patient data.
 Baseline assessement date usually corresponds to the date of transplantation, and for FUP the date of the patient's cohort visit. 
 
-4.2. Baseline forms
-***********************
+4.2. Patient Baseline Forms
+******************************
 
 .. image:: BL1.png
 
@@ -76,7 +76,7 @@ The information in the second and third section (Patient HLA) is only collected 
 
 .. image:: BL4.png
 
-4.2.1. Pre-enrolment history
+4.2.1. Pre-enrolment History
 ==================================
 
 The toggles are only here to indicate wheter there was an event in the respective cathegory or not before the transplantation.
@@ -92,7 +92,7 @@ We do not collect the whole ID-History of the patient but only major pre-enrollm
 
 More information regarding the collection of infectious diseases can be found in Patient containers/Patient Diagnosis List/Infectious Disease.
 
-4.2.2. Patient characteristics
+4.2.2. Patient Characteristics
 ==================================
 
 Please use to most recent measurements prior to transplantation. For the blood pressure, you can use the value in the anesthesia protocol or the last measurement prior to transplantation.
@@ -120,7 +120,7 @@ Baseline, Marihuana smoking habits:
 
 In the drop-down list you can choose between ‘Caucasian’ (whiteness), ‘Asian’, ‘African or African American’ and ‘Other’. If you choose ‘Other’, please indicate the ethnicity in the comment field.
 
-4.2.4. Past immunosuppressive treatment (including systemic corticosteroids)
+4.2.4. Past Immunosuppressive Treatment (including Systemic Corticosteroids)
 ==========================================================================================
 
 A patient could have had an immunosuppressive treatment prior to transplantation for different reasons such as a previous transplantation, COPD or rheumatoid arthritis.
@@ -143,7 +143,31 @@ If a HLA is homozygous, you can select the button next to the according HLA inst
 Please indicate single missing HLA with the ‘x’, if all HLA is missing (analysis not done) select ‘All HLA missing’ to auto-complete all fields.
 If you erroneously selected ‘All HLA missing’ you can undo that by clicking ‘HLA available’. Previously entered HLA will re-appear as long as you did not save the form..
 
-4.3. Follow-up forms
+4.2.6. Minimal Data in Patient Baseline
+==========================================
+
+Minimal data that must be collected in the Patient baseline is:
+
+* Previous transplantation
+* Neoplasia
+* Skin cancer
+* Lab (only Creatinine) and
+* Patient HLA.
+
+4.3. Organ Baseline Forms
+****************************
+
+.. image:: LiverBL1.png
+
+For every transplanted organ, a Baseline container for the corresponding organ (e.g. Liver Tpx -> “Liver BL”, Kidney Tpx -> “Kidney BL”) as well as one Donor and one RS-container will be created.
+
+There will be created two organ containers in a **double-transplantation** but only one Donor and one RS-container per transplantation case. 
+
+If a **re-transplantation occours**, a new organ baseline container as well as a new Donor and a new RS-container will be created.
+
+.. image:: liverBL2.png
+
+Follow-up Forms
 *************************
 
 .. iamge:: BL7.png
