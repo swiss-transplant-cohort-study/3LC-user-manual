@@ -250,8 +250,18 @@ When selecting ‘Yes’ please fill in the start and the stop date of the post-
 c) Less than 500 ml urine output within the first 24 hours after transplantation?
 Choose between ‘Yes’, ‘No’ or ‘Missing’ (in case you have no information regarding the urin output quantity in the first 24 hours after transplantation)
 
-Please enter Primary non-function, How to enter a PNF in 3LC and Biopsies after a PNF or graft loss as in :ref:`organ`.
+.. note:: Please enter Primary non-function, How to enter a PNF in 3LC and Biopsies after a PNF or graft loss as in :ref:`organ`.
 https://3lc-doc.readthedocs.io/en/latest/organ.html#primary-non-function
+
+Minimal Data in Kidney Baseline
+-------------------------------------
+
+Minimal data that must be collected in the Kidney baseline is:
+
+* Type of kidney transplantation and
+* Biopsy at reperfusion.
+
+Please fill in the biopsy information in the corresponding organ container.
 
 4.3.2. Heart BL
 ===================
