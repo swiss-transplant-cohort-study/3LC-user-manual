@@ -361,26 +361,42 @@ Did the patient smoke tobacco since last cohort visit?
 4.7.1 Kidney
 ===============
 
+*In construction*
+
 4.7.2. Heart
 ===============
+
+*In construction*
 
 4.7.3. Islets
 ===============
 
+*In construction*
+
 4.7.4. Liver
 ===============
+
+*In construction*
 
 4.7.5. Lung
 ===============
 
+*In construction*
+
 4.7.6. Pancreas
 ===================
+
+*In construction*
 
 4.7.7. Small Bowel
 =======================
 
+*In construction*
+
 4.7.8. Graft loss
 =======================
+
+*In construction*
 
 4.8. Samples
 ********************
