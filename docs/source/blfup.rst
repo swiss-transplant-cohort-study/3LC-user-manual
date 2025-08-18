@@ -303,8 +303,6 @@ Please fill in the biopsy information in the corresponding organ container.
 4.6. Patient Follow-up Forms
 ***********************************
 
-.. NEED TO CHECK THIS CHAPTER AGAIN, THE NUMBERING OF THE SECTIONS
-
 .. iamge:: BL7.png
 
 All events that occour after re-perfusion respectively from the first day after the last follow-up including the day of the actual follow-up are registered in the corresponding follow-up period.
@@ -315,7 +313,7 @@ The toggles are only here to indicate wheter there was an event in the respectiv
 
 To enter a specific event, click on the title of the event cathegory. This will open the container in a new tab where you will be able to enter the corresponding event(s).
 
-Post transplant Diagnosis
+4.6.1. Post transplant Diagnosis
 ===================================
 
 The toggles are only here to indicate wheter there was an event in the respective cathegory or not since the last assessment (baseline or follow-up).
@@ -343,7 +341,7 @@ When you receive confirmation (or negation) of the suspected infection, do not f
 
 More information regarding the collection of infectious diseases can be found in Patient containers/Patient Diagnosis List/Infectious Disease.
 
-Assessments
+4.6.2. Assessments
 =======================
 
 Please use to most recent measurements prior to or on the day of follow-up.
