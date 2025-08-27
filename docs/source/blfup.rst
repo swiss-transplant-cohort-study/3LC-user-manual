@@ -246,9 +246,7 @@ When selecting ‘Yes’ please fill in the start and the stop date of the post-
 .. image:: KidneyBL7.png
 
 c) Less than 500 ml urine output within the first 24 hours after transplantation?
-Choose between ‘Yes’, ‘No’ or ‘Missing’ (in case you have no information regarding the urin output quantity in the first 24 hours after transplantation)
-
-.. note:: Please enter Primary non-function, How to enter a PNF in 3LC and Biopsies after a PNF or graft loss as in :ref:`organ`.
+Choose between ‘Yes’, ‘No’ or ‘Missing’ (in case you have no information regarding the urin output quantity in the first 24 hours after transplantation).
 
 Minimal Data in Kidney Baseline
 -------------------------------------
