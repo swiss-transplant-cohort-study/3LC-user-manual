@@ -179,8 +179,8 @@ Kidney baseline and peritransplant period/Pre-transplant history and assessments
 
 .. image:: KidneyBL1.png
 
-a) **Type of renal replacement therapy closest before transplantation:** 
-Choose between ‘None’, ‘Peritoneal dialysis’ and ‘Hemodyalisis’.
+a) **Type of renal replacement therapy closest before transplantation:** Choose between ‘None’, ‘Peritoneal dialysis’ and ‘Hemodyalisis’.
+
   * Type of renal replacement theapy: Enter the **type of treatment closest before transplantation**.
   * Date of initiation of renal replacement therapy: If you choose a form of dialysis, please enter the start date of the renal replacement therapy in the according field.
 
@@ -193,38 +193,33 @@ In Re-transplantion
 
 **The start-date of the dialysis is always the dialysis concerning the current transplanted organ**. If the patient had dialysis and a kidney-TX before (regardless of whether entered and followed in the STCS or not) do not enter this date. This information must be entered in the patient baseline or has already been entered in the concerning organ that is registered in the STCS.
 
-b) **Did the patient ever received blood-transfusions?**
-Choose between ‘Yes’, ‘No’ or ‘Missing’ (in case you have no information regarding blood-transfusions prior to transplantation)
+b) **Did the patient ever received blood-transfusions?**: Choose between ‘Yes’, ‘No’ or ‘Missing’ (in case you have no information regarding blood-transfusions prior to transplantation)
 
 **What is considered as blood transfusion?**
 
 * Platelets transfusion is relevant and should be collected in Kidney BL.
 * Plasma (usually FFP) is not relevant as it does not cause HLA sensitization.
 
-c) **Was the patient ever pregnant?** -> It can only be filled in in female patients.
-Choose between ‘Yes’, ‘No’ or ‘Missing’ (in case you have no information regarding childbirths prior to transplantation)
+c) **Was the patient ever pregnant?**: Choose between ‘Yes’, ‘No’ or ‘Missing’ (in case you have no information regarding childbirths prior to transplantation)
 
-d) **Has nephrectomy been carried out?**
-Choose between ‘No’, ‘Nephrectomy of allograft and nephrectomy of native kidney’, ‘Nephrectomy of a previous kidney allograft ‘, ‘Nephrectomy of the native kidney(s)’
+.. warning:: This information can only be filled in in female patients.
+
+d) **Has nephrectomy been carried out?**: Choose between ‘No’, ‘Nephrectomy of allograft and nephrectomy of native kidney’, ‘Nephrectomy of a previous kidney allograft ‘, ‘Nephrectomy of the native kidney(s)’
 
 Kidney transplatation
 --------------------------
 
 .. image:: KidneyBL3.png
 
-a) **Type of kidney transplantation**:
-Choose between ‘Left fossa’, ‘Right fossa’, ‘Double kidney’ or missing (if you have no indication of where the kidney has been implanted).
+a) **Type of kidney transplantation**: Choose between ‘Left fossa’, ‘Right fossa’, ‘Double kidney’ or missing (if you have no indication of where the kidney has been implanted).
 
-b) **Preservation time (hh:mm) (previously called cold ischemia time)**:
-Apperars double if there was a double kidney transplantation. Indicate the preservation time of the left kidney in the left field and the preservation time of the right kidney in the right field.
+b) **Preservation time (hh:mm) (previously called cold ischemia time)**: Apperars double if there was a double kidney transplantation. Indicate the preservation time of the left kidney in the left field and the preservation time of the right kidney in the right field.
 
-c) **Asystolic ischemia time (min)** *(previoously called warm ischemia time)*:
-Only appears if the donor is a DCD donor. (The information of DBD/DCD donor was already selected when the donor was enrolled).
+c) **Asystolic ischemia time (min)** *(previoously called warm ischemia time)*: Only appears if the donor is a DCD donor. (The information of DBD/DCD donor was already selected when the donor was enrolled).
 
 .. image:: KidneyBL4.png
 
-d) **Biopsy at reperfusion**:
-Choose between ‘Yes’, ‘No’ or ‘Missing’ (in case you have no information regarding a biopsy at timepoint of transplantation)
+d) **Biopsy at reperfusion**: Choose between ‘Yes’, ‘No’ or ‘Missing’ (in case you have no information regarding a biopsy at timepoint of transplantation)
 When selecting yes, please enter the corresponding biopsy in the kidney organ container/Biopsy&Rejection under the cathegory “Time-zero and reperfusion biopsy”.
 
 In ‘Type of biopsy’ you can select wether the biopsy has been taken pre-implantation or when already implanted and reperfused, but within the transplantation surgery.
@@ -236,17 +231,14 @@ Kidney Transplant Function
 
 .. image:: KidneyBL6.png
 
-a) **Early allograft dysfunction (DGF)**:
-Choose between ‘Yes’, ‘No’ or ‘Missing’ (in case you have no information regarding DGF) and see Primary-non function (below) for further information.
+a) **Early allograft dysfunction (DGF)**: Choose between ‘Yes’, ‘No’ or ‘Missing’ (in case you have no information regarding DGF) and see Primary-non function (below) for further information.
 
-b) **Post-transplant dialysis**:
-Choose between ‘Yes’, ‘No’ or ‘Missing’ (in case you have no information regarding dialysis after transplantation).
+b) **Post-transplant dialysis**: Choose between ‘Yes’, ‘No’ or ‘Missing’ (in case you have no information regarding dialysis after transplantation).
 When selecting ‘Yes’ please fill in the start and the stop date of the post-transplant dialysis accordingly.
 
 .. image:: KidneyBL7.png
 
-c) Less than 500 ml urine output within the first 24 hours after transplantation?
-Choose between ‘Yes’, ‘No’ or ‘Missing’ (in case you have no information regarding the urin output quantity in the first 24 hours after transplantation).
+c) **Less than 500 ml urine output within the first 24 hours after transplantation?**: Choose between ‘Yes’, ‘No’ or ‘Missing’ (in case you have no information regarding the urin output quantity in the first 24 hours after transplantation).
 
 Minimal Data in Kidney Baseline
 -------------------------------------
@@ -268,15 +260,13 @@ Heart baseline and peritransplant period/Pre-transplant history and assessments
 
 .. image:: HeartBL1.png
 
-a) **Urgent listing**
-Choose between ‘Yes’, ‘No’ or ‘Missing’ (in case you have no information regarding the listing status for this transplantation).
+a) **Urgent listing**: Choose between ‘Yes’, ‘No’ or ‘Missing’ (in case you have no information regarding the listing status for this transplantation).
 
-b)	**History of cardiac surgery**
-Choose between ‘Yes’, ‘No’ or ‘Missing’ (in case you have no information regarding cardiac surgery prior to transplantation).
+b)	**History of cardiac surgery**: Choose between ‘Yes’, ‘No’ or ‘Missing’ (in case you have no information regarding cardiac surgery prior to transplantation).
 
 When choosing ‘Yes’, select all that apply from the following list:
 
-Type of cardiac surgery:
+**Type of cardiac surgery**:
 
 *	Previous CABG (Coronry artery bypass surgery, also known as heart bypass surgery)
 *	Previous valvular surgery (Repair and/or replacement)
@@ -284,12 +274,11 @@ Type of cardiac surgery:
 *	Surgery for congenital heart disease
 *	Other
 
-c)	**History of device implantation**
-Choose between ‘Yes’, ‘No’ or ‘Missing’ (in case you have no information regarding cardiac surgery prior to transplantation).
+c)	**History of device implantation**: Choose between ‘Yes’, ‘No’ or ‘Missing’ (in case you have no information regarding cardiac surgery prior to transplantation).
 
 When choosing ‘Yes’, select all that apply from the following list:
 
-Type of device:
+**Type of device**:
 
 *	Pacemaker or ICD with leads (traditional ICD, placed in the chest with wires attached to the heart)
 *	Subcutaneous ICD (also called S-ICD, placed under the skin and attached to a sensor that runs along the breastbone. It doesn’t touch the heart.)
@@ -298,12 +287,11 @@ Type of device:
 *	Ventricular Assist Device (VAD) (LVAD, BerlinHeart, Excor…)
 *	Other
 
-d)	**Pulmonary vascular resistance (wood units)**
-Enter the last available measurement prior to transplantation or ‘Missing’ (in case you have no PVR-value available prior to transplantation)
-PVR is commonly expressed in Wood units (mmHg·min/L) or dynes·s/cm^-5. 1 Wood unit corresponds to 80 dyn*sec*cm-5. 
+d)	**Pulmonary vascular resistance (wood units)**: Enter the last available measurement prior to transplantation or ‘Missing’ (in case you have no PVR-value available prior to transplantation).
 
-e)	**NYHA-Classification**
-Select the NYHA-Class last indicated before transplantation or ‘Missing’ (in case you have no information regarding the NYHA-Classification prior to transplantation)
+.. note:: PVR is commonly expressed in Wood units (mmHg·min/L) or dynes·s/cm^-5. 1 Wood unit corresponds to 80 dyn*sec*cm-5. 
+
+e)	**NYHA-Classification**: Select the NYHA-Class last indicated before transplantation or ‘Missing’ (in case you have no information regarding the NYHA-Classification prior to transplantation)
 
 .. list-table:: 
   :widths: 30, 130
@@ -320,13 +308,54 @@ Select the NYHA-Class last indicated before transplantation or ‘Missing’ (in
   * - IV
     - Severe limitations. Experiences symptoms even while at rest. Mostly bedbound patients
 
-f)	**VO2 max (ml/min/kg)**
-Enter the last available measurement prior to transplantation or ‘Missing’ (in case you have no VO2max-value available prior to transplantation).
+f)	**VO2 max (ml/min/kg)**: Enter the last available measurement prior to transplantation or ‘Missing’ (in case you have no VO2max-value available prior to transplantation).
 
 .. note:: VO2 max at baseline, it refers to the pretransplant assessment.
 
-g)	**LV Ejection fraction in %**
-Enter the last available measurement prior to transplantation or ‘Missing’ (in case you have no EF-value available prior to transplantation).
+g)	**LV Ejection fraction in %**: Enter the last available measurement prior to transplantation or ‘Missing’ (in case you have no EF-value available prior to transplantation).
+
+(Heart) Transplantion
+-----------------------------
+
+.. image:: HeartBL2.png
+
+a)	**Donor cross-clamp date and time**: Enter the date and the time the donor aorta has been clamped.
+
+.. image:: HeartBL3.png
+
+b) **Recipient de-clamp date and time**: Enter the date and the time aorta has been re-opened in the recipient.
+
+.. image:: HeartBL4.png
+
+These values are needed to calculate the Cross clamp time, which is the time in which the allograft has not connected to the circulation. 
+
+c)	**Bypass time (min)**: This is the ECC time (Extra Corporal Circulation time).
+
+d)	**Biopsy at reperfusion**: Choose between ‘Yes’, ‘No’ or ‘Missing’ (in case you have no information regarding a biopsy at timepoint of transplantation).
+
+When selecting ‘Yes’ please enter the corresponding biopsy in the heart organ container/Biopsy&Rejection under the cathegory “Time-zero and reperfusion biopsy”. In ‘Type of biopsy’ you can select whether the biopsy has been taken pre-implantation or when already implanted and reperfused, but within the transplantation surgery.
+
+(Heart) Transplant function
+-------------------------------
+
+.. image:: HeartBL5.png
+
+a)	**Primary graft dysfunction**: Choose between ‘No’, ‘Requiring ECLS’, ‘Not requiring ECLS’or ‘Missing’ (in case you have no information regarding a possible graft dysfunction after transplantation).
+
+ECLS (extracorporeal life support) refers to a method of mechanical cardiovascular support. This can be done by means of ECMO (including an oxygenator) or by a pump without an intermediate oxygenator with normal lung function.
+
+b)	**ECG rhythm**: Choose the ECG rhythm immediately after transplantation and select all that apply from the following list:
+  *	Normal sinus rhythm
+  * Atrial fibrillation/flutter
+  * AV-Block not requiring pacemaker
+  * AV-Block requiring pacemaker
+  * AV-node rhythm
+  * Fascicular block
+  * Pacemaker rhythm
+  * Sinus bradycardia
+  * Sinus tachycardia
+  * Other
+
 
 
 *In construction*
