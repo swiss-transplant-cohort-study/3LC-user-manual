@@ -262,7 +262,7 @@ Heart baseline and peritransplant period/Pre-transplant history and assessments
 
 a) **Urgent listing**: Choose between ‘Yes’, ‘No’ or ‘Missing’ (in case you have no information regarding the listing status for this transplantation).
 
-b)	**History of cardiac surgery**: Choose between ‘Yes’, ‘No’ or ‘Missing’ (in case you have no information regarding cardiac surgery prior to transplantation).
+b) **History of cardiac surgery**: Choose between ‘Yes’, ‘No’ or ‘Missing’ (in case you have no information regarding cardiac surgery prior to transplantation).
 
 When choosing ‘Yes’, select all that apply from the following list:
 
@@ -274,7 +274,7 @@ When choosing ‘Yes’, select all that apply from the following list:
 *	Surgery for congenital heart disease
 *	Other
 
-c)	**History of device implantation**: Choose between ‘Yes’, ‘No’ or ‘Missing’ (in case you have no information regarding cardiac surgery prior to transplantation).
+c) **History of device implantation**: Choose between ‘Yes’, ‘No’ or ‘Missing’ (in case you have no information regarding cardiac surgery prior to transplantation).
 
 When choosing ‘Yes’, select all that apply from the following list:
 
@@ -287,11 +287,11 @@ When choosing ‘Yes’, select all that apply from the following list:
 *	Ventricular Assist Device (VAD) (LVAD, BerlinHeart, Excor…)
 *	Other
 
-d)	**Pulmonary vascular resistance (wood units)**: Enter the last available measurement prior to transplantation or ‘Missing’ (in case you have no PVR-value available prior to transplantation).
+d) **Pulmonary vascular resistance (wood units)**: Enter the last available measurement prior to transplantation or ‘Missing’ (in case you have no PVR-value available prior to transplantation).
 
 .. note:: PVR is commonly expressed in Wood units (mmHg·min/L) or dynes·s/cm^-5. 1 Wood unit corresponds to 80 dyn*sec*cm-5. 
 
-e)	**NYHA-Classification**: Select the NYHA-Class last indicated before transplantation or ‘Missing’ (in case you have no information regarding the NYHA-Classification prior to transplantation)
+e) **NYHA-Classification**: Select the NYHA-Class last indicated before transplantation or ‘Missing’ (in case you have no information regarding the NYHA-Classification prior to transplantation)
 
 .. list-table:: 
   :widths: 30, 130
@@ -308,18 +308,18 @@ e)	**NYHA-Classification**: Select the NYHA-Class last indicated before transpla
   * - IV
     - Severe limitations. Experiences symptoms even while at rest. Mostly bedbound patients
 
-f)	**VO2 max (ml/min/kg)**: Enter the last available measurement prior to transplantation or ‘Missing’ (in case you have no VO2max-value available prior to transplantation).
+f) **VO2 max (ml/min/kg)**: Enter the last available measurement prior to transplantation or ‘Missing’ (in case you have no VO2max-value available prior to transplantation).
 
 .. note:: VO2 max at baseline, it refers to the pretransplant assessment.
 
-g)	**LV Ejection fraction in %**: Enter the last available measurement prior to transplantation or ‘Missing’ (in case you have no EF-value available prior to transplantation).
+g) **LV Ejection fraction in %**: Enter the last available measurement prior to transplantation or ‘Missing’ (in case you have no EF-value available prior to transplantation).
 
 (Heart) Transplantion
 -----------------------------
 
 .. image:: HeartBL2.png
 
-a)	**Donor cross-clamp date and time**: Enter the date and the time the donor aorta has been clamped.
+a) **Donor cross-clamp date and time**: Enter the date and the time the donor aorta has been clamped.
 
 .. image:: HeartBL3.png
 
@@ -329,9 +329,9 @@ b) **Recipient de-clamp date and time**: Enter the date and the time aorta has b
 
 These values are needed to calculate the Cross clamp time, which is the time in which the allograft has not connected to the circulation. 
 
-c)	**Bypass time (min)**: This is the ECC time (Extra Corporal Circulation time).
+c) **Bypass time (min)**: This is the ECC time (Extra Corporal Circulation time).
 
-d)	**Biopsy at reperfusion**: Choose between ‘Yes’, ‘No’ or ‘Missing’ (in case you have no information regarding a biopsy at timepoint of transplantation).
+d) **Biopsy at reperfusion**: Choose between ‘Yes’, ‘No’ or ‘Missing’ (in case you have no information regarding a biopsy at timepoint of transplantation).
 
 When selecting ‘Yes’ please enter the corresponding biopsy in the heart organ container/Biopsy&Rejection under the cathegory “Time-zero and reperfusion biopsy”. In ‘Type of biopsy’ you can select whether the biopsy has been taken pre-implantation or when already implanted and reperfused, but within the transplantation surgery.
 
@@ -340,11 +340,11 @@ When selecting ‘Yes’ please enter the corresponding biopsy in the heart orga
 
 .. image:: HeartBL5.png
 
-a)	**Primary graft dysfunction**: Choose between ‘No’, ‘Requiring ECLS’, ‘Not requiring ECLS’or ‘Missing’ (in case you have no information regarding a possible graft dysfunction after transplantation).
+a) **Primary graft dysfunction**: Choose between ‘No’, ‘Requiring ECLS’, ‘Not requiring ECLS’or ‘Missing’ (in case you have no information regarding a possible graft dysfunction after transplantation).
 
 ECLS (extracorporeal life support) refers to a method of mechanical cardiovascular support. This can be done by means of ECMO (including an oxygenator) or by a pump without an intermediate oxygenator with normal lung function.
 
-b)	**ECG rhythm**: Choose the ECG rhythm immediately after transplantation and select all that apply from the following list:
+b) **ECG rhythm**: Choose the ECG rhythm immediately after transplantation and select all that apply from the following list:
   *	Normal sinus rhythm
   * Atrial fibrillation/flutter
   * AV-Block not requiring pacemaker
@@ -356,9 +356,20 @@ b)	**ECG rhythm**: Choose the ECG rhythm immediately after transplantation and s
   * Sinus tachycardia
   * Other
 
+Please enter Primary non-function, How to enter a PNF in 3LC and Biopsies after a PNF or graft loss as in `here <https://3lc-doc.readthedocs.io/en/latest/organ.html#primary-non-function>`_.
 
+Minimal Data in Heart Baseline
+----------------------------------
 
-*In construction*
+Minimal data that must be collected in the Kidney baseline is:
+
+*	NYHA classification
+*	VO2 max (ml/min/kg)
+*	LV Ejection fraction %
+*	Primary graft dysfunction
+*	ECG rhythm
+
+.. note:: Please fill in the biopsy information in the corresponding organ container.
 
 4.3.3. Islets BL
 =========================
