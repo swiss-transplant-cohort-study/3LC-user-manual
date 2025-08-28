@@ -261,6 +261,74 @@ Please fill in the biopsy information in the corresponding organ container.
 4.3.2. Heart BL
 ===================
 
+The underlying disease for a heart transplantation is entered in the ‘Patient Diagnosis List’ in the ‘Condition Leading to Tpx’ and confirmed in the organ container right above the RS-container of the according transplantation. Please follow the instructions in chapter 5 (*in construction*) on how to enter the required information.
+
+Heart baseline and peritransplant period/Pre-transplant history and assessments
+----------------------------------------------------------------------------------
+
+.. image:: HeartBL1.png
+
+a) **Urgent listing**
+Choose between ‘Yes’, ‘No’ or ‘Missing’ (in case you have no information regarding the listing status for this transplantation).
+
+b)	**History of cardiac surgery**
+Choose between ‘Yes’, ‘No’ or ‘Missing’ (in case you have no information regarding cardiac surgery prior to transplantation).
+
+When choosing ‘Yes’, select all that apply from the following list:
+
+Type of cardiac surgery:
+
+*	Previous CABG (Coronry artery bypass surgery, also known as heart bypass surgery)
+*	Previous valvular surgery (Repair and/or replacement)
+*	Ventricular Assist Device (VAD) (LVAD, BerlinHeart, Excor…)
+*	Surgery for congenital heart disease
+*	Other
+
+c)	**History of device implantation**
+Choose between ‘Yes’, ‘No’ or ‘Missing’ (in case you have no information regarding cardiac surgery prior to transplantation).
+
+When choosing ‘Yes’, select all that apply from the following list:
+
+Type of device:
+
+*	Pacemaker or ICD with leads (traditional ICD, placed in the chest with wires attached to the heart)
+*	Subcutaneous ICD (also called S-ICD, placed under the skin and attached to a sensor that runs along the breastbone. It doesn’t touch the heart.)
+*	Leadless pacemaker (a small, one-piece device. All the parts of a leadless pacemaker are inside one device. There’s no separate battery and the whole device sits in the heart’s right ventricle.)
+*	Cardio MEMS (this system is indicated for the wireless measurement and monitoring of pulmonary artery pressure and heart)
+*	Ventricular Assist Device (VAD) (LVAD, BerlinHeart, Excor…)
+*	Other
+
+d)	**Pulmonary vascular resistance (wood units)**
+Enter the last available measurement prior to transplantation or ‘Missing’ (in case you have no PVR-value available prior to transplantation)
+PVR is commonly expressed in Wood units (mmHg·min/L) or dynes·s/cm^-5. 1 Wood unit corresponds to 80 dyn*sec*cm-5. 
+
+e)	**NYHA-Classification**
+Select the NYHA-Class last indicated before transplantation or ‘Missing’ (in case you have no information regarding the NYHA-Classification prior to transplantation)
+
+.. list-table:: 
+  :widths: 30, 130
+  :header-rows: 1
+
+  * - **NYHA Class**
+    - **Symptoms**
+  * - I
+    - No symptoms and no limitation in ordinary physical activity, e.g. shortness of breath when walking, climbing stairs etc.
+  * - II
+    - Mild symptoms (mild shortness of breath and/or angina) and slight limitation during ordinary activity.
+  * - III
+    - Marked limitation in activity due to symptoms, even during less-than-ordinary activity, e.g. walking short distances (20–100 m). Comfortable only at rest
+  * - IV
+    - Severe limitations. Experiences symptoms even while at rest. Mostly bedbound patients
+
+f)	**VO2 max (ml/min/kg)**
+Enter the last available measurement prior to transplantation or ‘Missing’ (in case you have no VO2max-value available prior to transplantation).
+
+.. note:: VO2 max at baseline, it refers to the pretransplant assessment.
+
+g)	**LV Ejection fraction in %**
+Enter the last available measurement prior to transplantation or ‘Missing’ (in case you have no EF-value available prior to transplantation).
+
+
 *In construction*
 
 4.3.3. Islets BL
