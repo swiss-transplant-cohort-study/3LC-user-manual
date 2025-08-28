@@ -314,7 +314,7 @@ f) **VO2 max (ml/min/kg)**: Enter the last available measurement prior to transp
 
 g) **LV Ejection fraction in %**: Enter the last available measurement prior to transplantation or ‘Missing’ (in case you have no EF-value available prior to transplantation).
 
-(Heart) Transplantion
+Heart Transplantion
 -----------------------------
 
 .. image:: HeartBL2.png
@@ -335,7 +335,7 @@ d) **Biopsy at reperfusion**: Choose between ‘Yes’, ‘No’ or ‘Missing�
 
 When selecting ‘Yes’ please enter the corresponding biopsy in the heart organ container/Biopsy&Rejection under the cathegory “Time-zero and reperfusion biopsy”. In ‘Type of biopsy’ you can select whether the biopsy has been taken pre-implantation or when already implanted and reperfused, but within the transplantation surgery.
 
-(Heart) Transplant function
+Heart Transplant Function
 -------------------------------
 
 .. image:: HeartBL5.png
@@ -374,10 +374,135 @@ Minimal data that must be collected in the Kidney baseline is:
 4.3.3. Islets BL
 =========================
 
-*In construction*
+The underlying disease for islets transplantation is entered in the ‘Patient Diagnosis List’ in the ‘Condition Leading to Tpx’ and confirmed in the organ container right above the RS-container of the according transplantation. 
+
+Please follow the instructions in chapter 5 on how to enter the required information.
+
+Islets baseline and peritransplant period/ Pre-transplant history and assessments
+--------------------------------------------------------------------------------------------
+
+a) **Number of islet equivalents (IEQ/kg body weight)**: Enter the number of transplanted islets. If the number is >15.000, then it needs to be divided by the bodyweight (in KG) of the recipient to indicate the right quantity.
+
+b) **Root of infusion**: Please select the root of the infused islets from ‘Intrahepatic’, ‘Portal vein infusion’ or ‘Other’. In case of ‘Other’, please indicate the root of infusion in the comment field.
+
+c) **Early allograft dysfunction (DGF)**: Choose between ‘Yes’, ‘No’ or ‘Missing’ (in case you have no information regarding a possible early allograft dysfunction).
+When selecting ‘Yes’, please fill in the start and the stop date of the delayed graft function (DGF) accordingly.
+
+.. image:: IsletBL1.png
+
+Please enter Primary non-function, How to enter a PNF in 3LC and Biopsies after a PNF or graft loss as in `here <https://3lc-doc.readthedocs.io/en/latest/organ.html#primary-non-function>`_.
+
+Minimal Data in Islets Baseline
+----------------------------------
+
+Minimal data that must be collected in the Kidney baseline is:
+
+*	Type of kidney transplantation and
+* Biopsy at reperfusion.
+
+Please fill in the biopsy information in the corresponding organ container.
 
 4.3.4. Liver BL
 ===================
+
+The underlying disease for a liver transplantation is entered in the ‘Patient Diagnosis List’ in the ‘Condition Leading to Tpx’ and confirmed in the organ container right above the RS-container of the according transplantation. Please follow the instructions in chapter 5 on how to enter the required information.
+
+Liver baseline and per transplant period/Pre-transplant history and assessments
+-------------------------------------------------------------------------------------
+
+.. image:: IsletBL2.png
+
+a) **Pre-transplant major abdominal surgery**: Choose between ‘Yes’, ‘No’ or ‘Missing’ (in case you have no information regarding major abdominal surgery prior to transplantation).
+
+When choosing ‘Yes’, select all that apply from the following list:
+
+*	Open cholecystectomy
+*	Previous liver operation
+*	Pancreas operation
+*	Stomach surgery
+*	Other
+
+b) **Grading of ascites at time of transplantation**: Choose from ‘Absent’, ‘Lild-Moderate/Treatable’, ‘Severe/Refractory’ or ‘Missing’ (if you do not have information obout wheter the patient has had ascites at timepoint of transplantation or do not have a clear indication of the grade of the ascites at timepoint of transplantation).
+
+.. warning:: Ascites is considered refractory if it can no longer be treated with medication alone, i.e. if the patient requires therapeutic ascites punctures and/or a TIPS insertion (Mail from B. Müllhaupt, 12.11.2014).
+
+c) **Grading of hepatic encephalopathy at time of transplantation**: Choose between ‘Absent’, ‘State I-II’, ‘State III-IV’ or ‘Missing’ (if you do not have information obout wheter the patient has had hepatic encephalopathy at timepoint of transplantation or do not have a clear indication of the grade of the hepatic encephalopathy at timepoint of transplantation).
+
+.. list-table:: 
+  :widths: 30, 130
+  :header-rows: 1
+
+  * - **Stage of encephalopathy:**
+    - 
+  * - **Stage I**
+    - Sleep disturbances, restlessness, mood fluctuations, loquacity (talkativeness), impaired attention/concentration, often-slight finger tremor.
+  * - **Stage II**
+    - Detectable neuromuscular disturbances (e.g.flapping tremor or asterixis), ataxia, changes in reflexes (usually diminution), dysarthria.
+  * - **Stage III**
+    - Increased impairment of consciousness,aggressive behaviour, monotonous voice,perseverations, increased reflexes, clonic spasm,pyramidal symptoms, increased muscle tone
+  * - **Stage IV**
+    - Coma
+
+d) **History of esophageal variceal bleeding leading to hospitalisation**: Choose between ‘Yes’, ‘No’ or ‘Missing’ (in case you have no information regarding esophageal variceal bleeding leading to hospitalisation).
+
+e) **History of spontaneous bacterial peritonitis (SBP) leading to hospitalisation**: Choose between ‘Yes’, ‘No’ or ‘Missing’ (in case you have no information regarding SPB leading to hospitalisation).
+
+f) **History of portal vein thrombosis**: Choose between ‘Yes’, ‘No’ or ‘Missing’ (in case you have no information regarding portal vein thrombosis prior to transplantation).
+
+g) **History of pulmonary complications**: Choose between ‘Yes’, ‘No’ or ‘Missing’ (in case you have no information regarding pulmonary complications prior to transplantation).
+When choosing ‘Yes’, select all that apply from the following list:
+
+*	Hepato-pulmonary syndrome
+*	Porto-pulmonary hypertension
+*	Hydrothorax
+
+h) **History of hepatorenal syndrome**: Choose between ‘Yes’, ‘No’ or ‘Missing’ (in case you have no information regarding hepatorenal syndrome prior to transplantation).
+
+If the patient required dialysis or hemofiltration in the past, enter this information in the ‘Patient Diagnosis List’ /’Metabolic’ in Pre-enrolment Metabolic (or Post-enrolment Metabolic in case of a second or re-transplantation) as ‘Acute renal failure’ or ‘Chronic kidney disease’ choosing also if the patient needed a renal replacement therapy (Yes or No).
+
+i) **History of TIPS**: Choose between ‘Yes’, ‘No’ or ‘Missing’ (in case you have no information regarding TIPS prior to transplantation).
+When choosing ‘Yes’, select all that apply from the following list:
+
+*	Refractory ascites
+*	Esophageal variceal bleeding
+
+j)**Oral anticoagulation**: Choose between ‘Yes’, ‘No’ or ‘Missing’ (in case you have no information regarding oral anticoagulation prior to transplantation).
+
+Liver Allocation:
+--------------------------
+
+a) **Status at allocation**: Please select the allocation status from the following list:
+
+*	Swiss urgency
+*	Super urgent
+*	Lab MELD
+*	MELD exception, standard
+*	MELD exception, non-standard
+*	MELD upgrade
+
+b) **Allocation MELD score from SOAS**: Enter the MELD-score (provided by SOAS) that has been used for the allocation of the transplanted organ.
+
+c) **Lab MELD score from SOAS**: Enter the last calculated MELD-score prior to transplantation.
+
+.. note:: The fields ‘Current meld score’, ‘Calculated MELD-XI’ and ‘Child score’ are historical values, meaning a value only appear in this gray field if it was entered/calculated in the previous system.
+
+Liver Transplantation
+------------------------
+
+a) **Type of Liver transplantation**: Choose between ‘Domino graft, ‘Whole liver’, ‘Partial liver’ or missing (if you have no indication of the size of the implanted liver).
+
+b) **Preservation time (hh:mm)** (previously called cold ischemia time).
+
+c) **Asystolic ischemia time (min)** (previoously called warm ischemia time)  only appears if the donor is a DCD donor.
+
+d) **Biopsy at reperfusion**: Choose between ‘Yes’, ‘No’ or ‘Missing’ (in case you have no information regarding a biopsy at timepoint of transplantation).
+When selecting yes, please enter the corresponding biopsy in the liver organ container/Biopsy&Rejection under the cathegory “’Time-zero and reperfusion biopsy”. In ‘Type of biopsy’ you can select wether the biopsy has been taken pre-implantation or when already implanted and reperfused, but within the transplantation surgery.
+
+.. image:: IsletBL3.png
+
+e) **Surgery duration (hh:mm)**: Use the surgery duration value in the surgical report of the patient. In case of multiple transplantations also use the value in the surgical report. Do not split the duration.
+
+f) **Weight of liver graft (gr)**: enter the weight of the transplanted liver graft or choose ‘Missing’ if you do not have an information of the weight.
 
 *In construction*
 
