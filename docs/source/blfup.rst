@@ -294,7 +294,7 @@ d) **Pulmonary vascular resistance (wood units)**: Enter the last available meas
 e) **NYHA-Classification**: Select the NYHA-Class last indicated before transplantation or ‘Missing’ (in case you have no information regarding the NYHA-Classification prior to transplantation)
 
 .. list-table:: 
-  :widths: 30, 130
+  :widths: 10, 80
   :header-rows: 1
 
   * - **NYHA Class**
@@ -429,7 +429,7 @@ b) **Grading of ascites at time of transplantation**: Choose from ‘Absent’, 
 c) **Grading of hepatic encephalopathy at time of transplantation**: Choose between ‘Absent’, ‘State I-II’, ‘State III-IV’ or ‘Missing’ (if you do not have information obout wheter the patient has had hepatic encephalopathy at timepoint of transplantation or do not have a clear indication of the grade of the hepatic encephalopathy at timepoint of transplantation).
 
 .. list-table:: 
-  :widths: 30, 130
+  :widths: 10, 80
   :header-rows: 1
 
   * - **Stage of encephalopathy:**
