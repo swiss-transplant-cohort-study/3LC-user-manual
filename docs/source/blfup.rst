@@ -385,12 +385,11 @@ a) **Number of islet equivalents (IEQ/kg body weight)**: Enter the number of tra
 
 b) **Root of infusion**: Please select the root of the infused islets from ‘Intrahepatic’, ‘Portal vein infusion’ or ‘Other’. In case of ‘Other’, please indicate the root of infusion in the comment field.
 
-c) **Early allograft dysfunction (DGF)**: Choose between ‘Yes’, ‘No’ or ‘Missing’ (in case you have no information regarding a possible early allograft dysfunction).
-When selecting ‘Yes’, please fill in the start and the stop date of the delayed graft function (DGF) accordingly.
+c) **Early allograft dysfunction (DGF)**: Choose between ‘Yes’, ‘No’ or ‘Missing’ (in case you have no information regarding a possible early allograft dysfunction). When selecting ‘Yes’, please fill in the start and the stop date of the delayed graft function (DGF) accordingly.
 
 .. image:: IsletBL1.png
 
-Please enter Primary non-function, How to enter a PNF in 3LC and Biopsies after a PNF or graft loss as in `here <https://3lc-doc.readthedocs.io/en/latest/organ.html#primary-non-function>`_.
+Please enter Primary non-function. How to enter a PNF in 3LC and Biopsies after a PNF or graft loss as in `here <https://3lc-doc.readthedocs.io/en/latest/organ.html#primary-non-function>`_.
 
 Minimal Data in Islets Baseline
 ----------------------------------
@@ -449,24 +448,22 @@ e) **History of spontaneous bacterial peritonitis (SBP) leading to hospitalisati
 
 f) **History of portal vein thrombosis**: Choose between ‘Yes’, ‘No’ or ‘Missing’ (in case you have no information regarding portal vein thrombosis prior to transplantation).
 
-g) **History of pulmonary complications**: Choose between ‘Yes’, ‘No’ or ‘Missing’ (in case you have no information regarding pulmonary complications prior to transplantation).
-When choosing ‘Yes’, select all that apply from the following list:
+g) **History of pulmonary complications**: Choose between ‘Yes’, ‘No’ or ‘Missing’ (in case you have no information regarding pulmonary complications prior to transplantation). When choosing ‘Yes’, select all that apply from the following list:
 
-*	Hepato-pulmonary syndrome
-*	Porto-pulmonary hypertension
-*	Hydrothorax
+  *	Hepato-pulmonary syndrome
+  *	Porto-pulmonary hypertension
+  *	Hydrothorax
 
 h) **History of hepatorenal syndrome**: Choose between ‘Yes’, ‘No’ or ‘Missing’ (in case you have no information regarding hepatorenal syndrome prior to transplantation).
 
 If the patient required dialysis or hemofiltration in the past, enter this information in the ‘Patient Diagnosis List’ /’Metabolic’ in Pre-enrolment Metabolic (or Post-enrolment Metabolic in case of a second or re-transplantation) as ‘Acute renal failure’ or ‘Chronic kidney disease’ choosing also if the patient needed a renal replacement therapy (Yes or No).
 
-i) **History of TIPS**: Choose between ‘Yes’, ‘No’ or ‘Missing’ (in case you have no information regarding TIPS prior to transplantation).
-When choosing ‘Yes’, select all that apply from the following list:
+i) **History of TIPS**: Choose between ‘Yes’, ‘No’ or ‘Missing’ (in case you have no information regarding TIPS prior to transplantation). When choosing ‘Yes’, select all that apply from the following list:
 
-*	Refractory ascites
-*	Esophageal variceal bleeding
+   *	Refractory ascites
+   *	Esophageal variceal bleeding
 
-j)**Oral anticoagulation**: Choose between ‘Yes’, ‘No’ or ‘Missing’ (in case you have no information regarding oral anticoagulation prior to transplantation).
+j) **Oral anticoagulation**: Choose between ‘Yes’, ‘No’ or ‘Missing’ (in case you have no information regarding oral anticoagulation prior to transplantation).
 
 Liver Allocation:
 --------------------------
@@ -493,18 +490,35 @@ a) **Type of Liver transplantation**: Choose between ‘Domino graft, ‘Whole l
 
 b) **Preservation time (hh:mm)** (previously called cold ischemia time).
 
-c) **Asystolic ischemia time (min)** (previoously called warm ischemia time)  only appears if the donor is a DCD donor.
+c) **Asystolic ischemia time (min)** (previously called warm ischemia time): this only appears if the donor is a DCD donor.
 
 d) **Biopsy at reperfusion**: Choose between ‘Yes’, ‘No’ or ‘Missing’ (in case you have no information regarding a biopsy at timepoint of transplantation).
 When selecting yes, please enter the corresponding biopsy in the liver organ container/Biopsy&Rejection under the cathegory “’Time-zero and reperfusion biopsy”. In ‘Type of biopsy’ you can select wether the biopsy has been taken pre-implantation or when already implanted and reperfused, but within the transplantation surgery.
 
-.. image:: IsletBL3.png
+.. image:: LiverBL1.png
 
 e) **Surgery duration (hh:mm)**: Use the surgery duration value in the surgical report of the patient. In case of multiple transplantations also use the value in the surgical report. Do not split the duration.
 
 f) **Weight of liver graft (gr)**: enter the weight of the transplanted liver graft or choose ‘Missing’ if you do not have an information of the weight.
 
-*In construction*
+Liver Transplant function
+----------------------------
+
+a) **Early allograft dysfunction (DGF)**: Choose between ‘Yes’, ‘No’ or ‘Missing’ (in case you have no information regarding a possible early allograft dysfunction). When selecting ‘Yes’, please fill in the start and the stop date of the delayed graft function (DGF) accordingly.
+
+.. image:: LiverBL2.png
+
+Please enter Primary non-function. How to enter a PNF in 3LC and Biopsies after a PNF or graft loss as in `here <https://3lc-doc.readthedocs.io/en/latest/organ.html#primary-non-function>`_.
+
+Minimal Data in Liver Baseline
+------------------------------------
+
+Minimal data that must be collected in the Kidney baseline is:
+
+*	Type of liver transplantation and
+*	Biopsy at reperfusion.
+
+Please fill in the biopsy information in the corresponding organ container.
 
 4.3.5. Lung BL
 ======================
