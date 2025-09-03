@@ -495,7 +495,7 @@ c) **Asystolic ischemia time (min)** (previously called warm ischemia time): thi
 d) **Biopsy at reperfusion**: Choose between ‘Yes’, ‘No’ or ‘Missing’ (in case you have no information regarding a biopsy at timepoint of transplantation).
 When selecting yes, please enter the corresponding biopsy in the liver organ container/Biopsy&Rejection under the cathegory “’Time-zero and reperfusion biopsy”. In ‘Type of biopsy’ you can select wether the biopsy has been taken pre-implantation or when already implanted and reperfused, but within the transplantation surgery.
 
-.. image:: LiverBL1.png
+.. image:: LiverBL3A.png
 
 e) **Surgery duration (hh:mm)**: Use the surgery duration value in the surgical report of the patient. In case of multiple transplantations also use the value in the surgical report. Do not split the duration.
 
@@ -506,7 +506,7 @@ Liver Transplant function
 
 a) **Early allograft dysfunction (DGF)**: Choose between ‘Yes’, ‘No’ or ‘Missing’ (in case you have no information regarding a possible early allograft dysfunction). When selecting ‘Yes’, please fill in the start and the stop date of the delayed graft function (DGF) accordingly.
 
-.. image:: LiverBL2.png
+.. image:: LiverBL4A.png
 
 Please enter Primary non-function. How to enter a PNF in 3LC and Biopsies after a PNF or graft loss as in `here <https://3lc-doc.readthedocs.io/en/latest/organ.html#primary-non-function>`_.
 
