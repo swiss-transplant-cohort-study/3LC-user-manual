@@ -595,6 +595,9 @@ Questions
 
 The questions are just formal and no additional information to a ‘Yes’, ‘No’ or ‘missing’ is added anywhere.
 Did the patient smoke tobacco since last cohort visit?
+Did the patient smoke marihuana since last cohort visit?
+
+In the section of ‘Other illicit substance use’, please indicate all illegal drugs the patient consumed in this follow-up period.
 
 4.7. Organ Follow-Up forms
 *****************************
