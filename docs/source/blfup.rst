@@ -536,7 +536,57 @@ Please fill in the biopsy information in the corresponding organ container.
 4.4. Donor Form
 ******************
 
-*In construction*
+.. image:: DonFor1.png
+
+In the donor form, we enter the donor specific information. Donor information is only registered once, even if a donor donates multiple organs (to different centers). This means that all the information entered by the first center entering data also appears in the donor form of this donor in the other centers. However, the donor form is not set to complete if an other transplant center completes the missing values so you need to open the form and set it to ‘complete’ manually.
+
+a) Donor characteristics only request the cause of donor death. Please select from the list and in case of ‘other’ indicate the cause of death in the comment field.
+  •	Cause of donor death
+  •	Anoxia (ANX)
+  •	Brain cancer
+  •	Cerebral disease (CDI)
+  •	Cerebral hemorrhage (CHE)
+  •	Cerebral trauma (CTR)
+  •	Suicide (SUI)
+  •	Other cause (OTH)
+
+b) Donor Serology requests the results of the donor serology lab prior to donation. Values can be entered as ‘negative’, ‘positive’ or ‘missing’ (in case the result is not available/ a test has not been performed). 
+
+.. note:: General Rule: all borderline results are entered as ‘positive’.
+
+c)	Donor HLA
+
+.. image:: DonFor2.png
+
+If a HLA is homozygous, you can select the button next to the according HLA instead of searching for it in the second HLA-phenotype list.
+
+Please indicate single missing HLA with the ‘x’, if all HLA is missing (analysis not done) select ‘All HLA missing’ to auto-complete all fields.
+
+.. tip:: If you erroneously selected ‘All HLA missing’ you can undo that by clicking ‘HLA available’. Previously entered HLA will re-appear as long as you did not save the form..
+
+Heart and lung donors
+------------------------
+
+The donor form is the same for all organs except heart and lung, where an additional field, ‘Transplant related information’ appears.
+
+a) For a **heart donor** the requested values are: 
+  •	Donor myocardial contusion. Choose between ‘Yes’, ‘No’ or ‘Missing’ (in case you have no information regarding a possible myocardial contusion).
+  •	Donor EF in %. Enter the (last) available EF of the donor
+  •	Graft coronary artery disease (CAD). Choose between ‘Yes’, ‘No’ or ‘Missing’ (in case you have no information regarding CAD). When selecting ‘Yes’, please select the ‘Treatment of graft CAD’ from ‘No’, ‘Bypass’, ‘Stenting’ or ‘Missing’ (in case you have no information regarding the treatment of CAD).
+  •	Graft valvular disease. Choose between ‘Yes’, ‘No’ or ‘Missing’ (in case you have no information regarding a possible graft valvular disease).
+
+b)	For a **lung donor** the requested values are:
+  •	Donor height
+  •	Donor smoking history.
+
+.. note:: In case of the indication of a positive donor history (‘At time of donation’ or ‘former’) please indicate the donor’s number of pack years. (Pack years: Smoking one package per day during one year = 1 packyear. Smoking one package per day for 20 years = 20 packyears.)
+
+.. tip:: In case of a combined heart and lung transplantation, the requested data all appear under the same ‘Transplant related information’ category.
+
+Minimal Data in Donor Form
+----------------------------
+
+Minimal data that must be collected in the Donor form is:	**Donor HLA**.
 
 4.5. RS-Form
 *****************
