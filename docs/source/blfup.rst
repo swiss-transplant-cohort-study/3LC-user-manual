@@ -539,27 +539,28 @@ Please fill in the biopsy information in the corresponding organ container.
 
 In the donor form, we enter the donor specific information. Donor information is only registered once, even if a donor donates multiple organs (to different centers). This means that all the information entered by the first center entering data also appears in the donor form of this donor in the other centers. However, the donor form is not set to complete if an other transplant center completes the missing values so you need to open the form and set it to ‘complete’ manually.
 
-a) Donor characteristics only request the cause of donor death. Please select from the list and in case of ‘other’ indicate the cause of death in the comment field.
-  •	Cause of donor death
-  •	Anoxia (ANX)
-  •	Brain cancer
-  •	Cerebral disease (CDI)
-  •	Cerebral hemorrhage (CHE)
-  •	Cerebral trauma (CTR)
-  •	Suicide (SUI)
-  •	Other cause (OTH)
+\a) Donor characteristics only request the cause of donor death. Please select from the list and in case of ‘other’ indicate the cause of death in the comment field:
 
-b) Donor Serology requests the results of the donor serology lab prior to donation. Values can be entered as ‘negative’, ‘positive’ or ‘missing’ (in case the result is not available/ a test has not been performed). 
+   •	Cause of donor death
+   •	Anoxia (ANX)
+   •	Brain cancer
+   •	Cerebral disease (CDI)
+   •	Cerebral hemorrhage (CHE)
+   •	Cerebral trauma (CTR)
+   •	Suicide (SUI)
+   •	Other cause (OTH)
+
+\b) Donor Serology requests the results of the donor serology lab prior to donation. Values can be entered as ‘negative’, ‘positive’ or ‘missing’ (in case the result is not available/ a test has not been performed). 
 
 .. note:: General Rule: all borderline results are entered as ‘positive’.
 
-c)	Donor HLA
+\c)	Donor HLA
 
 .. image:: DonFor2.png
 
-If a HLA is homozygous, you can select the button next to the according HLA instead of searching for it in the second HLA-phenotype list.
+    If a HLA is homozygous, you can select the button next to the according HLA instead of searching for it in the second HLA-phenotype list.
 
-Please indicate single missing HLA with the ‘x’, if all HLA is missing (analysis not done) select ‘All HLA missing’ to auto-complete all fields.
+    Please indicate single missing HLA with the ‘x’, if all HLA is missing (analysis not done) select ‘All HLA missing’ to auto-complete all fields.
 
 .. tip:: If you erroneously selected ‘All HLA missing’ you can undo that by clicking ‘HLA available’. Previously entered HLA will re-appear as long as you did not save the form..
 
@@ -568,15 +569,17 @@ Heart and lung donors
 
 The donor form is the same for all organs except heart and lung, where an additional field, ‘Transplant related information’ appears.
 
-a) For a **heart donor** the requested values are: 
-  •	Donor myocardial contusion. Choose between ‘Yes’, ‘No’ or ‘Missing’ (in case you have no information regarding a possible myocardial contusion).
-  •	Donor EF in %. Enter the (last) available EF of the donor
-  •	Graft coronary artery disease (CAD). Choose between ‘Yes’, ‘No’ or ‘Missing’ (in case you have no information regarding CAD). When selecting ‘Yes’, please select the ‘Treatment of graft CAD’ from ‘No’, ‘Bypass’, ‘Stenting’ or ‘Missing’ (in case you have no information regarding the treatment of CAD).
-  •	Graft valvular disease. Choose between ‘Yes’, ‘No’ or ‘Missing’ (in case you have no information regarding a possible graft valvular disease).
+a) For a **heart donor** the requested values are:
+
+   • Donor myocardial contusion. Choose between ‘Yes’, ‘No’ or ‘Missing’ (in case you have no information regarding a possible myocardial contusion).
+   • Donor EF in %. Enter the (last) available EF of the donor
+   • Graft coronary artery disease (CAD). Choose between ‘Yes’, ‘No’ or ‘Missing’ (in case you have no information regarding CAD). When selecting ‘Yes’, please select the ‘Treatment of graft CAD’ from ‘No’, ‘Bypass’, ‘Stenting’ or ‘Missing’ (in case you have no information regarding the treatment of CAD).
+   • Graft valvular disease. Choose between ‘Yes’, ‘No’ or ‘Missing’ (in case you have no information regarding a possible graft valvular disease).
 
 b)	For a **lung donor** the requested values are:
-  •	Donor height
-  •	Donor smoking history.
+
+   • Donor height
+   • Donor smoking history.
 
 .. note:: In case of the indication of a positive donor history (‘At time of donation’ or ‘former’) please indicate the donor’s number of pack years. (Pack years: Smoking one package per day during one year = 1 packyear. Smoking one package per day for 20 years = 20 packyears.)
 
@@ -696,7 +699,68 @@ Minimal data that must be collected in the Kidney FUP form is:
 4.7.2. Heart
 ===============
 
-*In construction*
+.. image:: HeartFUP1.png
+
+In the Heart FUP form, as in the Patient FUP form, you find toggles that indicate if in the respective FUP-period, a specific test has been performed or an event has happened. Accordingly you can select between ‘Yes’, ‘No’ and ‘Missing’ (in case you have no information regarding a performed test or the occurance of en event).
+
+The specific entries you have to do in the Heart FUP are all found in the Assessment section and correspond to:
+
+•	Performed echo
+•	NYHA classification
+•	VO2max (ml/min/kg) and the most actual
+•	ECG rhythm.
+
+Assessments
+-----------------
+
+.. image:: HeartFUP2.png
+
+\a) **Performed echo**: Choose between ‘Yes’, ‘No’ or ‘Missing’ (in case you have no information regarding the performance of an echo in the FUP period). By selecting ‘Yes’, you are asked to fill in specific test-results:
+
+    •	LV Ejection fraction in %: Enter the last available measurement prior to transplantation or ‘Missing’ (in case you have no EF-value available)
+    •	TAPSE or TAM: Choose between ‘Yes’, ‘No’ or ‘Missing’ (in case you have no information regarding the measurement of the right ventricular systolic function measurement in the echo). When selecting ‘Yes’ you are asked to enter the measurement of the movement of the tricusid valve anulus during systole.
+    •	For all other questions you can select between ‘Yes’, ‘No’ or ‘Missing’ (if there is no indication regarding the specific stenosis or regurgitation in the echo-report).
+
+.. image:: HeartFUP3.png
+
+\b) **NYHA-Classification**: Select the last indicated NYHA-Class in the FUP period or ‘Missing’ (in case you have no information regarding the NYHA-Classification in the actual FUP period).
+
+.. list-table:: 
+  :widths: 10, 80
+  :header-rows: 1
+
+  * - **NYHA Class**
+    - **Symptoms**
+  * - I
+    - No symptoms and no limitation in ordinary physical activity, e.g. shortness of breath when walking, climbing stairs etc.
+  * - II
+    - Mild symptoms (mild shortness of breath and/or angina) and slight limitation during ordinary activity.
+  * - III
+    - Marked limitation in activity due to symptoms, even during less-than-ordinary activity, e.g. walking short distances (20–100 m). Comfortable only at rest.
+  * - IV
+    - Severe limitations. Experiences symptoms even while at rest. Mostly bedbound patients.
+
+\c)	**VO2 max (ml/min/kg)**: Enter the last available measurement in the FUP period or ‘Missing’ (in case you have no VO2max-value available in the FUP period).
+
+\d)	**ECG-Rhythm**: Choose the ECG rhythm of the most recent ECG performed in the FUP-period by selecting all that apply from the following list or ‘Missing’ (in case no ECG has been performed in the actual FUP period):
+
+    •	Normal sinus rhythm
+    •	Atrial fibrillation/flutter
+    •	AV-Block not requiring pacemaker
+    •	AV-Block requiring pacemaker
+    •	AV-node rhythm
+    •	Fascicular block
+    •	Pacemaker rhythm
+    •	Sinus bradycardia
+    •	Sinus tachycardia
+    •	Other
+
+Minimal Data in Heart Follow-up Form
+--------------------------------------------------
+
+Minimal data that must be collected in the Heart FUP form is:
+•	Graft loss and
+•	Biopsy and rejection
 
 4.7.3. Islets
 ===============
