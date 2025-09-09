@@ -409,7 +409,7 @@ Liver baseline and per transplant period/Pre-transplant history and assessments
 
 .. image:: IsletBL2.png
 
-a) **Pre-transplant major abdominal surgery**: Choose between ‘Yes’, ‘No’ or ‘Missing’ (in case you have no information regarding major abdominal surgery prior to transplantation).
+\a) **Pre-transplant major abdominal surgery**: Choose between ‘Yes’, ‘No’ or ‘Missing’ (in case you have no information regarding major abdominal surgery prior to transplantation).
 
 When choosing ‘Yes’, select all that apply from the following list:
 
@@ -419,11 +419,11 @@ When choosing ‘Yes’, select all that apply from the following list:
 *	Stomach surgery
 *	Other
 
-b) **Grading of ascites at time of transplantation**: Choose from ‘Absent’, ‘Lild-Moderate/Treatable’, ‘Severe/Refractory’ or ‘Missing’ (if you do not have information obout wheter the patient has had ascites at timepoint of transplantation or do not have a clear indication of the grade of the ascites at timepoint of transplantation).
+\b) **Grading of ascites at time of transplantation**: Choose from ‘Absent’, ‘Lild-Moderate/Treatable’, ‘Severe/Refractory’ or ‘Missing’ (if you do not have information obout wheter the patient has had ascites at timepoint of transplantation or do not have a clear indication of the grade of the ascites at timepoint of transplantation).
 
 .. warning:: Ascites is considered refractory if it can no longer be treated with medication alone, i.e. if the patient requires therapeutic ascites punctures and/or a TIPS insertion (Mail from B. Müllhaupt, 12.11.2014).
 
-c) **Grading of hepatic encephalopathy at time of transplantation**: Choose between ‘Absent’, ‘State I-II’, ‘State III-IV’ or ‘Missing’ (if you do not have information obout wheter the patient has had hepatic encephalopathy at timepoint of transplantation or do not have a clear indication of the grade of the hepatic encephalopathy at timepoint of transplantation).
+\c) **Grading of hepatic encephalopathy at time of transplantation**: Choose between ‘Absent’, ‘State I-II’, ‘State III-IV’ or ‘Missing’ (if you do not have information obout wheter the patient has had hepatic encephalopathy at timepoint of transplantation or do not have a clear indication of the grade of the hepatic encephalopathy at timepoint of transplantation).
 
 .. list-table:: 
   :widths: 10, 80
@@ -440,26 +440,26 @@ c) **Grading of hepatic encephalopathy at time of transplantation**: Choose betw
   * - **Stage IV**
     - Coma
 
-d) **History of esophageal variceal bleeding leading to hospitalisation**: Choose between ‘Yes’, ‘No’ or ‘Missing’ (in case you have no information regarding esophageal variceal bleeding leading to hospitalisation).
+\d) **History of esophageal variceal bleeding leading to hospitalisation**: Choose between ‘Yes’, ‘No’ or ‘Missing’ (in case you have no information regarding esophageal variceal bleeding leading to hospitalisation).
 
-e) **History of spontaneous bacterial peritonitis (SBP) leading to hospitalisation**: Choose between ‘Yes’, ‘No’ or ‘Missing’ (in case you have no information regarding SPB leading to hospitalisation).
+\e) **History of spontaneous bacterial peritonitis (SBP) leading to hospitalisation**: Choose between ‘Yes’, ‘No’ or ‘Missing’ (in case you have no information regarding SPB leading to hospitalisation).
 
-f) **History of portal vein thrombosis**: Choose between ‘Yes’, ‘No’ or ‘Missing’ (in case you have no information regarding portal vein thrombosis prior to transplantation).
+\f) **History of portal vein thrombosis**: Choose between ‘Yes’, ‘No’ or ‘Missing’ (in case you have no information regarding portal vein thrombosis prior to transplantation).
 
-g) **History of pulmonary complications**: Choose between ‘Yes’, ‘No’ or ‘Missing’ (in case you have no information regarding pulmonary complications prior to transplantation). When choosing ‘Yes’, select all that apply from the following list:
+\g) **History of pulmonary complications**: Choose between ‘Yes’, ‘No’ or ‘Missing’ (in case you have no information regarding pulmonary complications prior to transplantation). When choosing ‘Yes’, select all that apply from the following list:
 
   *	Hepato-pulmonary syndrome
   *	Porto-pulmonary hypertension
   *	Hydrothorax
 
-h) **History of hepatorenal syndrome**: Choose between ‘Yes’, ‘No’ or ‘Missing’ (in case you have no information regarding hepatorenal syndrome prior to transplantation). If the patient required dialysis or hemofiltration in the past, enter this information in the ‘Patient Diagnosis List’ /’Metabolic’ in Pre-enrolment Metabolic (or Post-enrolment Metabolic in case of a second or re-transplantation) as ‘Acute renal failure’ or ‘Chronic kidney disease’ choosing also if the patient needed a renal replacement therapy (Yes or No).
+\h) **History of hepatorenal syndrome**: Choose between ‘Yes’, ‘No’ or ‘Missing’ (in case you have no information regarding hepatorenal syndrome prior to transplantation). If the patient required dialysis or hemofiltration in the past, enter this information in the ‘Patient Diagnosis List’ /’Metabolic’ in Pre-enrolment Metabolic (or Post-enrolment Metabolic in case of a second or re-transplantation) as ‘Acute renal failure’ or ‘Chronic kidney disease’ choosing also if the patient needed a renal replacement therapy (Yes or No).
 
 \i) **History of TIPS**: Choose between ‘Yes’, ‘No’ or ‘Missing’ (in case you have no information regarding TIPS prior to transplantation). When choosing ‘Yes’, select all that apply from the following list:
 
    *	Refractory ascites
    *	Esophageal variceal bleeding
 
-j) **Oral anticoagulation**: Choose between ‘Yes’, ‘No’ or ‘Missing’ (in case you have no information regarding oral anticoagulation prior to transplantation).
+\j) **Oral anticoagulation**: Choose between ‘Yes’, ‘No’ or ‘Missing’ (in case you have no information regarding oral anticoagulation prior to transplantation).
 
 Liver Allocation:
 --------------------------
