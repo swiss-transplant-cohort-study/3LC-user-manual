@@ -9,11 +9,11 @@ The ‘Patient FUP’ and ‘Organ FUP’ are short overviews with toggles that 
 
 The assessment containers are color-coded, see picture below:
 
-* Container with white fill, black outline: created baseline or FUP without entered data
-* Container with white fill, green outline: data collection is ‘in progress’
-*	Container with white fill, blue outline: ‘Minimal’ dataset collection is complete
-*	Container with white fill, red outline: Organ stop has been registered for that organ
-*	Contianer with blue fill: Full dataset collection is complete
+* Container with white filling, black outline: created baseline or FUP without entered data
+* Container with white filling, green outline: data collection is ‘in progress’
+*	Container with white filling, blue outline: ‘Minimal’ dataset collection is complete
+*	Container with white filling, red outline: Organ stop has been registered for that organ
+*	Container with blue fillomg: Full dataset collection is complete
 
 .. image:: FUP3.png
 
@@ -23,7 +23,7 @@ The assessment containers are color-coded, see picture below:
 .. image:: CRF1.png
   :width: 500
 
-The CRF status that appears on the Patient Overview can be chosen in the Baseline or FUP container at the top left. In order to save a form (bottom right side), a CRF status must be choosen.
+The CRF status which appears on the Patient Overview can be chosen in the Baseline or FUP container at the top left. In order to save a form (bottom right side), a CRF status must be chosen.
 
 4.1.1. Correction of a Follow-up Date
 ================================================
@@ -32,14 +32,14 @@ The CRF status that appears on the Patient Overview can be chosen in the Baselin
 
 If you entered an incorrect follow-up date and you wish to correct this, then please proceed as follows:
 
-#.	Go to Follow-up (see circle in the figure above).
-#.	Choose ‘Edit’ the FUP you need to correct (see arrow in the figure above).
-#.	Correct the date(s).
+#. Go to Follow-up (see circle in the figure above).
+#. Choose ‘Edit’ the FUP you need to correct (see arrow in the figure above).
+#. Correct the date(s).
 
 4.1.2. Deletion of a Follow-up Date
 ==========================================
 
-.. warning:: To delete a complete patient case, please contact the IT-departement (open a ticket with all relevant information).
+.. warning:: To delete a complete patient case, please contact the STCS IT-departement by openomg a ticket with all relevant information.
 
 If you added a FUP erroneously (e.g. in the false patient), you can delete the last added FUP by chosing ‘Delete’ (see red arrow) in the Follow-up overview.
 
@@ -49,7 +49,7 @@ Please note that already entered data in the ‘Patient Diagnosis List’, the �
 
 .. image:: CRF4.png
 
-To delete the accidentally entered data, you have to delete them all manually. Access the corresponding container, press the ‘Delete’ (see arrow) in the row corresponding to the false entry and confirm your selection.
+To delete the accidentally entered data, you have to delete them all manually. Access the corresponding container, press ‘Delete’ (see arrow) in the row corresponding to the false entry and confirm your selection.
 
 4.1.3. Assessment Date
 =============================
@@ -79,7 +79,7 @@ The information in the second and third section (Patient HLA) is only collected 
 4.2.1. Pre-enrolment History
 ==================================
 
-The toggles are only here to indicate wheter there was an event in the respective cathegory or not before the transplantation.
+The toggles are only here to indicate whether there was an event in the respective cathegory or not before the transplantation.
 
 .. image:: BL5.png
 
@@ -152,7 +152,7 @@ Minimal data that must be collected in the Patient baseline is:
 * Neoplasia
 * Skin cancer
 * Lab (only Creatinine) and
-* Patient HLA.
+* Patient HLA
 
 4.3. Organ Baseline Forms
 ****************************
@@ -193,18 +193,18 @@ In Re-transplantion
 
 **The start-date of the dialysis is always the dialysis concerning the current transplanted organ**. If the patient had dialysis and a kidney-TX before (regardless of whether entered and followed in the STCS or not) do not enter this date. This information must be entered in the patient baseline or has already been entered in the concerning organ that is registered in the STCS.
 
-b) **Did the patient ever received blood-transfusions?**: Choose between ‘Yes’, ‘No’ or ‘Missing’ (in case you have no information regarding blood-transfusions prior to transplantation)
+b) **Did the patient ever received blood-transfusions?**: Choose between ‘Yes’, ‘No’ or ‘Missing’ (in case you have no information regarding blood-transfusions prior to transplantation).
 
 **What is considered as blood transfusion?**
 
 * Platelets transfusion is relevant and should be collected in Kidney BL.
 * Plasma (usually FFP) is not relevant as it does not cause HLA sensitization.
 
-c) **Was the patient ever pregnant?**: Choose between ‘Yes’, ‘No’ or ‘Missing’ (in case you have no information regarding childbirths prior to transplantation)
+c) **Was the patient ever pregnant?**: Choose between ‘Yes’, ‘No’ or ‘Missing’ (in case you have no information regarding childbirths prior to transplantation).
 
 .. warning:: This information can only be filled in in female patients.
 
-d) **Has nephrectomy been carried out?**: Choose between ‘No’, ‘Nephrectomy of allograft and nephrectomy of native kidney’, ‘Nephrectomy of a previous kidney allograft ‘, ‘Nephrectomy of the native kidney(s)’
+d) **Has nephrectomy been carried out?**: Choose between ‘No’, ‘Nephrectomy of allograft and nephrectomy of native kidney’, ‘Nephrectomy of a previous kidney allograft ‘, ‘Nephrectomy of the native kidney(s)’.
 
 Kidney transplatation
 --------------------------
@@ -219,8 +219,7 @@ c) **Asystolic ischemia time (min)** *(previoously called warm ischemia time)*: 
 
 .. image:: KidneyBL4.png
 
-d) **Biopsy at reperfusion**: Choose between ‘Yes’, ‘No’ or ‘Missing’ (in case you have no information regarding a biopsy at timepoint of transplantation)
-When selecting yes, please enter the corresponding biopsy in the kidney organ container/Biopsy&Rejection under the cathegory “Time-zero and reperfusion biopsy”.
+d) **Biopsy at reperfusion**: Choose between ‘Yes’, ‘No’ or ‘Missing’ (in case you have no information regarding a biopsy at timepoint of transplantation). When selecting yes, please enter the corresponding biopsy in the kidney organ container/Biopsy&Rejection under the cathegory “Time-zero and reperfusion biopsy”.
 
 In ‘Type of biopsy’ you can select wether the biopsy has been taken pre-implantation or when already implanted and reperfused, but within the transplantation surgery.
 
@@ -233,8 +232,7 @@ Kidney Transplant Function
 
 a) **Early allograft dysfunction (DGF)**: Choose between ‘Yes’, ‘No’ or ‘Missing’ (in case you have no information regarding DGF) and see Primary-non function (below) for further information.
 
-b) **Post-transplant dialysis**: Choose between ‘Yes’, ‘No’ or ‘Missing’ (in case you have no information regarding dialysis after transplantation).
-When selecting ‘Yes’ please fill in the start and the stop date of the post-transplant dialysis accordingly.
+b) **Post-transplant dialysis**: Choose between ‘Yes’, ‘No’ or ‘Missing’ (in case you have no information regarding dialysis after transplantation). When selecting ‘Yes’ please fill in the start and the stop date of the post-transplant dialysis accordingly.
 
 .. image:: KidneyBL7.png
 
@@ -304,9 +302,9 @@ e) **NYHA-Classification**: Select the NYHA-Class last indicated before transpla
   * - II
     - Mild symptoms (mild shortness of breath and/or angina) and slight limitation during ordinary activity.
   * - III
-    - Marked limitation in activity due to symptoms, even during less-than-ordinary activity, e.g. walking short distances (20–100 m). Comfortable only at rest
+    - Marked limitation in activity due to symptoms, even during less-than-ordinary activity, e.g. walking short distances (20–100 m). Comfortable only at rest.
   * - IV
-    - Severe limitations. Experiences symptoms even while at rest. Mostly bedbound patients
+    - Severe limitations. Experiences symptoms even while at rest. Mostly bedbound patients.
 
 f) **VO2 max (ml/min/kg)**: Enter the last available measurement prior to transplantation or ‘Missing’ (in case you have no VO2max-value available prior to transplantation).
 
@@ -342,7 +340,7 @@ Heart Transplant Function
 
 a) **Primary graft dysfunction**: Choose between ‘No’, ‘Requiring ECLS’, ‘Not requiring ECLS’or ‘Missing’ (in case you have no information regarding a possible graft dysfunction after transplantation).
 
-ECLS (extracorporeal life support) refers to a method of mechanical cardiovascular support. This can be done by means of ECMO (including an oxygenator) or by a pump without an intermediate oxygenator with normal lung function.
+   ECLS (extracorporeal life support) refers to a method of mechanical cardiovascular support. This can be done by means of ECMO (including an oxygenator) or by a pump without an intermediate oxygenator with normal lung function.
 
 b) **ECG rhythm**: Choose the ECG rhythm immediately after transplantation and select all that apply from the following list:
   *	Normal sinus rhythm
@@ -356,7 +354,7 @@ b) **ECG rhythm**: Choose the ECG rhythm immediately after transplantation and s
   * Sinus tachycardia
   * Other
 
-Please enter Primary non-function, How to enter a PNF in 3LC and Biopsies after a PNF or graft loss as in `here <https://3lc-doc.readthedocs.io/en/latest/organ.html#primary-non-function>`_.
+  Please enter Primary non-function, How to enter a PNF in 3LC and Biopsies after a PNF or graft loss as in `here <https://3lc-doc.readthedocs.io/en/latest/organ.html#primary-non-function>`_.
 
 Minimal Data in Heart Baseline
 ----------------------------------
@@ -456,7 +454,7 @@ g) **History of pulmonary complications**: Choose between ‘Yes’, ‘No’ or
 
 h) **History of hepatorenal syndrome**: Choose between ‘Yes’, ‘No’ or ‘Missing’ (in case you have no information regarding hepatorenal syndrome prior to transplantation). If the patient required dialysis or hemofiltration in the past, enter this information in the ‘Patient Diagnosis List’ /’Metabolic’ in Pre-enrolment Metabolic (or Post-enrolment Metabolic in case of a second or re-transplantation) as ‘Acute renal failure’ or ‘Chronic kidney disease’ choosing also if the patient needed a renal replacement therapy (Yes or No).
 
-i) **History of TIPS**: Choose between ‘Yes’, ‘No’ or ‘Missing’ (in case you have no information regarding TIPS prior to transplantation). When choosing ‘Yes’, select all that apply from the following list:
+\i) **History of TIPS**: Choose between ‘Yes’, ‘No’ or ‘Missing’ (in case you have no information regarding TIPS prior to transplantation). When choosing ‘Yes’, select all that apply from the following list:
 
    *	Refractory ascites
    *	Esophageal variceal bleeding
