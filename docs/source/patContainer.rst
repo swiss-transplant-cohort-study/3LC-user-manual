@@ -132,6 +132,92 @@ For these treatments enter one start and one stop date only. It **does not need*
 5.3. Lab
 **************
 
+.. image:: ContLab1.png
+
+For all data collections, please always use the most actual available lab. It might be that this are not the results you can find in the hospital internal lab but in an external report. 
+
+5.3.1. Patient lab
+==========================
+
+We record the following values both in the baseline and in the follow-up until and including FUP 10 years:
+
+•	Cholesterol
+•	HLD-cholesterol
+•	LDL-cholesterol
+•	Plasma glucose (not indicating wether it is a fasting or a random sample)
+•	HbA1c
+•	Creatinine and
+•	Total bilrubin.
+
+As always, select ‘missing’ if a specific test has not been done or the date of the performed lab is unknown.
+
+.. tip:: In the lipid status and bilirubin you can change the detection that is pre-set to ‘mesurable’ to ‘not mesurable’.
+
+.. note:: In case no lab at all has been performed in the follow-up period, please do not forget to set the labs toggle in the patient follow-up form to ‘no’.
+
+5.3.2. Organ lab
+============================
+
+For every transplanted organ we collect organ specific lab values during the period in which a full dataset is collected. Only after a kidney transplantation the organ specific lab is also collected in a minimal dataset. The collection of the organ specific lab starts with the first follow-up.
+
+Per default, as SOAS case-ID, the SOAS-number of the latest same transplanted organ is selected. Especially in case you enter the graft loss and the re-transplantation at the same time, be careful to select the SOAS case-ID that refers to the entered lab.
+
+Kidney
+---------------------
+
+We collect the proteinuria in mg/mmol. 
+In the detection choose between ‘below detection limit’, ‘measurable’ and ‘above detection limit’. In case the result is ‘below detection limit’ enter ‘0’ as result, in case it is ‘above detection limit’ enter ‘missing’ as value.
+
+Heart
+----------------
+
+We do not collect any bloodwork in heart transplanted patients but in the organ follow-up you can find physiological assessments that are measured.
+
+Islets and Pancreas
+------------------------
+
+The post-tx lab is divided in ‘islets & pancreas specific lab’ and in ‘Stimulation Lab’.
+
+.. image:: ContLab2.png
+
+Islets & Pancreas Specific Lab
+---------------------------------------
+
+We collect the proteinuria in mg/mmol. In the detection choose between ‘below detection limit’, ‘measurable’ and ‘above detection limit’. In case the result is ‘below detection limit’ enter ‘0’ as result, in case it is ‘above detection limit’ enter ‘missing’ as value.
+
+In the CGMS (Continuous glucose monitoring system) we enter values that are retrieved via a CGM system. Please enter the values you find in the data download or in a medical report:
+
+•	Target range, also known as TIR (time in range) indicates blood glucose values between .3,9 and 10,0 mmol/l
+•	Hypoglycaemia indicates values below 3,9 mmol/l in %
+•	Hyperglycaemia indicates values above 10,0 mmol/l in %
+•	The avarage glucose in mmol/l (Ø SG, Gluc. capt. moyen) and the 
+•	Coefficient of variability in %.
+
+The question about severe hypoglycaemia can be answerd with ‘Yes’, ‘No’ or ‘missing’.
+
+.. note:: Note that severe hypoglycaemia refers to hypoglycaemic incidents in which the patient needed external help.
+
+Lastly we collect a C-peptide in pmol/L and the value is random, meaning not specifically a fasting or post-prandial value. In the detection choose between ‘below detection limit’, ‘measurable’ and ‘above detection limit’. In case the result is ‘below detection limit’ enter ‘0’ as result, in case it is ‘above detection limit’ enter ‘missing’ as value.
+
+Stimulation Lab
+-----------------------
+
+Please enter the stimulation method used in the test, choosing from:
+
+•	Stimulation method
+•	Glucagon
+•	Arginin
+•	Intravenous glucose tolerance test
+•	Oral glucose tolerance test or
+•	Mixed meal.
+
+In the stimulation lab we collect basal and stimulated values of the following variables:
+
+•	C-peptide (pmol/L) and
+•	Insulinemia (pmol/L).
+
+In the detection choose between ‘below detection limit’, ‘measurable’ and ‘above detection limit’. In case the result is ‘below detection limit’ enter ‘0’ as result, in case it is ‘above detection limit’ enter ‘missing’ as value.
+
 *In construction*
 
 5.4. Stop
