@@ -651,10 +651,47 @@ In the section of ‘Other illicit substance use’, please indicate all illegal
 4.7. Organ Follow-Up forms
 *****************************
 
+.. image:: OrganFUP_Forms1.png
+
+All events that occur after re-perfusion respectively from the first day after the last follow-up including the day of the actual follow-up are registered in the corresponding follow-up period.
+
+The toggles are only here to indicate wheter there was an event in the respective cathegory or not after the transplantation.
+
+.. image:: OrganFUP_Forms2.png
+
+To enter a specific event, click on the title of the event category. This will open the container in a new tab, where you will be able to enter the corresponding event(s).
+
 4.7.1 Kidney
 ===============
 
-*In construction*
+.. image:: KidneyFUP1.png
+
+Kidney Longitudinal Assessment
+-----------------------------------
+
+In the Kidney FUP form, as in the Patient FUP form, you find toggles that indicate if in the according FUP-period a specific test has been performed or an event has happened. Accordingly you can select between ‘Yes’, ‘No’ and ‘Missing’ (if you have no information regarding a performed test or the happening of en event). 
+The only specific entry you have to do in the Kidney FUP form is, if a screening for BKV infection has been performed.
+
+Screening for BKV infection
+--------------------------------
+
+When you select ‘Yes’ in the question if Screening for BKV infection has been performed, you’ll be able to enter the latest available BKV result.
+
+Be sure to select the right test-unit (IU/ml or copies/ml) in the test section.
+
+If the result of BKV is negative, select ‘below detection limit’ and  put 0 in as result. Otherwise select ‘measurable’ and fill in the quantity.
+
+.. image:: KidneyFUP2.png
+
+Minimal Data in Kidney Follow-up Form
+-----------------------------------------
+
+Minimal data that must be collected in the Kidney FUP form is:
+
+•	Graft loss
+•	Biopsy and rejection
+•	Kidney specific lab and
+•	Screening for BKV infection
 
 4.7.2. Heart
 ===============
