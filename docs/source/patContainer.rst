@@ -181,7 +181,7 @@ The post-tx lab is divided in ‘islets & pancreas specific lab’ and in ‘Sti
 .. image:: ContLab2.png
 
 Islets & Pancreas Specific Lab
----------------------------------------
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 We collect the proteinuria in mg/mmol. In the detection choose between ‘below detection limit’, ‘measurable’ and ‘above detection limit’. In case the result is ‘below detection limit’ enter ‘0’ as result, in case it is ‘above detection limit’ enter ‘missing’ as value.
 
@@ -200,7 +200,7 @@ The question about severe hypoglycaemia can be answerd with ‘Yes’, ‘No’ 
 Lastly we collect a C-peptide in pmol/L and the value is random, meaning not specifically a fasting or post-prandial value. In the detection choose between ‘below detection limit’, ‘measurable’ and ‘above detection limit’. In case the result is ‘below detection limit’ enter ‘0’ as result, in case it is ‘above detection limit’ enter ‘missing’ as value.
 
 Stimulation Lab
------------------------
+^^^^^^^^^^^^^^^^^^^^^
 
 Please enter the stimulation method used in the test, choosing from:
 
@@ -218,7 +218,87 @@ In the stimulation lab we collect basal and stimulated values of the following v
 
 In the detection choose between ‘below detection limit’, ‘measurable’ and ‘above detection limit’. In case the result is ‘below detection limit’ enter ‘0’ as result, in case it is ‘above detection limit’ enter ‘missing’ as value.
 
-*In construction*
+Liver
+----------
+
+.. image:: ContLab3.png
+
+In liver, we collect:
+
+•	A liver lab with different chemical and haematological measurements
+•	Tumor marker–in patients transplanted due to a liver cancer and 
+•	Virology.
+
+Liver lab
+^^^^^^^^^^^^^^^^^
+
+We collect the following test results:
+
+•	ALAT in IU/l
+•	Factor V in %
+•	INR
+•	Albumin in g/l and
+•	Sodium in mmol/l.
+
+Tumor Marker
+^^^^^^^^^^^^^^^^^
+
+.. note:: Tumor marker are only collected if the underlying disease for the transplantation is **liver cancer**.
+
+We collect the value of the Alpha-FP (AFP) in μg/l.
+
+In the Pre-transplant tumor marker section, you need to indicate the monitoring phase in which the Alpha-FP value has been determined, choosing from:
+
+•	Peak (Peak value can be at any given time before transplantation)
+•	Waitlisting (value at the time the patient was set on the waitlist) and the value
+•	Closest to transplantation.
+
+Please enter all available cathegories of values and enter them in two cathegories, if e.g. peak and wait listing value are the same.
+
+In the **Post-transplant tumor** marker section, we collect the most actual Alpha-FP value available.
+
+Virology
+^^^^^^^^^^^^
+
+Please enter the most actual HCV RNA and HBV DNA results. Please be careful to enter the HBV DNA in the fields with the correct unit of measurement (IU/ml or copies/ml).
+
+In the detection choose between ‘below detection limit’, ‘measurable’ and ‘above detection limit’. In case the result is ‘below detection limit’ enter ‘0’ as result, in case it is ‘above detection limit’ enter ‘missing’ as value.
+
+Lung
+---------------
+
+In the Lung specific tests, please enter a FEV1 in liter and % predicted as well as a FVC in liter and % predicted.
+
+In the Lung FEV1 Best Post enter the two FEV1 best values in the corresponding follow-up period:
+
+•	Enter the two best results with a minimum time span of 3 weeks between results.
+•	Only create a new FEV Best in later FUP`s if the results are higher than the previous best!
+•	However, it may occur that in the present FUP only one FEV is better than that of  the previous results – in this situation create a new “best” by taking the previous FEV best with the most recent high result – even if the previous best result is from another FUP period!
+
+Small bowel
+---------------
+
+We collect the following test results:
+
+•	Albumin in g/l
+•	ALAT in IU/l
+•	ASAT in IU/l
+•	Citrulin in μmol/l
+•	Conjugated bilirubin in μmol/l
+•	Factor V in %
+•	Fibrinogen in g/l
+•	INR
+•	Maximal D-xylose absorption in mmol/l (convert mg/dl to mmol/l by dividing the value by 15.38)
+•	Prealbumin in mg/l
+•	PT (prothrombin time) in % and the 
+•	Fasting triglycerides in mmol/l.
+
+Lab in minimal data
+-------------------------
+
+In minimal dataset, we only collect the value of the creatinine and the date the lab was performed. Please leave all other fields empty.
+
+The organ specific lab in minimal datasets is only collect it in kidney follow-ups.
 
 5.4. Stop
 *************
