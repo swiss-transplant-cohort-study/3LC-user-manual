@@ -303,4 +303,93 @@ The organ specific lab in minimal datasets is only collect it in kidney follow-u
 5.4. Stop
 *************
 
-*In construction*
+.. image:: ContStop1.png
+
+In the **Stop container** both *drop-out* and/or *death* can be entered.
+
+.. warning:: Before entering a stop, be sure to add a FUP to enter all available data from before the drop-out or death.
+
+.. note:: In case of death, if there is no official information after the last FUP attach a death form without a FUP form.
+
+The follow-up of a patient ends with the patient’s death or drop out. The follow-up does not end when a patient withdraws consent. By law, such patients have to be followed to collect the minimal data prospectively.
+
+It is crucial, whenever the follow-up for a certain patient ends, that the most appropriate date of end of follow-up is registered in the STCS system, i.e.:
+
+•	The date of death
+•	The date of dropout: If the exact date is unknown, use the date when the patient was last known to be alive (e.g. last contact with GP, last follow-up visit at the center, last consultation at emergency department etc.) and enter a respective note in the comment field.
+
+5.4.1. Drop-out
+======================
+
+Drop out is defined as a patient who does not show up for a scheduled follow-up visits or who does not respond at all to any attempts of contact in a time window of at least 6 months and after at least three written and three telephonic invitations to attend a follow-up visit.
+
+There can be a few different causes that lead to a drop-out. In 3LC, we have the option to choose between:
+
+•	Non-response to several invitations
+•	Too sick or handicapped to continue
+•	Patient wishes to discontinue (Study fatigue)
+•	Moved away, can not continue
+•	Other (enter reason in comment field)
+
+To add a drop-out, open the stop container and add a new field using the + button.
+
+.. image:: ContStop2.png
+
+Add all requested data in the appropriate fields and set the form to complete as soon as all the necessary information is entered. The accuracy of the date of drop-out can be indicated.
+
+.. image:: ContStop3.png
+
+A drop-out is visible in the patient overview.
+
+.. image:: ContStop4.png
+
+If a patient can be re-followed after a drop out, it is possible to stop the drop-out form and continue with the collection of data following the usual FUP-schedule. To do so, go to the stop-container and edit the (most recent) drop-out.
+
+.. image:: ContStop5.png
+
+There change ‘Back to STCS’ from ‘False’ to ‘True’ and enter the date the pateint was re-continued to be followed.
+
+.. image:: ContStop6.png
+
+The ‘Back to STCS’ will then be shown in the Patient Overview.
+
+.. image:: ContStop7.png
+
+5.4.2. Death
+==================
+
+The cause of death must be confirmed by a physician. Causes of death are adjudicated based on death certificates, autopsy reports or the last medical report. Indicate multiple entries with +.
+
+To add a death, open the stop container and add a new field using the + button.
+
+.. image:: ContStop8.png
+
+Add all requested data in the appropriate fields and set the form to complete as soon as all the necessary information is entered.
+The accuracy of the date of death can be indicated.
+
+.. image:: ContStop9.png
+
+5.4.2.1. ID as cause of death
+====================================
+
+If the (underlying) cause of death is an Infectious disease, be sure to check the box next to the ID leading to death to link the ID to the cause of death.
+
+.. image:: ContStop10.png
+
+ID as cause of death in minimal data
+----------------------------------------------
+
+As in minimal datasets no IDs are collected, you can not link an ID even if the/or one of the cause(s) of death or /one of the underlying cause(s) of death is/are an ID.
+
+The system asks you to fill out the ID form corresponding to the cause of death but you do not need to do that. Just save it as CRF status ‘complete’ when all the needed data have been entered.
+
+Also to be completed following a patient death
+-----------------------------------------------------
+
+Please stop all drugs and non-pharmacological tratments in case a patient dies. Indicate the date accuracy as you always do in the treatment section.
+
+Death after Graft loss in Kidney, Pancreas and Islets Transplantation
+-------------------------------------------------------------------------------
+
+In case of kidney, pancreas and/or islets transplantation, after a graft loss (glo no active organ), if you get the information that the patient died (e.g. from the dialysis register or a doctor), enter death with date and cause unknown in 3LC if there is no info available regarding the death.
+
