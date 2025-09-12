@@ -4,19 +4,23 @@
 2.0. Test 3LC vs Prod 3LC
 *******************************
 
-Please note that the left side menu bar on the test server (with no real patient data) are purple, while this is black on 3LC PROD (with real patient data).
+The Test 3LC server has dummy data and should be used for exmaple, when learning how to work with the system or when testing the system.
+
+The Prod 3LC has the real patient data.
+
+Please note that there are colour design differences between the Test and Prod: the left side menu bar on the test server (with no real patient data) are purple, while this is black on 3LC PROD (with real patient data).
 
 .. image:: Sidebyside.png
   :width: 350
 
-Note that all the print screens below refer to the 3LC test server. 
+.. note:: **Note that all the print screens below refer to the 3LC test server.** 
 
 2.1. User roles
 *******************
 
 The project has the following user roles:
 
-* **Ldm user (local study nurse user)**: This is the main user of the STCS system. This user is an employee of a given local transplant (TX) center (BE, CHUV, HUG, SG, USB, USZ). The ldm user has edit rights for all patients of the TX center and of all patients that are shared with his/her center.
+* **Ldm user**: This is the role of the local study nurse user, who is the main user of the STCS system. This user is an employee of a given local transplant (TX) center (BE, CHUV, HUG, SG, USB, USZ). The ldm user has edit rights for all patients of the TX center and of all patients that are shared with his/her center.
 
 * **HLA_Lab**: This user has writing rights for all patients of the TX center and of all patients that are shared with his/her center only on specific forms: HLA patient, HLA donor, Transplantation CDC (this to allow entering anti HLA and Cross-match).
 
