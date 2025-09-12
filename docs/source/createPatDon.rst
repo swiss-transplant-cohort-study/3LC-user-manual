@@ -17,7 +17,7 @@ More details are provided in the sections below.
 3.1.1. Patient Enrollment
 ===============================
 
-Please select **Patient Enrollment** to register a patient who has enrolled in the STCS study already (i.e. the patient has already received a transplation)
+Please select **Patient Enrollment** to register a patient who has enrolled in the STCS study already (i.e. the patient has already received a transplation).
 
 .. note:: The transplantation is the event that triggers the patient enrollment. 
 
@@ -26,7 +26,7 @@ Please select **Patient Enrollment** to register a patient who has enrolled in t
 
 Please select **Patient Registration** to register a patient who has not yet received a transplant.
 
-.. note:: The Ethics Committee has approved the registration of waitlisted (not yet transplanted) patients in the database. The recorded information includes current consent status. However, no collection of clinical/research data is allowed before transplantation. Proper enrollment in the Cohort only starts at the time of transplantation.
+.. note:: The Ethics Committee has approved the registration of waitlisted (not yet transplanted) patients in the database. The recorded information includes current consent status. However, no collection of clinical/research data is allowed before transplantation. **Proper enrollment in the Cohort only starts at the time of transplantation**.
 
 .. note:: If the patient dies while on the waiting list, this information should not be entered in the system as it is a clinical data. The patient should be left “open” in waiting list.
 
@@ -41,7 +41,12 @@ The administrative data for a patient needs to be introduced, either when a pati
 
 This is the information which must be introduced:
 
-* Initials: use the intial of each name in uppercase, with "-" as separator between the First name initial/s and Last name initial/s. Examples: Georgios Kyriakos Panayiotou -> GK-P, Rosa Dolores Alverío Marcano -> RD-AM. When family names include particles are treated as a further Family name: e.g.Charles De Gaulle -> C-DG, Miguel De Oliveira -> M-DO.
+* Initials: use the intial of each name in uppercase, with "-" as separator between the First name initial/s and Last name initial/s. Examples:
+
+  * Georgios Kyriakos Panayiotou -> GK-P,
+  * Rosa Dolores Alverío Marcano -> RD-AM
+  * Charles De Gaulle -> C-DG, Miguel De Oliveira -> M-DO: When family names include particles are treated as a further Family name.
+
 * Gender at birth
 * Date of birth
 * Blood group
@@ -61,7 +66,7 @@ Once this is filled in, please proceed by clicking "Save and add Cons". A STSC P
 Register a new donor
 ========================
 
-To register a new Donor go to: *Create and Search* > *Donor enrollment*
+To register a new Donor go to: *Create and Search* > *Donor enrollment*:
 
 .. image:: Donor.png
 
@@ -97,12 +102,14 @@ Here are the different types of donors which are possible:
 3.4. Create consent
 ***********************
 
-The LDM needs to make sure that each newly listed patient is appropriately informed about the goals of the STCS and that each listed patient in Switzerland receives an invitation letter to join the STCS, an informed consent form, and the pre-transplant PSQ. The Local Transplant Coordinator (LTC) has to inform the LDM within 7 days if a new patient is added to the transplant waiting list.
+The LDM needs to make sure that each newly listed patient is appropriately informed about the goals of the STCS and that each listed patient in Switzerland receives an invitation letter to join the STCS, an informed consent form, and the pre-transplant PSQ.
+
+The Local Transplant Coordinator (LTC) has to inform the LDM within 7 days if a new patient is added to the transplant waiting list.
 
 3.4.1. Consent management
 ==================================
 
-The consent status for a STCS patient needs to be provided. Depending on the age of the patient, the patient might need to re-consent.
+The consent status for a STCS patient needs to be provided. Depending on the age of the patient, the patient might need to **re-consent**.
 
 A re-consent might need to happen due to a variety of situations, such as: patient is under 18 at the time of the transplantation, patient was not able to give consent at the time of transplantion, etc.
 
@@ -189,16 +196,16 @@ The following patient information and informed consent versions exist. Please se
 3.4.5. How to manage attempts to obtain an Informed Consent?
 ================================================================
 
-Before transplantation: Three attempts before transplantation (these attempts can be done in writing or oral and must be documented in the IT system).
+*Before transplantation*: three attempts before transplantation (these attempts can be done in writing or oral and must be documented in the IT system).
 
-After transplantation, if the informed consent is still unkown, one other attempt should be done up to 6-months. If still unknown and for specific cases, one attempt between 6-months follow-up and 1-year follow-up should be tried.
+*After transplantation*: if the informed consent is still unkown, one other attempt should be done up to 6-months. If still unknown and for specific cases, one attempt between 6-months follow-up and 1-year follow-up should be tried.
 
 .. _ReCap:
 
 3.4.6. Consent Withdrawal information
 =============================================
 
-An STCS withdrawal form exists. Patients wishing to withdraw their initial consent given have to fill in this form and let it sign.The form is stored together with the inititial signed informed consent.
+An STCS withdrawal form exists. Patients wishing to withdraw their initial consent given have to fill in this form and let it sign. The form is stored together with the inititial signed informed consent.
 
 If a consent is withdrawn, the patient furthermore needs to tell us if we can use his already drawn samples or if we can not further use and need to destroy them. If the patient chooses the option to destroy them, the lab has to be informed about the need to destroy the patients samples and the destruction date needs to be entered in 3LC in the Consent withdrawl form. 
 
@@ -221,7 +228,7 @@ Certain patients leave the requests to consent unanswered during the waitlist pe
 
 .. image:: consent_tx.png
 
-In case of consent “Absent (awaiting)” at the time of transplantation, the Ethics Committee has approved the collection of full data from the time of transplantation. Therefore, all data can be collected. This includes patient history, Baseline data, transplantation data and any data in between transplantation and the time the consent gets signed. If the patient finally gives consent, all data collected will be kept and can be used for research. Samples and PSQ can be collected as soon as the consent is retrieved (see CASE n°1).
+In case of consent “Absent (awaiting)” at the time of transplantation, the Ethics Committee has approved the collection of full data from the time of transplantation. Therefore, **all data can be collected**. This includes patient history, Baseline data, transplantation data and any data in between transplantation and the time the consent gets signed. If the patient finally gives consent, all data collected will be kept and can be used for research. Samples and PSQ can be collected as soon as the consent is retrieved (see CASE n°1).
 
 .. image:: consent_absent_tx1.png
 
@@ -233,7 +240,9 @@ If no consent is retrieved after transplantation, data collected will be kept in
 =======================================================================
 
 Patients incapable to give written informed consent for medical reasons before enrolment are retrospectively consented as soon as possible after transplantation (please use the adult retrospective consent version). In these situations no independent physician is consulted because the STCS is a purely observational study.
+
 If there is no informed consent at timepoint of transplantation, no samples are collected!
+
 If the patient remains incapable of judgement, the legal representative or next of kin will be contacted, as long as there is no documented refusal, no statement or corresponding negative behavior towards the proposed research action (please use the consent version for relatives).
 
 If the patient refuses to consent retrospectively or if the consent remains permanently unknown without any confirmation of the patient’s death, only the legally required minimal data set is collected.
@@ -368,7 +377,7 @@ Sample/s destruction date is communicated from the labs and must be entered in t
 3.4.15. How to collect data in case of "Consent present" after "Consent Absent (ReCap)"?
 ================================================================================================================================
 
-In case of a consent given following a retrospective capture (ReCap) please collect full data in the new forms created and the history in all the appropriate containers
+In case of a consent given following a retrospective capture (ReCap) please collect full data in the new forms created and the history in all the appropriate containers.
 
 3.4.16. More info about consent
 ====================================
