@@ -600,7 +600,8 @@ Minimal data that must be collected in the Donor form is:	**Donor HLA**.
 
 .. iamge:: BL7.png
 
-All events that occour after re-perfusion respectively from the first day after the last follow-up including the day of the actual follow-up are registered in the corresponding follow-up period.
+FUP 6 months: Follow-up period collects events after re-perfusion until and including date of follow-up six months.
+Every other FUP: Follow-up period collects events starting the day after the last follow-up until and including date of actual follow-up.
 
 The toggles are only here to indicate wheter there was an event in the respective cathegory or not before the transplantation.
 
