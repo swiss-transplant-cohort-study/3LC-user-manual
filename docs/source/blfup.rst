@@ -393,12 +393,7 @@ Please enter Primary non-function. How to enter a PNF in 3LC and Biopsies after 
 Minimal Data in Islets Baseline
 ----------------------------------
 
-Minimal data that must be collected in the Kidney baseline is:
-
-*	Type of kidney transplantation and
-* Biopsy at reperfusion.
-
-Please fill in the biopsy information in the corresponding organ container.
+In islets baselines no minimal data are collected. Simply put the form on minimal and save it.
 
 4.3.4. Liver BL
 ===================
