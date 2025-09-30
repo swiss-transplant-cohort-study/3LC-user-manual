@@ -786,7 +786,21 @@ Minimal data that must be collected in the Heart FUP form is:
 4.7.8. Graft loss
 =======================
 
-*In construction*
+A graft loss corresponds to the stop of data collection due to organ failure (e.g. after kidney-TX).
+
+The assessment date is the date of ‘loss of organ function’ (in kidney usually the start date of dialysis) or the date of the explantation of the graft. Choose the event which first occoured.
+
+Please attach a regular FUP form bevor you stopp the organ.
+
+A graft loss has both to be entered first in the follow-up form and then in the organ container.
+
+.. image:: GLoss1.png
+
+.. image:: GLoss2.png
+
+As soon as the graft loss is entered in the organ container, the follow-up form will be marked in red.
+
+In case of a re-transplantation, the graft loss is automatically set as ‘cause leading to transplantation’ in the organ form and doesn’t need to be confirmed.
 
 4.8. Samples
 ********************
