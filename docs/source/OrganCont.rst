@@ -217,6 +217,130 @@ In case of a re-transplantation the graft loss with its underlying disease will 
 6.2. Heart
 *************************
 
+In the heart container there are three sections:
+
+•	Underlying disease (leading to transplantation)
+•	Biopsy & Rejection and
+•	Allograft morbidities.
+
+6.2.1. Underlying disease
+===================================
+
+In this section, we select and confirm the condition leading to transplantation. To do so, we first need to enter this condition or disease in the ‘Patient Diagnosis List’ as ‘Condition Leading to Tpx’ or in an other category. For example ‘HFpEF’ can be entered or as ‘Condition Leading to Tpx’ or as ‘Cardio-pulmonary’. It will appear in both sections, regardless of where it has been entered.
+
+As conditions or diseases leading to transplantation in heart we select from the following:
+
+.. image:: OrgContHeart1.png
+
+All entered diagnosis will appear in the section ‘Underlying Disease’ and you must confirm the condition leading to transplantation.
+
+.. image:: OrgContHeart2.png
+
+The following cathegories only need confirmation:
+
+•	Amyloidosis
+•	Arrhythmogenic heart disease, non ARVD
+•	Arrhythmogenic right ventricular dysplasia (ARVD)
+•	Congenital heart disease
+•	Coronary heart diseae/Ischemic cardiomyopathy
+•	Coronary heart disease
+•	Hypertrophic cardiomyopathy
+•	Myocarditis
+•	Non-ischemic cardiomyopathy
+•	Restrictive cardiomyopathy
+•	Sarcoidosis
+•	Treated hypertension
+•	Cardiac valvular disease and 
+•	Other conditions
+
+The dilated cardiomyopathy asks you to choose the type of dilated cardiomyopathy from:
+
+•	Genetic
+•	Idiopathic
+•	Myocarditis
+•	Toxic and
+•	Other.
+
+HFpEF asks you to choose the type of HFpEF from:
+
+•	Amyloidosis and 
+•	Restrictive cardiomyopathy.
+
+6.2.2. Biopsy & Rejection
+=============================
+
+In this section we enter biopsies and rejections. We distinguish between ‘Time zero and reperfuion biopsies’ and ‘Post-transplant biopsies’.
+
+.. image:: OrgContHeart3.png
+
+Time zero and reperfusion biopsy
+--------------------------------------
+
+In the case of a **time zero** or **reperfusion biopsy** we enter the:
+
+- Date of the biopsy
+- Biopsy ID
+- Type of biopsy
+  •	Pre-implantation (allograft)
+  •	At reperfusion or
+  •	Native organ
+
+If the biopsy lists one of the following diagnosis, please enter them in the ‘Allograft morbidities‘ section as ‘allograft disease’:
+
+•	Recurrence of initial cardiac disease 
+•	Infection other than surgical site
+•	CNI-induced toxicity or
+•	Other (specifying a major disease of the allograft in the comment section).
+
+Post-Transplant biopsy and rejection
+----------------------------------------
+
+In the case of a biopsy performed after transplantation, we enter the date of the:
+
+- Biopsy
+- Biopsy ID
+- Type of biopsy:
+
+  •	Diagnostic biopsy
+  •	Protocol biopsy 
+  •	Biopsy of associated organ in combined tpx or
+  •	other
+
+- ISHLT 1990 and/or ISHLT 2004 score
+- AMR grading
+- Rejection.
+
+In the ‘Rejection’ part, we choose between:
+
+•	Yes, biopsy proven
+•	Yes, clinically suspected or
+•	No.
+
+When you select a ‘Yes’-option in the **rejection** field, you can choose the regimen(s) to treat this rejection in the section that appears below.
+Select all that apply from the following list and do not forget to enter the treatment in the ‘Treatment’ section as drug prescription or non-pharmacological treatment:
+
+•	No treatment of rejection
+•	ATG
+•	ATGAM
+•	Campath
+•	IG iv
+•	Metyl-prednisone iv
+•	OKT3
+•	Photopheresis
+•	Plasmapheresis/PE
+•	Prednisone po
+•	Rituximab
+•	Thymoglobulin
+•	Other (Specifying the treatment in the comment field)
+
+If the biopsy lists one of the following diagnosis, please enter them in the ‘Allograft morbidities‘ section as ‘allograft disease’:
+
+•	Recurrence of initial cardiac disease 
+•	Infection other than surgical site
+•	CNI-induced toxicity or
+•	Other (specifying a major disease of the allograft in the comment section).
+
+
 *In construction*
 
 6.3. Islets
