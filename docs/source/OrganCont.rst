@@ -385,14 +385,122 @@ In the cardiac interventions we collect the date of the intervention and the typ
 
 Moreover you have to indicate if the intervention is related to a complication (yes or no) and if yes, select the complication that lead to the intervention from the shown drop-down list.
 
+.. image:: OrgContHeart5.png
 
+Graft loss
+--------------
 
-*In construction*
+A graft loss is the loss of function of the heart. It implies the end of data collection of this specific organ and a possible re-transplantation.
+
+To enter a graft loss in the organ container, first set the toggle “graft loss” in the heart FUP to yes. Only after that, you will be able to access the ‘graftloss’ section in the kidney container. 
+
+.. image:: OrgContHeart6.png
+
+If the heart lost its function, enter the date of graft loss and the cause of graft loss, selecting from:
+
+•	Arryhtmia
+•	Immunological
+•	Primary graft dysfunction
+•	Recurrence of initial cardiac disease
+•	Right heart failure
+•	Transplant vasculopathy (CAV) with acute ischemia
+•	Transplant vasculopathy (CAV) with chronic ischemia
+•	Cause unknown or
+•	Other causes.
+
+In case of a re-transplantation the graft loss with its underlying disease will be shown per default as cause leading to (re-) TX.
 
 6.3. Islets
 *************************
 
-*In construction*
+In the islets container there are three sections:
+
+•	Underlying disease (leading to transplantation)
+•	Reperfusion
+•	Biopsy & Rejection and
+•	Allograft morbidities
+
+6.3.1. Underlying disease
+===============================
+
+In this section, we select and confirm the condition leading to transplantation. To do so, we first need to enter this condition or disease in the ‘Patient Diagnosis List’ as ‘Condition Leading to Tpx’ or in an other cathegory. For example ‘Cystic fibrosis (CF)’ can be entered or as ‘Condition Leading to Tpx’ or as ‘metabolic’. It will appear in both sections, regardless of where it has been entered.
+
+As conditions or diseases leading to transplantation in islets we select from the following:
+
+.. image:: OrgContIsl1.png
+
+Diabetes type 1 is not on the list, but the main condition leding to islets transplantation. It can be chosen in ‘Metabolic’ or ‘Condition leading to Tpx’ never the less.
+
+In Islets all the diagnosis only need a confirmation without the adding of further information.
+
+6.3.2. Reperfusion
+==========================
+
+A reperfusions differs from a re-transplantation of islets. In Zurich, the cutoff for differentiating them is the value of the C-peptide. We create a re-transplantation with a C-peptide <100pmol/l and a reperfusion if the C-peptide is >100pmol/l. The final decision of definition is a matter for the doctors. Please ask your ohn physician if the transplanted islets are considered a reperfusion or a re-transplantation. In case of a re-transplantation, please do not forget to enter a graftloss prior to the re-transplantation.
+Also in Zurich, per definition the cause of graft loss is always to be entered as ‘Cause of graft loss: other «either rejection or recurrence of autoimmunity».
+
+After entering all the relevant information, a baseline is created and needs to be completed as any other baseline. For the relevant information go to the respective chapters in this manual.
+
+.. image:: OrgContIsl2.png
+
+The section ‘Reperfusion BL’ corresponds to the ‘Islets BL’.
+
+.. image:: OrgContIsl3.png
+
+Multiple Reperfusions can be added by choosing the ‘+’ on the right side. Be careful to enter the reperfusion in the corresponding islets transplantation.
+
+The reperfusion, even if technically corresponding to a transplantation, will not be shown in the patient overview. It is however, visible in the patient Admin under ‘Transplantation’ and in the Islets container in ‘Reperfusion’.
+
+.. image:: OrgContIsl4.png
+
+.. warning:: Only collect Samples prior to re-perfusion (i.e. “0” Sampling ) (SOP 03.09.2015)
+
+6.3.3. Rejection
+======================
+
+In this section we enter rejections in islet transplantations. Other than in solid organs, there is no option to perform biopsies on islets. Therefore rejections are collected based on clinical symptoms or suspected rejection based on a biopsy result of a co-transplanted organ, usually kidney.
+
+.. image:: OrgContIsl5.png
+
+**The section is missleadingly called ‘Post-transplant biopsy’, but as explained, no biopsy has to be entered.**
+
+We only collect the date of diagnosis of rejection, the type of rejection (Selecting from ‘Yes, clinically suspected’ or ‘Suspicion of islets rejection based on kidney biopsy’) and all the regimen(s) used to treat the rejection in the ‘Treatment’ section.
+
+Clinically suspected rejection, not biopsy proven
+-----------------------------------------------------------
+
+In case of a clinically suspected rejection, that is not biopsy proven, enter the date of the suspected rejection in the date field of the Post-Transplant biopsy (even if the name is missleading).
+As ‘Rejection’ type select ‘Yes, clinically suspected’ and all the regimen(s) used to treat the rejection in the ‘Treatment’ section.
+
+6.3.4. Allograft morbidities
+================================
+
+Although called ‘allograft morbidities’, this section collects complications and a possible loss of the organ.
+
+Complication
+-----------------------------
+
+Possible islets-transplant related complications are:
+
+•	Bleeding
+•	Portal vein thrombosis and
+•	Other.
+
+Do not enter ‘death’ as a complication itself. You might collect complications leading to death, but the **death itself has to be entered in the stop form** with the immediate and underlying cause of death.
+In islets we do not collect any tx-related interventions. Therefore no link has to be created between a complication and an intervention.
+
+Graft loss
+-------------------
+
+A graft loss is the loss of function of the islets. It implies the end of data collection of this specific organ but only of the other, patient specific data, PSQ and possible sample, if no other organ is actively followed in the system!
+
+To enter a graft loss in the organ container, first set the toggle “graft loss” in the islets FUP to yes. Only after that, you will be able to access the ‘graftloss’ section in the islets container. 
+
+.. image:: OrgContIsl6.png
+
+If the islets lost their function, enter the date of graft loss and select if it was a primary non-function or not. No case of graft loss has to be selected.
+
+In case of a re-transplantation the graft loss with its underlying disease will be shown per default as cause leading to (re-) TX.
 
 6.4. Liver
 *************************
