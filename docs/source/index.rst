@@ -50,7 +50,15 @@ This section provides information about the different types of users and respect
 
    patContainer
 
-6. How to report an issue
+6. Organ containers
+**************************
+
+.. toctree::
+   :maxdepth: 1
+
+   OrganCont
+
+How to report an issue
 ******************************
 
 .. toctree::
