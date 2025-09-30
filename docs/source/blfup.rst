@@ -761,7 +761,31 @@ Minimal data that must be collected in the Heart FUP form is:
 4.7.3. Islets
 ===============
 
-*In construction*
+.. image:: IslFUP1.png
+
+Islets Longitudinal Assessment
+----------------------------------
+
+In the Islets FUP form, as in the Patient FUP form, you find toggles that indicate if in the according FUP-period a specific test has been performed or an event has happened. Accordingly you can select between ‘Yes’, ‘No’ and ‘Missing’ (if you have no information regarding a performed test or the happening of en event).
+
+Please enter all tests and events in the according lab and/or organ container.
+The only specific entry you have to do in the Islets FUP form is about the use of insulin.
+
+Use of Insulin
+----------------------
+
+When you select ‘Yes’ in the question if Insulin has been taken, you’ll be able to enter the average daily insulin requirement during the previous week (Units/d): The requirement is the total of basal and bolus insulin (including corrections/auto-corrections if a patient uses an insulin pump) applied per day. As this quantity may vary from day to day, enter the avarage (total of 7 days divided by 7). 
+
+.. image:: IslFUP2.png
+
+Minimal Data in Islets Follow-up Form
+--------------------------------------------
+
+Minimal data that must be collected in the Islets FUP form is:
+
+•	Reperfusion 
+•	Graft loss and
+•	Biopsy and rejection.
 
 4.7.4. Liver
 ===============
