@@ -58,6 +58,14 @@ This section provides information about the different types of users and respect
 
    OrganCont
 
+6. List of Diagnosis to enter in the STCS
+***************************************************
+
+.. toctree::
+   :maxdepth: 1
+
+   ListDiag
+
 How to report an issue
 ******************************
 
