@@ -340,6 +340,52 @@ If the biopsy lists one of the following diagnosis, please enter them in the ‘
 •	CNI-induced toxicity or
 •	Other (specifying a major disease of the allograft in the comment section).
 
+Clinically suspected rejection, not biopsy proven
+------------------------------------------------------------
+
+In case of a clinically suspected rejection, that is not biopsy proven, enter the date of the suspected rejection in the date field of the Post-Transplant biopsy (even if the name is missleading).
+In ‘Biopsy ID’ and ‘Type of biopsy’ chose ‘missing’ and do the same for ‘ISHLT 1990’, ‘ISHLT 2004’ and ‘AMR grading’.
+In ‘Rejection select ‘Clinically suspected, not biopsy proven’ and then enter all the applied treatment in the ‘Treatment’ section that pops up. Lately save the whole section.
+
+.. image:: OrgContHeart4.png
+
+6.2.3.Allograft morbidities
+------------------------------
+
+Although called ‘allograft morbidities’, this section collects complications, diseases, interventions and a possible loss of the organ.
+
+Complication
+--------------
+
+In the complication section, we collect major complications of the heart allograft with the respective date of diagnosis. If the exact date is unknown, you can leave a comment in the comment section. The following complications are collected:
+
+•	Air embolism
+•	Biopsy-related complication
+•	CVI, Chronic venous insufficiency
+•	Diaphragma paralysis
+•	Hemorrhagic complication
+•	Lymphocele
+•	Surgical site-infection and
+•	Other.
+
+The biopsy-related complication implies the question if there was biopsy-related tricuspid regurgitation complication yes or no.
+
+.. warning:: Do not enter ‘death’ as a complication itself. You might collect complications leading to death, but the death itself has to be eintered in the stop form with the immediate and underlying cause of death.
+
+Interventions
+--------------------
+
+In the cardiac interventions we collect the date of the intervention and the type of intervantion. If the exact date is unknown, you can leave a comment in the comment section. The following interventions are collected:
+
+•	Valvular surgery
+•	Bypass surgery
+•	Percutaneous coronary intervention
+•	Device implantation and
+•	Other
+
+Moreover you have to indicate if the intervention is related to a complication (yes or no) and if yes, select the complication that lead to the intervention from the shown drop-down list.
+
+
 
 *In construction*
 
