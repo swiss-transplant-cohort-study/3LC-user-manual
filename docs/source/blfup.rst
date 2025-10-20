@@ -285,6 +285,8 @@ When choosing ‘Yes’, select all that apply from the following list:
 *	Ventricular Assist Device (VAD) (LVAD, BerlinHeart, Excor…)
 *	Other
 
+.. note: In case of a **VAD**, you need to indicate since how many days the VAD is *in situ* (or for how many days it has been ‘actively working’). This especially in case of the switch to an ECMP on the ICU. **ECMO does not count as VAD**.
+
 \d) **Pulmonary vascular resistance (wood units)**: Enter the last available measurement prior to transplantation or ‘Missing’ (in case you have no PVR-value available prior to transplantation).
 
 .. note:: PVR is commonly expressed in Wood units (mmHg·min/L) or dynes·s/cm^-5. 1 Wood unit corresponds to 80 dyn*sec*cm-5. 
@@ -515,7 +517,136 @@ Please fill in the biopsy information in the corresponding organ container.
 4.3.5. Lung BL
 ======================
 
-*In construction*
+The underlying disease for a lung transplantation is entered in the ‘Patient Diagnosis List’ in the ‘Condition Leading to Tpx’ and confirmed in the organ container right above the RS-container of the according transplantation.
+
+Please follow the instructions in chapter 5 on how to enter the required information.
+
+Lung baseline and peritransplant period/ Pre-transplant history and assessments
+-----------------------------------------------------------------------------------
+
+.. image:: LungBL1.png
+
+\a) **Pre-transplant thoracic surgery**: Choose between ‘Yes’, ‘No’ or ‘Missing’ (in case you have no information regarding a pre-transplant thoracic surgery). Consider everything as surgery that has been done under anesthesia/in the OR.
+Everything applies, except pure chest wall interventions. That means all interventions on the lungs and heart. A pleural drainage does not qualify.
+
+\b)	**Sixmintest performed**: Choose between ‘Yes’, ‘No’ or ‘Missing’ (in case you have no information regarding a pre-transplant six minutes walking test). 
+When selecting ‘Yes’, please fill in the date of the performed walking test and the distance completed in the test accordingly.
+
+\c)	**Right heart catheterization**: Choose between ‘Yes’, ‘No’ or ‘Missing’ (in case you have no information regarding a pre-transplant right heart catheterization). 
+When selecting ‘Yes’, please fill in the date of the heart catheterization, the Pulmonary artery mean pressure (mPAP), the Pulmonary vascular resistance (in wood units) and the Systolic pulmonary pressure (sPAP) accordingly. Please use the most current value.
+
+.. image:: LungBL2.png
+
+\d) **Performed echo**: Choose between ‘Yes’, ‘No’ or ‘Missing’ (in case you have no information regarding a pre-transplant echocardiography). 
+When selecting ‘Yes’, please fill in the date of the performed echo and the measured LVEF in the test accordingly. Use the most recent echo before transplantation.
+
+.. image:: LungBL3.png
+
+Lung transplantation:
+------------------------
+
+.. image:: LungBL4.png
+
+\a)	**Type of lung transplantation**: Choose between ‘Left lung’, ‘Right lung’, Double lung’ or ‘Missing’ (in case you have no information regarding the transplanted part of the lung). 
+
+\b)	**Lobar transplant**: Choose between ‘Yes’, ‘No’ or ‘Missing’ (in case you have no information regarding the exact size of the transplanted organ). 
+Lobar lung transplant involves implanting a single lobe from each lung instead of the usual full-lung implant, thus ameliorating the size difference between donor and recipient.
+
+\c)	**Graft size reduction**: Choose between ‘Yes’, ‘No’ or ‘Missing’ (in case you have no information regarding the exact size of the transplanted organ). When selecting yes, please select all transplanted lobes from the list.
+In lung transplantation, graft size reduction techniques like lobectomy and peripheral segmental resection aim to address size mismatches between donor lungs and recipients.
+
+.. image:: LungBL5.png
+
+\d)	**Ex Vivo Lung Perfusion, EVLP**: Choose between ‘Yes’, ‘No’ or ‘Missing’ (in case you have no information the perfusion of the lung allograft before transplantation).EVLP 
+Ex vivo lung perfusion (EVLP) is a technology used to assess and rehabilitate donor lungs outside the body prior to transplantation. The lungs are connected to a device that mimics the body in order to supply them with nutrients and oxygen and assess their function. The aim is to improve donor lungs and make lungs that would otherwise be considered unsuitable for transplantation, thereby increasing the number of transplants.
+
+\e)	**Biopsy at reperfusion**: Choose between ‘Yes’, ‘No’ or ‘Missing’ (in case you have no information regrding a biopsy at timepoint of transplantation)
+When selecting yes  please enter the corresponding biopsy in the lung organ container/Biopsy&Rejection under the cathegory “Time-zero and reperfusion biopsy”. In the ‘Type of biopsy’ cathegory please select ‘Pre-implantation (allograft)’ or ‘At reperfusion’ depending on if the biopsy has been taken pre- or post-implantation in the recipient.
+
+(Lung) Preservation time
+-----------------------------
+
+In the preservation times(s) of a lung transplantation the requested data differ depending on wether the donor is a DBD or a DCD donor. All information should be found in the surgery report or via TPX-coordination in your hospital.
+
+In DBD donors we indicate the following timepoints in the format DD/MM/YYYY HH:MM (e.g. 01/03/2020 09:30):
+
+\a)	DBD intubation date and time
+
+\b)	DBD clamp time/start of pulmonary flush
+
+\c)	DBD reperfusion first lung
+
+\d)	DBD Reperfusion second lung This field only appears, if ‘double lung’ has been choosen in ‘type of lung transplantation’. Otherwise only the DBD reperfusion first lung appears.
+
+.. image:: LungBL6.png
+
+Primary graft dysfunction and primary non function in Lung
+----------------------------------------------------------------
+
+Primary graft dysfunction (PGD) refers to the syndrome of acute lung injury early after lung transplantation (LTx). It is calculated with the following scheme:
+
+.. list-table::
+    :widths: 10 50 50
+    :header-rows: 1
+    :stub-columns: 1
+
+    * - List table
+      - Grade
+      - Grade	Pulmonary edema on chest X-ray	Pao2/Fio2 ratio
+      - Pao2/Fio2 ratio
+    * - Stub Row 1
+      - PGD grade 0
+      - No
+      - > 300
+    * - Stub Row 2
+      - PGD grade 1
+      - Yes
+      - > 300
+    * - Stub Row 3
+      - PGD grade 2
+      - Yes
+      - 200 to 300
+    * - Stub Row 3
+      - PGD grade 3
+      - Yes
+      - < 200
+
+\a)	Grading of primary graft dysfunction (PGD) severity at 24h: Select from Grade 0, grade 1, grade 2, grade 3 or missing (in case you have no values to calculate the PGD (see below)).
+
+\b)	Grading of primary graft dysfunction (PGD) severity at 48h: Select from Grade 0, grade 1, grade 2, grade 3 or missing (in case you have no values to calculate the PGD (see below)).
+
+\c)	Grading of primary graft dysfunction (PGD) severity at 72h: Select from Grade 0, grade 1, grade 2, grade 3 or missing (in case you have no values to calculate the PGD (see above)).
+
+Primary non-function
+--------------------------
+
+**Primary non-function (PNF) definition**: The transplanted organ never started working (properly)
+
+**Date for PNF in 3LC**: Date of diagnosis of PNF by a physician. This might be days or weeks after transplantation. 
+
+.. warning:: If the date of PNF is the same as the transplantation date, please set the date of the FUP and the PNF on the day after the transplantation and open a ticket and ask the Admin to change it to the transplantation date.
+
+How to enter a PNF in 3LC
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+1)	First set the toggle “graft loss”/ “End of transplant episode” in the FUP to yes.
+2)	In allograft morbidities enter a graft-loss and enter the date of the graft loss.
+3)	As cause of graft loss chose primary non-function and then in the drop-down list that appears enter the cause of the PNF.
+
+Biopsies after a PNF or a graft loss
+--------------------------------------------
+
+Biopsies taken from the transplanted graft up to 6 weeks after a global event such as a primary non function or a graft loss should be entered in the system. 
+Please add in the comment field that the date of the biopsy is after the organ loss.
+
+Minimal Data in Lung Baseline
+------------------------------------
+
+Minimal data that must be collected in the Kidney baseline is:
+•	Type of lung transplantation
+•	Biopsy at reperfusion and
+•	Primary graft dysfunction.
+Please fill in the biopsy information in the corresponding organ container.
 
 4.3.6. Pancreas BL
 =========================
