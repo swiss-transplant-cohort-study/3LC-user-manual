@@ -260,9 +260,7 @@ Heart baseline and peritransplant period/Pre-transplant history and assessments
 
 \a) **Urgent listing**: Choose between ‘Yes’, ‘No’ or ‘Missing’ (in case you have no information regarding the listing status for this transplantation).
 
-\b) **History of cardiac surgery**: Choose between ‘Yes’, ‘No’ or ‘Missing’ (in case you have no information regarding cardiac surgery prior to transplantation).
-
-When choosing ‘Yes’, select all that apply from the following list:
+\b) **History of cardiac surgery**: Choose between ‘Yes’, ‘No’ or ‘Missing’ (in case you have no information regarding cardiac surgery prior to transplantation). When choosing ‘Yes’, select all that apply from the following list:
 
 **Type of cardiac surgery**:
 
@@ -272,9 +270,7 @@ When choosing ‘Yes’, select all that apply from the following list:
 *	Surgery for congenital heart disease
 *	Other
 
-\c) **History of device implantation**: Choose between ‘Yes’, ‘No’ or ‘Missing’ (in case you have no information regarding cardiac surgery prior to transplantation).
-
-When choosing ‘Yes’, select all that apply from the following list:
+\c) **History of device implantation**: Choose between ‘Yes’, ‘No’ or ‘Missing’ (in case you have no information regarding cardiac surgery prior to transplantation). When choosing ‘Yes’, select all that apply from the following list:
 
 **Type of device**:
 
@@ -285,7 +281,7 @@ When choosing ‘Yes’, select all that apply from the following list:
 *	Ventricular Assist Device (VAD) (LVAD, BerlinHeart, Excor…)
 *	Other
 
-.. note: In case of a **VAD**, you need to indicate since how many days the VAD is *in situ* (or for how many days it has been ‘actively working’). This especially in case of the switch to an ECMP on the ICU. **ECMO does not count as VAD**.
+.. note: In case of a **VAD**, you need to indicate since how many days the VAD is *in situ* (or for how many days it has been ‘actively working’). This especially in case of the switch to an ECMO on the ICU. **ECMO does not count as VAD**.
 
 \d) **Pulmonary vascular resistance (wood units)**: Enter the last available measurement prior to transplantation or ‘Missing’ (in case you have no PVR-value available prior to transplantation).
 
