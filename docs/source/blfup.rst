@@ -281,7 +281,7 @@ Heart baseline and peritransplant period/Pre-transplant history and assessments
 *	Ventricular Assist Device (VAD) (LVAD, BerlinHeart, Excor…)
 *	Other
 
-.. note: In case of a **VAD**, you need to indicate since how many days the VAD is *in situ* (or for how many days it has been ‘actively working’). This especially in case of the switch to an ECMO on the ICU. **ECMO does not count as VAD**.
+.. note: In case of a **VAD**, you need to indicate since how many days the VAD is *in situ* (or for how many days it has been ‘actively working’). This especially in case of the switch to an ECMO (ExtraCorporal Membrane Oxygenation) on the ICU. **ECMO does not count as VAD**.
 
 \d) **Pulmonary vascular resistance (wood units)**: Enter the last available measurement prior to transplantation or ‘Missing’ (in case you have no PVR-value available prior to transplantation).
 
