@@ -33,8 +33,7 @@ If a product is not in the list, please switch to the "Substance" tab (see green
 If possible, in the immunosuppressive treatment use product names (Prograf ®, Advagraf®, CellCept®, Myfortic®, etc.) so that drug changes can be easily followed.
 In all other drugs choose the entry that is easier for you (e.g. Instead of entering Amlodipin/Valsartan/Hydrochlorothiazid as three different substances enter it as one product, Exforge HCT®).
 
-Drugs start and stop date 
------------------------------
+**Drugs start and stop date**
 
 This applies for all drugs, but especially for ‘others’ as this is the cathegory that seems to be the most difficult to find start and stop dates.
 
