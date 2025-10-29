@@ -45,6 +45,10 @@ If you can’t find an exact date, use the approach we use for the FUPs, using t
 If the stop of a drug is in the actual follow-up period, but you do not know the exact date, enter the date when it was last recorded, indicating the accuracy of the stop date with ‘day uncertain’, ‘day/month uncertain’ or as ‘estimated date’. Same for start days.
 You can, if you wish to, enter a note in the comment field, such as ‘after consultation on 03.03.2024 further application of the product is not clear’ or ‘no documentation of the substance after the consultation on the 05.03.2024’. 
 
+**Stop Date in drugs other than ‘Maintenance Immunosuppression’**
+
+*In construction*
+
 5.2.1 Induction
 =====================
 
