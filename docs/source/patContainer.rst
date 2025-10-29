@@ -33,7 +33,8 @@ If a product is not in the list, please switch to the "Substance" tab (see green
 If possible, in the immunosuppressive treatment use product names (Prograf ®, Advagraf®, CellCept®, Myfortic®, etc.) so that drug changes can be easily followed.
 In all other drugs choose the entry that is easier for you (e.g. Instead of entering Amlodipin/Valsartan/Hydrochlorothiazid as three different substances enter it as one product, Exforge HCT®).
 
-**Drugs start and stop date**
+Drugs start and stop date
+===============================
 
 This applies for all drugs, but especially for ‘others’ as this is the cathegory that seems to be the most difficult to find start and stop dates.
 
@@ -45,7 +46,8 @@ If you can’t find an exact date, use the approach we use for the FUPs, using t
 If the stop of a drug is in the actual follow-up period, but you do not know the exact date, enter the date when it was last recorded, indicating the accuracy of the stop date with ‘day uncertain’, ‘day/month uncertain’ or as ‘estimated date’. Same for start days.
 You can, if you wish to, enter a note in the comment field, such as ‘after consultation on 03.03.2024 further application of the product is not clear’ or ‘no documentation of the substance after the consultation on the 05.03.2024’. 
 
-**Stop Date in drugs other than ‘Maintenance Immunosuppression’**
+Stop Date in drugs other than ‘Maintenance Immunosuppression’
+====================================================================
 
 *In construction*
 
