@@ -49,7 +49,15 @@ You can, if you wish to, enter a note in the comment field, such as ‘after con
 Stop Date in drugs other than ‘Maintenance Immunosuppression’
 ====================================================================
 
-*In construction*
+For drugs other than maintenance immunosuppression, the system sets the collection stop date to the date 10 years after transplantation. This doesn’t mean that the drug is no longer taken by the patient. It simply indicates, that we do no longer collect the information about the intake of this drug.
+If you want, you still can enter the real stop date in the stop date field, but this is not a mandatory data collection after 10 years, when the forms are set to minimal data. 
+However, in case of a second or re-transplantation, you need to collect all the drugs for the 10 years after the last performed transplantation.
+
+.. image:: OrgCont8.png
+
+In the drug overview the stop date and the collection stop date are shown as follows:
+
+.. image:: OrgCont9.png
 
 5.2.1 Induction
 =====================
