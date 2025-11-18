@@ -586,32 +586,27 @@ Primary graft dysfunction (PGD) refers to the syndrome of acute lung injury earl
     :header-rows: 1
     :stub-columns: 1
 
-    * - List table
-      - Grade
-      - Grade	Pulmonary edema on chest X-ray	Pao2/Fio2 ratio
+    * - Grade
+      - Grade	Pulmonary edema on chest X-ray
       - Pao2/Fio2 ratio
-    * - Stub Row 1
-      - PGD grade 0
+    * - PGD grade 0
       - No
       - > 300
-    * - Stub Row 2
-      - PGD grade 1
+    * - PGD grade 1
       - Yes
       - > 300
-    * - Stub Row 3
-      - PGD grade 2
+    * - PGD grade 2
       - Yes
       - 200 to 300
-    * - Stub Row 3
-      - PGD grade 3
+    * - PGD grade 3
       - Yes
       - < 200
 
-\a)	Grading of primary graft dysfunction (PGD) severity at 24h: Select from Grade 0, grade 1, grade 2, grade 3 or missing (in case you have no values to calculate the PGD (see below)).
+\a)	Grading of primary graft dysfunction (PGD) severity at 24h: Select from Grade 0, grade 1, grade 2, grade 3 or missing (in case you have no values to calculate the PGD).
 
-\b)	Grading of primary graft dysfunction (PGD) severity at 48h: Select from Grade 0, grade 1, grade 2, grade 3 or missing (in case you have no values to calculate the PGD (see below)).
+\b)	Grading of primary graft dysfunction (PGD) severity at 48h: Select from Grade 0, grade 1, grade 2, grade 3 or missing (in case you have no values to calculate the PGD).
 
-\c)	Grading of primary graft dysfunction (PGD) severity at 72h: Select from Grade 0, grade 1, grade 2, grade 3 or missing (in case you have no values to calculate the PGD (see above)).
+\c)	Grading of primary graft dysfunction (PGD) severity at 72h: Select from Grade 0, grade 1, grade 2, grade 3 or missing (in case you have no values to calculate the PGD).
 
 Primary non-function
 --------------------------
