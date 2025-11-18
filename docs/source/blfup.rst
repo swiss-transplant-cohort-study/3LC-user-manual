@@ -523,7 +523,7 @@ Lung baseline and peritransplant period/ Pre-transplant history and assessments
 .. image:: LungBL1.png
 
 \a) **Pre-transplant thoracic surgery**: Choose between ‘Yes’, ‘No’ or ‘Missing’ (in case you have no information regarding a pre-transplant thoracic surgery). Consider everything as surgery that has been done under anesthesia/in the OR.
-Everything applies, except pure chest wall interventions. That means all interventions on the lungs and heart. A pleural drainage does not qualify.
+Everything applies, except pure chest wall interventions. That means all interventions on the lungs and heart. A pleural drainage does not qualify. However, if talc installation is done, please report it.
 
 \b)	**Sixmintest performed**: Choose between ‘Yes’, ‘No’ or ‘Missing’ (in case you have no information regarding a pre-transplant six minutes walking test). 
 When selecting ‘Yes’, please fill in the date of the performed walking test and the distance completed in the test accordingly.
