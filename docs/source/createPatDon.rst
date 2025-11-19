@@ -250,15 +250,19 @@ If the patient refuses to consent retrospectively or if the consent remains perm
 3.4.9. Death with consent unknown
 =========================================
 
-If the patient dies without a given consent (absent, awaiting) then full data collection possible (although defacto consent is permanently unknown), therefore:
+If the patient dies without a given consent (absent, awaiting), then we do a full data collection, although defacto consent is permanently unknown. Therefore, please proceed as follows:
 
-1. Edit the consent Absent (awaiting) and chose ‘Full’ in data collection
+1. Edit the consent "Absent (awaiting)" and choose ‘Full’ in data collection. Then save it.
 
 .. image:: ConsentDeath1.png
 
-2.	After the Absent (awaiting) a new IC form needs to be added. Please choose Absent (death) from the drop down list. As consent date enter the date of death.
+2.	Add a new IC form, where you select "Absent (death)" from the drop-down list. As consent date, please enter the date of death.
 
 .. image:: ConsentDeath2.png
+
+It will be visible in the overview as:
+
+.. image:: ConsentDeath3.png
 
 3.4.10. Consent of children turning 18 with no response as adults to IC-requests
 ============================================================================================
