@@ -270,6 +270,8 @@ Heart baseline and peritransplant period/Pre-transplant history and assessments
 *	Surgery for congenital heart disease
 *	Other
 
+.. note:: In case you select *Type of cardiac surgery: Ventricular Assist Device (VAD)*, the History of device implantation is automatically set to ‘yes’. There select Ventricular Assist Device (VAD) - VAD days in situ will be replaced by a start and a stop date. The section will be updated after the data revision.
+
 \c) **History of device implantation**: Choose between ‘Yes’, ‘No’ or ‘Missing’ (in case you have no information regarding cardiac surgery prior to transplantation). When choosing ‘Yes’, select all that apply from the following list:
 
 **Type of device**:
