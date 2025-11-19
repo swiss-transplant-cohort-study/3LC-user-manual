@@ -782,6 +782,13 @@ The toggles are only here to indicate wheter there was an event in the respectiv
 
 To enter a specific event, click on the title of the event category. This will open the container in a new tab, where you will be able to enter the corresponding event(s).
 
+**Minimial Data in Patient Follow-up Form**:
+
+The minimal data that must be collected in the Patient FUP form is:
+•	Neoplasia
+•	Skin cancer and
+•	Labs
+
 4.7.1 Kidney
 ===============
 
