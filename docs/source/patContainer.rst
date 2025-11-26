@@ -3,8 +3,17 @@
 
 5.1. Patient Diagnosis List
 ******************************
-
 *In construction*
+
+5.1.4. Cardio-Pulmonary
+-----------------------------
+
+In the cardio-pulmonary cathegory, there are only a few differences between the selections in the pre- and post enrolment drop-down list. The differences are either congenital or familial disorders that are usually diagnosed before a transplantation of any kind.
+
+.. note:: Myocarditis in a FUP has to be enered as ID.
+
+
+
 
 **Date and Date accuracy**
 
