@@ -6,6 +6,26 @@
 
 *In construction*
 
+**Date and Date accuracy**
+
+For every event/condition/disease you must enter the date of diagnosis or the date the event happened. In the ‘Date accuracy’ field you can specify how accurate the entered date is.
+
+.. image:: Date1.png
+
+The drop-down list lets you select from:
+
+•	Exact date (default entry)
+•	Day uncertain
+•	Day/Month uncertain and 
+•	Estimated date
+
+In pre-enrolment history, not finding a date and having to enter ‘missing’ reflects reality. Nevertheless, please try to find a date of the event or diagnosis of a condition that happened before enrolment.
+If you do not have an exact date, but a month and a year (e.g. 01/2019), you best enter 01.01.2019 or 15.01.2019 and select ‘day uncertain’ in the date accuracy field. If you only have a year (e.g. ED 2019), you best enter 01.01.2019 or 01.07.2019 (mid year) and select ‘day/month uncertain’ in the date accuracy field. If you do not have any date for an event, select the ‘missing’ button.
+
+In the pre-enrolment, if an event or new diagnosis appears on a report for the first time and this event or condition appers to be ‘new’, enter the date of the first report a condition was mentioned and select ‘estimated date’ in the date accuracy as date of diagnosis.
+
+In the post-enrolment, an event or new diagnosis must have happened between the last and the actual assessment. Therefore, use the first report a condition was mentioned and select ‘estimated date’ in the date accuracy. The latest possible date would therefore be the date after the last data collection assessment date.
+
 5.2. Treatment
 ***********************
 
