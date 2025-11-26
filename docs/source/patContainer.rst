@@ -12,6 +12,54 @@ In the cardio-pulmonary cathegory, there are only a few differences between the 
 
 .. note:: Myocarditis in a FUP has to be enered as ID.
 
+.. list-table:: 
+  :widths: 60, 60
+  :header-rows: 1
+
+  * - **Pre-enrolment**
+    - **Post-enrolment**
+  * - Amyloidosis
+    - Amyloidosis
+  * - BCT (Bronchiectasis)
+    - BCT (Bronchiectasis)
+  * - COPD/Emphysema
+    - COPD/Emphysema
+  * - Arrhythmogenic Heart Disease, non ARVD
+    - 
+  * - Arrhythmogenic right ventricular dysplasia (ARVD)	
+    - 
+  * - Atrial fibrillation	Atrial fibrillation
+    - Atrial fibrillation	Atrial fibrillation
+  * - Cardiac valvular disease
+    - Cardiac valvular disease
+  * - Cerebral vascular disease
+    - Cerebral vascular disease
+  * - Congenital heart disease 
+    - 
+  * - Coronary heart disease
+    - Coronary heart disease
+  * - Dilated cardiomyopathy
+    - Dilated cardiomyopathy
+  * - HFpEF (Symptomatic Heart failure with preserved LVEF)
+    - HFpEF (Symptomatic Heart failure with preserved LVEF)
+  * - Hypertrophic Cardiomyopathy
+    - Hypertrophic Cardiomyopathy
+  * - Idiopatic Pulmonary Fibrosis
+    - Idiopatic Pulmonary Fibrosis
+  * - Interstitial Lung Disease (all others except IPF) 
+    - Interstitial Lung Disease (all others except IPF)
+  * - 
+    - 
+  * - 
+    - 
+  * - 
+    - 
+  * - 
+    - 
+  * - 
+    - 
+  * - 
+    - 
 
 
 
