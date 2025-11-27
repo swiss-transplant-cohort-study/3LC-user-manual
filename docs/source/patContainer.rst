@@ -12,6 +12,8 @@ In the cardio-pulmonary cathegory, there are only a few differences between the 
 
 .. note:: Myocarditis in a FUP has to be enered as ID.
 
+.. warning:: Rheumatic fever, pneumonia or other infection will be reported from the Infectious diseases physician in a separate ID event form. Please contact your Physician for further definition and validation.
+
 .. list-table:: 
   :widths: 60, 60
   :header-rows: 1
@@ -48,20 +50,64 @@ In the cardio-pulmonary cathegory, there are only a few differences between the 
     - Idiopatic Pulmonary Fibrosis
   * - Interstitial Lung Disease (all others except IPF) 
     - Interstitial Lung Disease (all others except IPF)
-  * - 
+  * - Left ventricular dysfunction (EF<=35%)	Left ventricular dysfunction (EF<=35%)
+    - Left ventricular dysfunction (EF<=35%)	Left ventricular dysfunction (EF<=35%)
+  * - Mesenteric thrombosis, intestinal infarction	Mesenteric thrombosis, intestinal infarction
+    - Mesenteric thrombosis, intestinal infarction	Mesenteric thrombosis, intestinal infarction
+  * - Myocarditis
     - 
-  * - 
-    - 
-  * - 
-    - 
-  * - 
-    - 
-  * - 
-    - 
-  * - 
-    - 
+  * - Non-ischemic cardiomyopathy	Non-ischemic cardiomyopathy 
+    - Non-ischemic cardiomyopathy	Non-ischemic cardiomyopathy 
+  * - Pacemaker, ICD
+    - Pacemaker, ICD
+  * - Peripheral vascular disease	Peripheral vascular disease
+    - Peripheral vascular disease	Peripheral vascular disease
+  * - Pulmonary arterial hypertension
+    - Pulmonary arterial hypertension	
+  * - Pulmonary embolism or venous thrombosis	Pulmonary embolism or venous thrombosis
+    - Pulmonary embolism or venous thrombosis	Pulmonary embolism or venous thrombosis
+  * - Restrictive cardiomyopathy
+    - Restrictive cardiomyopathy
+  * - Sarcoidosis
+    - Sarcoidosis
+  * - Other arrhythmogenic heart disease
+    - Other arrhythmogenic heart disease
+  * - Other cardio pulmonary
+    - Other cardio pulmonary
 
+**Pre-enrolment**
 
+There are three entries where in the post-enrolment period we distinguish between a (chronic) disease and an specific event:
+
+•	Cerebral vascular disease
+•	Coronary heart disease
+•	Peripheral vascular disease
+
+However, in the pre-enrolment history we do not distinguish an event from a chronic condition. If you want, add a note in the comment field to specify if it is an event or a chronic condition you are recording.
+
+**Post-enrolment**
+
+There are three entries where we distinguish between a (chronic) disease and an specific event:
+
+•	Cerebral vascular disease
+•	Coronary heart disease
+•	Peripheral vascular disease
+
+An event means a usually sudden manifestion of cerebral (or also coronary heart or peripheral vascualar) disease. For example: Unstable angina, stable angina, ST-Elevation Myocardial Infarction (STEMI); Non-ST-Elevation Myocardial Infarction (NSTEMI); Ventricular Tachycardia/Fibrillation. These are events and we code them as event, meaning we select ‘Yes’ in the event section. If you want, you can specify the specific event in the comment field.
+
+..image:: Date2.png
+
+Many patients, however, don't have an event or a cardiovascular event but they have chronic disease. For example Angina pectoris or cardic failure in which case we elect ‘No’ in the event section. 
+
+**PE and DVT**
+
+If a patient had both a pulmonary embolism and a deep venous thrombosis, we enter both, as well as in the pre- as in the post-enrolment history. If the diagnosis is on the same day, only one event (of the same drop-down diagnosis) can be saved. In this case please enter a note in the comment field that both events happened.
+
+.. iamge:: Date3.png
+
+**Sarcoidosis**
+
+For the moment please use the ‘Cardio-Pulmonary’ category to enter the extrapulmonary sarcoidosis and include in the comment the details about extra pulmonary manifestations. In the back end, the data is saved all in the full list of patient diagnosis, so there is no difference between the categories. The categories were used for the data entry to simplify the use of the long list of diagnosis.
 
 **Date and Date accuracy**
 
