@@ -379,6 +379,136 @@ In case of a liver tumor leading to transplantation in liver patients, when conf
 
 Please refer to the liver chapter and (6.4) for further information.
 
+5.1.7. Skin cancer
+-----------------------------
+
+In the skin cancer cathegory there is no difference between selections in the pre- and post enrolment drop-down list. The difference consists in the collected data regarding the skin cancer.
+
+We collect the folowing types of skin cancer:
+
+•	Skin, basal cell carcinoma
+•	Skin, melanoma
+•	Skin, squamous cell carcinoma and
+•	Other skin cancer.
+
+Please see the list at the end of the chapter to see which ‘other skin cancer’ are collected. In case of ‘other skin cancer’, add the type of skin cancer in the **comment field**.
+
+**Every single skin cancer has to be entered**, even if two types of the same skin cancer are diagnosed on the same day with different locations. If it helps you, indicate the location of the skin cancer in the comment field.
+
+Pre-enrolment
+==================
+
+In the pre-enrolment history, we collect the date and type of diagnosed skin cancer.
+
+Post-enrolment
+==================
+
+In the post-enrolment section we collect:
+
+•	the type of diagnosed skin cancer and
+•	the Histopathology biopsy ID.
+
+As in the neoplasia section, the status of the skin cancer diagnosed post-enrolment must be recorded. Here we enter:
+
+•	Date of skin cancer diagnosis or change of status of an existing skin cancer lesion
+•	Current status of the skin cancer lesion and the
+•	Presence of distant metastasis.
+
+.. image:: SkiCan1.png
+
+In the ‘current cancer status’ choose from:
+
+•	Newly detected
+•	Progression
+•	Relapse
+•	Other.
+
+You can add multiple stages per follow-up period and as well as add stages for the same skin cancer in the subsequent Follow-ups.
+
+By selecting ‘edit’, the overview of the selected neoplasia is shown. By selecting the ‘+’ on the right side, you can add a new status to the neoplasia:
+
+.. image:: SkiCan2.png
+
+In the overview only the type of neoplasia and the information related to the date of first diagnosis is shown.
+
+.. image:: SkiCan3.png
+
+The single stages are only shown when opening the neoplasia by selecting ‘edit’ in the overview:
+
+.. image: SkiCan4.png
+
+Additionnally for every status you must indicate the ‘presence of distatnt metastasis’ (‘Yes’, ‘No’, or ‘Missing’):
+
+.. image:: SkiCan5.png
+
+.. tip:: It is possible and necessary to enter different skin cancers of the same type that were diagnosed on the same day. To distinguish them, you can enter different Histopathology Biopsy IDs and/or enter the localisation of the skin cancer in the comment field.
+
+Dermapathology List
+=======================
+
+.. list-table:: 
+  :widths: 60, 60
+  :header-rows: 1
+
+  * - **Bezeichnung (Dermato)pathologie**
+    - **Eintrag STCS**
+  * - Aktinische Keratose
+    - Other only with histology results
+  * - Aktinische Keratose mit initialer Kanzerierung
+    - Skin, squamous cell carcinoma
+  * - Basaliom
+    - Skin, basal cell carcinoma
+  * - Basalioma multiloculare
+    - Skin, basal cell carcinoma
+  * - Basalzellkarzinom
+    - Skin, basal cell carcinoma
+  * - Basosquamöses Karzinom
+    - Skin, squamous cell carcinoma
+  * - Bowenkarzinom 
+    - Skin, squamous cell carcinoma
+  * - Carcinoma in situ
+    - Other
+  * - Epithelioma métatypique mixte
+    - Skin, squamous cell carcinoma
+  * - Intraepitheliale Neoplasie I/II/II
+    - Other
+  * - Kaposi’s Sarkoma
+    - Other, **this has to be entered in "cancer other" than skin**
+  * - Keratoakanthom
+    - Skin, squamous cell carcinoma
+  * - Lentigo maligna
+    - Other
+  * - Lentigo maligna Melanom
+    - Skin, melanoma
+  * - Lentigo simplex
+    - No history of skin cancer
+  * - Lentigo solaris
+    - No history of skin cancer
+  * - Melanozytäre Läsion unklarer Dignität
+    - Skin, melanoma
+  * - MELTUMP
+    - Skin, melanoma
+  * - Merkelzellkarzinom
+    - Other
+  * - Morbus Bowen
+    - Other
+  * - Morbus Bowen mit initialer Kanzerisierung
+    - Skin, squamous cell carcinoma
+  * - Plattenepithelkarzinom der Haut
+    - Skin, squamous cell carcinoma
+  * - Porokeratose
+    - Other
+  * - Rumpfhautbasaliom
+    - Skin, basal cell carcinoma
+  * - Seborrhoische Keratose
+    - No history of skin cancer
+  * - Spinaliom
+    - Skin, basal cell carcinoma
+  * - Spinozelluläres Karzinom
+    - Skin, basal cell carcinoma
+  * - Superfizielles Basalzellkarzinom
+    - Skin, basal cell carcinoma
+
 5.2. Treatment
 ***********************
 
