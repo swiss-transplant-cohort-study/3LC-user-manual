@@ -228,6 +228,152 @@ the system asks, if a patient needs renal replacement therapy (dialysis or hemof
 
 .. image:: Date5.png
 
+5.1.6. Neoplasia
+----------------------
+
+In the neoplasia cathegory there is only one difference between selections in the pre- and post enrolment drop-down list. This, because Lymphoid leucemia after SOT is classified as Post-transplant Lymphoproliferative Disorders (PTLD).
+
+.. list-table:: 
+  :widths: 60, 60
+  :header-rows: 1
+
+  * - **Pre-enrolment**
+    - **Post-enrolment**
+  * - Desmoid Tumor
+    - Desmoid Tumor
+  * - Benign liver tumors
+    - Benign liver tumors
+  * - Brain cancer
+    - Brain cancer
+  * - Breast cancer
+    - Breast cancer
+  * - Cancer of unknown primary origin
+    - Cancer of unknown primary origin
+  * - Cervix – uterus – Adnex cancer
+    - Cervix – uterus – Adnex cancer
+  * - Cholangiocarcinoma
+    - Cholangiocarcinoma 
+  * - Colorectal cancer
+    - Colorectal cancer
+  * - Epitheloid hemangiothelioma
+    - Epitheloid hemangiothelioma
+  * - Esophageal cancer
+    - Esophageal cancer
+  * - Gastric cancer
+    - Gastric cancer
+  * - Head and neck cancer
+    - Head and neck cancer
+  * - Hepatoblastoma
+    - Hepatoblastoma
+  * - Hepatocellular carcinoma (HCC)
+    - Hepatocellular carcinoma (HCC)
+  * - Karposi’s sarkoma
+    - Karposi’s sarkoma
+  * - Kidney cancer
+    - Kidney cancer
+  * - Liver cancer
+    - Liver cancer
+  * - Liver metastasis from colorectal cancer
+    - Liver metastasis from colorectal cancer
+  * - Lung cancer
+    - Lung cancer
+  * - Lymphoid leukemia
+    - 
+  * - Lymphoma
+    - Lymphoma
+  * - Myeloid neoplasm
+    - Myeloid neoplasm
+  * - Myeloma
+    - Myeloma
+  * - Neuroendocrine tumor
+    - Neuroendocrine tumor
+  * - Other liver cancer
+    - Other liver cancer
+  * - Pancreas Cancer
+    - Pancreas Cancer
+  * - Post-transplant Lymphoproliferative Disorders (PTLD)
+    - Post-transplant Lymphoproliferative Disorders (PTLD)
+  * - Prostate cancer
+    - Prostate cancer
+  * - Sarkoma
+    - Sarkoma
+  * - Testicular cancer
+    - Testicular cancer
+  * - Thyroid cancer
+    - Thyroid cancer
+  * - Urothel / bladder cancer
+    - Urothel / bladder cancer
+  * - Other neoplasia
+    - Other neoplasia
+
+In case of an Epitheloid hemangiothelioma, please enter the primary origin in comment.
+
+Pre-enrolment
+===============
+
+If you enter a neoplasia in the pre-enrolment period, it only asks you for a diagnosis date and the type of diagnosed neoplasia. In the pre-enrolment history of the patient2, it is not necessary to enter every stage of the neoplasia. 
+
+.. image:: Neopl1.png
+
+As soon as a status of the same neoplasia is added, the system requires some additional data of the original (first detection) of the neoplasia:
+
+.. image:: Neopl2.png
+
+In this case you need to add the status as ‘newly detected’ and the presence of metastasis at that point in time. If you can, find the Histopathology biopsy ID and enter it in the corresponding field. As always, select ‘missing’ if you do not have the according information.
+
+As soon as a status of a neoplasia is added, the neoplasia is moved to the ‘post-enrolment’ section in the overview. This occurs even if you decided to add a status in the pre-enrolment history of the patient.
+
+.. image:: Neopl3.png
+
+.. image:: Neopl4.png
+
+Post-enrolment
+===================
+
+If you enter a neoplasia in the post-enrolment period, it asks you for the type of neoplasia and a histopathology biopsy ID.
+
+.. image:: Neopl5.png
+
+After that, for every neoplasia you can enter different stages. This means, that if a patient has had a diagnosis of breast cancer in the past and this cancer relapses or progresses, you do not add a new neoplasia of the same kind but update the status of the existing breast cancer by editing the neoplasia.
+
+.. image:: Neopl6.png
+
+By selecting ‘edit’, the overview of the selected neoplasia is shown. By selecting the ‘+’ on the right side, you can add a new status to the neoplasia:
+
+..image:: Neopl7.png
+
+In the ‘current cancer status’ choose from:
+
+•	Newly detected
+•	Progression
+•	Relapse
+•	Stable disease or partial response
+•	Cured or remission and
+•	Other.
+
+.. tip:: You can add multiple stages per follow-up period.
+
+Additionally, for every status, you must indicate the ‘presence of distant metastasis’ (‘Yes’, ‘No’, or ‘Missing’).
+
+.. image:: Neopl8.png
+
+In the overview, only the type of neoplasia and the information related to the date of first diagnosis is shown:
+
+.. image:: Neopl9.png
+
+The single stages are only shown when opening the neoplasia by selecting ‘edit’ in the overview.
+
+.. image:: Neopl10.png
+
+HCC and other liver tumors as cause leading to TPX
+====================================================
+
+In case of a liver tumor leading to transplantation in liver patients, when confirming the liver tumor as cause leading to TPX, a lot of information is requested. The requested information is not to be entered in the neoplasia section but in the liver container when confirming the tumor as condition leading to transplantation.
+
+.. image:: Neopl11.png
+
+Please refer to the liver chapter and (6.4) for further information.
+
 5.2. Treatment
 ***********************
 
