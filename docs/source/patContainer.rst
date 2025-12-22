@@ -212,7 +212,21 @@ In the metabolic cathegory, there are a few differencies between selections in t
     - CNI nephrotoxicity
 
 Dialysis
+============
 
+In the following events/diseases:
+
+•	acute renal failure
+•	acute on chronic renal failure
+•	chronic kidney diesase 
+
+the system asks, if a patient needs renal replacement therapy (dialysis or hemofiltration) for this event/disease. Indicate this by selecting ‘Yes’ or ‘No’ from the dropdown list.
+
+.. image:: Date4.png
+
+.. note:: If there was a diagnosis of a chronic kidney disease that was not requiring dialysis before the start of dialysis, **both must be entered**.
+
+.. image:: Date5.png
 
 5.2. Treatment
 ***********************
