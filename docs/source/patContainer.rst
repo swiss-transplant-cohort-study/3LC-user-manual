@@ -129,6 +129,91 @@ In the pre-enrolment, if an event or new diagnosis appears on a report for the f
 
 In the post-enrolment, an event or new diagnosis must have happened between the last and the actual assessment. Therefore, use the first report a condition was mentioned and select ‘estimated date’ in the date accuracy. The latest possible date would therefore be the date after the last data collection assessment date.
 
+5.1.5. Metabolic
+-----------------------------
+
+In the metabolic cathegory, there are a few differencies between selections in the pre- and post enrolment drop-down list. The differencies are congenital or familial disorders that are usually diagnosed before a transplantation of any kind.
+
+.. list-table:: 
+  :widths: 60, 60
+  :header-rows: 1
+
+  * - **Pre-enrolment**
+    - **Post-enrolment**
+  * - Glycogenosis
+    - 
+  * - Hemochromatosis
+    - 
+  * - Oxalosis
+    - 
+  * - Progressive Familial Intrahepatic Cholostasis
+    - 
+  * - Sclerosing biliary cirrhosis	
+    - 
+  * - Wilson Disease
+    - 
+  * - Alpha 1 Anti-Trypsin deficiency	
+    - 
+  * - Congenital kidney disease/malformation
+    - 
+  * - Cystic fibrosis	
+    - 
+  * - Hereditary kidney disease other than polycystic kidney disease
+    - 
+  * - Obstructive nephropathy/Reflux/Pyelonephritis	
+    - 
+  * - Polycistic Kidney Disease
+    - 
+  * - Amyloidosis	
+    - Amyloidosis
+  * - Acute renal failure
+    - Acute renal failure
+  * - Acute on chronic renal failure
+    - Acute on chronic renal failure
+  * - Alcoholic liver disease
+    - Alcoholic liver disease
+  * - Brittle diabetes	
+    - Brittle diabetes
+  * - Chronic kidney disease
+    - Chronic kidney disease
+  * - Diabetes mellitus type 1	
+    - Diabetes mellitus type 1
+  * - Glomerulonephritis/Vasculitis
+    - Glomerulonephritis/Vasculitis
+  * - Hypertensive/renovascular nephrosclerosis	
+    - Hypertensive/renovascular nephrosclerosis
+  * - Interstitial nephritis, not hereditary
+    - Interstitial nephritis, not hereditary
+  * - NASH	
+    - NASH
+  * - Osteoporosis
+    - Osteoporosis
+  * - Postpancreatectomy diabetes	
+    - Postpancreatectomy diabetes
+  * - Post-transplant diabetes mellitus (PTDM)
+    - Post-transplant diabetes mellitus (PTDM)
+  * - Primary billiary cirrhosis
+    - Primary billiary cirrhosis
+  * - Schlerosing Cholangitis	
+    - Schlerosing Cholangitis
+  * - Treated Diabetes mellitus type 2
+    - Treated Diabetes mellitus type 2
+  * - Treated hyperlipidemia	
+    - Treated hyperlipidemia
+  * - Treated hypertension
+    - Treated hypertension
+  * - Drug-induced liver injury
+    - Drug-induced liver injury
+  * - Other cirrhosis	
+    - Other cirrhosis
+  * - Other metabolic
+    - Other metabolic
+  * - CNI nephrotoxicity	
+    - CNI nephrotoxicity
+
+Dialysis
+
+
 5.2. Treatment
 ***********************
 
