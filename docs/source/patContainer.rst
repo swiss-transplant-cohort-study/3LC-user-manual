@@ -228,6 +228,11 @@ the system asks, if a patient needs renal replacement therapy (dialysis or hemof
 
 .. image:: Date5.png
 
+Amyloidosis
+==============
+
+For the moment, please use the ‘Metabolic’ category to enter the **amyloidosis** and include in the comment the details about the organ specific manifestations. In the back end, the data is saved all in the full list of patient diagnosis, so there is no difference between the categories. The categories were used for the data entry to simplify the use of the long list of diagnosis.
+
 5.1.6. Neoplasia
 ----------------------
 
