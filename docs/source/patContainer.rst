@@ -440,7 +440,7 @@ In case of a liver tumor leading to transplantation in liver patients, when conf
 
 .. image:: Neopl11.png
 
-Please refer to the liver chapter and (6.4) for further information.
+Please refer to the liver chapter and Chapter :doc: `OrganCont.html#liver` for further information.
 
 5.1.7. Skin cancer
 -----------------------------
