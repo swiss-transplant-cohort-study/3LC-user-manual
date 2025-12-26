@@ -172,7 +172,7 @@ If a **re-transplantation occours**, a new organ baseline container as well as a
 
 The underlying disease for a kidney transplantation is entered in the ‘Patient Diagnosis List’ in the ‘Condition Leading to Tpx’ and confirmed in the organ container right above the RS-container of the according transplantation.
 
-Please follow the instructions in chapter 5 (*in construction*) on how to enter the required information.
+Please follow the instructions in chapter 5 :doc:`patContainer` on how to enter the required information.
 
 Kidney baseline and peritransplant period/Pre-transplant history and assessments
 ----------------------------------------------------------------------------------
