@@ -440,7 +440,25 @@ In case of a liver tumor leading to transplantation in liver patients, when conf
 
 .. image:: Neopl11.png
 
-Please refer to the liver chapter and Chapter :doc: `OrganCont.html#liver` for further information.
+Please refer to the liver chapter and Chapter :doc: `OrganCont` for further information.
+
+Metastasis in an organ when primary tumor is HCC
+==================================================
+
+How to proceed in a FUP: 
+
+In Neoplasia in the already entered HCC choose ‘add status’.
+
+.. image:: Neopl12.png
+
+In neoplasia status/current cancer status enter *progression*.
+
+.. image:: Neopl13.png
+
+In presence of distant metastasis enter *YES* and 
+
+.. image:: Neopl14.png
+
 
 5.1.7. Skin cancer
 -----------------------------
