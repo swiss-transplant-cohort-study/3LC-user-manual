@@ -172,7 +172,7 @@ If a **re-transplantation occours**, a new organ baseline container as well as a
 
 The underlying disease for a kidney transplantation is entered in the ‘Patient Diagnosis List’ in the ‘Condition Leading to Tpx’ and confirmed in the organ container right above the RS-container of the according transplantation.
 
-Please follow the instructions in :ref:`Chapter <patContainer>`:.
+Please follow the instructions in :doc:`patContainer`.
 
 Kidney baseline and peritransplant period/Pre-transplant history and assessments
 ----------------------------------------------------------------------------------
@@ -251,7 +251,7 @@ Please fill in the biopsy information in the corresponding organ container.
 4.3.2. Heart BL
 ===================
 
-The underlying disease for a heart transplantation is entered in the ‘Patient Diagnosis List’ in the ‘Condition Leading to Tpx’ and confirmed in the organ container right above the RS-container of the according transplantation. Please follow the instructions in :ref:`Chapter <patContainer>`: on how to enter the required information.
+The underlying disease for a heart transplantation is entered in the ‘Patient Diagnosis List’ in the ‘Condition Leading to Tpx’ and confirmed in the organ container right above the RS-container of the according transplantation. Please follow the instructions in :doc:`patContainer` on how to enter the required information.
 
 Heart baseline and peritransplant period/Pre-transplant history and assessments
 --------------------------------------------------------------------------------------
@@ -375,7 +375,7 @@ Minimal data that must be collected in the Kidney baseline is:
 
 The underlying disease for islets transplantation is entered in the ‘Patient Diagnosis List’ in the ‘Condition Leading to Tpx’ and confirmed in the organ container right above the RS-container of the according transplantation. 
 
-Please follow the instructions in :ref:`Chapter <patContainer>`: on how to enter the required information.
+Please follow the instructions in :doc:`patContainer` on how to enter the required information.
 
 Islets baseline and peritransplant period/ Pre-transplant history and assessments
 --------------------------------------------------------------------------------------------
@@ -398,7 +398,7 @@ In islets baselines no minimal data are collected. Simply put the form on minima
 4.3.4. Liver BL
 ===================
 
-The underlying disease for a liver transplantation is entered in the ‘Patient Diagnosis List’ in the ‘Condition Leading to Tpx’ and confirmed in the organ container right above the RS-container of the according transplantation. Please follow the instructions in :ref:`Chapter <patContainer>`: on how to enter the required information.
+The underlying disease for a liver transplantation is entered in the ‘Patient Diagnosis List’ in the ‘Condition Leading to Tpx’ and confirmed in the organ container right above the RS-container of the according transplantation. Please follow the instructions in :doc:`patContainer` on how to enter the required information.
 
 Liver baseline and per transplant period/Pre-transplant history and assessments
 -------------------------------------------------------------------------------------
@@ -517,7 +517,7 @@ Please fill in the biopsy information in the corresponding organ container.
 
 The underlying disease for a lung transplantation is entered in the ‘Patient Diagnosis List’ in the ‘Condition Leading to Tpx’ and confirmed in the organ container right above the RS-container of the according transplantation.
 
-Please follow the instructions in :ref:`Chapter <patContainer>`: on how to enter the required information.
+Please follow the instructions in :doc:`patContainer` on how to enter the required information.
 
 Lung baseline and peritransplant period/ Pre-transplant history and assessments
 -----------------------------------------------------------------------------------
