@@ -1,6 +1,17 @@
 5. Patient containers
 ##############################
 
+The patient containers contain the four blue containers right below the overview-bars. 
+
+They are:
+
+- the ‘Patient Diagnosis List’ container
+- the ‘Treatment’ container
+- the ‘Lab’ container and
+- the ‘Stop’ container
+
+.. image:: PatContA0.png
+
 5.1. Patient Diagnosis List
 ******************************
 *In construction*
