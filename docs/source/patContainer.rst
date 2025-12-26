@@ -5,6 +5,58 @@
 ******************************
 *In construction*
 
+5.1.3. Condition Leading to Tpx
+--------------------------------------------
+
+In this section we enter the condition(s) that lead to transplantation.
+
+If the recorded transplantation is the first one in 3LC, we collect the condition leading to transplantation as ‘Pre-enrolment Condition leading to TPX’.
+
+If it is a following organ, we enter the condition leading to transplantation as ‘Post-enrolment Condition leading to TPX’.
+
+As soon as you enter a condition leading to transplantation in this cathegory, the diagnosis will be listed both here and in the container to which the diagnosis belongs (e.g. Cystic fibrosis in the metabolic container).
+
+.. image:: TpxCond1.png
+
+.. warning:: Please be aware that the condition leading to transplantation has to be confirmed in the corresponding organ container and further information may be required in that section. These will show up when selecting ‘edit’ in the list of ‘underlying diseases’ in the according organ container.
+
+.. image:: TpxCond2.png
+
+In case you want to delete an underlying cause from the ‘Patient Diagnosis List’, you must first delete/unconfirm the link to it in the organ container.
+
+.. image:: TpxCond3.png
+
+In the overview you can see what conditions leading to transplantation are available for each organ. To see it, select the organ by clicking on It in the list on the left side.
+
+.. image:: TpxCond4.png
+
+However, the whole drop-down list is available in the upper section, regardless of the transplanted organ.
+
+.. image:: TpxCond5.png
+
+Special conditions leading to transplantation: Previous allograft failure
+==============================================================================
+
+If the data you are collecting are for the **first organ in 3LC**, in the ‘Patient Diagnosis list’ container under ‘Other events’ you must enter the ‘Previous allograft failure as ‘Pre-enrolment other event’. Only then you can confirm it as condition leading to transplantation in the organ container.
+
+In case of a **graft loss of an already registered organ in 3LC**, the chosen underlying disease of the re-transplanted organ will be the ‘previous allograft failure’ per default.
+
+If the cause of graft loss has already been entered in the according graft loss section, no further specification has to be made regarding the exact condition leading to re-transplantation.
+
+Special conditions leading to transplantation: Sarcoidosis
+=============================================================
+
+For the moment please use the ‘Cardio-Pulmonary’ category or the ‘Condition leading to Tpx’ category to enter the extrapulmonary sarcoidosis and please include in the comment the details about extra pulmonary manifestations.
+
+.. note:: In the back end, the data is saved all in the full list of patient diagnosis, so there is no difference between the categories. The categories were used for the data entry to simplify the use of the long list of diagnosis.
+
+Special conditions leading to transplantation: Amyloidosis
+============================================================
+
+For the moment please use the ‘Metabolic’ category to enter the amyloidosis and include in the comment the details about the organspecific manifestations.
+
+..note:: In the back end, the data is saved all in the full list of patient diagnosis, so there is no difference between the categories. The categories were used for the data entry to simplify the use of the long list of diagnosis.
+
 5.1.4. Cardio-Pulmonary
 -----------------------------
 
