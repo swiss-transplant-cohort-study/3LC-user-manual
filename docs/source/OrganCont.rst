@@ -634,14 +634,11 @@ Use the most sensitive used imaging method from the list and complete the missin
 
 For all cases, please enter the *date of the imaging*, the *number of active leasions* found in the imaging as well as the size (in mm) of the largest tumor lesion. Further, indicate if the *tumor staging* at this timepoint timepoint (at Diagnosis, at Listing Evaluation and Pretransplant) is inside or outside the Milan criteria.
 
-.. tip:: Definition of Milan criteria (Tumor size and number): either a single tumor with a diameter of ≤ 5 cm or 
-no more than three tumors, with each tumor measuring  ≤ 3 cm in diameter.
+.. tip:: Definition of Milan criteria (Tumor size and number): either a single tumor with a diameter of ≤ 5 cm or no more than three tumors, with each tumor measuring  ≤ 3 cm in diameter.
 
 Please indicate if in the biopsy or per imaging diagnosis macrovascular invasion was detected (‘yes’, ‘no’, or ‘missing’).
 
-Moreover we enter the Biopsy ID of the biopsy taken at this timepoint timepoint (at Diagnosis, at Listing Evaluation and Pretransplant) and the according histopathology biopsy ID.
-
-If there is no staging at a certain timepoint, choose the red ‘missing’ button to set all the values to missing.
+Moreover we enter the **Biopsy ID** of the biopsy taken at this timepoint (at Diagnosis, at Listing Evaluation and Pretransplant) and the according histopathology biopsy ID. If there is no staging at a certain timepoint, choose the red ‘missing’ button to set all the values to missing.
 
 .. image:: OrgContLiver9.png
 
