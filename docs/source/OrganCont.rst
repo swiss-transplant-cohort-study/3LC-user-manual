@@ -505,6 +505,24 @@ In case of a re-transplantation the graft loss with its underlying disease will 
 6.4. Liver
 *************************
 
+In the liver container there are three sections:
+
+•	Underlying disease (leading to transplantation)
+•	Biopsy & Rejection and
+•	Allograft morbidities.
+
+As the fields might require the indication of a biopsy or related complication, it is best to enter the ‘biopsy & rejection’ as well as the requested information of the ‘allograft morbidities’ section following the order they appear in 3LC.
+
+6.4.1. Underlying disease
+----------------------------
+
+In this section, we select and confirm the condition leading to transplantation. To do so, we first need to enter this condition or disease in the ‘Patient Diagnosis List’ as ‘Condition Leading to Tpx’ or in an other cathegory. 
+
+For example ‘Diabetes mellitus type 1’ can be entered or as ‘Condition Leading to Tpx’ or as ‘Metabolic’. It will appear in both sections, regardless of where it has been entered.
+
+As conditions or diseases leading to transplantation in liver we select from the following:
+
+
 *In construction*
 
 6.5. Lung
