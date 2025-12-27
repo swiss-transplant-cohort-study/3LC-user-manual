@@ -518,12 +518,331 @@ As the fields might require the indication of a biopsy or related complication, 
 
 In this section, we select and confirm the condition leading to transplantation. To do so, we first need to enter this condition or disease in the ‘Patient Diagnosis List’ as ‘Condition Leading to Tpx’ or in an other cathegory. 
 
-For example ‘Diabetes mellitus type 1’ can be entered or as ‘Condition Leading to Tpx’ or as ‘Metabolic’. It will appear in both sections, regardless of where it has been entered.
+For example, ‘Diabetes mellitus type 1’ can be entered or as ‘Condition Leading to Tpx’ or as ‘Metabolic’. It will appear in both sections, regardless of where it has been entered.
 
 As conditions or diseases leading to transplantation in liver we select from the following:
 
+.. image:: OrgContLiver1.png
 
-*In construction*
+All entered diagnosis will appear in the section ‘Underlying Disease’ and you must confirm the condition leading to transplantation.
+
+.. image:: OrgContLiver2.png
+
+All diagnosis that are not explicitly mentioned below and apart of previous allograft failure, only request a biopsy and the date of this biopsy if the condition was histologically confirmed.
+
+.. warning:: Be careful when entering the Biopsy ID that confirmed the disease and not just a biopsy of the native organ. In case of two or more conditions leading to the same transplantation, the biopsies showing the diseases could be different one from another (e.g. one showing the hepatitis and a later one showing the HCC). Use the first biopsy that confirmed the disease.
+
+.. image:: OrgContLiver3.png
+
+Hepatitis B and C
+=====================
+
+In case of a hepatitis B or C leading to transplantation, you are asked for the course of the liver disease –‘fulminant hepatitis’ or ‘chonic hepatitis’ – as well as if the disease has been confirmed by biopsy. If so, enter the date and the ID of the diagnostic biopsy.
+
+HCC and other liver tumors as cause leading to TPX
+======================================================
+
+This section covers the following diagnosis leading to transplantation:
+
+•	Epitheloid hemangioendothelioma
+•	Hepatocellular carcinoma (HCC)
+•	Neuroendocrine tumor
+•	Cholangiocarcinoma
+•	Other liver cancer
+
+In liver patients in case of a HCC or an other liver tumor leading to transplantation, when confirming it, tumor specific information for different points in time is requested.
+
+There is a general section for tumorspecific information as well as a tumor therapy section in the upper part, followed by tumor staging at different points in time. The timepoints of specific data collection before transplantation are:
+
+•	at diagnosis
+•	at listing evaluation and
+•	pretransplant.
+
+The same information is requested for these different timepoints. If at one of the given stages no staging has been done, set the whole section to ‘Missing’ with the ‘Mark all Missing’ butten on the right.
+
+.. image:: OrgContLiver4.png
+
+Liver Underlying Disease – Tumor Specification
+==================================================
+
+In this section, please enter a possible explantation biopsy by selecting ‘yes’ and specifying the according biopsy number.
+
+.. note:: The gray fields show historic values (values that were entered in the old system) and no entries can be made here.
+
+.. image:: OrgContLiver5.png
+
+Tumor Therapy
+=================
+
+If the tumor was treated, select ‘yes’ and enter the tumor therapy preocedure(s) and the date it was performed.
+
+Enter all treatments, even if one was done more than once. We enter all of the following therapies:
+
+•	Embolization, not radio
+•	Microwave ablation (MWA)
+•	Radiofrequency ablation (RFA and RFTA/ Radiofrequency thermoablation)
+•	Selective internal radiation therapy (SIRT)
+•	Systemic therapy (like Chemotherapy or immuneotherapy) and
+•	Trans-arterial chemoembolization (TACE), includes TAE!.
+
+Multiple entries can be created by using the (+) button (see green arrow).
+
+.. image:: OrgContLiver6.png
+
+Liver Underlying Disease – Tumor Specification
+=====================================================
+
+In this section, please enter a possible explantation biopsy by selecting ‘yes’ and specifying the according biopsy number. The gray fields show historic values (values that were entered in the old system) and no entries can be made here.
+
+.. image:: OrgContLiver7.png
+
+Tumor Therapy
+================
+
+If the tumor was treated, please select ‘yes’ and enter the tumor therapy preocedure(s) and the date it was performed.
+
+Please enter **all** treatments, even if one was done more than once. We enter all of the following therapies:
+
+•	Embolization, not radio
+•	Microwave ablation (MWA)
+•	Radiofrequency ablation (RFA and RFTA/ Radiofrequency thermoablation)
+•	Selective internal radiation therapy (SIRT)
+•	Systemic therapy (like Chemotherapy or immuneotherapy) and
+•	Trans-arterial chemoembolization (TACE)
+
+.. warning:: The therapy trans-arterial chemoembolization (TACE) also includes TAE!
+
+Multiple entries can be created by using the (+) button.
+
+.. image:: OrgContLiver8.png
+
+Tumor Staging (at Diagnosis, at Listing Evaluation and Pretransplant)
+=========================================================================
+
+Every staging timepoint (at Diagnosis, at Listing Evaluation and Pretransplant) requires the same information:
+If the tumor was confirmed by imaging diagnosis ‘yes’, ‘no’ or ‘missing’. 
+
+If yes, enter the date of the imaging diagnosis and select the method used. The imaging methods are listed from the most sensitive/accurate to the least sensitive/accurate method:
+
+•	MRI and CT
+•	MRI
+•	Conventional CT
+•	PET CT or
+•	Ultrasound
+
+Use the most sensitive used imaging method from the list and complete the missing information.
+
+For all cases, please enter the *date of the imaging*, the *number of active leasions* found in the imaging as well as the size (in mm) of the largest tumor lesion. Further, indicate if the *tumor staging* at this timepoint timepoint (at Diagnosis, at Listing Evaluation and Pretransplant) is inside or outside the Milan criteria.
+
+.. tip:: Definition of Milan criteria (Tumor size and number): either a single tumor with a diameter of ≤ 5 cm or 
+no more than three tumors, with each tumor measuring  ≤ 3 cm in diameter.
+
+Please indicate if in the biopsy or per imaging diagnosis macrovascular invasion was detected (‘yes’, ‘no’, or ‘missing’).
+
+Moreover we enter the Biopsy ID of the biopsy taken at this timepoint timepoint (at Diagnosis, at Listing Evaluation and Pretransplant) and the according histopathology biopsy ID.
+
+If there is no staging at a certain timepoint, choose the red ‘missing’ button to set all the values to missing.
+
+.. image:: OrgContLiver9.png
+
+Definitions regarding the timepoint of the tumor staging:
+
+- *Tumor staging at Diagnosis*: last staging before diagnosis
+- *Tumor Staging at Listing Evaluation* last staging (closest) before listing
+- *Tumor Staging Pretransplant* last staging before transplantation
+
+6.4.2. Biopsy & Rejection
+------------------------------
+
+In this section, we enter biopsies and rejections. We distinguish between ‘Time zero and reperfusion biopsies’ and ‘Post-transplant biopsies’.
+
+.. image:: OrgContLiver10.png
+
+Peri-transplant biopsy
+=========================
+
+In the case of a time zero or reperfusion biopsy we enter the date of the biopsy, the Biopsy ID, the type of biopsy:
+
+•	Pre-implantation (allograft)
+•	At reperfusion or
+•	Explantation biopsy
+
+as well as:
+
+•	the amount of macrosteatosis (Use 0 to indicate absence of steatosis. Use 100% to indicate above some limit e.g. > 80% or select ‘Missing’ if there is no clear indication of macrosteatosis)
+•	the presence of microsteatosis (‘Present’, ‘Absent’ or ‘Missing’) and
+•	the levelof fibrosis (‘Absence of fibrosis’, ‘F1’, ‘F2’, ‘F3, ‘F4’ or ‘Missing’)
+
+Post-Transplant biopsy and rejection
+=========================================
+
+In the case of a biopsy performed after transplantation, we enter the date of the biopsy, the Biopsy ID, the type of biopsy:
+
+•	Diagnostic biopsy
+•	Protocol biopsy or
+•	Other.
+
+We collect the following infoormation of this biopsy:
+
+•	The RAI score, where we select the RAI score of the biopsy.
+•	the amount of macrosteatosis (Use 0 to indicate absence of steatosis. Use 100% to indicate above some limit e.g. > 80% or select ‘Missing’ if there is no clear indication of macrosteatosis.)
+•	the presence of microsteatosis (‘Present’, ‘Absent’ or ‘Missing’)
+•	the level of fibrosis (‘Absence of fibrosis’, ‘F1-F4’, or ‘Missing’)
+•	the portal inflammation (Score 1-4 or ‘Missing’)
+•	the bile duct inflammation damage (Score 1-3 or ‘Missing’) and
+•	the venous endothelial inflammation (Score 1-3 or ‘Missing’).
+
+In case a value is not done or can not be evaluated, please choose ‘missing’. You also have the option to choose ‘All missing’ if there no biopsy was done and only a possible rejection was treated.
+
+If there are multiple scores for fibrosis (e.g. F2-F3) or steatosis, then enter the highest value.
+
+In the ‘Rejection’ part, we enter the rejection (‘Yes, biopsy proven’, ‘Yes, clinically suspected’ or ‘No’.).
+When you select a ‘Yes’-option in the rejection field, you can choose the regimen(s) to treat this rejection in the ‘Treatment’ section that appears below.
+
+Select all that apply from the following list and do not forget to enter the treatment in the ‘Treatment’ section as drug prescription or non-pharmacological treatment:
+
+•	No treatment of rejection
+•	ATG
+•	ATGAM
+•	Campath
+•	IG iv
+•	Metyl-prednisone iv
+•	OKT3
+•	Photopheresis
+•	Plasmapheresis/PE
+•	Prednisone po
+•	Rituximab
+•	Thymoglobulin
+•	Other (Specifying the treatment in the comment field)
+
+Clinically suspected rejection
+=====================================
+
+In case of a clinically suspected rejection, that is not biopsy proven, enter the date of the suspected rejection in the date field of the Post-Transplant biopsy (even if the name is missleading) and set the whole biopsy section on ‘missing’ (‘Mark all missing’).
+
+.. image:: OrgContLiver11.png
+
+In the rejection section enter ‘Yes, clinically suspected’ and in the treatment section select all the regimens used to treat that suspected rejection. 
+
+If there was a suspected rejection that was not treated, select ‘No treatment of rejection’.
+
+6.4.3. Allograft morbidities
+-----------------------------------
+
+Although called ‘allograft morbidities’, this section collects complications, interventions, allograft diseases, and a possible loss of the organ.
+
+Complications
+=================
+
+In the complication section, we collect major complications of the liver allograft with the respective date of diagnosis. If the exact date is unknown, you can leave a comment in the comment section.
+
+The following complications are collected:
+
+•	Abdominal abscess
+•	Acute hepatic artery thrombosis (HAT)
+•	Anastomotic biliary stricture (AS)
+•	Arterial stenosis
+•	Biliary leak
+•	Biopsy-related complication
+•	Bleeding
+•	Bowel perforation
+•	Chronic hepatic artery thrombosis (HAT)
+•	Portal vein thrombosis
+•	Surgical site-infection
+•	V. cava thrombosis/ stenosis
+•	Other and
+•	Non-anastomotic biliary stricture (NAS).
+
+You also need to indicate the Dindo-Clavien grading of the complication (I-V or missing).
+
+The therapy used to correct a specific complication is the basis of this classification in order to rank a complication in an objective and reproducible manner.
+
+.. image:: OrgContLiver12.png
+
+We only collect the stages I-V without sub-groups.
+
+Do not enter ‘death’ as a complication itself. You might collect complications leading to death, but the death itself has to be entered in the stop form with the immediate and underlying cause of death.
+
+Interventions
+------------------
+
+We collect the following type of interventions:
+
+•	Endoscopic intervention - as “endoscopic intervention” we consider things like gastroscopies, ERCP and interventions performed during an ERCP.
+•	Pharmacological intervention - as “pharmacological intervention” we consider treatments like a benzafibrat given to treat biliary stenosis.
+•	Radiological intervention and
+•	Surgical intervention - as “surgical intervention” we consider all interventions that were performed in the OR under general anaesthesia and in Dindo-Clavien grading are grade IIIb (classified as grade III in 3LC).
+
+Please indicate if the intervention is related to a complication. If so, select the according complication from the dropdown list. To do so, the complication must first be entered in the complication section.
+
+Allograft disease
+====================
+
+In the allograft disease section we enter three categories of diseases:
+
+•	De novo disease
+•	Recurrence of initial disease and
+•	Cirrhosis.
+
+All must be completed by a (diagnosis) date. This date does not have a date-accuracy field. Therefore, please use the comment field if you need to make an indication of an approximation regarding the indicated date.
+
+The first two of these cathegories need further specification:
+
+The ‘De novo disease’ must be selected from:
+•	Alcoholic liver disease
+•	Autoimmune hepatitis
+•	Chronic rejection
+•	Hepatocellular carcinoma (HCC)
+•	NASH or
+•	Other.
+
+The ‘recurrence of initial disease’ can be selected from the dropdown list that appears and which includes the diagnosis indicated in the cathegory ‘Condition leading to Tpx’ in the ‘Patient Diagnosis List’ container.
+
+In all cases, please indicate if the allograft disease is biopsy proven. If so, select the according biopsy from the dropdown list. To do so, the biopsy must first be entered in the biopsy and rejection section.
+
+Graftloss
+================
+
+A graftloss is the loss of function of the liver. It implies the end of data collection of this specific organ but only of the other, patient specific data and possible sample, if no new organ is transplanted.
+
+To enter a graftloss in the organ container, first set the toggle “Graftloss” in the liver FUP to "yes". Only after that, you will be able to access the ‘graftloss’ section in the liver container. 
+
+.. image:: OrgContLiver13.png
+
+When the liver loses its function, enter the *date* of graftloss and the *cause* of graft loss, selecting from:
+
+•	De novo causes
+•	Recurrence of initial disease
+•	Cirrhosis
+•	Cause unknown or
+•	Primary non-function.
+
+When selecting ‘**De novo causes**’, meaning a new onset diagnosis after transplantation, not present in the native or in a previously transplanted liver, please chose the cause from the following list:
+
+•	Acute rejection (Immunological)
+•	Anastomotic biliary stricture (AS)
+•	Alcoholic liver disease
+•	Arterial thrombosis
+•	Autoimmune hepatitis
+•	Chronic rejection
+•	Fulminant hepatitis
+•	Hepatocellular carcinoma (HCC)
+•	NASH
+•	Non-anastomotic biliary stricture (NAS) or
+•	Other.
+
+When selecting ‘**Recurrence of initial disease**’ select the according disease from the dropdown list.
+
+In case of a ‘**Primary non-function**’, select the cause of the PNF from the following list:
+
+•	Hyperacute rejection
+•	Arterial thrombosis
+•	Portal vein thrombosis
+•	Graft quality
+•	Cause unknown or
+•	Other causes.
+
+In case of a re-transplantation the graftloss with its underlying disease will be shown per default as cause leading to transplantation.
 
 6.5. Lung
 *************************
