@@ -459,6 +459,7 @@ In presence of distant metastasis enter *YES* and
 
 .. image:: Neopl14.png
 
+in the comment field enter the place where the metastasis is. If there are more than a few enter multiple locations.
 
 5.1.7. Skin cancer
 -----------------------------
