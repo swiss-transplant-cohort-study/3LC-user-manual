@@ -852,7 +852,151 @@ In case of a re-transplantation the graftloss with its underlying disease will b
 6.6. Pancreas
 *************************
 
-*In construction*
+In the pancreas container, there are three sections:
+
+•	Underlying disease (leading to transplantation)
+•	Biopsy & Rejection and
+•	Allograft morbidities.
+
+6.6.1. Underlying disease
+---------------------------------------
+
+In this section we select and confirm the condition leading to transplantation. To do so, we first need to enter this condition or disease in the ‘Patient Diagnosis List’ as ‘Condition Leading to Tpx’ or in an other category.
+
+For example, ‘Diabetes mellitus type 1’ can be entered or as ‘Condition Leading to Tpx’ or as ‘Metabolic’. It will appear in both sections, regardless of where it has been entered.
+
+As conditions or diseases leading to transplantation in pancreas we select from the following:
+
+.. image:: OrgContPancreas1.png
+
+All entered diagnosis will appear in the section ‘Underlying Disease’ and you must confirm the condition leading to transplantation. No further information is requested when confirming the diagnosis leading to transplantation.
+
+6.6.2. Biopsy & Rejection
+------------------------------------
+
+In this section, we enter biopsies and rejections. In pancreas we only collect ‘Post-transplant biopsies’.
+
+.. image:: OrgContPancreas2.png
+
+Post-Transplant biopsy and rejection
+=============================================
+
+In the case of a Post-Transplant biopsy and rejection, we enter the date of the biopsy, the Biopsy ID, the type of biopsy.
+
+The types of biopsy can be:
+
+•	Diagnostic biopsy
+•	Protocol biopsy 
+•	Biopsy of associated organ in combined tpx or
+•	Other.
+
+The type ‘Biopsy of associated organ in combined tpx’ refers i.e. to a kidney biopsy in an SPK transplantation.
+
+Further, we select if there was a (suspected) rejection or not and we can choose between:
+
+•	Yes, biopsy proven
+•	Yes, clinically suspected
+•	Suspicion of pancreas rejection based on kidney biopsy or
+•	No.
+
+In the ‘Clinical and pathological diagnosis’ part, we enter:
+
+•	Rejection (Yes, biopsy proven; Yes, clinically suspected; No)
+•	If the patient showed the presence or absence of clinical symptoms (clinical/subclinical)
+•	The Pathology report summary/diagnosis (copy and paste this part from the biopsy report in whatever language the text is) and
+•	If necessary, a comment.
+
+In case of a (suspected) rejection, please choose the regimen(s) used to treat this rejection in the section that appears below:
+
+•	No treatment of rejection
+•	ATG
+•	ATGAM
+•	Campath
+•	IG iv
+•	Metyl-prednisone iv
+•	OKT3
+•	Photopheresis
+•	Plasmapheresis/PE
+•	Prednisone po
+•	Rituximab
+•	Thymoglobulin
+•	Other (Specifying the treatment in the comment field)
+
+Select all that apply from the list and do not forget to enter the treatment in the ‘Treatment’ section as drug prescription or non-pharmacological treatment:
+
+.. image:: OrgContPancreas3.png
+
+In the ‘Rejection’ drop-down select ‘Yes, Clinically suspected’ and enter all the applied treatments in the ‘Treatment’ section. Then save the whole section.
+
+6.6.3. Allograft morbidities
+------------------------------------
+
+Although called ‘allograft morbidities’, this section collects complications, interventions and a possible loss of the organ.
+
+Complication
+=================
+
+In the complication section, we collect major complications of the pancreas allograft with the respective date of diagnosis. If the exact date is unknown, you can leave a comment in the comment section. The following transplant-related complications are collected:
+
+•	Abdominal abscess
+•	Arterial thrombosis
+•	Biopsy-related complication
+•	Bleeding
+•	Bowel perforation
+•	Pancreatitis
+•	Peritonitis
+•	Portal vein thrombosis
+•	Surgical site-infection
+•	Other
+
+.. note:: **Do not enter ‘death’** as a complication itself. You might **collect complications leading to death**, but the death itself has to be entered in the stop form with the immediate and underlying cause of death.
+
+Interventions
+=================
+
+We collect the following interventions:
+
+•	Thrombectomy
+•	Hemostasis
+•	Drainage
+•	Arterial reconstruction
+•	Pancreatectomy
+•	Abdominal wash out
+•	Bland laparotomy
+•	Other
+
+Please indicate if the intervention is related to a complication. If so, select the complication from the dropdown list. To do so, the complication must be first entered in the complication section.
+
+Graftloss
+=============
+
+A graftloss is the loss of the whole function of the pancreas. It implies the end of data collection of this specific organ but only of the other, patientspecific data, PSQ and possible sample, if no other organ is actively followed in the system!
+
+.. note:: A new **onset insulin** requirement after pancreas transplantation **does not automatically correspond to an organ loss**. The pancreas might only have a partial function. In the case of insulin requirement after transplantation, please ask the physician if the organ has lost its function completely before entering a graft loss. Do not forget to enter the start of insulin application in the treatment section.
+
+.. tip:: To enter a graft loss in the organ container, first set the toggle “graft loss” in the pancreas FUP to yes. Only after that, you will be able to access the ‘graftloss’ section in the pancreas container (see red arrow in the figure below). 
+
+.. image:: OrgContPancreas4.png
+
+If the pancreas has lost its function, enter the date of graft loss and the cause of graft loss, selecting from:
+
+•	Abdominal abscess
+•	Acute rejection (Immunological)
+•	Arterial thrombosis
+•	Biopsy-related complication
+•	Bleeding
+•	Bowel perforation
+•	Graft exhaustion/chronic rejection
+•	Pancreatitis
+•	Peritonitis
+•	Portal vein thrombosis
+•	Primary non-function
+•	Recurrence of autoimmunity i.e. recurrence of type 1 diabetes
+•	Surgical site-infection
+•	Cause unknown
+•	Other causes
+
+In case of a re-transplantation the graft loss with its underlying disease will be shown per default as cause leading to (re-) TX.
 
 6.7. Small Bowel
 *************************
