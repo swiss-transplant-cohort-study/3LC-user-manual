@@ -1229,7 +1229,7 @@ The PSQ is not part of the minimal dataset.
 All rules for sending out the PSQ and a possible reminder are explained in the “Standard Operating Procedure (SOP) for the Psycho Social Questionnaire (PSQ) Version 2.0”, available in the Document section for logged in members on the `STCS website <https://www.stcs.ch/login>`_.
 
 PSQ schedule
-=================
+--------------
 
 PSQ since 2023 is sent out on the following schedule: 0, 6 months, 1 year, 3 years, 5 years, 7 years, 10 years and every 5 years thereafter.
 
@@ -1242,7 +1242,7 @@ In case of a **delayed re-transplantation** (Kidney, Pancreas, Islets, Small Bow
 In case of a **second transplantation**, we do not send out a PSQ for this organ at all.
 
 4.9.1. PSQ in the baseline
-----------------------------------------
+==============================
 
 When opening a baseline and the IC is given, a PSQ-form is automatically attached. If you do not have a PSQ-0, you have two possibilities to remove the PSQ-form: 
 
@@ -1270,7 +1270,7 @@ After that, in the section ‘Reason for completely missing PSQ date’ select t
 For a PSQ-0 STCS protocol according to the PSQ guidelines means the ones listed above in 4.9. plus a PSQ-0 in case of an immediate re-transplantation (Liver, Lung, Heart).
 
 4.9.2. PSQ in a follow-up
------------------------------------
+================================
 
 When adding a follow-up you are asked if there is a PSQ available and filled in.
 
