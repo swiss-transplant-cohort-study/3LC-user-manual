@@ -786,6 +786,7 @@ All must be completed by a (diagnosis) date. This date does not have a date-accu
 The first two of these cathegories need further specification:
 
 The ‘De novo disease’ must be selected from:
+
 •	Alcoholic liver disease
 •	Autoimmune hepatitis
 •	Chronic rejection
