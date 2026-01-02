@@ -688,14 +688,14 @@ Heart and lung donors
 
 The donor form is the same for all organs except heart and lung, where an additional field, ‘Transplant related information’ appears.
 
-a) For a **heart donor** the requested values are:
+\a) For a **heart donor** the requested values are:
 
    • Donor myocardial contusion. Choose between ‘Yes’, ‘No’ or ‘Missing’ (in case you have no information regarding a possible myocardial contusion).
    • Donor EF in %. Enter the (last) available EF of the donor
    • Graft coronary artery disease (CAD). Choose between ‘Yes’, ‘No’ or ‘Missing’ (in case you have no information regarding CAD). When selecting ‘Yes’, please select the ‘Treatment of graft CAD’ from ‘No’, ‘Bypass’, ‘Stenting’ or ‘Missing’ (in case you have no information regarding the treatment of CAD).
    • Graft valvular disease. Choose between ‘Yes’, ‘No’ or ‘Missing’ (in case you have no information regarding a possible graft valvular disease).
 
-b)	For a **lung donor** the requested values are:
+\b)	For a **lung donor** the requested values are:
 
    • Donor height
    • Donor smoking history.
@@ -705,7 +705,7 @@ b)	For a **lung donor** the requested values are:
 .. tip:: In case of a combined heart and lung transplantation, the requested data all appear under the same ‘Transplant related information’ category.
 
 Minimal Data in Donor Form
-----------------------------
+-------------------------------
 
 Minimal data that must be collected in the Donor form is:	**Donor HLA**.
 
@@ -714,7 +714,7 @@ Minimal data that must be collected in the Donor form is:	**Donor HLA**.
 
 .. image:: RS1.png
 
-a)	**ABO compatibility**:
+\a)	**ABO compatibility**:
 
 The ABO compatibility field is pre-filled with the information entered in the recipient blood group (Administrative data in the Patient Enrolment) and in the recipient blood group (Donor Enrolment) and cannot be changed.
 
@@ -722,7 +722,7 @@ Please confirm the ABO incompatibility by checking the box (see below).
 
 .. image:: RS2.png
 
-b)	**Hospitalization**:
+\b)	**Hospitalization**:
 
 •	Hospitalization start-date for the transplantation procedure: this is the time when the patient was admitted to any hospital for the purpose of transplantation. This is pre-filled with the date entered when the transplantation was registered. Be careful to chose the start date corresponding to the case-number of the transplantation.
 
@@ -737,13 +737,13 @@ However, if a patient is *transferred to a regional hospital from the TPX-proced
 
 .. image:: RS3.png
 
-c)	**Section Serology**:
+\c)	**Section Serology**:
 
 Serology requests the results of the most actual recipient lab prior to transplantation. Values can be entered as ‘negative’, ‘positive’ or ‘missing’ (in case the result is not available/ a test has not been performed).
 
 .. tip:: General Rule: all borderline results are entered as ‘positive’.
 
-d)	**Lab Virology**:
+\d)	**Lab Virology**:
 
 Virology requests the results of the recipient lab prior to transplantation. Values can be entered as numbers or ‘missing’ (in case the result is not available/a test has not been performed).
 
@@ -753,7 +753,7 @@ When selecting ‘Below detection limit’ be sure to enter the limit of the lab
 
 In case of a mesurement ‘Above detection limit’, please select ‘missing’ in the result field.
 
-e)	**HLA antibodies closest to transplantation**:
+\e)	**HLA antibodies closest to transplantation**:
 
 Enter here the most recent HLA-lab prior to transplantation or choose ‘missing’ if no test has been done prior to transplantation.
 
@@ -783,13 +783,13 @@ Enter here the most recent HLA-lab prior to transplantation or choose ‘missing
 
   .. image:: RS9.png
 
-f)	**Transplantation based only on virtual crossmatch** (no prospective cell-based crossmatch performed):
+\f)	**Transplantation based only on virtual crossmatch** (no prospective cell-based crossmatch performed):
 
   Please select this checkbox if no prospective cell-based crossmatch has been performed (see below). 
 
   .. image:: RS10.png
 
-g)	**Cell-based crossmatch**: 
+\g)	**Cell-based crossmatch**: 
 
   If a crossmatch test has been done, please enter the last available result here.
 
@@ -808,11 +808,11 @@ Heart, liver and lung transplantations
 
 .. note:: The Perioperative and ICU care only appears in **heart** and **lung** transplantations.
 
-a)	**Number of transfused EC blood units (bags)**: Enter the quantity of transfused ECs during the ICU stay.
+\a)	**Number of transfused EC blood units (bags)**: Enter the quantity of transfused ECs during the ICU stay.
 If a patient is re-admitted to the ICU within 24 hours, please count the ECs needed in this ICU stay to the total amount of transfused EC blood units during the ICU care.
 If between the ICU stays there is a gap of more than 24 hours, the EC bags needed in the following ICU care stay(s) are not relevant for the total ammount of transfused EC bags.
 
-b)	**Admission to ICU**: Select from ‘Yes’ or ‘No’. When selecting ‘Yes’, indicate if the admission phase was pre-or post-operative. 
+\b)	**Admission to ICU**: Select from ‘Yes’ or ‘No’. When selecting ‘Yes’, indicate if the admission phase was pre-or post-operative. 
 Indicate pre-operative ICU care *only* if hospitalizations on the ICU were due to medical conditions (intubation, catecholamine, …).
 *Post -TX refers to an ICU-admission following the transplant-surgery*. As start date you can enter the surgery date if the patient was transferred from the OR to the ICU directly.
 In case of a pre-and post operative ICU hospitalisation, please enter both using the ‘+’ on the right side. Stop date of pre- and start date of post-operative admission date might correspond.
@@ -820,12 +820,12 @@ In case of re-admission to the ICU after a post-operative ICU phase, add this as
 
 .. note:: If a patient is admitted to the ICU *pre-TX* for reasons of intra-hospital logistics for a few hours until the surgery, this is *not* considered as pre-operative ICU stay.
 
-c)	**Renal replacement therapy**: Select from ‘Yes’ or ‘No’. When selecting ‘Yes’, indicate if the start and the stop date of the renal replacement therapy.
+\c)	**Renal replacement therapy**: Select from ‘Yes’ or ‘No’. When selecting ‘Yes’, indicate if the start and the stop date of the renal replacement therapy.
 If a patient stays on dialysis after trasplantation, enter the stop date as ‘Missing’.
 
 .. tipe:: Don’t forget to register the acute (on chronic) renal failure and/or the newly detected chronic kidney disease in the ‘Patient diagnosis list’ as ‘Post-enrolment metabolic event’.
 
-d)	**ExtraCorporeal Life Support**: Select from ‘Yes’ or ‘No’. When selecting ‘Yes’, indicate if the initiation (start) phase was pre-, intra- or post-operative. If a patient had an ECLS phase that lasts from pre-operative to post-operative, select pre-operative initiation phase and enter the exact start and stop date. If a patient then has a further ECLS-period post-operatively, add another use of ECLS, selecting post-operative initiation phase.
+\d)	**ExtraCorporeal Life Support**: Select from ‘Yes’ or ‘No’. When selecting ‘Yes’, indicate if the initiation (start) phase was pre-, intra- or post-operative. If a patient had an ECLS phase that lasts from pre-operative to post-operative, select pre-operative initiation phase and enter the exact start and stop date. If a patient then has a further ECLS-period post-operatively, add another use of ECLS, selecting post-operative initiation phase.
 
 The following is an example for a pre- and post operative ECLS dependence with assumed TPX-date on 03.12.2025:
 
@@ -833,7 +833,7 @@ The following is an example for a pre- and post operative ECLS dependence with a
 
 .. tip:: **ECLS** means *Extra Corporeal Life Support* and is a short-term mechanical support for cardiogenic shock. For *lung*, it refers to **ECMO** that means *Extra Corporeal Membrane Oxygenation* and is a short-term lung support for ARDS. Both (ECLS and ECMO) machines are the same. Just cannulation is different.
 
-e)	**Mechanical Ventilation** (invasive): Select from ‘Yes’ or ‘No’. When selecting ‘Yes’, indicate if the initiation (start) phase was pre-operative or if it was a post-operative re-intubation. If a patient had a combination of both or even multiple intubation periods post-surgery, enter all the intubation periods apply using the ‘+’ on the right side. 
+\e)	**Mechanical Ventilation** (invasive): Select from ‘Yes’ or ‘No’. When selecting ‘Yes’, indicate if the initiation (start) phase was pre-operative or if it was a post-operative re-intubation. If a patient had a combination of both or even multiple intubation periods post-surgery, enter all the intubation periods apply using the ‘+’ on the right side. 
 
 .. tip:: We only register **invasive ventilation** (endotracheal intubation or ventilation via tracheostoma). Non-invasive ventilation (NIV) of any kind is not registered.
 
