@@ -644,7 +644,50 @@ Please fill in the biopsy information in the corresponding organ container.
 4.3.6. Pancreas BL
 =========================
 
-*In construction*
+The underlying disease for a pancreas transplantation is entered in the ‘Patient Diagnosis List’, in the ‘Condition Leading to Tpx’, and confirmed in the organ container right above the RS-container of the according transplantation.
+
+Please follow the instructions in chapter :doc:`patContainer` on how to enter the required information.
+
+Pancreas baseline and peritransplant period
+------------------------------------------------
+
+**Average daily insulin requirement during the previous week** (Units/d): The requirement is the total of basal and bolus insulin (including corrections/auto-corrections if a patient uses an insulin pump) applied per day. As this quantity may vary from day to day, enter the avarage (total of 7 days divided by 7). 
+
+(Pancreas) Transplantation
+-------------------------------------
+
+**Preservation time** (hh:mm) was previously called cold ischemia time.
+
+(Pancreas) Transplant function
+------------------------------------
+
+**Early allograft dysfunction (DGF)**: Choose between ‘Yes’, ‘No’ or ‘Missing’ (in case you have no information regarding a possible early allograft dysfunction).
+When selecting ‘Yes’, please fill in the start and the stop date of the delayed graft function (DGF) accordingly.
+
+.. image:: PancreaseBL1.png
+
+Early allograft dysfunction (DGF) and primary non function in Pancreas
+----------------------------------------------------------------------------
+
+**Early allograft dysfunction** is defined by the use of insulin after transplantation. Other than in islets TPX, after a pancreas TPX the patient should no longer be insulin-dependent.
+
+As ‘delayed graft function end date’ enter the same date as the stop date of the insulin application in the ‘other drugs’.
+
+Primary non-function
+========================
+
+**Primary non-function (PNF) definition**: The transplanted organ never started working (properly)
+
+**Date for PNF in 3LC**: Date of diagnosis of PNF by a physician. This might be days or weeks after transplantation. 
+
+.. warning:: If the date of PNF is the same as the transplantation date, please set the date of the FUP and the PNF on the day after the transplantation and open a ticket and ask the Admin to change it to the transplantation date.
+
+How to enter a PNF in 3LC
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+1)	First set the toggle “graft loss”/ “End of transplant episode” in the FUP to yes.
+2)	In allograft morbidities enter a graft-loss and enter the date of the graft loss.
+3)	As cause of graft loss chose primary non-function and then in the drop-down list that appears enter the cause of the PNF.
 
 4.3.7. Small Bowel BL
 ==========================
