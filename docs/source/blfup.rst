@@ -1080,6 +1080,65 @@ Children of Jehovah’s Witness, patients with anemia: to reduce the blood use o
 4.9. PSQ
 **************
 
+PSQ stands for Psycho-Social Questionnaire.
+
+All patients having signed the informed consent for the STCS are automatically part of the “Psychosocial Questionnaire” data collection. However, there are a few exclusion criteria, if the:
+
+•	Patient is under 18 years of age
+•	Patient is not able to undestand German, French, Italian, or English
+•	Patient has lack of clear and sound mind as evaluated by the transplant phsician
+•	Inability to read.
+
+These (except for the first option), are called ‘STCS protocol’ reasons for a completely missing PSQ.
+
+.. note:: The PSQ is not part of the minimal dataset.
+
+All rules for sending out the PSQ and a possible reminder are explained in the “Standard Operating Procedure (SOP) for the Psycho Social Questionnaire (PSQ) Version 2.0”, available in the Document section for logged in members on the `STCS website <https://www.stcs.ch/login`_.
+
+PSQ schedule
+================
+
+PSQ since 2023 is sent out on the following schedule: 0, 6 months, 1 year, 3 years, 5 years, 7 years, 10 years and every 5 years thereafter.
+
+In case of a **double transplantation**, the PSQ is ongoing until failure of the longest functioning organ or death.
+
+In case of a **re-transplantation**:
+
+- If it is an immediate re-transplantation (Heart, Lung, Liver), we do not send out a PSQ-0 for the re-transplantation and follow the normal schedule thereafter.
+- In case of a delayed re-transplantation (Kidney, Pancreas, Islets, Small Bowel) we send out a second PSQ-0 and follow the normal schedule thereafter.
+
+In case of a **second transplantation**, we do not send out a PSQ for this organ at all.
+
+4.9.1. PSQ in the baseline
+---------------------------------
+
+When opening a baseline and the IC is given, a PSQ-form is automatically attached. If you do not have a PSQ-0, you have two possibilities to remove the PSQ-form: 
+
+- via the PSQ-form: open the PSQ form and set the answert to the question ‘Is the PSQ available and filled-in?’ to ‘False’.
+- via the Follow-up register on the left side (see figure below): select ‘Edit’ and then ‘Change availability’ in the PSQ section. A warning will appear asking to confirm if you want to change the form and delete possible entered PSQ data, select ‘Delete PSQ’. The answer to the question ‘Is the PSQ available and filled-in?’ is then automatically set to ‘False’ (see following picture). 
+
+.. image:: PSQ1.png
+
+.. image:: PSQ2.png
+
+After that, in the section ‘Reason for completely missing PSQ date’ select the reason from:
+
+•	Child (< 18 years)
+•	Patient did not send back the PSQ
+•	Sent back empty
+•	Lost in hospital
+•	STCS protocol
+•	Patient death or drop out or
+•	Patient too sick to complete the PSQ.
+
+For a PSQ-0 STCS protocol according to the PSQ guidelines means the ones listed above in 4.9. plus a PSQ-0 in case of an immediate re-transplantation (Liver, Lung, Heart).
+
+4.9.2. PSQ in a follow-up
+-----------------------------
+
+When adding a follow-up you are asked if there is a PSQ available and filled in.
+
+
 *In construction*
 
     
