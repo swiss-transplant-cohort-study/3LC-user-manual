@@ -773,8 +773,79 @@ Enter here the most recent HLA-lab prior to transplantation or choose ‘missing
 
   *Remote DSA*: Means DSA that was not detectable in the last sample before transplantation, but was detected in earlier samples. In the HLA-antigen field enter all the remote HLA-DSA with a MFI >=500. Enter multiple HLA-antigens by adding rows with the ‘+’.
 
+  .. image:: RS7.png
 
-*In construction*
+  .. image:: RS8.png
+
+  .. note:: Please be sure to enter donor and recipient HLA before entering the HLA lab. If this is not entered, you will get a warning and will not be able to enter any DSA.
+
+  .. warning:: Be aware that only DSA that are possible according to donor-HLA are shown in the drop-down list.
+
+  .. image:: RS9.png
+
+f)	**Transplantation based only on virtual crossmatch** (no prospective cell-based crossmatch performed):
+
+  Please select this checkbox if no prospective cell-based crossmatch has been performed (see below). 
+
+  .. image:: RS10.png
+
+g)	**Cell-based crossmatch**: 
+
+  If a crossmatch test has been done, please enter the last aveilable result here.
+
+  .. image:: RS11.png
+
+  .. note:: If there is a *positive* Crossmatch, a test with DTT-solution will be done to confirm a positive result. If this DDT-test is *negative*, then the result of the Crossmatch will also be seen as negative. (Information from Typisierungslabor USZ on 26.01.2015)
+
+  Example:
+
+  .. image:: RS12.png
+
+  .. image:: RS13.png
+  
+Heart, liver and lung transplantations
+=============================================
+
+The Perioperative and ICU care only appears in heart and lung transplantations.
+
+a)	**Number of transfused EC blood units (bags)**: Enter the quantity of transfused ECs during the ICU stay.
+If a patient is re-admitted to the ICU within 24 hours, please count the ECs needed in this ICU stay to the total amount of transfused EC blood units during the ICU care.
+If between the ICU stays there is a gap of more than 24 hours, the EC bags needed in the following ICU care stay(s) are not relevant for the total ammount of transfused EC bags.
+
+b)	**Admission to ICU**: Select from ‘Yes’ or ‘No’. When selecting ‘Yes’, indicate if the admission phase was pre-or post-operative. 
+Indicate pre-operative ICU care *only* if hospitalizations on the ICU were due to medical conditions (intubation, catecholamine, …).
+*Post -TX refers to an ICU-admission following the transplant-surgery*. As start date you can enter the surgery date if the patient was transferred from the OR to the ICU directly.
+In case of a pre-and post operative ICU hospitalisation, please enter both using the ‘+’ on the right side. Stop date of pre- and start date of post-operative admission date might correspond.
+In case of re-admission to the ICU after a post-operative ICU phase, add this as well.
+
+.. note:: If a patient is admitted to the ICU *pre-TX* for reasons of intra-hospital logistics for a few hours until the surgery, this is *not* considered as pre-operative ICU stay.
+
+c)	**Renal replacement therapy**: Select from ‘Yes’ or ‘No’. When selecting ‘Yes’, indicate if the start and the stop date of the renal replacement therapy.
+If a patient stays on dialysis after trasplantation, enter the stop date as ‘Missing’.
+
+.. tipe:: Don’t forget to register the acute (on chronic) renal failure and/or the newly detected chronic kidney disease in the ‘Patient diagnosis list’ as ‘Post-enrolment metabolic event’.
+
+d)	**ExtraCorporeal Life Support**: Select from ‘Yes’ or ‘No’. When selecting ‘Yes’, indicate if the initiation (start) phase was pre-, intra- or post-operative. If a patient had an ECLS phase that lasts from pre-operative to post-operative, select pre-operative initiation phase and enter the exact start and stop date. If a patient then has a further ECLS-period post-operatively, add another use of ECLS, selecting post-operative initiation phase.
+
+The following is an example for a pre- and post operative ECLS dependence with assumed TPX-date on 03.12.2025:
+
+.. image:: RS14.png
+
+.. tip:: **ECLS** means *Extra Corporeal Life Support* and is a short-term mechanical support for cardiogenic shock. For *lung*, it refers to **ECMO** that means *Extra Corporeal Membrane Oxygenation* and is a short-term lung support for ARDS. Both (ECLS and ECMO) machines are the same. Just cannulation is different.
+
+e)	**Mechanical Ventilation** (invasive): Select from ‘Yes’ or ‘No’. When selecting ‘Yes’, indicate if the initiation (start) phase was pre-operative or if it was a post-operative re-intubation. If a patient had a combination of both or even multiple intubation periods post-surgery, enter all the intubation periods apply using the ‘+’ on the right side. 
+
+.. tip:: We only register **invasive ventilation** (endotracheal intubation or ventilation via tracheostoma). Non-invasive ventilation (NIV) of any kind is not registered.
+
+Minimal Data in RS - Form
+------------------------------
+
+Minimal data that must be collected in the Donor form is:
+
+•	Hospitalization start date (auto completed with date that was entered at the registration of the transplantation)
+•	HLA antibodies closest to transplantation
+•	Remote DSA
+•	Transplantation based only on virtual crossmatch / Cell-based crossmatch
 
 4.6. Patient Follow-up Forms
 ***********************************
