@@ -408,7 +408,7 @@ After that, for every neoplasia you can enter different stages. This means, that
 
 By selecting ‘edit’, the overview of the selected neoplasia is shown. By selecting the ‘+’ on the right side, you can add a new status to the neoplasia:
 
-..image:: Neopl7.png
+.. image:: Neopl7.png
 
 In the ‘current cancer status’ choose from:
 
