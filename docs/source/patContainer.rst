@@ -517,11 +517,11 @@ In the overview only the type of neoplasia and the information related to the da
 
 The single stages are only shown when opening the neoplasia by selecting ‘edit’ in the overview:
 
-.. image: SkiCan4.png
+.. image: SkiCan10.png
 
 Additionnally for every status you must indicate the ‘presence of distatnt metastasis’ (‘Yes’, ‘No’, or ‘Missing’):
 
-.. image:: SkiCan5.png
+.. image:: SkiCan11.png
 
 .. tip:: It is possible and necessary to enter different skin cancers of the same type that were diagnosed on the same day. To distinguish them, you can enter different Histopathology Biopsy IDs and/or enter the localisation of the skin cancer in the comment field.
 
