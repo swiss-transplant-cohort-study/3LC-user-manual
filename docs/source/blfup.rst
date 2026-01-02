@@ -712,6 +712,68 @@ Minimal data that must be collected in the Donor form is:	**Donor HLA**.
 4.5. RS-Form
 *****************
 
+.. image:: RS1.png
+
+a)	**ABO compatibility**:
+
+The ABO compatibility field is pre-filled with the information entered in the recipient blood group (Administrative data in the Patient Enrolment) and in the recipient blood group (Donor Enrolment) and cannot be changed.
+
+Please confirm the ABO incompatibility by checking the box (see below).
+
+.. image:: RS2.png
+
+b)	**Hospitalization**:
+
+•	Hospitalization start-date for the transplantation procedure: this is the time when the patient was admitted to any hospital for the purpose of transplantation. This is pre-filled with the date entered when the transplantation was registered. Be careful to chose the start date corresponding to the case-number of the transplantation.
+
+•	Hospitalization stop-date for the transplantation procedure: This means the discarge from the transplant hospital. If a patient is transferred to a regional hospital or a rehabilitation, we do not use the discharge date from that stay but the first discharge date from the transplant-hospital. 
+
+However, if a patient is *transferred to a regional hospital from the TPX-procedure provider after transplantation* (for treatment and care connected to the TPX), we enter this information as follows:
+
+- Enter a TX-related hospitalization in the Patient Admin/Associated HCP selecting the regional hospital as HCP for the time period of the hospitalization.
+- If you do not have a discharge date, select ‘missing’. In the comment field, please enter ‘hospitalization following TPX’.
+
+.. warning:: Please be aware, that a rehabilitation does not count as hospitalization period.
+
+.. image:: RS3.png
+
+c)	**Section Serology**:
+
+Serology requests the results of the most actual recipient lab prior to transplantation. Values can be entered as ‘negative’, ‘positive’ or ‘missing’ (in case the result is not available/ a test has not been performed).
+
+.. tip:: General Rule: all borderline results are entered as ‘positive’.
+
+d)	**Lab Virology**:
+
+Virology requests the results of the recipient lab prior to transplantation. Values can be entered as numbers or ‘missing’ (in case the result is not available/a test has not been performed).
+
+In the ‘Detection field’ please select from ‘Below detection limit’, ‘Measurable’ and ‘Above detection limit’. 
+
+When selecting ‘Below detection limit’ be sure to enter the limit of the lab or ‘0’ according to the lab result. 
+
+In case of a mesurement ‘Above detection limit’, please select ‘missing’ in the result field.
+
+e)	**HLA antibodies closest to transplantation**:
+
+Enter here the most recent HLA-lab prior to transplantation or choose ‘missing’ if no test has been done prior to transplantation.
+
+.. image:: RS4.png
+
+  *Current DSA*: Means DSA in the last sample before transplantation. When entering ‘Yes’ in the HLA antibodies field, the ‘Immunological risk group’ field appears. There you can choose between ‘No HLA-DSA’, ‘HLA-DSA and ‘Other risk’. When selecting ‘HLA-DSA’ or ‘Other risk’, a ‘Current DSA’ field appears. Here you need to enter all the current HLA-DSA with a MFI >=500. Enter multiple HLA-DSA by adding rows with the ‘+’.
+
+  .. warning:: Please be careful and enter only DSA that concern the actual transplanted organ and not the ones of previous transplantations.
+
+  Example of two HLA-DSA from two different transplantations:
+
+  .. image:: RS5.png
+
+  *Definition of ‘Other risk’*: There are so-called non-HLA risks. Patients do not have DSA or anti-HLA antibodies, but they do have "non-HLA antibodies" against the donor. These are antibodies against other structures (not the HLA antigens) of the donor tissue. For example, against endothelial cells, MICA antibodies, etc.
+
+  .. image:: RS6.png
+
+  *Remote DSA*: Means DSA that was not detectable in the last sample before transplantation, but was detected in earlier samples. In the HLA-antigen field enter all the remote HLA-DSA with a MFI >=500. Enter multiple HLA-antigens by adding rows with the ‘+’.
+
+
 *In construction*
 
 4.6. Patient Follow-up Forms
