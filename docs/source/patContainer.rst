@@ -14,10 +14,11 @@ They are:
 
 5.1. Patient Diagnosis List
 ******************************
+
 *In construction*
 
 5.1.3. Condition Leading to Tpx
---------------------------------------------
+======================================
 
 In this section we enter the condition(s) that lead to transplantation.
 
@@ -46,7 +47,7 @@ However, the whole drop-down list is available in the upper section, regardless 
 .. image:: TpxCond5.png
 
 Special conditions leading to transplantation: Previous allograft failure
-==============================================================================
+------------------------------------------------------------------------------
 
 If the data you are collecting are for the **first organ in 3LC**, in the ‘Patient Diagnosis list’ container under ‘Other events’ you must enter the ‘Previous allograft failure as ‘Pre-enrolment other event’. Only then you can confirm it as condition leading to transplantation in the organ container.
 
@@ -55,21 +56,21 @@ In case of a **graft loss of an already registered organ in 3LC**, the chosen un
 If the cause of graft loss has already been entered in the according graft loss section, no further specification has to be made regarding the exact condition leading to re-transplantation.
 
 Special conditions leading to transplantation: Sarcoidosis
-=============================================================
+----------------------------------------------------------------
 
 For the moment please use the ‘Cardio-Pulmonary’ category or the ‘Condition leading to Tpx’ category to enter the extrapulmonary sarcoidosis and please include in the comment the details about extra pulmonary manifestations.
 
 .. note:: In the back end, the data is saved all in the full list of patient diagnosis, so there is no difference between the categories. The categories were used for the data entry to simplify the use of the long list of diagnosis.
 
 Special conditions leading to transplantation: Amyloidosis
-============================================================
+-----------------------------------------------------------------
 
 For the moment please use the ‘Metabolic’ category to enter the amyloidosis and include in the comment the details about the organspecific manifestations.
 
 ..note:: In the back end, the data is saved all in the full list of patient diagnosis, so there is no difference between the categories. The categories were used for the data entry to simplify the use of the long list of diagnosis.
 
 5.1.4. Cardio-Pulmonary
------------------------------
+==========================
 
 In the cardio-pulmonary cathegory, there are only a few differences between the selections in the pre- and post enrolment drop-down list. The differences are either congenital or familial disorders that are usually diagnosed before a transplantation of any kind.
 
@@ -138,7 +139,8 @@ In the cardio-pulmonary cathegory, there are only a few differences between the 
   * - Other cardio pulmonary
     - Other cardio pulmonary
 
-**Pre-enrolment**
+Pre-enrolment
+------------------
 
 There are three entries where in the post-enrolment period we distinguish between a (chronic) disease and an specific event:
 
@@ -148,7 +150,8 @@ There are three entries where in the post-enrolment period we distinguish betwee
 
 However, in the pre-enrolment history we do not distinguish an event from a chronic condition. If you want, add a note in the comment field to specify if it is an event or a chronic condition you are recording.
 
-**Post-enrolment**
+Post-enrolment
+---------------------
 
 There are three entries where we distinguish between a (chronic) disease and an specific event:
 
@@ -162,38 +165,20 @@ An event means a usually sudden manifestion of cerebral (or also coronary heart 
 
 Many patients, however, don't have an event or a cardiovascular event but they have chronic disease. For example Angina pectoris or cardic failure in which case we elect ‘No’ in the event section. 
 
-**PE and DVT**
+PE and DVT
+-------------------
 
 If a patient had both a pulmonary embolism and a deep venous thrombosis, we enter both, as well as in the pre- as in the post-enrolment history. If the diagnosis is on the same day, only one event (of the same drop-down diagnosis) can be saved. In this case please enter a note in the comment field that both events happened.
 
 .. image:: Date3.png
 
-**Sarcoidosis**
+Sarcoidosis
+----------------------
 
 For the moment please use the ‘Cardio-Pulmonary’ category to enter the extrapulmonary sarcoidosis and include in the comment the details about extra pulmonary manifestations. In the back end, the data is saved all in the full list of patient diagnosis, so there is no difference between the categories. The categories were used for the data entry to simplify the use of the long list of diagnosis.
 
-**Date and Date accuracy**
-
-For every event/condition/disease you must enter the date of diagnosis or the date the event happened. In the ‘Date accuracy’ field you can specify how accurate the entered date is.
-
-.. image:: Date1.png
-
-The drop-down list lets you select from:
-
-•	Exact date (default entry)
-•	Day uncertain
-•	Day/Month uncertain and 
-•	Estimated date
-
-In pre-enrolment history, not finding a date and having to enter ‘missing’ reflects reality. Nevertheless, please try to find a date of the event or diagnosis of a condition that happened before enrolment.
-If you do not have an exact date, but a month and a year (e.g. 01/2019), you best enter 01.01.2019 or 15.01.2019 and select ‘day uncertain’ in the date accuracy field. If you only have a year (e.g. ED 2019), you best enter 01.01.2019 or 01.07.2019 (mid year) and select ‘day/month uncertain’ in the date accuracy field. If you do not have any date for an event, select the ‘missing’ button.
-
-In the pre-enrolment, if an event or new diagnosis appears on a report for the first time and this event or condition appers to be ‘new’, enter the date of the first report a condition was mentioned and select ‘estimated date’ in the date accuracy as date of diagnosis.
-
-In the post-enrolment, an event or new diagnosis must have happened between the last and the actual assessment. Therefore, use the first report a condition was mentioned and select ‘estimated date’ in the date accuracy. The latest possible date would therefore be the date after the last data collection assessment date.
-
 5.1.5. Metabolic
------------------------------
+===================
 
 In the metabolic cathegory, there are a few differencies between selections in the pre- and post enrolment drop-down list. The differencies are congenital or familial disorders that are usually diagnosed before a transplantation of any kind.
 
@@ -275,7 +260,7 @@ In the metabolic cathegory, there are a few differencies between selections in t
     - CNI nephrotoxicity
 
 Dialysis
-============
+----------------
 
 In the following events/diseases:
 
@@ -292,12 +277,12 @@ the system asks, if a patient needs renal replacement therapy (dialysis or hemof
 .. image:: Date5.png
 
 Amyloidosis
-==============
+------------------
 
 For the moment, please use the ‘Metabolic’ category to enter the **amyloidosis** and include in the comment the details about the organ specific manifestations. In the back end, the data is saved all in the full list of patient diagnosis, so there is no difference between the categories. The categories were used for the data entry to simplify the use of the long list of diagnosis.
 
 5.1.6. Neoplasia
-----------------------
+===================
 
 In the neoplasia cathegory there is only one difference between selections in the pre- and post enrolment drop-down list. This, because Lymphoid leucemia after SOT is classified as Post-transplant Lymphoproliferative Disorders (PTLD).
 
@@ -377,7 +362,7 @@ In the neoplasia cathegory there is only one difference between selections in th
 In case of an Epitheloid hemangiothelioma, please enter the primary origin in comment.
 
 Pre-enrolment
-===============
+------------------
 
 If you enter a neoplasia in the pre-enrolment period, it only asks you for a diagnosis date and the type of diagnosed neoplasia. In the pre-enrolment history of the patient2, it is not necessary to enter every stage of the neoplasia. 
 
@@ -396,7 +381,7 @@ As soon as a status of a neoplasia is added, the neoplasia is moved to the ‘po
 .. image:: Neopl4.png
 
 Post-enrolment
-===================
+-------------------
 
 If you enter a neoplasia in the post-enrolment period, it asks you for the type of neoplasia and a histopathology biopsy ID.
 
@@ -434,7 +419,7 @@ The single stages are only shown when opening the neoplasia by selecting ‘edit
 .. image:: Neopl10.png
 
 HCC and other liver tumors as cause leading to TPX
-======================================================
+-----------------------------------------------------
 
 In case of a liver tumor leading to transplantation in liver patients, when confirming the liver tumor as cause leading to TPX, a lot of information is requested. The requested information is not to be entered in the neoplasia section but in the liver container when confirming the tumor as condition leading to transplantation.
 
@@ -443,7 +428,7 @@ In case of a liver tumor leading to transplantation in liver patients, when conf
 Please refer to the liver chapter and Chapter :doc:`OrganCont` for further information.
 
 Metastasis in an organ when primary tumor is HCC
-==================================================
+---------------------------------------------------
 
 How to proceed in a FUP: 
 
@@ -462,7 +447,7 @@ In presence of distant metastasis enter *YES* and
 in the comment field enter the place where the metastasis is. If there are more than a few enter multiple locations.
 
 5.1.7. Skin cancer
------------------------------
+=======================
 
 In the skin cancer cathegory there is no difference between selections in the pre- and post enrolment drop-down list. The difference consists in the collected data regarding the skin cancer.
 
@@ -478,12 +463,12 @@ Please see the list at the end of the chapter to see which ‘other skin cancer�
 **Every single skin cancer has to be entered**, even if two types of the same skin cancer are diagnosed on the same day with different locations. If it helps you, indicate the location of the skin cancer in the comment field.
 
 Pre-enrolment
-==================
+------------------
 
 In the pre-enrolment history, we collect the date and type of diagnosed skin cancer.
 
 Post-enrolment
-==================
+-------------------
 
 In the post-enrolment section we collect:
 
@@ -526,7 +511,7 @@ Additionnally for every status you must indicate the ‘presence of distatnt met
 .. tip:: It is possible and necessary to enter different skin cancers of the same type that were diagnosed on the same day. To distinguish them, you can enter different Histopathology Biopsy IDs and/or enter the localisation of the skin cancer in the comment field.
 
 Dermapathology List
-=======================
+-------------------------
 
 .. list-table:: 
   :widths: 60, 60
@@ -590,6 +575,27 @@ Dermapathology List
     - Skin, basal cell carcinoma
   * - Superfizielles Basalzellkarzinom
     - Skin, basal cell carcinoma
+
+Date and Date accuracy
+==============================
+
+For every event/condition/disease you must enter the date of diagnosis or the date the event happened. In the ‘Date accuracy’ field you can specify how accurate the entered date is.
+
+.. image:: Date1.png
+
+The drop-down list lets you select from:
+
+•	Exact date (default entry)
+•	Day uncertain
+•	Day/Month uncertain and 
+•	Estimated date
+
+In pre-enrolment history, not finding a date and having to enter ‘missing’ reflects reality. Nevertheless, please try to find a date of the event or diagnosis of a condition that happened before enrolment.
+If you do not have an exact date, but a month and a year (e.g. 01/2019), you best enter 01.01.2019 or 15.01.2019 and select ‘day uncertain’ in the date accuracy field. If you only have a year (e.g. ED 2019), you best enter 01.01.2019 or 01.07.2019 (mid year) and select ‘day/month uncertain’ in the date accuracy field. If you do not have any date for an event, select the ‘missing’ button.
+
+In the pre-enrolment, if an event or new diagnosis appears on a report for the first time and this event or condition appers to be ‘new’, enter the date of the first report a condition was mentioned and select ‘estimated date’ in the date accuracy as date of diagnosis.
+
+In the post-enrolment, an event or new diagnosis must have happened between the last and the actual assessment. Therefore, use the first report a condition was mentioned and select ‘estimated date’ in the date accuracy. The latest possible date would therefore be the date after the last data collection assessment date.
 
 5.2. Treatment
 ***********************
@@ -1003,4 +1009,5 @@ Death after Graft loss in Kidney, Pancreas and Islets Transplantation
 -------------------------------------------------------------------------------
 
 In case of kidney, pancreas and/or islets transplantation, after a graft loss (glo no active organ), if you get the information that the patient died (e.g. from the dialysis register or a doctor), enter death with date and cause unknown in 3LC if there is no info available regarding the death.
+
 
