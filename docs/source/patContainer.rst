@@ -158,7 +158,7 @@ There are three entries where we distinguish between a (chronic) disease and an 
 
 An event means a usually sudden manifestion of cerebral (or also coronary heart or peripheral vascualar) disease. For example: Unstable angina, stable angina, ST-Elevation Myocardial Infarction (STEMI); Non-ST-Elevation Myocardial Infarction (NSTEMI); Ventricular Tachycardia/Fibrillation. These are events and we code them as event, meaning we select ‘Yes’ in the event section. If you want, you can specify the specific event in the comment field.
 
-..image:: Date2.png
+.. image:: Date2.png
 
 Many patients, however, don't have an event or a cardiovascular event but they have chronic disease. For example Angina pectoris or cardic failure in which case we elect ‘No’ in the event section. 
 
@@ -166,7 +166,7 @@ Many patients, however, don't have an event or a cardiovascular event but they h
 
 If a patient had both a pulmonary embolism and a deep venous thrombosis, we enter both, as well as in the pre- as in the post-enrolment history. If the diagnosis is on the same day, only one event (of the same drop-down diagnosis) can be saved. In this case please enter a note in the comment field that both events happened.
 
-.. iamge:: Date3.png
+.. image:: Date3.png
 
 **Sarcoidosis**
 
