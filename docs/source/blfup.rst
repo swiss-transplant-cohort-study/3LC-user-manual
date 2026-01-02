@@ -1141,7 +1141,7 @@ For a PSQ-0 STCS protocol according to the PSQ guidelines means the ones listed 
 
 When adding a follow-up you are asked if there is a PSQ available and filled in.
 
-.. image: PSQ3.png
+.. image:: PSQ3.png
 
 You can chose between ‘True’ and ‘False’. If selecting ‘False’, please indicate the reason for the missing PSQ from the drop-down list:
 
