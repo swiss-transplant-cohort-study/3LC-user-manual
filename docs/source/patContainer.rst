@@ -434,13 +434,13 @@ The single stages are only shown when opening the neoplasia by selecting ‘edit
 .. image:: Neopl10.png
 
 HCC and other liver tumors as cause leading to TPX
-====================================================
+======================================================
 
 In case of a liver tumor leading to transplantation in liver patients, when confirming the liver tumor as cause leading to TPX, a lot of information is requested. The requested information is not to be entered in the neoplasia section but in the liver container when confirming the tumor as condition leading to transplantation.
 
 .. image:: Neopl11.png
 
-Please refer to the liver chapter and Chapter :doc: `OrganCont` for further information.
+Please refer to the liver chapter and Chapter :doc:`OrganCont` for further information.
 
 Metastasis in an organ when primary tumor is HCC
 ==================================================
