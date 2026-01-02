@@ -517,7 +517,7 @@ In the overview only the type of neoplasia and the information related to the da
 
 The single stages are only shown when opening the neoplasia by selecting ‘edit’ in the overview:
 
-.. image: SkiCan10.png
+.. image:: SkiCan10.png
 
 Additionnally for every status you must indicate the ‘presence of distatnt metastasis’ (‘Yes’, ‘No’, or ‘Missing’):
 
