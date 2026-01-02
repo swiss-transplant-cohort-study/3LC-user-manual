@@ -350,7 +350,7 @@ In ‘Rejection select ‘Clinically suspected, not biopsy proven’ and then en
 .. image:: OrgContHeart4.png
 
 6.2.3.Allograft morbidities
-------------------------------
+===============================
 
 Although called ‘allograft morbidities’, this section collects complications, diseases, interventions and a possible loss of the organ.
 
@@ -514,7 +514,7 @@ In the liver container there are three sections:
 As the fields might require the indication of a biopsy or related complication, it is best to enter the ‘biopsy & rejection’ as well as the requested information of the ‘allograft morbidities’ section following the order they appear in 3LC.
 
 6.4.1. Underlying disease
-----------------------------
+================================
 
 In this section, we select and confirm the condition leading to transplantation. To do so, we first need to enter this condition or disease in the ‘Patient Diagnosis List’ as ‘Condition Leading to Tpx’ or in an other cathegory. 
 
@@ -535,12 +535,12 @@ All diagnosis that are not explicitly mentioned below and apart of previous allo
 .. image:: OrgContLiver3.png
 
 Hepatitis B and C
-=====================
+-----------------------
 
 In case of a hepatitis B or C leading to transplantation, you are asked for the course of the liver disease –‘fulminant hepatitis’ or ‘chonic hepatitis’ – as well as if the disease has been confirmed by biopsy. If so, enter the date and the ID of the diagnostic biopsy.
 
 HCC and other liver tumors as cause leading to TPX
-======================================================
+---------------------------------------------------------
 
 This section covers the following diagnosis leading to transplantation:
 
@@ -563,7 +563,7 @@ The same information is requested for these different timepoints. If at one of t
 .. image:: OrgContLiver4.png
 
 Liver Underlying Disease – Tumor Specification
-==================================================
+---------------------------------------------------
 
 In this section, please enter a possible explantation biopsy by selecting ‘yes’ and specifying the according biopsy number.
 
@@ -572,7 +572,7 @@ In this section, please enter a possible explantation biopsy by selecting ‘yes
 .. image:: OrgContLiver5.png
 
 Tumor Therapy
-=================
+---------------------------
 
 If the tumor was treated, select ‘yes’ and enter the tumor therapy preocedure(s) and the date it was performed.
 
@@ -590,14 +590,14 @@ Multiple entries can be created by using the (+) button (see green arrow).
 .. image:: OrgContLiver6.png
 
 Liver Underlying Disease – Tumor Specification
-=====================================================
+---------------------------------------------------
 
 In this section, please enter a possible explantation biopsy by selecting ‘yes’ and specifying the according biopsy number. The gray fields show historic values (values that were entered in the old system) and no entries can be made here.
 
 .. image:: OrgContLiver7.png
 
 Tumor Therapy
-================
+--------------------
 
 If the tumor was treated, please select ‘yes’ and enter the tumor therapy preocedure(s) and the date it was performed.
 
@@ -617,7 +617,7 @@ Multiple entries can be created by using the (+) button.
 .. image:: OrgContLiver8.png
 
 Tumor Staging (at Diagnosis, at Listing Evaluation and Pretransplant)
-=========================================================================
+-------------------------------------------------------------------------
 
 Every staging timepoint (at Diagnosis, at Listing Evaluation and Pretransplant) requires the same information:
 If the tumor was confirmed by imaging diagnosis ‘yes’, ‘no’ or ‘missing’. 
@@ -649,14 +649,14 @@ Definitions regarding the timepoint of the tumor staging:
 - *Tumor Staging Pretransplant* last staging before transplantation
 
 6.4.2. Biopsy & Rejection
-------------------------------
+=============================
 
 In this section, we enter biopsies and rejections. We distinguish between ‘Time zero and reperfusion biopsies’ and ‘Post-transplant biopsies’.
 
 .. image:: OrgContLiver10.png
 
 Peri-transplant biopsy
-=========================
+--------------------------------
 
 In the case of a time zero or reperfusion biopsy we enter the date of the biopsy, the Biopsy ID, the type of biopsy:
 
@@ -671,7 +671,7 @@ as well as:
 •	the levelof fibrosis (‘Absence of fibrosis’, ‘F1’, ‘F2’, ‘F3, ‘F4’ or ‘Missing’)
 
 Post-Transplant biopsy and rejection
-=========================================
+---------------------------------------
 
 In the case of a biopsy performed after transplantation, we enter the date of the biopsy, the Biopsy ID, the type of biopsy:
 
@@ -713,7 +713,7 @@ Select all that apply from the following list and do not forget to enter the tre
 •	Other (Specifying the treatment in the comment field)
 
 Clinically suspected rejection
-=====================================
+---------------------------------
 
 In case of a clinically suspected rejection, that is not biopsy proven, enter the date of the suspected rejection in the date field of the Post-Transplant biopsy (even if the name is missleading) and set the whole biopsy section on ‘missing’ (‘Mark all missing’).
 
@@ -724,12 +724,12 @@ In the rejection section enter ‘Yes, clinically suspected’ and in the treatm
 If there was a suspected rejection that was not treated, select ‘No treatment of rejection’.
 
 6.4.3. Allograft morbidities
------------------------------------
+==========================================
 
 Although called ‘allograft morbidities’, this section collects complications, interventions, allograft diseases, and a possible loss of the organ.
 
 Complications
-=================
+------------------
 
 In the complication section, we collect major complications of the liver allograft with the respective date of diagnosis. If the exact date is unknown, you can leave a comment in the comment section.
 
@@ -773,7 +773,7 @@ We collect the following type of interventions:
 Please indicate if the intervention is related to a complication. If so, select the according complication from the dropdown list. To do so, the complication must first be entered in the complication section.
 
 Allograft disease
-====================
+---------------------
 
 In the allograft disease section we enter three categories of diseases:
 
@@ -798,7 +798,7 @@ The ‘recurrence of initial disease’ can be selected from the dropdown list t
 In all cases, please indicate if the allograft disease is biopsy proven. If so, select the according biopsy from the dropdown list. To do so, the biopsy must first be entered in the biopsy and rejection section.
 
 Graftloss
-================
+-------------
 
 A graftloss is the loss of function of the liver. It implies the end of data collection of this specific organ but only of the other, patient specific data and possible sample, if no new organ is transplanted.
 
@@ -851,7 +851,7 @@ In the lung container, there are three sections:
 •	Allograft morbidities.
 
 6.5.1. Underlying disease
---------------------------------
+===================================
 
 In this section we select and confirm the condition leading to transplantation. To do so, we first need to enter this condition or disease in the ‘Patient Diagnosis List’ as ‘Condition Leading to Tpx’ or in an other cathegory. For example ‘Cystic fibrosis’ can be entered or as ‘Condition Leading to Tpx’ or as ‘Metabolic’. It will appear in both sections, regardless of where it has been entered.
 
@@ -889,14 +889,14 @@ If yes, choose all that apply from the following selection:
 •	Other (please specify in the comments).
 
 6.5.2. Biopsy & Rejection
--------------------------------
+=============================
 
 In this section we enter biopsies and rejections. We distinguish between ‘Peri-transplant biopsies’ and ‘Post-transplant biopsies’.
 
 .. image:: OrgContLung3.png
 
 Peri-transplant biopsy
-==========================
+-------------------------
 
 In the case of a *time zero or reperfusion biopsy*, we enter:
 
@@ -909,7 +909,7 @@ In the case of a *time zero or reperfusion biopsy*, we enter:
   -	Explantation biopsy.
 
 Post-Transplant biopsy and rejection
-========================================
+------------------------------------------
 
 In the case of a **biopsy performed after transplantation**, we enter:
 
@@ -1041,7 +1041,7 @@ In the pancreas container, there are three sections:
 •	Allograft morbidities.
 
 6.6.1. Underlying disease
----------------------------------------
+=============================
 
 In this section we select and confirm the condition leading to transplantation. To do so, we first need to enter this condition or disease in the ‘Patient Diagnosis List’ as ‘Condition Leading to Tpx’ or in an other category.
 
@@ -1054,14 +1054,14 @@ As conditions or diseases leading to transplantation in pancreas we select from 
 All entered diagnosis will appear in the section ‘Underlying Disease’ and you must confirm the condition leading to transplantation. No further information is requested when confirming the diagnosis leading to transplantation.
 
 6.6.2. Biopsy & Rejection
-------------------------------------
+==============================
 
 In this section, we enter biopsies and rejections. In pancreas we only collect ‘Post-transplant biopsies’.
 
 .. image:: OrgContPancreas2.png
 
 Post-Transplant biopsy and rejection
-=============================================
+---------------------------------------------
 
 In the case of a Post-Transplant biopsy and rejection, we enter the date of the biopsy, the Biopsy ID, the type of biopsy.
 
@@ -1111,12 +1111,12 @@ Select all that apply from the list and do not forget to enter the treatment in 
 In the ‘Rejection’ drop-down select ‘Yes, Clinically suspected’ and enter all the applied treatments in the ‘Treatment’ section. Then save the whole section.
 
 6.6.3. Allograft morbidities
-------------------------------------
+=================================
 
 Although called ‘allograft morbidities’, this section collects complications, interventions and a possible loss of the organ.
 
 Complication
-=================
+----------------------
 
 In the complication section, we collect major complications of the pancreas allograft with the respective date of diagnosis. If the exact date is unknown, you can leave a comment in the comment section. The following transplant-related complications are collected:
 
@@ -1134,7 +1134,7 @@ In the complication section, we collect major complications of the pancreas allo
 .. note:: **Do not enter ‘death’** as a complication itself. You might **collect complications leading to death**, but the death itself has to be entered in the stop form with the immediate and underlying cause of death.
 
 Interventions
-=================
+----------------------
 
 We collect the following interventions:
 
@@ -1150,7 +1150,7 @@ We collect the following interventions:
 Please indicate if the intervention is related to a complication. If so, select the complication from the dropdown list. To do so, the complication must be first entered in the complication section.
 
 Graftloss
-=============
+----------------------
 
 A graftloss is the loss of the whole function of the pancreas. It implies the end of data collection of this specific organ but only of the other, patientspecific data, PSQ and possible sample, if no other organ is actively followed in the system!
 
