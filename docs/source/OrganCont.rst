@@ -844,7 +844,192 @@ In case of a re-transplantation the graftloss with its underlying disease will b
 6.5. Lung
 *************************
 
-*In construction*
+In the lung container, there are three sections:
+
+•	Underlying disease (leading to transplantation)
+•	Biopsy & Rejection and
+•	Allograft morbidities.
+
+6.5.1. Underlying disease
+--------------------------------
+
+In this section we select and confirm the condition leading to transplantation. To do so, we first need to enter this condition or disease in the ‘Patient Diagnosis List’ as ‘Condition Leading to Tpx’ or in an other cathegory. For example ‘Cystic fibrosis’ can be entered or as ‘Condition Leading to Tpx’ or as ‘Metabolic’. It will appear in both sections, regardless of where it has been entered.
+
+As conditions or diseases leading to transplantation in liver we select from the following:
+
+.. image:: OrgContLung1.png
+
+All entered diagnosis will appear in the section ‘Underlying Disease’ and you must confirm the condition leading to transplantation, as shown below.
+
+.. image:: OrgContLung2.png
+
+All diagnosis (except ‘Cystic Fibrosis’) only request a confirmation of the condition leading to transplantation.
+
+Idiopatic Pulmonary fibrosis
+
+Cystic Fibrosis
+--------------------
+
+When selecting Cystic Fibrosis (CF) as condition leading to TPX, you need to select if there were (or are) any airway pathogens present in the timeframe from 1 year *before* transplantation until transplantation.
+
+If yes, choose all that apply from the following selection:
+
+•	Mycobacterium other than tuberculosis, MOTT
+•	MRPSA
+•	Achromobacter xylosoxidans
+•	Candida albicans
+•	Candida non albicans
+•	Aspergillus fumigatus
+•	Burkholderia cenocepacia
+•	Burkholderia other
+•	MSSA
+•	MRSA
+•	Pseudomonas aeruginosa
+•	Stenotrophomonas and/or
+•	Other (please specify in the comments).
+
+6.5.2. Biopsy & Rejection
+-------------------------------
+
+In this section we enter biopsies and rejections. We distinguish between ‘Peri-transplant biopsies’ and ‘Post-transplant biopsies’.
+
+.. image:: OrgContLung3.png
+
+Peri-transplant biopsy
+==========================
+
+In the case of a *time zero or reperfusion biopsy*, we enter:
+
+- the date of the biopsy,
+- the Biopsy ID
+- the type of biopsy:
+
+  -	Pre-implantation (allograft)
+  -	At reperfusion or
+  -	Explantation biopsy.
+
+Post-Transplant biopsy and rejection
+========================================
+
+In the case of a **biopsy performed after transplantation**, we enter:
+
+- the date of the biopsy
+- the biopsy procedure:
+
+  - Surgical biopsy
+  - Transbronchial biopsy or 
+  - Cryobiopsy
+
+- the type of biopsy:
+
+  -	Diagnostic biopsy
+  -	Protocol biopsy or
+  - Other and the the Biopsy ID.
+
+In case of a *Transbronchial biopsy* or a *Cryobiopsy*, you have to select if the performed bronchoscopy was an:
+
+•	Indication or a 
+•	Surveillance bronchoscopy.
+
+.. note:: In both cases it is set to ‘indication’ per default. You can change it to ‘surveillance’ manually.
+
+In the ISHLT section select the scores indicated in the pathology report:
+
+•	ISHLT A: Acute pulmonary allograft rejection (1-4 or X)
+•	ISHLT B: Airway inflammation, lymphocytic bronchitis/bronchiolitis (0, 1R, 2R or X) and
+•	Suspicion of humoral rejection (Excluded, Possible, Probable, Definite).
+
+.. tip:: If there are multiple scores for ISHLT A, B an/or suspected humoral rejection, (e.g. ISHLT A 1-2) then enter the highest indicated value.
+
+In the **‘Rejection’** part, we enter if the rejection is biopsy proven, clinically suspected or if there is no rejection. If necessary, a comment.
+
+When you select a ‘Yes’-option in the rejection field, you can choose the regimen(s) to treat this rejection in the ‘Treatment’ section that appears below.
+Select all that apply from the following list and do not forget to enter the treatment in the ‘Treatment’ section as drug prescription or non-pharmacological treatment:
+
+•	No treatment of rejection
+•	ATG
+•	ATGAM
+•	Campath
+•	IG iv
+•	Metyl-prednisone iv
+•	OKT3
+•	Photopheresis
+•	Plasmapheresis/PE
+•	Prednisone po
+•	Rituximab
+•	Thymoglobulin
+•	Other (Specifying the treatment in the comment field)
+
+Clinically suspected rejection (not biopsy proven)
+---------------------------------------------------------
+
+In case of a clinically suspected rejection, which is not biopsy proven, enter the date of the suspected rejection in the date field of the Post-Transplant biopsy (even if the name is missleading).
+
+In ‘Biopsy procedure’, ‘Type of biopsy’ and’ Biopsy ID’ as well as in ‘ISHLT A’, ‘ISHLT B’ and ‘suspicion of humoral rejection’ chose ‘missing’.
+
+.. image:: OrgContLung4.png
+
+In the ‘Rejection’ section, select ‘Yes, clinically suspected’, then enter all the applied treatments in the ‘Treatment’ section and save the form.
+
+6.5.3. Allograft morbidities
+=================================
+
+Although called ‘allograft morbidities’, this section collects complications leading to a re-operation, allograft diseases, and a possible end of lung tpx episode (graft loss).
+
+Complication leading to re-operation
+-------------------------------------------
+
+Select from the following transplant-related complications leading to re-operation:
+
+- Anastomosis, vascular
+- Anastomosis, airway
+- Chest wall complication
+- Extra-thoracic conditions
+- Haemorrhage
+- Pleural space complication or
+- Other.
+
+Complications not leading to a re-operation are not collected. Therefore do not enter ‘death’ as a complication itself. You might collect complications leading to death, but the death itself has to be entered in the stop form with the immediate and underlying cause of death.
+
+Allograft disease
+---------------------------
+
+In this section, we enter graft diseases with the date of diagnosis selecting from:
+
+•	CLAD (chronic lung allograft dysfunction)
+•	Histologically proven recurrence of initial lung disease
+•	Primary pulmonary tumor or pulmonary PTLD
+•	Pulmonary (arterial) hypertension
+•	Pulmonary infection or
+•	Other.
+
+.. note:: Usually the form of CLAD (RAS or BOS) are no longer specified. But if you do have an information about it, please enter it in the comment field.
+
+Moreover, indicate if the graft disease is biopsy proven (Yes/No) and if so, select the Biopsy ID from the dropdown. To do so, the biopsy must first be entered in the biopsy and rejection section.
+
+End of transplant episode/Graft loss
+------------------------------------------
+
+The end of transplant episode is the section that in the other organs is called ‘graft loss’ and indicates the loss of organ function of the left lung, the right lung or the double lung.
+Please indicate which part(s) of the transplanted lung filed in ‘part of the lung that failed’.
+
+To enter a graft loss in the organ container, first set the toggle “End of transplant episode” in the lung FUP to yes. Only after that, you will be able to access the ‘graftloss’ section in the kidney container. 
+
+.. image:: OrgContLung5.png
+
+If the lung has lost its function, enter the date of graft loss and the cause of graft loss, selecting from:
+
+•	Acute humoral rejection
+•	CLAD
+•	Histologically proven recurrence of initial lung disease
+•	Pulmonary infection
+•	Technical / surgical complication (including biopsy related complications)
+•	Cause unknown or
+•	Other causes (such as aspiration, bronchial complications, pulmonary hypertension or tumor)
+
+More than one option can be selected.
+
+In case of a re-transplantation the graft loss with its underlying disease will be shown per default as cause leading to (re-) TX.
 
 6.6. Pancreas
 *************************
