@@ -791,7 +791,7 @@ f)	**Transplantation based only on virtual crossmatch** (no prospective cell-bas
 
 g)	**Cell-based crossmatch**: 
 
-  If a crossmatch test has been done, please enter the last aveilable result here.
+  If a crossmatch test has been done, please enter the last available result here.
 
   .. image:: RS11.png
 
@@ -806,7 +806,7 @@ g)	**Cell-based crossmatch**:
 Heart, liver and lung transplantations
 =============================================
 
-The Perioperative and ICU care only appears in heart and lung transplantations.
+.. note:: The Perioperative and ICU care only appears in **heart** and **lung** transplantations.
 
 a)	**Number of transfused EC blood units (bags)**: Enter the quantity of transfused ECs during the ICU stay.
 If a patient is re-admitted to the ICU within 24 hours, please count the ECs needed in this ICU stay to the total amount of transfused EC blood units during the ICU care.
