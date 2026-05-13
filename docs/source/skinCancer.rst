@@ -22,7 +22,7 @@ Actinic keratosis as a precancer is only to be entered if a biopsy of it has bee
    * - Basalzellkarzinom	
      - Skin, basal cell carcinoma
    * - Basosquamöses Karzinom	
-     - Skin, squamous cell carcinoma
+     - Skin, basal cell carcinoma
    * - Bowenkarzinom 	
      - Skin, squamous cell carcinoma
    * - Carcinoma in situ	
